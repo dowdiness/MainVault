@@ -321,6 +321,7 @@
   },
   "active": "80ac97b5a79e9802",
   "lastOpenFiles": [
+    "README.md",
     "Architecture/ソフトウェアアーキテクチャの基礎.md",
     "講義/MIT/Mathematics for Computer Science/index.md",
     "Daily Notes/2025/04/2025-04-25-Friday.md",
@@ -351,7 +352,6 @@
     "Vault.md",
     "Daily Notes/2025/04/Untitled.md",
     "PL/Ocaml",
-    "Compiler/Middleend/α-conversion.md",
     "Compiler/Middleend",
     "Compiler/Backend",
     "Compiler/Frontend",
