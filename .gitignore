@@ -4,3 +4,4 @@ node_modules
 # https://www.make.md/
 .makemd
 .trash
+.obsidian/workspace-mobile.json
