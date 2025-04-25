@@ -1,0 +1,1 @@
+コンパイラ最適化（コンパイラさいてきか、英語: Compiler optimization）
