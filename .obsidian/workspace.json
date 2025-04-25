@@ -1,0 +1,365 @@
+{
+  "main": {
+    "id": "615a4d60cc032bfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "92dfb2fd83ed68c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5cbdd02ae87febe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/参考になるブログ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "参考になるブログ"
+            }
+          },
+          {
+            "id": "432406266471b602",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Daily Notes/2025/04/TaskList.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    null,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "558742b655f308c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2025/04/2025-04-25-Friday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-25-Friday"
+            }
+          },
+          {
+            "id": "43b965859ef73ae9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compiler/ラムダ計算のコンパイル.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ラムダ計算のコンパイル"
+            }
+          },
+          {
+            "id": "a9b12718cbc69c0f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://zettelkasten.de/introduction/",
+                "title": "Introduction to the Zettelkasten Method • Zettelkasten Method",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Introduction to the Zettelkasten Method • Zettelkasten Method"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52abb660fa0e6a90",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f5387c8ad030a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80ac97b5a79e9802",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "254dafceb6fab80d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "eb141c26e87a9586",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4496104728eb18d2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer-history",
+              "state": {},
+              "icon": "lucide-clock",
+              "title": "Web history"
+            }
+          },
+          {
+            "id": "710ff6aaa72b5b45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "875c2405bd9c0409",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "feac1799bdef07a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1302915477c95cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b2b71448b7a5827",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cheat sheet/Obsidian/Plugins/Obsidian Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Obsidian Git"
+            }
+          },
+          {
+            "id": "9ba93ca90041a6fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "zenn/books/Reconstructing TypeScript/Reconstructing TypeScript 英語.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Reconstructing TypeScript 英語"
+            }
+          },
+          {
+            "id": "cd490db31ffd68c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90e8aa99a927bfe3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "zenn/books/Reconstructing TypeScript/Reconstructing TypeScript 英語.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Reconstructing TypeScript 英語"
+            }
+          },
+          {
+            "id": "2df591db400009f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e801a01edf80aa68",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "c76f3f8d400e9b37",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "a89a58c5c447040e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "zk-prefixer:Create new unique note": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "open-vscode:VSCode": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "omnisearch:Omnisearch": false,
+      "tldraw:Create new tldrawing": false,
+      "obsidian-kanban:Create new board": false
+    }
+  },
+  "active": "80ac97b5a79e9802",
+  "lastOpenFiles": [
+    "Architecture/ソフトウェアアーキテクチャの基礎.md",
+    "講義/MIT/Mathematics for Computer Science/index.md",
+    "Daily Notes/2025/04/2025-04-25-Friday.md",
+    "Cheat sheet/Obsidian/Plugins/Obsidian Git.md",
+    "Cheat sheet/Obsidian/Obsidian.md",
+    "Cheat sheet/Obsidian/Plugins",
+    "Cheat sheet/Obsidian",
+    "Blog/参考になるブログ.md",
+    "Daily Notes/2025/04/TaskList.md",
+    "PL/Ocaml/プログラミングの基礎/プログラミングの基礎.md",
+    "Cheat sheet/Markdown.md",
+    "PL/Realizability.md",
+    "Cheat sheet/Untitled.md",
+    "PL/Untitled.md",
+    "PL/タイトル.md",
+    "PL/asdasasss.md",
+    "PL/menhir.md",
+    "_Template/Templater/Base.md",
+    "Daily Notes/2025/04/+Daily Notes.md",
+    "_Template/Templater/Zenn.md",
+    "_Template/01_daily-note.md",
+    "Daily Notes/2025/04/2025-04-24-Thursday.md",
+    "PL/Ocaml/プログラミングの基礎/Untitled.md",
+    "PL/Ocaml/プログラミングの基礎/リスト.md",
+    "PL/Ocaml/プログラミングの基礎",
+    "PL/Ocaml/Untitled.md",
+    "Architecture",
+    "Vault.md",
+    "Daily Notes/2025/04/Untitled.md",
+    "PL/Ocaml",
+    "Compiler/Middleend/α-conversion.md",
+    "Compiler/Middleend",
+    "Compiler/Backend",
+    "Compiler/Frontend",
+    "Compiler/LangSpecific",
+    "Compiler/Books",
+    "InkDrop/開発/読書/hj6fwa0h1-cc6a113db420ae175ef73b7c8d70261e.jpg",
+    "InkDrop/開発/技術ブログ/wfet1PJeX-rn_image_picker_lib_temp_4e6d0c8a-5f9e-4ae5-a612-12d67fee3881.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}
