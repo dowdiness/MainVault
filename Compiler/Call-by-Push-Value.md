@@ -1,3 +1,8 @@
+---
+date created: Thursday,2024 October 17th, 3:51:05 am
+date modified: Friday,2025 April 25th, 5:01:37 pm
+---
+
 Call-by-Push-Valueは値呼び戦略と名前呼び戦略を両立させる評価戦略。
 
 従来の理論では項(Term)しかなかったのを、CbPVでは項を値と計算に区別する。

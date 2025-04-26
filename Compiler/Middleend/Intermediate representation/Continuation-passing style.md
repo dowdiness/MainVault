@@ -1,3 +1,8 @@
+---
+date created: Friday,2025 April 18th, 1:53:01 pm
+date modified: Friday,2025 April 25th, 4:41:53 pm
+---
+
 # **継続渡しスタイル** (**CPS**: Continuation-passing style)
 
 [wiki](https://en.wikipedia.org/wiki/Continuation-passing_style)
