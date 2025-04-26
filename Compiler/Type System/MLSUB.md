@@ -1,3 +1,7 @@
+---
+date created: Tuesday,2024 June 25th, 1:09:16 am
+date modified: Friday,2025 April 25th, 5:32:26 pm
+---
 
 [Stephen Dolan, "Algebraic Subtyping"](https://www.bcs.org/media/2128/algebraic-subtyping.pdf)
 
@@ -5,7 +9,7 @@
 
 香港科技大学で[TACO Lab](https://cse.hkust.edu.hk/~parreaux/)を指導しているAssistant Professor
 MLsubの延長線のようなアイデイアの論文と実装を沢山出していてとても興味深い
-### Paper
+## Paper
 
 [The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)
 Algebraic Subtypingの実装である**MLsub**をシンプルにした**Simple-sub**の論文。500行以内で実装出来て理解しやすい。

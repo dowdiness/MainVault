@@ -2,14 +2,16 @@
 title: "Colin James - ANF Conversion"
 source: "https://compiler.club/anf-conversion/"
 author:
-  - "Colin James"
+  - Colin James
 published:
 created: 2025-04-19
 description:
-tags:
-  - "clippings"
+tags: ["clippings"]
+date created: Saturday,2025 April 19th, 4:44:51 pm
+date modified: Friday,2025 April 25th, 5:31:53 pm
 ---
-## ANF Conversion
+
+# ANF Conversion
 
 A common intermediate representation used in compilers is that of [A-Normal Form](https://en.wikipedia.org/wiki/A-normal_form). The key idea of this representation is that intermediary values produced by expressions become bound to variables. The effective result of the transformation is a linearisation of complex expressions which can help in subsequent lowering passes (such as to a lower, three-address code, scheme). Example
 
@@ -36,7 +38,7 @@ There are important points to note about the above:
 - Arguments to functions become “trivial” - their evaluation halts immediately (in our case, arguments are either variables or integer literals).
   
 
-### The Algorithm
+## The Algorithm
 
 The first thing we require is a suitable datatype representation to work with:
 
@@ -163,7 +165,7 @@ let anf =
 ```
   
 
-### Final Program
+## Final Program
 
 Below, you can play around with this simple conversion algorithm by providing arithmetic expressions as input:
 

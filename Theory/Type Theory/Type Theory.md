@@ -1,5 +1,9 @@
+---
+date created: Tuesday,2024 June 25th, 8:36:28 pm
+date modified: Friday,2025 April 25th, 5:48:12 pm
+---
 
-## [Mathematical Logic as based on the Theory of Types.](https://www.jstor.org/stable/pdf/2369948.pdf)
+# [Mathematical Logic as based on the Theory of Types.](https://www.jstor.org/stable/pdf/2369948.pdf)
 
 [ラッセルのパラドックス](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%83%E3%82%BB%E3%83%AB%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)を避けるためにラッセルが書いた、初めて型という概念が登場する論文。
 

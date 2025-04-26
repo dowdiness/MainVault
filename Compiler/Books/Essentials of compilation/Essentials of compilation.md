@@ -1,4 +1,11 @@
-Essentials of compilation
+---
+tags: ["books"]
+aliases: [Essentials of compilation]
+date created: Saturday,2025 April 12th, 12:42:53 am
+date modified: Friday,2025 April 25th, 4:51:40 pm
+---
+
+# Essentials of compilation
 
 [Github](https://github.com/IUCompilerCourse/Essentials-of-Compilation)
 [Lectures](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/)
@@ -24,7 +31,7 @@ $L_{Dyn}$
 
 $L_{?}$
 
-## Book Chapters
+# Book Chapters
 
 1. [[Preliminaries]]
 2. Integers and variables
@@ -38,7 +45,7 @@ $L_{?}$
 10. Gradual Typing
 11. Generics
 
-## Lectures
+# Lectures
 1. Introduction, Concrete and Abstract Syntax, Racket Structures, Grammars
 2. Interpreters, Compiler Correctness, R1 Language, x86
 3. 
