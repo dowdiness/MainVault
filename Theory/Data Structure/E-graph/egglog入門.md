@@ -5,7 +5,7 @@ author:
   - hatoo
 published: 2023-10-08
 created: 2025-04-19T16:47:12+09:00
-description: zenn 
+description: zenn
 tags: ["clippings"]
 aliases: [はじめに]
 modified: 2025-04-29T19:36:42+09:00
@@ -13,10 +13,10 @@ modified: 2025-04-29T19:36:42+09:00
 
 # はじめに
 
-[egglog](https://github.com/egraphs-good/egglog) は [Datalog](https://en.wikipedia.org/wiki/Datalog) [^1] っぽいプログラミング言語で、 [e-graph](https://en.wikipedia.org/wiki/E-graph) によって実行されます。  
+[egglog](https://github.com/egraphs-good/egglog) は [Datalog](https://en.wikipedia.org/wiki/Datalog) [^1] っぽいプログラミング言語で、 [e-graph](https://en.wikipedia.org/wiki/E-graph) によって実行されます。
 汎用的なプログラミング言語ではありませんが [^2] 、数式とかプログラムの最適化が得意で [herbie](https://github.com/herbie-fp/herbie) [^3] でも使われたりしています。
 
-以下は有向グラフの2点間の最短距離を求める `egglog` のサンプルプログラムです。  
+以下は有向グラフの2点間の最短距離を求める `egglog` のサンプルプログラムです。
 ちなみにこれだけなら別にめちゃめちゃ最適なアルゴリズムで実行されるというわけでもなくそんなに有用ではないですが、雰囲気はわかると思います。
 
 [webデモ](https://egraphs-good.github.io/egglog/?program=XQAAgABGAwAAAAAAAAAdiAknUrVWHTpuepG6fZxuMYQtKTWhZDDf6ZFAoDnc7Chyo2eDG4UrHP9r_DH4IHF3zIzHRE8bNDUpsITa64QNXRyXBMDBibPDvF0RsetlakuCMuYoeOxc_NNTGtNkhCriX3cfZfP3MBAWrXCcmtjx2j4urhdGFCdTNwa2nauxxKIQQH3R9NcHNeNPD4x4TXEwVY6IEAnNi3TBhYlerGgeQeLsVUoudYh6RGaDXMoPEWXmDvom2iO2yd_kwOaLZIgfnyM-gqFVK8Ks-qtty3UAkirggJ16SNhbIKRuy5U3ktt8HcfE-ZlP05RoDqy1CrMYPREq0oF00sl63yALImgH9uedz5HF9ZkhMAlxQ85F48FXXaqPsnz_MuhrPzRoXJidWhQxZFRGpTTTUYwraw3gdh-DpL6Tn1WQaTQcYB1OGsxj9tjRMSGvUiMdUC2z2N5rN9VYQ8R9pSCz57s64-xS6Q-dqmR0RXcwOK-x6A9rt9G1itFY32NgE4d5GbxJfWeTpuPxKm1yjzoFt46XVhaJH8ammNCT4IOGuKNnlTs5ipzrIg2gLoILCP0JvPJD5TgiDuo-4pW1QAq_I-acUGqUoNa8ix3hlDdJ2_KxkW3_rUXxpw%253D%253D)
@@ -65,7 +65,7 @@ path.egg
 
 手元にあるS式 [^4] があり、それをあらかじめ決めたルールに従って書き換えていってより良い形 [^5] にするという問題を考えます。このとき書き換える前と後はなにかの基準で同じ意味を持つようにルールを作ります。
 
-例えば、数式を表すS式 `(/ (* a 2) 2)` を以下のルールに従って書き換えていきます。  
+例えば、数式を表すS式 `(/ (* a 2) 2)` を以下のルールに従って書き換えていきます。
 ご存知の通り $(a \times 2) / 2 = a$ [^6] なので、最終的には `a` に書き換えられればOKです。
 
 ## ルール
@@ -94,25 +94,25 @@ Equality Saturationはこの問題を次のように解きます。
 2. 1を繰り返す。そのうちどのルールをどう適用しても新しい情報を得られなくなる(Saturationする😎) [^9] ので、そしたら次に行く
 3. 手元にあるS式の中から(なにかの基準で)一番良いものを選んでそれを出力する
 
-![Equality saturation takes an input terms, rewrites it using an e-graph, and extracts the best equivalent term.](https://res.cloudinary.com/zenn/image/fetch/s--S5WgUfL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/10a53a37d1c7f59f619970de.png%3Fsha%3D1f174a042ce03e3aee84c95e534a40e63f72b00d)  
+![Equality saturation takes an input terms, rewrites it using an e-graph, and extracts the best equivalent term.](https://res.cloudinary.com/zenn/image/fetch/s--S5WgUfL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/10a53a37d1c7f59f619970de.png%3Fsha%3D1f174a042ce03e3aee84c95e534a40e63f72b00d)
 *[https://blog.sigplan.org/2021/04/06/equality-saturation-with-egg/](https://blog.sigplan.org/2021/04/06/equality-saturation-with-egg/) から引用した図*
 
-実質すべての可能性を探索しているので必ず最適な解が得られます💪  
+実質すべての可能性を探索しているので必ず最適な解が得られます💪
 ただ、過程で出てきたすべての情報を覚えなければいけないのでデータ構造を工夫しなければなりません。それが `e-graph` です。
 
 # e-graph
 
 `e-graph` は上で言うS式とその合同 [^10] 関係をグラフにして保存します。グラフの表現力はすごいので、指数関数的に増えていくS式を効率的に表すことができます。
 
-`e-graph` は `node` と `e-class` を保存します。 `node` の子は `e-class` で、 `e-class` は合同な `node` の集合です。また、 `node` は常にただ一つの `e-class` に属します。  
+`e-graph` は `node` と `e-class` を保存します。 `node` の子は `e-class` で、 `e-class` は合同な `node` の集合です。また、 `node` は常にただ一つの `e-class` に属します。
 上の例でいうと `node` はS式を表し、 `e-class` は合同なS式の集合を表します。例えば `(* a 1)` と `a` はルール2によって合同だとみなせるので同じ `e-class` に属すはずです。
 
 `e-graph` に対してルールを適用していくと、効率的に空間を使いながら、今までの情報を失うことなく新しい情報を `e-graph` に足していくことができます。
 
-![e-graph figure](https://res.cloudinary.com/zenn/image/fetch/s--MaUk6cIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/09b1dfbff8d6ebeaea03eaee.png%3Fsha%3D0a20da7064dd1a19399f233ae9dbc7504f307cf5)  
+![e-graph figure](https://res.cloudinary.com/zenn/image/fetch/s--MaUk6cIi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/09b1dfbff8d6ebeaea03eaee.png%3Fsha%3D0a20da7064dd1a19399f233ae9dbc7504f307cf5)
 *[`egg` のサイト](https://egraphs-good.github.io/) にある図. `(/ (* a 2) 2)` を書き換えていく様子を表している*
 
-図の実線で囲われている四角は `node` を表し、点線で囲われている四角は `e-class` を表しています。  
+図の実線で囲われている四角は `node` を表し、点線で囲われている四角は `e-class` を表しています。
 `node` から伸びている線はすべて `e-class` につながっていることに注意してください。
 
 上の例でいうと `(/ (* a 2) 2)` は図の左端のように表現できます。例えば `2` はそれ自体が `node` で `2` と合同な `node` は今のところ存在していないので `2` 一つで一個の `e-class` です。 `(/ (* a 2) 2)` には2回 `2` が出てきますがどちらも同じ `node` を指しているので同じ `e-class` に線が来ています。
@@ -127,7 +127,7 @@ Equality Saturationはこの問題を次のように解きます。
 
 [egg](https://github.com/egraphs-good/egg) は `e-graph` のライブラリです。 `egglog` 自体は `egg` に依存していませんが実質同じようなものが `egglog` に入っていると考えていいです。
 
-`egg` の特徴は、ユーザーが明示的にEquality Saturationを実行するように設計されていることです。  
+`egg` の特徴は、ユーザーが明示的にEquality Saturationを実行するように設計されていることです。
 古典的な `e-graph` の実装ではユーザーがe-graphになにか操作するたびに自動的にEquality Saturationを実行するのですが、 `egg` ではユーザーのタイミングでまとめてEquality Saturationを実行するのでより効率的になっています。詳しくは [egg: Fast and extensible equality saturation](https://dl.acm.org/doi/10.1145/3434304) 。
 
 なので `egglog` でも上の方にあるサンプルコードのように、Equality Saturationを明示的に `(run 100)` みたいなやつで実行する必要があります。
@@ -140,14 +140,14 @@ Equality Saturationはこの問題を次のように解きます。
 
 手軽に試したい場合はWeb上で動く [デモ](https://egraphs-good.github.io/egglog/) があります。
 
-ローカルで実行する場合は特にバイナリ等はまだ配布されていないので、 `cargo` をでビルドします。  
+ローカルで実行する場合は特にバイナリ等はまだ配布されていないので、 `cargo` をでビルドします。
 `cargo` はRustの開発環境についてきます。
 
 ```shell
 cargo install --git https://github.com/egraphs-good/egglog
 ```
 
-自作ですがVSCodeの拡張もあるので入れておくと便利です。公式の拡張も一応ありますが全然更新されてないのでおすすめしません。  
+自作ですがVSCodeの拡張もあるので入れておくと便利です。公式の拡張も一応ありますが全然更新されてないのでおすすめしません。
 [egglog-language](https://marketplace.visualstudio.com/items?itemName=hatookov.egglog-language)
 
 # 実行方法
@@ -163,11 +163,11 @@ egglog ${file}
 - `egglog --desugar ${file}`: 糖衣構文を展開して出力する
 - `egglog --to-dot ${file}`: 実行結果の `e-graph` のグラフを出力する
 
-VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウスオーバーで見ることができます。  
-![Screenshot of VSCode's extension is desugaring](https://res.cloudinary.com/zenn/image/fetch/s--MMNg7OWi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/dfb2e5cbb93de22b6cb59a23.png%3Fsha%3D56f51e5b28677e545b1b37ad5ad57751dcfb3af0)  
+VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウスオーバーで見ることができます。
+![Screenshot of VSCode's extension is desugaring](https://res.cloudinary.com/zenn/image/fetch/s--MMNg7OWi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/dfb2e5cbb93de22b6cb59a23.png%3Fsha%3D56f51e5b28677e545b1b37ad5ad57751dcfb3af0)
 *`(datatype BDD (ITE i64 BDD BDD))` は `(sort BDD) (function ITE (i64 BDD BDD) BDD)` に展開されることがわかる*
 
-![egglog --to-dot path.egg](https://res.cloudinary.com/zenn/image/fetch/s--ZSilrpUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/7b1e379b8de877acc5278da4.png%3Fsha%3D59cc1b4bc9e4ee4c4fad4022656ac7e7258c8289)  
+![egglog --to-dot path.egg](https://res.cloudinary.com/zenn/image/fetch/s--ZSilrpUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/7b1e379b8de877acc5278da4.png%3Fsha%3D59cc1b4bc9e4ee4c4fad4022656ac7e7258c8289)
 *`egglog --to-dot path.egg` の結果。わかりやすい*
 
 # リファレンス
@@ -176,7 +176,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 
 `egglog` のサンプルコードが読みたい場合は [tests](https://github.com/egraphs-good/egglog/tree/main/tests) を読むと良いです。
 
-以下では重要かと思われる機能を紹介します。  
+以下では重要かと思われる機能を紹介します。
 上の方で `egglog` 自体 `e-graph` をうまく使うためのインターフェースといった感じがあると書きましたが、以下で説明する機能はすべて `egglog` 処理系がグローバルに持っている `e-graph` になにか操作するものだと思うとわかりやすいです。
 
 ## 文法
@@ -203,7 +203,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 
 # Sort
 
-`Sort` は `e-class` の識別子のような概念です。たぶん数学的に意味のある用語なのでしょう。同じ `Sort` を持つ `node` は同じ `e-class` に属します。組み込み型も `Sort` ですが、後述する `union` ができないという制限があります。  
+`Sort` は `e-class` の識別子のような概念です。たぶん数学的に意味のある用語なのでしょう。同じ `Sort` を持つ `node` は同じ `e-class` に属します。組み込み型も `Sort` ですが、後述する `union` ができないという制限があります。
 `Sort` は以下のように宣言します。
 
 ```lisp
@@ -227,7 +227,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 
 # union
 
-`union` を使うと2つの `Sort` をマージすることができます。  
+`union` を使うと2つの `Sort` をマージすることができます。
 組み込み型には使えません。例えば `0` と `1` を `union` して同じ `Sort` になってしまうとめちゃくちゃになってしまいます。
 
 例
@@ -240,7 +240,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 (union (Var "x") (Const 123))
 ```
 
-![e-graph for simple math egglog 1](https://res.cloudinary.com/zenn/image/fetch/s--jRUnbBpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/001a23348d77e06e068dfd63.png%3Fsha%3D1b87849c58e2cc3ad6c5f5651a8b268525e65de0)  
+![e-graph for simple math egglog 1](https://res.cloudinary.com/zenn/image/fetch/s--jRUnbBpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/001a23348d77e06e068dfd63.png%3Fsha%3D1b87849c58e2cc3ad6c5f5651a8b268525e65de0)
 *上のコードのe-graph*
 
 # set
@@ -262,7 +262,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 
 `rule` は上で説明した `e-graph` のルールに相当します。
 
-`rule` は `e-graph` にパターンマッチしてなにかアクションを起こす機能です。  
+`rule` は `e-graph` にパターンマッチしてなにかアクションを起こす機能です。
 そして `union` と `set` はアクションです。
 
 後述する `run` コマンドを実行すると `e-graph` に繰り返し `rule` を適用していきます。
@@ -316,7 +316,7 @@ pub Action: Action = {
 (extract e) ; (Add (Var "a") (Const 6)). a + 6
 ```
 
-![e-graph for simple math egglog 2](https://res.cloudinary.com/zenn/image/fetch/s--G-h3Atwi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/ea7c526cf83c27fbbe79f14d.png%3Fsha%3De5f4b495199688a53465d6d49c16243e6213dac4)  
+![e-graph for simple math egglog 2](https://res.cloudinary.com/zenn/image/fetch/s--G-h3Atwi--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/ea7c526cf83c27fbbe79f14d.png%3Fsha%3De5f4b495199688a53465d6d49c16243e6213dac4)
 *上のコードのe-graph*
 
 上の例では `rule` を使って `Add` の引数がどちらも `Const` の場合にはそれを事前に計算してしまうようにしています。 `rule` にない `Var` とかは無視して出来るところだけやってくれるのでコンパイラで言う [Const Propagation](https://ja.wikipedia.org/wiki/%E5%AE%9A%E6%95%B0%E7%95%B3%E3%81%BF%E8%BE%BC%E3%81%BF) みたいなことを実質やっています。
@@ -336,7 +336,7 @@ pub Action: Action = {
 
 # let
 
-もう上で使ってしまいましたが、 `let` は変数に値を束縛します。再代入はできません。  
+もう上で使ってしまいましたが、 `let` は変数に値を束縛します。再代入はできません。
 この文法じゃあグローバルな名前空間がぐちゃぐちゃになってしまうじゃないかと思うかもしれませんが回避策もあります。
 
 それが、 `push` と `pop` です。この2つのコマンドでスコープを作ることができます。スコープを作るときには `push` を、スコープから抜けるときには `pop` を使います。
@@ -388,7 +388,7 @@ pub Action: Action = {
 
 ## rewrite
 
-`rewrite` は `rule` の糖衣構文です。  
+`rewrite` は `rule` の糖衣構文です。
 簡単な `rule` は `rewrite` で書くことができます。
 
 ```lisp
@@ -482,17 +482,17 @@ pub Action: Action = {
 (x)
 ```
 
-![function x](https://res.cloudinary.com/zenn/image/fetch/s--ptLHLHJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/80abc2b3a4974cf6264a02e2.png%3Fsha%3D783edae658060f59dcb4cca82974e38ac46bcaab)  
+![function x](https://res.cloudinary.com/zenn/image/fetch/s--ptLHLHJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/80abc2b3a4974cf6264a02e2.png%3Fsha%3D783edae658060f59dcb4cca82974e38ac46bcaab)
 *現状上のように書かないとこの図はでてこない*
 
 # おわりに
 
-本記事では `egglog` にある機能の一部を紹介しました。  
+本記事では `egglog` にある機能の一部を紹介しました。
 もっと色々知りたい方はソースコードや [テストコード](https://github.com/egraphs-good/egglog/tree/main/tests) を読んでみてください。
 
 # 宣伝
 
-`egglog` でコンパイラの最適化パスを実装してみたい方は一旦 [CFG](https://ja.wikipedia.org/wiki/%E5%88%B6%E5%BE%A1%E3%83%95%E3%83%AD%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%95) を [RVSDG](https://arxiv.org/abs/1912.05036) に変換するとやりやすいです。  
+`egglog` でコンパイラの最適化パスを実装してみたい方は一旦 [CFG](https://ja.wikipedia.org/wiki/%E5%88%B6%E5%BE%A1%E3%83%95%E3%83%AD%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%95) を [RVSDG](https://arxiv.org/abs/1912.05036) に変換するとやりやすいです。
 個人的に [brilt](https://github.com/hatoo/brilt) で実験しているので興味のある方はぜひ🙇
 
 脚注

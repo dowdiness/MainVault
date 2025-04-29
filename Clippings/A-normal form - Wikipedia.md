@@ -2,7 +2,6 @@
 title: A-normal form - Wikipedia
 source: https://en.wikipedia.org/wiki/A-normal_form
 author: anonymous
-published: false
 description: A-normal_form wiki clipping
 tags: [clippings, compiler, ir]
 created: 2025-04-19T16:45:12+09:00
