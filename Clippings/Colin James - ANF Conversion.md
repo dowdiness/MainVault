@@ -4,11 +4,11 @@ source: "https://compiler.club/anf-conversion/"
 author:
   - Colin James
 published: false
-date: 2025-04-19
 description: anf-conversion implementation clipping
 tags: ["clippings"]
-date created: Saturday,2025 April 19th, 4:44:51 pm
-date modified: Tuesday,2025 April 29th, 6:03:00 pm
+aliases: [ANF Conversion]
+created: Saturday,2025 April 19th, 4:44:51 pm
+modified: Tuesday,2025 April 29th, 6:29:20 pm
 ---
 
 # ANF Conversion

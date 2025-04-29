@@ -1,9 +1,6 @@
 ---
-date: 2025-04-27
-tags: [" "]
-aliases: [Untitled]
-date created: Sunday,2025 April 27th, 7:52:01 pm
-date modified: Sunday,2025 April 27th, 7:59:50 pm
+created: Sunday,2025 April 27th, 7:52:01 pm
+modified: Tuesday,2025 April 29th, 6:34:12 pm
 ---
 
 [Understanding Machine Learning Principles:](https://github.com/Blocks-Editor/blocks?tab=readme-ov-file)

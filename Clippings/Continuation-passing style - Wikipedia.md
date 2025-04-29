@@ -3,11 +3,11 @@ title: "Continuation-passing style - Wikipedia"
 source: "https://en.wikipedia.org/wiki/Continuation-passing_style"
 author: anonymous
 published: false
-date: 2025-04-19
 description: Continuation-passing_style wiki clipping
 tags: ["clippings"]
-date created: Saturday,2025 April 19th, 4:43:40 pm
-date modified: Tuesday,2025 April 29th, 6:02:57 pm
+aliases: [Examples]
+created: Saturday,2025 April 19th, 4:43:40 pm
+modified: Tuesday,2025 April 29th, 6:28:17 pm
 ---
 
 In [functional programming](https://en.wikipedia.org/wiki/Functional_programming "Functional programming"), **continuation-passing style** (**CPS**) is a style of programming in which [control](https://en.wikipedia.org/wiki/Control_flow "Control flow") is passed explicitly in the form of a [continuation](https://en.wikipedia.org/wiki/Continuation "Continuation"). This is contrasted with direct style, which is the usual style of programming. [Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman "Gerald Jay Sussman") and [Guy L. Steele, Jr.](https://en.wikipedia.org/wiki/Guy_L._Steele,_Jr. "Guy L. Steele, Jr.") coined the phrase in [AI Memo](https://en.wikipedia.org/wiki/AI_Memo "AI Memo") 349 (1975), which sets out the first version of the programming language [Scheme](https://en.wikipedia.org/wiki/Scheme_\(programming_language\) "Scheme (programming language)").[^1] [^2] [John C. Reynolds](https://en.wikipedia.org/wiki/John_C._Reynolds "John C. Reynolds") gives a detailed account of the many discoveries of continuations.[^3]

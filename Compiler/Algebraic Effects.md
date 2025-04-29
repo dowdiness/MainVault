@@ -1,6 +1,7 @@
 ---
-date created: Sunday,2025 April 13th, 12:58:56 pm
-date modified: Friday,2025 April 25th, 5:31:50 pm
+aliases: [An Introduction to Algebraic Effects and Handlers]
+created: Sunday,2025 April 13th, 12:58:56 pm
+modified: Tuesday,2025 April 29th, 6:32:29 pm
 ---
 
 

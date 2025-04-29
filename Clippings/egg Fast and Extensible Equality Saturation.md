@@ -4,11 +4,11 @@ source: "https://arxiv.org/abs/2004.03082"
 author:
   - "[[arXiv.org]]"
 published: false
-date: 2025-04-19
 description: "Abstract page for arXiv paper 2004.03082: egg: Fast and Extensible Equality Saturation"
 tags: ["clippings"]
-date created: Saturday,2025 April 19th, 5:33:37 pm
-date modified: Tuesday,2025 April 29th, 6:02:54 pm
+aliases: ["Title:egg: Fast and Extensible Equality Saturation"]
+created: Saturday,2025 April 19th, 5:33:37 pm
+modified: Tuesday,2025 April 29th, 6:28:39 pm
 ---
 
 \[Submitted on 7 Apr 2020 ([v1](https://arxiv.org/abs/2004.03082v1)), last revised 7 Nov 2020 (this version, v3)\]
