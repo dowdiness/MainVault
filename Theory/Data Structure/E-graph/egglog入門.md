@@ -2,14 +2,16 @@
 title: "egglog入門"
 source: "https://zenn.dev/hatoo/articles/5c4df054704999"
 author:
-  - "hatoo"
+  - hatoo
 published: 2023-10-08
-created: 2025-04-19
-description:
-tags:
-  - "clippings"
+created: Saturday,2025 April 19th, 4:47:12 pm
+description: zenn 
+tags: ["clippings"]
+aliases: [はじめに]
+modified: Tuesday,2025 April 29th, 6:37:23 pm
 ---
-## はじめに
+
+# はじめに
 
 [egglog](https://github.com/egraphs-good/egglog) は [Datalog](https://en.wikipedia.org/wiki/Datalog) [^1] っぽいプログラミング言語で、 [e-graph](https://en.wikipedia.org/wiki/E-graph) によって実行されます。  
 汎用的なプログラミング言語ではありませんが [^2] 、数式とかプログラムの最適化が得意で [herbie](https://github.com/herbie-fp/herbie) [^3] でも使われたりしています。
@@ -55,18 +57,18 @@ path.egg
 (extract (path 1 4)) ; 5
 ```
 
-## Equality Saturationとe-graph
+# Equality Saturationとe-graph
 
 `egglog` 自体 `e-graph` をうまく使うためのインターフェースといった感じがあり、 `Equality Saturation` と `e-graph` の理解は外せないのでここで説明します。
 
-## Equality Saturationが解く問題
+# Equality Saturationが解く問題
 
 手元にあるS式 [^4] があり、それをあらかじめ決めたルールに従って書き換えていってより良い形 [^5] にするという問題を考えます。このとき書き換える前と後はなにかの基準で同じ意味を持つようにルールを作ります。
 
 例えば、数式を表すS式 `(/ (* a 2) 2)` を以下のルールに従って書き換えていきます。  
 ご存知の通り $(a \times 2) / 2 = a$ [^6] なので、最終的には `a` に書き換えられればOKです。
 
-### ルール
+## ルール
 
 `x`, `y`, `z` は任意のS式を表します。
 
@@ -84,7 +86,7 @@ path.egg
 
 これは最適化問題の頻出系なのでとりあえずビームサーチすればどうにかなりそうに見えますが、この問題に対してはもっと良いアルゴリズム(Equality Saturation)とそれを可能にするデータ構造(e-graph)があります。
 
-## Equality Saturation
+# Equality Saturation
 
 Equality Saturationはこの問題を次のように解きます。
 
@@ -98,7 +100,7 @@ Equality Saturationはこの問題を次のように解きます。
 実質すべての可能性を探索しているので必ず最適な解が得られます💪  
 ただ、過程で出てきたすべての情報を覚えなければいけないのでデータ構造を工夫しなければなりません。それが `e-graph` です。
 
-## e-graph
+# e-graph
 
 `e-graph` は上で言うS式とその合同 [^10] 関係をグラフにして保存します。グラフの表現力はすごいので、指数関数的に増えていくS式を効率的に表すことができます。
 
@@ -121,7 +123,7 @@ Equality Saturationはこの問題を次のように解きます。
 
 `e-graph` を具体的にどう実装するかは本記事では触れませんが [egg: Fast and extensible equality saturation](https://dl.acm.org/doi/10.1145/3434304) によく書いてあるので興味があれば読んでみてください。
 
-## egg
+# egg
 
 [egg](https://github.com/egraphs-good/egg) は `e-graph` のライブラリです。 `egglog` 自体は `egg` に依存していませんが実質同じようなものが `egglog` に入っていると考えていいです。
 
@@ -130,11 +132,11 @@ Equality Saturationはこの問題を次のように解きます。
 
 なので `egglog` でも上の方にあるサンプルコードのように、Equality Saturationを明示的に `(run 100)` みたいなやつで実行する必要があります。
 
-## egglog
+# egglog
 
 前置きが終わったので `egglog` の話に入ります。
 
-## 環境構築
+# 環境構築
 
 手軽に試したい場合はWeb上で動く [デモ](https://egraphs-good.github.io/egglog/) があります。
 
@@ -148,7 +150,7 @@ cargo install --git https://github.com/egraphs-good/egglog
 自作ですがVSCodeの拡張もあるので入れておくと便利です。公式の拡張も一応ありますが全然更新されてないのでおすすめしません。  
 [egglog-language](https://marketplace.visualstudio.com/items?itemName=hatookov.egglog-language)
 
-## 実行方法
+# 実行方法
 
 他の言語処理系と同じように、 `egglog` にソースコードを渡すと実行されます。拡張子は`.egg` にするのが慣習です。
 
@@ -168,7 +170,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 ![egglog --to-dot path.egg](https://res.cloudinary.com/zenn/image/fetch/s--ZSilrpUJ--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/7b1e379b8de877acc5278da4.png%3Fsha%3D59cc1b4bc9e4ee4c4fad4022656ac7e7258c8289)  
 *`egglog --to-dot path.egg` の結果。わかりやすい*
 
-## リファレンス
+# リファレンス
 
 [rustdoc](https://egraphs-good.github.io/egglog/docs/egglog/ast/enum.Command.html) にあるドキュメントが実質リファレンスとして使えます。
 
@@ -177,11 +179,11 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 以下では重要かと思われる機能を紹介します。  
 上の方で `egglog` 自体 `e-graph` をうまく使うためのインターフェースといった感じがあると書きましたが、以下で説明する機能はすべて `egglog` 処理系がグローバルに持っている `e-graph` になにか操作するものだと思うとわかりやすいです。
 
-### 文法
+## 文法
 
 `egglog` のパーサーは [lalrpop](https://github.com/lalrpop/lalrpop) で実装されているので比較的短い [BNFっぽいDSL](https://github.com/egraphs-good/egglog/blob/main/src/ast/parse.lalrpop) を見れすべての文法がわかります。
 
-### 組み込みのデータ型と関数
+## 組み込みのデータ型と関数
 
 [src/sort](https://github.com/egraphs-good/egglog/tree/main/src/sort) に組み込み型と関数が定義されています。例えば `i64` って何ができたっけ？となった場合には [src/sort/i64.rs](https://github.com/egraphs-good/egglog/blob/main/src/sort/i64.rs) に目を通すと良いです。
 
@@ -199,7 +201,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 
 `egglog` にはジェネリクスのような機能がまだないので `set` 、 `map` 、 `vec` の使い方は少し特殊になっています。 [テストコード](https://github.com/egraphs-good/egglog/blob/main/tests/vec.egg) を見ると使い方がわかります。
 
-## Sort
+# Sort
 
 `Sort` は `e-class` の識別子のような概念です。たぶん数学的に意味のある用語なのでしょう。同じ `Sort` を持つ `node` は同じ `e-class` に属します。組み込み型も `Sort` ですが、後述する `union` ができないという制限があります。  
 `Sort` は以下のように宣言します。
@@ -208,7 +210,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 (sort NameofSort)
 ```
 
-## function
+# function
 
 `Sort` だけあってもしょうがないので、 `function` で `Sort` を持つ `node` を定義できます。
 
@@ -223,7 +225,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 
 例えば、ある2つの `Const` があったとき、引数が同じ `e-class` なら結果も常に同じ `Sort` (`Math`)になります。つまり、 `(Const 0)` と `(Const 0)` は同じ `Sort` を指します。
 
-## union
+# union
 
 `union` を使うと2つの `Sort` をマージすることができます。  
 組み込み型には使えません。例えば `0` と `1` を `union` して同じ `Sort` になってしまうとめちゃくちゃになってしまいます。
@@ -241,7 +243,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 ![e-graph for simple math egglog 1](https://res.cloudinary.com/zenn/image/fetch/s--jRUnbBpm--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/001a23348d77e06e068dfd63.png%3Fsha%3D1b87849c58e2cc3ad6c5f5651a8b268525e65de0)  
 *上のコードのe-graph*
 
-## set
+# set
 
 `set` は `node` に値をセットします。 `set` を使うと組み込み型を返す `function` に値をセットすることができます。これは `union` ではできません。
 
@@ -254,7 +256,7 @@ VSCodeの拡張を入れている場合は糖衣構文の展開結果をマウ�
 
 `union` と `set` の使い分けはごちゃごちゃしている部分がありますが、間違えたら適切なエラーメッセージが出てくるのでそれに従って書き換えればだいたいなんとかなります。
 
-## rule
+# rule
 
 正直これまでに説明した機能だけだと、だから何なんだ？って感じですが、 `rule` を使うと面白くなってきます。
 
@@ -321,7 +323,7 @@ pub Action: Action = {
 
 実際これはすごいことです！例えばこれを拡張していけばきれいに [sympy.simplify](https://docs.sympy.org/latest/tutorials/intro-tutorial/simplification.html#simplify) や [TI-Nspire™ CX II](https://education.ti.com/en/products/calculators/graphing-calculators/ti-nspire-cx-ii-cx-ii-cas) についてる [CAS](https://ja.wikipedia.org/wiki/%E6%95%B0%E5%BC%8F%E5%87%A6%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0) のようなものを作ることができます(破綻しないようにルールを追加していくのは非常に難しいですが😰)。しかも計算が間に合えば常に最適な結果を出力してくれます。
 
-## :merge
+# :merge
 
 `:merge` によって `function` に違う値が設定されたときの挙動を変化できます。`:merge` は `function` の宣言のときに指定します。
 
@@ -332,7 +334,7 @@ pub Action: Action = {
 (set (F 0) 1) ; (min 0 1) => 0　なので意味ない
 ```
 
-## let
+# let
 
 もう上で使ってしまいましたが、 `let` は変数に値を束縛します。再代入はできません。  
 この文法じゃあグローバルな名前空間がぐちゃぐちゃになってしまうじゃないかと思うかもしれませんが回避策もあります。
@@ -347,21 +349,21 @@ pub Action: Action = {
 (let x 1) ; 上でxを定義したスコープはすでにないのでOK
 ```
 
-## run
+# run
 
 `run` はEquality Saturationを実行します。 `run` を実行すると `rule` に従って `e-graph` を書き換えていきます。 `run` は最大で引数にいれた回数だけ実行されます。saturateしたらその時点で終わります。
 
 他にも色々オプションがありますが、とりあえず適当に `(run 100)` とかやっておけばいいです。
 
-## extract
+# extract
 
 `extract` は `e-graph` から引数の `e-class` の中で一番低コストな `node` を出力します。何をもって低コストかをコントロールする方法もあるのですが本記事では触れません。
 
-## 糖衣構文
+# 糖衣構文
 
 いくつか便利な糖衣構文を紹介します。
 
-### datatype
+## datatype
 
 `datatype` は `sort` と `function` まとめた糖衣構文です。
 
@@ -384,7 +386,7 @@ pub Action: Action = {
 
 に展開されます。
 
-### rewrite
+## rewrite
 
 `rewrite` は `rule` の糖衣構文です。  
 簡単な `rule` は `rewrite` で書くことができます。
@@ -423,7 +425,7 @@ pub Action: Action = {
 
 と展開されます
 
-### relation
+## relation
 
 `function` は連想配列のようなものだと書きましたが、 `relation` は値がユニット型の連想配列、つまりセットのようなものを宣言する糖衣構文です。
 
@@ -453,7 +455,7 @@ pub Action: Action = {
 (F) ; 自動で新しいSが作られる
 ```
 
-### declare
+## declare
 
 `declare` は新しい `Sort` を変数に割り当てます。
 
@@ -483,12 +485,12 @@ pub Action: Action = {
 ![function x](https://res.cloudinary.com/zenn/image/fetch/s--ptLHLHJI--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_1200/https://storage.googleapis.com/zenn-user-upload/deployed-images/80abc2b3a4974cf6264a02e2.png%3Fsha%3D783edae658060f59dcb4cca82974e38ac46bcaab)  
 *現状上のように書かないとこの図はでてこない*
 
-## おわりに
+# おわりに
 
 本記事では `egglog` にある機能の一部を紹介しました。  
 もっと色々知りたい方はソースコードや [テストコード](https://github.com/egraphs-good/egglog/tree/main/tests) を読んでみてください。
 
-## 宣伝
+# 宣伝
 
 `egglog` でコンパイラの最適化パスを実装してみたい方は一旦 [CFG](https://ja.wikipedia.org/wiki/%E5%88%B6%E5%BE%A1%E3%83%95%E3%83%AD%E3%83%BC%E3%82%B0%E3%83%A9%E3%83%95) を [RVSDG](https://arxiv.org/abs/1912.05036) に変換するとやりやすいです。  
 個人的に [brilt](https://github.com/hatoo/brilt) で実験しているので興味のある方はぜひ🙇
@@ -500,21 +502,12 @@ pub Action: Action = {
 4
 
 [^1]: Datalogについてはよくわからないので本記事では触れません🙇
-
 [^2]: チューリング完全ではあると思うが例えばwebサーバーを書くといったことには適さないという意味
-
 [^3]: 浮動小数点数の演算をより誤差が少なくなるように書き換えるプログラム
-
 [^4]: S式みたいな雰囲気のもの。 `(x . y)` みたいなやつは考えない
-
 [^5]: 例えば葉の数が少ないとか
-
 [^6]: $a \times 2$ は絶対にオーバーフローしないとします
-
 [^7]: $x=0$ の場合、 $0/0=1$ となってしまいとても危ないので明示的に禁止している。 [ゼロ除算#ゼロ除算に基づく誤謬](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E9%99%A4%E7%AE%97#%E3%82%BC%E3%83%AD%E9%99%A4%E7%AE%97%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%AA%A4%E8%AC%AC) のようなことがそのまま起きる。え、じゃあルールを作るのってめっちゃ難しくない！？と思ったあなた、その通りです。ルールを自動で導出しようという研究もあるので興味のある方は [Rewrite Rule Inference Using Equality Saturation](https://www.mwillsey.com/papers/ruler) がおすすめです
-
 [^8]: ASIAN KUNG-FU GENERATIONの名曲が思い出されます
-
 [^9]: 実用的にはSaturateしなくてタイムアウトで終了することもある
-
 [^10]: congruence。"等しい(equal)"とは少し意味合いが違うがとりあえず特に気にしなくて良い

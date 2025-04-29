@@ -1,9 +1,7 @@
 ---
-date: 2025-04-25
 tags: ["Logic"]
-aliases: [Separation Logic]
-date created: Friday,2025 April 25th, 4:35:44 pm
-date modified: Friday,2025 April 25th, 4:41:49 pm
+created: Friday,2025 April 25th, 4:35:44 pm
+modified: Tuesday,2025 April 29th, 6:37:32 pm
 ---
 
 # Separation Logic

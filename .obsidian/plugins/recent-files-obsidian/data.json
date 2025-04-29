@@ -1,6 +1,86 @@
 {
   "recentFiles": [
     {
+      "basename": "Trace Semantics",
+      "path": "Theory/Logic/Semantics/Trace Semantics.md"
+    },
+    {
+      "basename": "Big-step Operational Semantics",
+      "path": "Theory/Logic/Semantics/Big-step Operational Semantics.md"
+    },
+    {
+      "basename": "Game Semantics",
+      "path": "Theory/Logic/Semantics/Game Semantics.md"
+    },
+    {
+      "basename": "Semantics",
+      "path": "Theory/Logic/Semantics/Semantics.md"
+    },
+    {
+      "basename": "SyntaxとSemantics、言語に存在する２つの並行世界",
+      "path": "Theory/Logic/Semantics/SyntaxとSemantics、言語に存在する２つの並行世界.md"
+    },
+    {
+      "basename": "A semantics for while with break, continue and goto",
+      "path": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md"
+    },
+    {
+      "basename": "Categorical logic",
+      "path": "Theory/Logic/Categorical logic.md"
+    },
+    {
+      "basename": "Combinatory logic",
+      "path": "Theory/Logic/Combinatory logic.md"
+    },
+    {
+      "basename": "Interaction Combinators",
+      "path": "Theory/Logic/Interaction Combinators.md"
+    },
+    {
+      "basename": "introduction",
+      "path": "Theory/Logic/introduction.md"
+    },
+    {
+      "basename": "Model",
+      "path": "Theory/Logic/Model.md"
+    },
+    {
+      "basename": "Separation Logic",
+      "path": "Theory/Logic/Separation Logic.md"
+    },
+    {
+      "basename": "Sequent calculus",
+      "path": "Theory/Logic/Sequent calculus.md"
+    },
+    {
+      "basename": "Syntax",
+      "path": "Theory/Logic/Syntax.md"
+    },
+    {
+      "basename": "egglog入門",
+      "path": "Theory/Data Structure/E-graph/egglog入門.md"
+    },
+    {
+      "basename": "E-graph",
+      "path": "Theory/Data Structure/E-graph/E-graph.md"
+    },
+    {
+      "basename": "A New Approach for Active Automata Learning Based on Apartness",
+      "path": "Theory/Automata/A New Approach for Active Automata Learning Based on Apartness.md"
+    },
+    {
+      "basename": "Unification",
+      "path": "Theory/Algorithm/Unification.md"
+    },
+    {
+      "basename": "足りない能力",
+      "path": "Misc/足りない能力.md"
+    },
+    {
+      "basename": "Fluent API",
+      "path": "Misc/Fluent API.md"
+    },
+    {
       "basename": "MCP",
       "path": "Misc/AI/MCP.md"
     },
@@ -25,10 +105,6 @@
       "path": "Misc/AI/Machine learning/Tensor Flow.md"
     },
     {
-      "basename": "足りない能力",
-      "path": "Misc/足りない能力.md"
-    },
-    {
       "basename": "読書リスト",
       "path": "Misc/読書リスト.md"
     },
@@ -51,10 +127,6 @@
     {
       "basename": "Misc",
       "path": "Misc/Misc.md"
-    },
-    {
-      "basename": "Fluent API",
-      "path": "Misc/Fluent API.md"
     },
     {
       "basename": "Web Audio Apiで自動再生が出来ない理由",
@@ -127,78 +199,6 @@
     {
       "basename": "2025-04-28-Monday",
       "path": "Timestamps/2025/04/2025-04-28-Monday.md"
-    },
-    {
-      "basename": "コンピューターに求めているもの",
-      "path": "Blog/コンピューターに求めているもの.md"
-    },
-    {
-      "basename": "index",
-      "path": "Theory/Logic/Rewriting/index.md"
-    },
-    {
-      "basename": "クロージャの理解のために知ってほしいこと",
-      "path": "PL/JS/クロージャの理解のために知ってほしいこと.md"
-    },
-    {
-      "basename": "Theory Of Computation",
-      "path": "講義/Theory of computation/Theory Of Computation.md"
-    },
-    {
-      "basename": "Introduction, Finite Automata, Regular Expression",
-      "path": "講義/Theory of computation/Introduction, Finite Automata, Regular Expression.md"
-    },
-    {
-      "basename": "2025-04-27-Sunday",
-      "path": "Timestamps/2025/04/2025-04-27-Sunday.md"
-    },
-    {
-      "basename": "A semantics for while with break, continue and goto",
-      "path": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "Recursion Schemes",
-      "path": "PL/Haskell/Recursion Schemes.md"
-    },
-    {
-      "basename": "参考になるブログ",
-      "path": "Blog/参考になるブログ.md"
-    },
-    {
-      "basename": "SystemF",
-      "path": "Theory/Logic/Rewriting/SystemF.md"
-    },
-    {
-      "basename": "OOP",
-      "path": "Compiler/OOP.md"
-    },
-    {
-      "basename": "MLSUB",
-      "path": "Compiler/Type System/MLSUB.md"
-    },
-    {
-      "basename": "lambda calculus",
-      "path": "Theory/Logic/Rewriting/lambda calculus.md"
-    },
-    {
-      "basename": "Blind spot",
-      "path": "Theory/Logic/Girard/Blind spot.md"
-    },
-    {
-      "basename": "Interaction Combinators",
-      "path": "Theory/Logic/Interaction Combinators.md"
-    },
-    {
-      "basename": "現代的なUIフレームワークの目的とは？",
-      "path": "Blog/現代的なUIフレームワークの目的とは？.md"
-    },
-    {
-      "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
-      "path": "Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
     }
   ],
   "omittedPaths": [],

@@ -1,9 +1,8 @@
 ---
 date: 2025-04-26
-tags: []
-aliases: [Trace Semantics]
-date created: Saturday,2025 April 26th, 10:46:06 pm
-date modified: Saturday,2025 April 26th, 10:51:02 pm
+tags: ["Semantics"]
+created: Saturday,2025 April 26th, 10:46:06 pm
+modified: Tuesday,2025 April 29th, 6:38:44 pm
 ---
 
 アクターシステムのための意味論？

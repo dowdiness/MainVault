@@ -1,9 +1,7 @@
 ---
-date: 2025-04-26
 tags: ["Compiler", "Semantics"]
-aliases: [Big-step Operational Semantics]
-date created: Saturday,2025 April 26th, 10:13:41 pm
-date modified: Saturday,2025 April 26th, 10:58:05 pm
+created: Saturday,2025 April 26th, 10:13:41 pm
+modified: Tuesday,2025 April 29th, 6:38:13 pm
 ---
 
 # [Big-step Operational Semantics](https://people.csail.mit.edu/feser/pld-s23/semantics.html#big-step-natural)
