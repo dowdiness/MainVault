@@ -8,7 +8,7 @@ description: "Abstract page for arXiv paper 2004.03082: egg: Fast and Extensible
 tags: ["clippings"]
 aliases: ["Title:egg: Fast and Extensible Equality Saturation"]
 created: 2025-04-19T17:33:37+09:00
-modified: 2025-04-29T19:34:03+09:00
+modified: 2025-04-29T19:44:11+09:00
 ---
 
 \[Submitted on 7 Apr 2020 ([v1](https://arxiv.org/abs/2004.03082v1)), last revised 7 Nov 2020 (this version, v3)\]

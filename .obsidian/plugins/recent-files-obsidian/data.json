@@ -5,6 +5,22 @@
       "path": "Clippings/egg Fast and Extensible Equality Saturation.md"
     },
     {
+      "basename": "ラムダ計算のコンパイル",
+      "path": "Compiler/ラムダ計算のコンパイル.md"
+    },
+    {
+      "basename": "2025-04-29-Tuesday",
+      "path": "Timestamps/2025/04/2025-04-29-Tuesday.md"
+    },
+    {
+      "basename": "2025-04-28-Monday",
+      "path": "Timestamps/2025/04/2025-04-28-Monday.md"
+    },
+    {
+      "basename": "TaskList",
+      "path": "Timestamps/2025/04/TaskList.md"
+    },
+    {
       "basename": "A-normal form - Wikipedia",
       "path": "Clippings/A-normal form - Wikipedia.md"
     },
@@ -179,26 +195,6 @@
     {
       "basename": "Realizability",
       "path": "Theory/Logic/Proof/Realizability.md"
-    },
-    {
-      "basename": "Logical Relations",
-      "path": "Theory/Logic/Proof/Logical Relations.md"
-    },
-    {
-      "basename": "A semantics for while with break, continue and goto",
-      "path": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md"
-    },
-    {
-      "basename": "lambda calculus",
-      "path": "Theory/Logic/Rewriting/lambda calculus.md"
-    },
-    {
-      "basename": "index",
-      "path": "Theory/Logic/Rewriting/index.md"
-    },
-    {
-      "basename": "Canonical form",
-      "path": "Theory/Logic/Rewriting/Canonical form.md"
     }
   ],
   "omittedPaths": [],
