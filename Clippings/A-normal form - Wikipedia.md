@@ -3,14 +3,14 @@ title: A-normal form - Wikipedia
 source: https://en.wikipedia.org/wiki/A-normal_form
 author: 
 published: 
-created: 2025-04-19
+date: 2025-04-19
 description: 
-tags:
-  - clippings
-  - compiler
-  - ir
+tags: [clippings, compiler, ir]
+date created: Saturday,2025 April 19th, 4:45:12 pm
+date modified: Tuesday,2025 April 29th, 6:03:05 pm
 ---
-## Related
+
+# Related
 
 [[A-normal form]]
 
@@ -77,8 +77,5 @@ One can see the immediate similarities between ANF and the compiled form of a fu
 
 ## References
 
-  
-
 [^1]: Sabry, Amr; Felleisen, Matthias. "Reasoning about Programs in Continuation-Passing Style". *Proceedings of the 1992 ACM Conference on LISP and Functional Programming, LFP'92*. San Francisco, CA, USA. [CiteSeerX](https://en.wikipedia.org/wiki/CiteSeerX_\(identifier\) "CiteSeerX (identifier)") [10.1.1.22.7509](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.22.7509). Sabry92.
-
 [^2]: Flanagan, Cormac; Sabry, Amr; Duba, Bruce F.; Felleisen, Matthias. ["The Essence of Compiling with Continuations"](http://users.soe.ucsc.edu/~cormac/papers/pldi93.pdf) (PDF). *Proceedings ACM SIGPLAN 1993 Conf. on Programming Language Design and Implementation, PLDI'93*. Albuquerque, NM, USA. Flanagan93. Retrieved 2012-11-16.

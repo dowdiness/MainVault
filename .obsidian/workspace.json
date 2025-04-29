@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PL/JS/クロージャの理解のために知ってほしいこと.md",
+                "file": "Timestamps/2025/04/2025-04-29-Tuesday.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "クロージャの理解のために知ってほしいこと"
+              "title": "2025-04-29-Tuesday"
             }
           },
           {
@@ -280,8 +280,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80ac97b5a79e9802",
+  "active": "b5cee4bb0e80cf3d",
   "lastOpenFiles": [
+    "Timestamps/2025/04/2025-04-28-Monday.md",
+    "Timestamps/2025/04/2025-04-29-Tuesday.md",
+    "Clippings/A-normal form - Wikipedia.md",
+    "_Template/Templater/Zenn.md",
+    "_Template/01_daily-note.md",
+    "_Template/Templater/Base.md",
+    "Clippings/Colin James - ANF Conversion.md",
+    "Clippings/Continuation-passing style - Wikipedia.md",
+    "Clippings/egg Fast and Extensible Equality Saturation.md",
+    "Blog/コンピューターに求めているもの.md",
+    "Theory/Logic/Rewriting/index.md",
+    "PL/JS/クロージャの理解のために知ってほしいこと.md",
     "index.md",
     "講義/Theory of computation/Theory Of Computation.md",
     "講義/Theory of computation/Introduction, Finite Automata, Regular Expression.md",
@@ -292,24 +304,12 @@
     "Compiler/A Few Principles of Macro Design.md",
     "Compiler/ラムダ計算のコンパイル.md",
     "Index.md",
-    "Timestamps/2025/04/2025-04-29-Tuesday.md",
-    "Timestamps/2025/04/2025-04-28-Monday.md",
     "PL/Haskell/Recursion Schemes.md",
     "Blog/参考になるブログ.md",
     "PL/Haskell",
     "Compiler/Backend/Abstract Machine.md",
     "Theory/Logic/Rewriting/SystemF.md",
-    "Compiler/OOP.md",
-    "Compiler/Type System/MLSUB.md",
-    "Theory/Logic/Rewriting/lambda calculus.md",
-    "Theory/Logic/Girard/Blind spot.md",
-    "Misc/AI/index.md",
-    "Clippings/Continuation-passing style - Wikipedia.md",
-    "Misc/AI/Machine learning/Tensor Flow.md",
-    "Misc/AI/Machine learning/Understanding Machine Learning Principles.md",
-    "Theory/Logic/Interaction Combinators.md",
     "Misc/AI/Machine learning",
-    "Blog/現代的なUIフレームワークの目的とは？.md",
     "Timestamps/2025/04-April",
     "Timestamps/2025",
     "Timestamps",

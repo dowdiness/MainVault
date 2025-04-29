@@ -4,14 +4,16 @@ source: "https://arxiv.org/abs/2004.03082"
 author:
   - "[[arXiv.org]]"
 published:
-created: 2025-04-19
+date: 2025-04-19
 description: "Abstract page for arXiv paper 2004.03082: egg: Fast and Extensible Equality Saturation"
-tags:
-  - "clippings"
+tags: ["clippings"]
+date created: Saturday,2025 April 19th, 5:33:37 pm
+date modified: Tuesday,2025 April 29th, 6:02:54 pm
 ---
+
 \[Submitted on 7 Apr 2020 ([v1](https://arxiv.org/abs/2004.03082v1)), last revised 7 Nov 2020 (this version, v3)\]
 
-## Title:egg: Fast and Extensible Equality Saturation
+# Title:egg: Fast and Extensible Equality Saturation
 
 Authors:, , , , ,
 
@@ -30,14 +32,14 @@ Authors:, , , , ,
 | Journal reference: | POPL 2021 |
 | Related DOI: | [https://doi.org/10.1145/3434304](https://doi.org/10.1145/3434304) |
 
-## Submission history
+# Submission history
 
 From: Max Willsey \[[view email](https://arxiv.org/show-email/bbef6b90/2004.03082)\]  
 **[\[v1\]](https://arxiv.org/abs/2004.03082v1)** Tue, 7 Apr 2020 02:26:12 UTC (142 KB)  
 **[\[v2\]](https://arxiv.org/abs/2004.03082v2)** Fri, 10 Jul 2020 19:56:18 UTC (481 KB)  
 **\[v3\]** Sat, 7 Nov 2020 20:33:53 UTC (525 KB)  
 
-## Bibliographic and Citation Tools
+# Bibliographic and Citation Tools
 
 Bibliographic Explorer *([What is the Explorer?](https://info.arxiv.org/labs/showcase.html#arxiv-bibliographic-explorer))*
 
@@ -47,7 +49,7 @@ Litmaps *([What is Litmaps?](https://www.litmaps.co/))*
 
 scite Smart Citations *([What are Smart Citations?](https://www.scite.ai/))*
 
-## Bibliographic data
+# Bibliographic data
 
 and D Suciu. Spores: Sum-product optimization via relational equality saturation for large scale linear algebra 2020
 
@@ -67,7 +69,7 @@ N. Dershowitz
 
 View article:
 
-## Code, Data and Media Associated with this Article
+# Code, Data and Media Associated with this Article
 
 alphaXiv *([What is alphaXiv?](https://alphaxiv.org/))*
 
@@ -83,7 +85,7 @@ Papers with Code *([What is Papers with Code?](https://paperswithcode.com/))*
 
 ScienceCast *([What is ScienceCast?](https://sciencecast.org/welcome))*
 
-## Demos
+# Demos
 
 Replicate *([What is Replicate?](https://replicate.com/docs/arxiv/about))*
 
@@ -91,7 +93,7 @@ Hugging Face Spaces *([What is Spaces?](https://huggingface.co/docs/hub/spaces))
 
 TXYZ.AI *([What is TXYZ.AI?](https://txyz.ai/))*
 
-## arXivLabs: experimental projects with community collaborators
+# arXivLabs: experimental projects with community collaborators
 
 arXivLabs is a framework that allows collaborators to develop and share new arXiv features directly on our website.
 

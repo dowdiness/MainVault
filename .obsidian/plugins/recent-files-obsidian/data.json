@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-04-29-Tuesday",
+      "path": "Timestamps/2025/04/2025-04-29-Tuesday.md"
+    },
+    {
+      "basename": "2025-04-28-Monday",
+      "path": "Timestamps/2025/04/2025-04-28-Monday.md"
+    },
+    {
+      "basename": "A-normal form - Wikipedia",
+      "path": "Clippings/A-normal form - Wikipedia.md"
+    },
+    {
+      "basename": "Zenn",
+      "path": "_Template/Templater/Zenn.md"
+    },
+    {
+      "basename": "01_daily-note",
+      "path": "_Template/01_daily-note.md"
+    },
+    {
+      "basename": "Base",
+      "path": "_Template/Templater/Base.md"
+    },
+    {
+      "basename": "Colin James - ANF Conversion",
+      "path": "Clippings/Colin James - ANF Conversion.md"
+    },
+    {
+      "basename": "Continuation-passing style - Wikipedia",
+      "path": "Clippings/Continuation-passing style - Wikipedia.md"
+    },
+    {
+      "basename": "egg Fast and Extensible Equality Saturation",
+      "path": "Clippings/egg Fast and Extensible Equality Saturation.md"
+    },
+    {
+      "basename": "コンピューターに求めているもの",
+      "path": "Blog/コンピューターに求めているもの.md"
+    },
+    {
+      "basename": "index",
+      "path": "Theory/Logic/Rewriting/index.md"
+    },
+    {
       "basename": "クロージャの理解のために知ってほしいこと",
       "path": "PL/JS/クロージャの理解のために知ってほしいこと.md"
     },
@@ -35,14 +79,6 @@
     {
       "basename": "ラムダ計算のコンパイル",
       "path": "Compiler/ラムダ計算のコンパイル.md"
-    },
-    {
-      "basename": "2025-04-29-Tuesday",
-      "path": "Timestamps/2025/04/2025-04-29-Tuesday.md"
-    },
-    {
-      "basename": "2025-04-28-Monday",
-      "path": "Timestamps/2025/04/2025-04-28-Monday.md"
     },
     {
       "basename": "Recursion Schemes",
@@ -81,10 +117,6 @@
       "path": "Misc/AI/index.md"
     },
     {
-      "basename": "Continuation-passing style - Wikipedia",
-      "path": "Clippings/Continuation-passing style - Wikipedia.md"
-    },
-    {
       "basename": "Tensor Flow",
       "path": "Misc/AI/Machine learning/Tensor Flow.md"
     },
@@ -111,10 +143,6 @@
     {
       "basename": "依存関係をコントロールする",
       "path": "Blog/依存関係をコントロールする.md"
-    },
-    {
-      "basename": "コンピューターに求めているもの",
-      "path": "Blog/コンピューターに求めているもの.md"
     },
     {
       "basename": "Categorical logic",
@@ -171,34 +199,6 @@
     {
       "basename": "Compiler Test",
       "path": "Compiler/Compiler Test.md"
-    },
-    {
-      "basename": "α-conversion",
-      "path": "Compiler/Middleend/α-conversion.md"
-    },
-    {
-      "basename": "Compiler optimization",
-      "path": "Compiler/Middleend/Compiler optimization.md"
-    },
-    {
-      "basename": "Common subexpression elimination",
-      "path": "Compiler/Middleend/Common subexpression elimination.md"
-    },
-    {
-      "basename": "index",
-      "path": "講義/MIT/Mathematics for Computer Science/index.md"
-    },
-    {
-      "basename": "2025-04-24-Thursday",
-      "path": "Timestamps/2025/04/2025-04-24-Thursday.md"
-    },
-    {
-      "basename": "2025-04-25-Friday",
-      "path": "Timestamps/2025/04/2025-04-25-Friday.md"
-    },
-    {
-      "basename": "2025-04-26-Saturday",
-      "path": "Timestamps/2025/04/2025-04-26-Saturday.md"
     }
   ],
   "omittedPaths": [],
