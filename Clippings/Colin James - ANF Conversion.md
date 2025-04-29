@@ -7,8 +7,8 @@ published: false
 description: anf-conversion implementation clipping
 tags: ["clippings"]
 aliases: [ANF Conversion]
-created: Saturday,2025 April 19th, 4:44:51 pm
-modified: Tuesday,2025 April 29th, 6:29:20 pm
+created: 2025-04-19T16:44:51+09:00
+modified: 2025-04-29T19:34:01+09:00
 ---
 
 # ANF Conversion

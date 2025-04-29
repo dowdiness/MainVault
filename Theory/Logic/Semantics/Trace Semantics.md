@@ -1,8 +1,8 @@
 ---
 date: 2025-04-26
 tags: ["Semantics"]
-created: Saturday,2025 April 26th, 10:46:06 pm
-modified: Tuesday,2025 April 29th, 6:38:44 pm
+created: 2025-04-26T22:46:06+09:00
+modified: 2025-04-29T19:35:02+09:00
 ---
 
 アクターシステムのための意味論？

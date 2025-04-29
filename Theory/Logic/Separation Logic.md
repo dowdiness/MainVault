@@ -1,7 +1,7 @@
 ---
 tags: ["Logic"]
-created: Friday,2025 April 25th, 4:35:44 pm
-modified: Tuesday,2025 April 29th, 6:37:32 pm
+created: 2025-04-25T16:35:44+09:00
+modified: 2025-04-29T19:35:09+09:00
 ---
 
 # Separation Logic

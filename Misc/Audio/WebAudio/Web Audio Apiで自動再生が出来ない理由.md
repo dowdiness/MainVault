@@ -1,6 +1,6 @@
 ---
-created: Thursday,2024 December 12th, 11:03:51 am
-modified: Tuesday,2025 April 29th, 6:33:34 pm
+created: 2024-12-12T11:03:51+09:00
+modified: 2025-04-29T19:37:22+09:00
 ---
 
 https://developer.chrome.com/blog/web-audio-autoplay?hl=ja

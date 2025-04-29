@@ -1,4 +1,10 @@
-## Proof Technics
+---
+aliases: [Proof Technics]
+created: 2025-04-11T19:34:18+09:00
+modified: 2025-04-29T19:35:17+09:00
+---
+
+# Proof Technics
 
 [[Reducibility]]
 [[Theory/Logic/Proof/Realizability|Realizability]]

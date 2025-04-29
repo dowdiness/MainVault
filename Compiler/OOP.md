@@ -1,6 +1,8 @@
 ---
 date created: Wednesday,2024 June 26th, 2:22:52 am
 date modified: Sunday,2025 April 27th, 11:02:02 pm
+created: 2024-06-26T02:22:52+09:00
+modified: 2025-04-29T19:37:57+09:00
 ---
 
 https://gacbe.ac.in/images/E%20books/Foundations%20of%20Object-Oriented%20Languages,%202002%20bbbb.pdf

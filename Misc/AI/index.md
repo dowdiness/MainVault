@@ -1,6 +1,6 @@
 ---
-created: Sunday,2025 March 30th, 8:25:47 pm
-modified: Tuesday,2025 April 29th, 6:34:05 pm
+created: 2025-03-30T20:25:47+09:00
+modified: 2025-04-29T19:37:25+09:00
 ---
 
 [Gemini](https://gemini.google.com/app)

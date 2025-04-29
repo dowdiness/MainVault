@@ -1,7 +1,7 @@
 ---
 aliases: [古典論理]
-created: Tuesday,2024 June 25th, 8:28:50 pm
-modified: Tuesday,2025 April 29th, 6:37:57 pm
+created: 2024-06-25T20:28:50+09:00
+modified: 2025-04-29T19:35:06+09:00
 ---
 
 [Logic Matters](https://www.logicmatters.net/)

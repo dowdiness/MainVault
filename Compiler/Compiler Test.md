@@ -1,6 +1,6 @@
 ---
-date created: Friday,2025 April 18th, 2:54:19 pm
-date modified: Saturday,2025 April 26th, 10:04:33 pm
+created: 2025-04-18T14:54:19+09:00
+modified: 2025-04-29T19:37:48+09:00
 ---
 
 Making compiler tests based on compiler source code coverage

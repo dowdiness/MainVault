@@ -1,8 +1,8 @@
 ---
 tags: [" "]
 aliases: [Untitled]
-created: Sunday,2025 April 27th, 1:14:28 am
-modified: Tuesday,2025 April 29th, 6:38:26 pm
+created: 2025-04-27T01:14:28+09:00
+modified: 2025-04-29T19:34:55+09:00
 ---
 
 [A semantics for while with break, continue and goto](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=0d561064fb161c6d63e933bfb0cb5920af00d457)

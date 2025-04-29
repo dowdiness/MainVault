@@ -1,7 +1,7 @@
 ---
 tags: [logic]
-created: Friday,2025 April 25th, 5:59:58 pm
-modified: Tuesday,2025 April 29th, 6:37:25 pm
+created: 2025-04-25T17:59:58+09:00
+modified: 2025-04-29T19:35:09+09:00
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Sequent_calculus)

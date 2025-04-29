@@ -1,8 +1,8 @@
 ---
 tags: ["Logic"]
 aliases: [Categorical logic, 入門書]
-created: Saturday,2025 April 26th, 7:16:59 pm
-modified: Tuesday,2025 April 29th, 6:38:02 pm
+created: 2025-04-26T19:16:59+09:00
+modified: 2025-04-29T19:35:03+09:00
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Categorical_logic)

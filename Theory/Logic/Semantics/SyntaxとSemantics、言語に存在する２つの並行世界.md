@@ -1,8 +1,8 @@
 ---
 tags: [semantics]
 aliases: [はじめに]
-created: Thursday,2024 September 26th, 3:52:28 pm
-modified: Tuesday,2025 April 29th, 6:38:32 pm
+created: 2024-09-26T15:52:28+09:00
+modified: 2025-04-29T19:35:01+09:00
 ---
 
 # はじめに

@@ -1,7 +1,7 @@
 ---
 aliases: [distributed-closure: Serializable closures for distributed programming]
-created: Sunday,2025 April 13th, 7:42:50 pm
-modified: Tuesday,2025 April 29th, 6:32:44 pm
+created: 2025-04-13T19:42:50+09:00
+modified: 2025-04-29T19:37:51+09:00
 ---
 
 [Enhancing closures in scala 3 with spores3](https://dl.acm.org/doi/10.1145/3550198.3550428)

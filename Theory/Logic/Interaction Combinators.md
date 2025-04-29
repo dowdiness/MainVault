@@ -1,8 +1,8 @@
 ---
 tags: [" "]
 aliases: [Untitled]
-created: Sunday,2025 April 27th, 2:35:52 am
-modified: Tuesday,2025 April 29th, 6:38:06 pm
+created: 2025-04-27T02:35:52+09:00
+modified: 2025-04-29T19:35:05+09:00
 ---
 
 [Interaction Combinators](https://core.ac.uk/download/pdf/81113716.pdf)

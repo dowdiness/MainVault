@@ -1,6 +1,6 @@
 ---
-created: Wednesday,2024 July 3rd, 2:06:58 am
-modified: Tuesday,2025 April 29th, 6:32:38 pm
+created: 2024-07-03T02:06:58+09:00
+modified: 2025-04-29T19:37:48+09:00
 ---
 
 # A Few Principles of Macro Design

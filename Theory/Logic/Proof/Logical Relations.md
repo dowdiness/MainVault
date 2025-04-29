@@ -1,3 +1,8 @@
+---
+aliases: ["Logical Relations as Types: Proof-Relevant Parametricity for Program Modules"]
+created: 2025-04-07T01:34:08+09:00
+modified: 2025-04-29T19:35:16+09:00
+---
 
 [wiki](https://en.wikipedia.org/wiki/Logical_relations)
 https://www.williamjbowman.com/blog/2023/03/24/what-is-logical-relations/
