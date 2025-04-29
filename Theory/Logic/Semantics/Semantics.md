@@ -1,7 +1,7 @@
 ---
 tags: [semantics]
 date created: Wednesday,2025 April 9th, 2:53:12 pm
-date modified: Saturday,2025 April 26th, 7:03:42 pm
+date modified: Saturday,2025 April 26th, 10:51:55 pm
 ---
 
 [Formal semantics and pragmatics: Origins, issues, impact](https://youtu.be/TpKpjiS1aic?si=wV_7tYte-_bIRuwC)
@@ -11,3 +11,5 @@ Semanticsの歴史について話している動画。形式意味論や分析�
 
 [Semantics](https://youtube.com/playlist?list=PL-2hPK7m5S3hVagseKDPxCBZEqg0PqZhs&si=GvpIS87WubuiqhKU)
 
+
+[プログラミング言語の意味論と圏論](https://www.kurims.kyoto-u.ac.jp/~kenkyubu/kokai-koza/H28-hasegawa.pdf)

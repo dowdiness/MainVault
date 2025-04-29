@@ -5,16 +5,18 @@ author:
 published:
 created: 2025-04-19
 description:
-tags:
-  - "clippings"
+tags: ["clippings"]
+date created: Saturday,2025 April 19th, 4:43:40 pm
+date modified: Sunday,2025 April 27th, 2:31:39 am
 ---
+
 In [functional programming](https://en.wikipedia.org/wiki/Functional_programming "Functional programming"), **continuation-passing style** (**CPS**) is a style of programming in which [control](https://en.wikipedia.org/wiki/Control_flow "Control flow") is passed explicitly in the form of a [continuation](https://en.wikipedia.org/wiki/Continuation "Continuation"). This is contrasted with direct style, which is the usual style of programming. [Gerald Jay Sussman](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman "Gerald Jay Sussman") and [Guy L. Steele, Jr.](https://en.wikipedia.org/wiki/Guy_L._Steele,_Jr. "Guy L. Steele, Jr.") coined the phrase in [AI Memo](https://en.wikipedia.org/wiki/AI_Memo "AI Memo") 349 (1975), which sets out the first version of the programming language [Scheme](https://en.wikipedia.org/wiki/Scheme_\(programming_language\) "Scheme (programming language)").[^1] [^2] [John C. Reynolds](https://en.wikipedia.org/wiki/John_C._Reynolds "John C. Reynolds") gives a detailed account of the many discoveries of continuations.[^3]
 
 A function written in continuation-passing style takes an extra argument: an explicit *continuation*; i.e., a function of one argument. When the CPS function has computed its result value, it "returns" it by calling the continuation function with this value as the argument. That means that when invoking a CPS function, the calling function is required to supply a procedure to be invoked with the subroutine's "return" value. Expressing code in this form makes a number of things explicit which are implicit in direct style. These include: procedure returns, which become apparent as calls to a continuation; intermediate values, which are all given names; order of argument evaluation, which is made explicit; and [tail calls](https://en.wikipedia.org/wiki/Tail_call "Tail call"), which simply call a procedure with the same continuation, unmodified, that was passed to the caller.
 
 Programs can be automatically transformed from direct style to CPS. Functional and [logic](https://en.wikipedia.org/wiki/Logic_programming "Logic programming") compilers often use CPS as an [intermediate representation](https://en.wikipedia.org/wiki/Intermediate_representation "Intermediate representation") where a compiler for an [imperative](https://en.wikipedia.org/wiki/Imperative_programming "Imperative programming") or [procedural](https://en.wikipedia.org/wiki/Procedural_programming "Procedural programming") [programming language](https://en.wikipedia.org/wiki/Programming_language "Programming language") would use [static single assignment form](https://en.wikipedia.org/wiki/Static_single_assignment_form "Static single assignment form") (SSA).[^4] SSA is formally equivalent to a subset of CPS (excluding non-local control flow, which does not occur when CPS is used as intermediate representation).[^5] Functional compilers can also use [A-normal form](https://en.wikipedia.org/wiki/A-normal_form "A-normal form") (ANF) (but only for languages requiring eager evaluation), rather than with *[thunks](https://en.wikipedia.org/wiki/Thunk "Thunk")* (described in the examples below) in CPS. CPS is used more frequently by [compilers](https://en.wikipedia.org/wiki/Compiler "Compiler") than by programmers as a local or global style.
 
-## Examples
+# Examples
 
 In CPS, each procedure takes an extra argument representing what should be done with the result the function is calculating. This, along with a restrictive style prohibiting a variety of constructs usually available, is used to expose the semantics of programs, making them easier to analyze. This style also makes it easy to express unusual control structures, like `catch/throw` or other non-local transfers of control.
 
@@ -148,7 +150,7 @@ void buttonHandler() {
 }
 ```
 
-## Tail calls
+# Tail calls
 
 Every call in CPS is a [tail call](https://en.wikipedia.org/wiki/Tail_call "Tail call"), and the continuation is explicitly passed. Using CPS without *tail call optimization* (TCO) will cause both the constructed continuation to potentially grow during recursion, and the [call stack](https://en.wikipedia.org/wiki/Call_stack "Call stack"). This is usually undesirable, but has been used in interesting ways; see the [Chicken Scheme](https://en.wikipedia.org/wiki/Chicken_\(Scheme_implementation\)#Design "Chicken (Scheme implementation)") compiler. As CPS and TCO eliminate the concept of an implicit function return, their combined use can eliminate the need for a run-time stack. Several compilers and interpreters for [functional programming](https://en.wikipedia.org/wiki/Functional_programming "Functional programming") languages use this ability in novel ways.[^6]
 
@@ -174,13 +176,13 @@ In [mathematics](https://en.wikipedia.org/wiki/Mathematics "Mathematics"), the [
 
 Classical logic itself relates to manipulating the continuation of programs directly, as in Scheme's [call-with-current-continuation](https://en.wikipedia.org/wiki/Call-with-current-continuation "Call-with-current-continuation") control operator, an observation due to Tim Griffin (using the closely related C control operator).[^11]
 
-## See also
+# See also
 
 - [Tail recursion through trampolining](https://en.wikipedia.org/wiki/Tail_recursion#Through_trampolining "Tail recursion")
 
-## Notes
+# Notes
 
-## References
+# References
 
 - Continuation Passing C (CPC) - [programming language for writing concurrent systems](http://www.pps.univ-paris-diderot.fr/~kerneis/software/), designed and developed by Juliusz Chroboczek and Gabriel Kerneis. [github repository](https://github.com/kerneis/cpc)
 - The construction of a CPS-based compiler for [ML](https://en.wikipedia.org/wiki/ML_\(programming_language\) "ML (programming language)") is described in: [Appel, Andrew W.](https://en.wikipedia.org/wiki/Andrew_Appel "Andrew Appel") (1992). [*Compiling with Continuations*](https://books.google.com/books?id=0Uoecu9ju4AC). Cambridge University Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-0-521-41695-5](https://en.wikipedia.org/wiki/Special:BookSources/978-0-521-41695-5 "Special:BookSources/978-0-521-41695-5").
@@ -192,23 +194,13 @@ Classical logic itself relates to manipulating the continuation of programs dire
 - [Dybvig, R. Kent](https://en.wikipedia.org/wiki/R._Kent_Dybvig "R. Kent Dybvig") (2003). [*The Scheme Programming Language*](http://www.scheme.com/tspl3/). Prentice Hall. p. 64. Direct link: ["Section 3.4. Continuation Passing Style"](http://scheme.com/tspl3/further.html#./further:h4).
 
 [^1]: [Sussman, Gerald Jay](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman "Gerald Jay Sussman"); [Steele, Guy L. Jr.](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr. "Guy L. Steele Jr.") (December 1975). ["Scheme: An interpreter for extended lambda calculus"](https://en.wikisource.org/wiki/Scheme:_An_interpreter_for_extended_lambda_calculus) . *[AI Memo](https://en.wikipedia.org/wiki/AI_Memo "AI Memo")*. **349**: 19. That is, in this **continuation-passing programming style**, *a function always "returns" its result by "sending" it to another function*. This is the key idea.
-
 [^2]: [Sussman, Gerald Jay](https://en.wikipedia.org/wiki/Gerald_Jay_Sussman "Gerald Jay Sussman"); [Steele, Guy L. Jr.](https://en.wikipedia.org/wiki/Guy_L._Steele_Jr. "Guy L. Steele Jr.") (December 1998). ["Scheme: A Interpreter for Extended Lambda Calculus"](https://www.cs.ru.nl/~freek/courses/tt-2011/papers/cps/HOSC-11-4-pp405-439.pdf) (reprint). *Higher-Order and Symbolic Computation*. **11** (4): 405– 439. [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1023/A:1010035624696](https://doi.org/10.1023%2FA%3A1010035624696). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [18040106](https://api.semanticscholar.org/CorpusID:18040106). We believe that this was the first occurrence of the term " **continuation-passing style** " in the literature. It has turned out to be an important concept in source code analysis and transformation for compilers and other metaprogramming tools. It has also inspired a set of other "styles" of program expression.
-
 [^3]: [Reynolds, John C.](https://en.wikipedia.org/wiki/John_C._Reynolds "John C. Reynolds") (1993). "The Discoveries of Continuations". *LISP and Symbolic Computation*. **6** (3– 4): 233– 248. [CiteSeerX](https://en.wikipedia.org/wiki/CiteSeerX_\(identifier\) "CiteSeerX (identifier)") [10.1.1.135.4705](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.135.4705). [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1007/bf01019459](https://doi.org/10.1007%2Fbf01019459). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [192862](https://api.semanticscholar.org/CorpusID:192862).
-
 [^4]: [Appel, Andrew W.](https://en.wikipedia.org/wiki/Andrew_Appel "Andrew Appel") (April 1998). "SSA is Functional Programming". *ACM SIGPLAN Notices*. **33** (4): 17– 20. [CiteSeerX](https://en.wikipedia.org/wiki/CiteSeerX_\(identifier\) "CiteSeerX (identifier)") [10.1.1.34.3282](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.34.3282). [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1145/278283.278285](https://doi.org/10.1145%2F278283.278285). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [207227209](https://api.semanticscholar.org/CorpusID:207227209).
-
 [^5]: Kelsey, Richard A. (March 1995). "A Correspondence between Continuation Passing Style and Static Single Assignment Form". *ACM SIGPLAN Notices*. **30** (3): 13– 22. [CiteSeerX](https://en.wikipedia.org/wiki/CiteSeerX_\(identifier\) "CiteSeerX (identifier)") [10.1.1.489.930](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.489.930). [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1145/202530.202532](https://doi.org/10.1145%2F202530.202532).
-
 [^6]: [Appel, Andrew W.](https://en.wikipedia.org/wiki/Andrew_Appel "Andrew Appel") (1992). *Compiling with Continuations*. Cambridge University Press. [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [0-521-41695-7](https://en.wikipedia.org/wiki/Special:BookSources/0-521-41695-7 "Special:BookSources/0-521-41695-7").
-
 [^7]: Stay, Mike. (Report).
-
 [^8]: Mike Stay,
-
 [^9]: Boudol, Gérard (1997). "The π-Calculus in Direct Style". [CiteSeerX](https://en.wikipedia.org/wiki/CiteSeerX_\(identifier\) "CiteSeerX (identifier)") [10.1.1.52.6034](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.52.6034).
-
 [^10]: Barker, Chris (2002-09-01). ["Continuations and the Nature of Quantification"](http://www.semanticsarchive.net/Archive/902ad5f7/barker.continuations.pdf) (PDF). *Natural Language Semantics*. **10** (3): 211– 242. [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1023/A:1022183511876](https://doi.org/10.1023%2FA%3A1022183511876). [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [1572-865X](https://search.worldcat.org/issn/1572-865X). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [118870676](https://api.semanticscholar.org/CorpusID:118870676).
-
 [^11]: Griffin, Timothy (January 1990). "A formulae-as-type notion of control". *Proceedings of the 17th ACM SIGPLAN-SIGACT symposium on Principles of programming languages - POPL '90*. Vol. 17. pp. 47– 58. [doi](https://en.wikipedia.org/wiki/Doi_\(identifier\) "Doi (identifier)"):[10.1145/96709.96714](https://doi.org/10.1145%2F96709.96714). [ISBN](https://en.wikipedia.org/wiki/ISBN_\(identifier\) "ISBN (identifier)") [978-0-89791-343-0](https://en.wikipedia.org/wiki/Special:BookSources/978-0-89791-343-0 "Special:BookSources/978-0-89791-343-0"). [S2CID](https://en.wikipedia.org/wiki/S2CID_\(identifier\) "S2CID (identifier)") [3005134](https://api.semanticscholar.org/CorpusID:3005134).
