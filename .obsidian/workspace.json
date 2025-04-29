@@ -8,110 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5cbdd02ae87febe",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Daily Notes/2025/04/TaskList.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    true,
-                    false,
-                    false,
-                    false,
-                    true,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "TaskList"
-            }
-          },
-          {
-            "id": "badb9d493029e5fa",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.cs.cornell.edu/courses/cs7194/2019sp/",
-                "title": "CS 7194 - Great works in Programming Languages",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "CS 7194 - Great works in Programming Languages"
-            }
-          },
-          {
-            "id": "1808b45305cee734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiler/Tagless Final.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tagless Final"
-            }
-          },
-          {
             "id": "b5cee4bb0e80cf3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/参考になるブログ.md",
+                "file": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "参考になるブログ"
+              "title": "A semantics for while with break, continue and goto"
             }
           },
           {
-            "id": "8852057922a4a74c",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dl.acm.org/doi/10.1145/3544548.3580785",
-                "title": "Structured Editing for All: Deriving Usable Structured Editors from Grammars | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Structured Editing for All: Deriving Usable Structured Editors from Grammars | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
-            }
-          },
-          {
-            "id": "eeeaa7e37ae770c2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://okmij.org/ftp/Computation/var-effect/Wasm/wasm.ml",
-                "title": "okmij.org/ftp/Computation/var-effect/Wasm/wasm.ml",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "okmij.org/ftp/Computation/var-effect/Wasm/wasm.ml"
-            }
-          },
-          {
-            "id": "e15a60c88c26429a",
+            "id": "ef979749e3b4cde2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Logic/Rewriting/λµµ˜-calculus.md",
+                "file": "Compiler/Closure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "λµµ˜-calculus"
+              "title": "Closure"
+            }
+          },
+          {
+            "id": "ac24bcc13882b235",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -127,9 +62,37 @@
               "icon": "globe-2",
               "title": "Lambda Calculus and Lambda Calculators"
             }
+          },
+          {
+            "id": "04c216bd91162239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/04/2025-04-27-Sunday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-27-Sunday"
+            }
+          },
+          {
+            "id": "4948c1abf2a3d32a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://curtclifton.net/papers/MoseleyMarks06a.pdf",
+                "title": "Out of the Tar Pit",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Out of the Tar Pit"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +112,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -161,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tagless",
+                "query": "oop",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,16 +166,23 @@
             }
           },
           {
-            "id": "875c2405bd9c0409",
+            "id": "20cdfdfd6fd300ff",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          },
+          {
+            "id": "529b0cde60276143",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -367,44 +337,83 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b5cee4bb0e80cf3d",
+  "floating": {
+    "id": "24aa0e07d4c107a3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "138c408ddb030d92",
+        "type": "window",
+        "children": [
+          {
+            "id": "72d51b6a5e6bba1d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8dcd78fc53baf41f",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://screen.garden/",
+                    "title": "Collaboration in Obsidian and on the web | screen.garden",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Collaboration in Obsidian and on the web | screen.garden"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "80ac97b5a79e9802",
   "lastOpenFiles": [
-    "PL/Racket/Beau­tiful Racket.md",
-    "自作アプリ/Structure editor.md",
-    "PL/Racket",
-    "Theory/Logic/Categorical logic.md",
-    "Theory/Math/Graph theory/Graph Theory.md",
-    "Theory/Type Theory/Conversion rule/Conversion Rule.md",
-    "Theory/Math/Graph theory",
-    "Theory/Type Theory/Type Theory.md",
-    "Misc/AI/LLM.md",
-    "Theory/Type Theory/Conversion rule",
-    "Misc/AI/claude code.md",
+    "index.md",
+    "README.md",
+    "Compiler/Closure.md",
+    "Compiler/A Few Principles of Macro Design.md",
+    "Compiler/ラムダ計算のコンパイル.md",
+    "Index.md",
+    "Timestamps/2025/04/2025-04-29-Tuesday.md",
+    "Timestamps/2025/04/2025-04-28-Monday.md",
+    "PL/Haskell/Recursion Schemes.md",
+    "Blog/参考になるブログ.md",
+    "PL/Haskell",
+    "Compiler/Backend/Abstract Machine.md",
+    "Theory/Logic/Rewriting/SystemF.md",
+    "Compiler/OOP.md",
+    "Compiler/Type System/MLSUB.md",
+    "Theory/Logic/Rewriting/lambda calculus.md",
+    "Theory/Logic/Girard/Blind spot.md",
     "Misc/AI/index.md",
-    "Misc/AI/MCP.md",
-    "Theory/Logic/Semantics/Game Semantics.md",
-    "Theory/Logic/Semantics/Semantics.md",
-    "Theory/Logic/Semantics/SyntaxとSemantics、言語に存在する２つの並行世界.md",
-    "Daily Notes/2025/04/2025-04-26-Saturday.md",
-    "Daily Notes/2025/04/2025-04-25-Friday.md",
-    "_Template/01_daily-note.md",
-    "Timestamps/2025/04-April/2025-04-25-Friday.md",
-    "Compiler/Tagless Final.md",
+    "Timestamps/2025/04/2025-04-27-Sunday.md",
+    "Clippings/Continuation-passing style - Wikipedia.md",
+    "Misc/AI/Machine learning/Tensor Flow.md",
+    "Misc/AI/Machine learning/Understanding Machine Learning Principles.md",
+    "Theory/Logic/Interaction Combinators.md",
+    "Misc/AI/Machine learning",
+    "Blog/現代的なUIフレームワークの目的とは？.md",
+    "Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
+    "Blog/本質的複雑性と偶発的複雑性.md",
+    "Blog/依存関係をコントロールする.md",
     "Timestamps/2025/04-April",
     "Timestamps/2025",
     "Timestamps",
-    "Blog/依存関係をコントロールする.md",
-    "Compiler/Expression problem.md",
-    "Compiler/The Expression Problem.md",
-    "Blog/読む候補の論文.md",
-    "Blog/参考になるブログ.md",
-    "Theory/Logic/Rewriting/λµµ˜-calculus.md",
-    "Theory/Type Theory/Session Type.md",
-    "Architecture/ソフトウェアアーキテクチャの基礎.md",
+    "PL/Racket",
+    "Theory/Math/Graph theory",
+    "Theory/Type Theory/Conversion rule",
     "Theory/Type Theory",
     "Compiler/Books/Crafting Interpreters",
-    "Untitled",
-    "Theory/Logic/Semantics",
     "InkDrop/開発/読書/hj6fwa0h1-cc6a113db420ae175ef73b7c8d70261e.jpg",
     "InkDrop/開発/技術ブログ/wfet1PJeX-rn_image_picker_lib_temp_4e6d0c8a-5f9e-4ae5-a612-12d67fee3881.png",
     "Untitled.canvas",
