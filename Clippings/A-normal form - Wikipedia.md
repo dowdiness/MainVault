@@ -1,10 +1,10 @@
 ---
 title: A-normal form - Wikipedia
 source: https://en.wikipedia.org/wiki/A-normal_form
-author: 
-published: 
+author: anonymous
+published: false
 date: 2025-04-19
-description: 
+description: A-normal_form wiki clipping
 tags: [clippings, compiler, ir]
 date created: Saturday,2025 April 19th, 4:45:12 pm
 date modified: Tuesday,2025 April 29th, 6:03:05 pm

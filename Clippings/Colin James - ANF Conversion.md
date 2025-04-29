@@ -3,9 +3,9 @@ title: "Colin James - ANF Conversion"
 source: "https://compiler.club/anf-conversion/"
 author:
   - Colin James
-published:
+published: false
 date: 2025-04-19
-description:
+description: anf-conversion implementation clipping
 tags: ["clippings"]
 date created: Saturday,2025 April 19th, 4:44:51 pm
 date modified: Tuesday,2025 April 29th, 6:03:00 pm
@@ -36,7 +36,7 @@ There are important points to note about the above:
 
 - Evaluation order becomes explicit as complex expressions are linearised into their constituent parts.
 - Arguments to functions become “trivial” - their evaluation halts immediately (in our case, arguments are either variables or integer literals).
-  
+
 
 ## The Algorithm
 
@@ -86,7 +86,7 @@ To illustrate this, consider the literate algebraic data type representation of 
 LetBop ("t0", Add, Lit 6, Lit 8,
   LetCall ("t1", "foo", [Var "t0"; Lit 10],
     LetCall ("t2", "id", [Lit 12],
-      LetCall ("t3", "bar", [Lit 2; Var "t2"], 
+      LetCall ("t3", "bar", [Lit 2; Var "t2"],
         LetBop ("t4", Mul, Var "t1", Var "t3", Halt "t4")))))
 ```
 
@@ -127,7 +127,7 @@ In order to do this, we will construct an $n$ -ary embedding context of type val
 
 ```ocaml
 | Call (f, es) ->
-    let accumulate e ctx vs = 
+    let accumulate e ctx vs =
       go e (fun v -> ctx (v :: vs))
     in
     let base vs =
@@ -143,7 +143,7 @@ Finally, we’ll wrap go up inside a function, `anf`, that invokes go with a top
 
 ```ocaml
 let anf =
-  let rec go e k = match e with 
+  let rec go e k = match e with
     | Lit i -> k (Int i)
     | Bop (op, l, r) ->
        let ( let* ) = (@@) in
@@ -152,18 +152,18 @@ let anf =
        let t = fresh "t" in
        LetBop (t, op, l, r, k (Var t))
     | Call (f, es) ->
-       let accumulate e ctx vs = 
+       let accumulate e ctx vs =
          go e (fun v -> ctx (v :: vs))
        in
        let base vs =
          let t = fresh "t" in
          LetCall (t, f, List.rev vs, k (Var t))
        in
-       List.fold_right accumulate es base [] 
+       List.fold_right accumulate es base []
   in
   Fun.flip go (fun v -> Halt v)
 ```
-  
+
 
 ## Final Program
 

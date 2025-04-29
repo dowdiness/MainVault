@@ -3,7 +3,7 @@ title: "egg: Fast and Extensible Equality Saturation"
 source: "https://arxiv.org/abs/2004.03082"
 author:
   - "[[arXiv.org]]"
-published:
+published: false
 date: 2025-04-19
 description: "Abstract page for arXiv paper 2004.03082: egg: Fast and Extensible Equality Saturation"
 tags: ["clippings"]
@@ -19,8 +19,8 @@ Authors:, , , , ,
 
 [View PDF](https://arxiv.org/pdf/2004.03082)
 
-> Abstract:An e-graph efficiently represents a congruence relation over many expressions. Although they were originally developed in the late 1970s for use in automated theorem provers, a more recent technique known as equality saturation repurposes e-graphs to implement state-of-the-art, rewrite-driven compiler optimizations and program synthesizers. However, e-graphs remain unspecialized for this newer use case. Equality saturation workloads exhibit distinct characteristics and often require ad-hoc e-graph extensions to incorporate transformations beyond purely syntactic rewrites.  
-> This work contributes two techniques that make e-graphs fast and extensible, specializing them to equality saturation. A new amortized invariant restoration technique called rebuilding takes advantage of equality saturation's distinct workload, providing asymptotic speedups over current techniques in practice. A general mechanism called e-class analyses integrates domain-specific analyses into the e-graph, reducing the need for ad hoc manipulation.  
+> Abstract:An e-graph efficiently represents a congruence relation over many expressions. Although they were originally developed in the late 1970s for use in automated theorem provers, a more recent technique known as equality saturation repurposes e-graphs to implement state-of-the-art, rewrite-driven compiler optimizations and program synthesizers. However, e-graphs remain unspecialized for this newer use case. Equality saturation workloads exhibit distinct characteristics and often require ad-hoc e-graph extensions to incorporate transformations beyond purely syntactic rewrites.
+> This work contributes two techniques that make e-graphs fast and extensible, specializing them to equality saturation. A new amortized invariant restoration technique called rebuilding takes advantage of equality saturation's distinct workload, providing asymptotic speedups over current techniques in practice. A general mechanism called e-class analyses integrates domain-specific analyses into the e-graph, reducing the need for ad hoc manipulation.
 > We implemented these techniques in a new open-source library called egg. Our case studies on three previously published applications of equality saturation highlight how egg's performance and flexibility enable state-of-the-art results across diverse domains.
 
 | Comments: | 25 pages, 15 figures, POPL 2021 |
@@ -34,10 +34,10 @@ Authors:, , , , ,
 
 # Submission history
 
-From: Max Willsey \[[view email](https://arxiv.org/show-email/bbef6b90/2004.03082)\]  
-**[\[v1\]](https://arxiv.org/abs/2004.03082v1)** Tue, 7 Apr 2020 02:26:12 UTC (142 KB)  
-**[\[v2\]](https://arxiv.org/abs/2004.03082v2)** Fri, 10 Jul 2020 19:56:18 UTC (481 KB)  
-**\[v3\]** Sat, 7 Nov 2020 20:33:53 UTC (525 KB)  
+From: Max Willsey \[[view email](https://arxiv.org/show-email/bbef6b90/2004.03082)\]
+**[\[v1\]](https://arxiv.org/abs/2004.03082v1)** Tue, 7 Apr 2020 02:26:12 UTC (142 KB)
+**[\[v2\]](https://arxiv.org/abs/2004.03082v2)** Fri, 10 Jul 2020 19:56:18 UTC (481 KB)
+**\[v3\]** Sat, 7 Nov 2020 20:33:53 UTC (525 KB)
 
 # Bibliographic and Citation Tools
 
