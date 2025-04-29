@@ -1,7 +1,7 @@
 ---
 tags: [semantics]
-date created: Wednesday,2025 April 9th, 2:53:12 pm
-date modified: Saturday,2025 April 26th, 10:51:55 pm
+created: Wednesday,2025 April 9th, 2:53:12 pm
+modified: Tuesday,2025 April 29th, 6:38:26 pm
 ---
 
 [Formal semantics and pragmatics: Origins, issues, impact](https://youtu.be/TpKpjiS1aic?si=wV_7tYte-_bIRuwC)
