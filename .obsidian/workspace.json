@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d3d70dd9562800dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "講義/Theory of computation/TM Variants, the Church-Turing Thesis.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "TM Variants, the Church-Turing Thesis"
-            }
-          },
-          {
             "id": "03509f1276401746",
             "type": "leaf",
             "state": {
@@ -81,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "クロージ",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -294,8 +280,17 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d3d70dd9562800dd",
+  "active": "80ac97b5a79e9802",
   "lastOpenFiles": [
+    "Compiler/Middleend/α-conversion.md",
+    "講義/Theory of computation/Theory Of Computation.md",
+    "講義/Theory of computation/Time Complexity.md",
+    "Theory/Logic/Rewriting/index.md",
+    "Theory/型システム/index.md",
+    "index.md",
+    "講義/Computer Networking/index.md",
+    "講義/Distributed Systems/index.md",
+    "講義/Theory of computation/TM Variants, the Church-Turing Thesis.md",
     "Excalidraw/Drawing 2025-04-19 18.50.05.excalidraw.md",
     "講義/応用技術者試験/開発技術.md",
     "講義/応用技術者試験/技術要素.md",
@@ -312,16 +307,7 @@
     "講義/Mathematics for Computer Science/index.md",
     "講義/Introduction to Machine Learning/index.md",
     "講義/Distributed Systems/Introduction.md",
-    "講義/Distributed Systems/index.md",
     "講義/Database/index.md",
-    "講義/Computer Networking/index.md",
-    "Timestamps/2025/04/2025-04-29-Tuesday.md",
-    "Timestamps/2025/04/TaskList.md",
-    "Timestamps/2025/04/2025-04-28-Monday.md",
-    "Timestamps/2025/04/2025-04-27-Sunday.md",
-    "Timestamps/2025/04/2025-04-26-Saturday.md",
-    "Timestamps/2025/04/2025-04-25-Friday.md",
-    "Timestamps/2025/04/2025-04-24-Thursday.md",
     "PL/Haskell",
     "Misc/AI/Machine learning",
     "Timestamps/2025/04-April",

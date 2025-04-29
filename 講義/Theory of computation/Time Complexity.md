@@ -1,11 +1,9 @@
 ---
-aliases: [index]
+aliases: [Time Complexity, TIME Complexity Class]
 publish: true
 created: 2025-03-30T18:53:20+09:00
-modified: 2025-04-29T20:14:42+09:00
+modified: 2025-04-29T20:33:00+09:00
 ---
-
-# index
 
 [YouTube](https://youtu.be/asjAc90L8rE?si=ZKy7FLOd3Kkl1Wm0)
 
@@ -32,4 +30,5 @@ Defn: $P=\bigcup_{k}TIME(n^{k})$ = Polynomial time decidable language
 $PATH \in P$
 
 Polynomial Time: Each stage is polynomial and the total number of steps polynomial
+
 # The Class NP
