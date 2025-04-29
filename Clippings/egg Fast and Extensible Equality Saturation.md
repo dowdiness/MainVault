@@ -3,7 +3,6 @@ title: "egg: Fast and Extensible Equality Saturation"
 source: "https://arxiv.org/abs/2004.03082"
 author:
   - "[[arXiv.org]]"
-published: false
 description: "Abstract page for arXiv paper 2004.03082: egg: Fast and Extensible Equality Saturation"
 tags: ["clippings"]
 aliases: ["Title:egg: Fast and Extensible Equality Saturation"]

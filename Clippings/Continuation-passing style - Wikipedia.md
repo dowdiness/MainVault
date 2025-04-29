@@ -2,7 +2,6 @@
 title: "Continuation-passing style - Wikipedia"
 source: "https://en.wikipedia.org/wiki/Continuation-passing_style"
 author: anonymous
-published: false
 description: Continuation-passing_style wiki clipping
 tags: ["clippings"]
 aliases: [Examples]

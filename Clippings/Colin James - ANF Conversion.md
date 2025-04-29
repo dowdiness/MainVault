@@ -3,7 +3,6 @@ title: "Colin James - ANF Conversion"
 source: "https://compiler.club/anf-conversion/"
 author:
   - Colin James
-published: false
 description: anf-conversion implementation clipping
 tags: ["clippings"]
 aliases: [ANF Conversion]
