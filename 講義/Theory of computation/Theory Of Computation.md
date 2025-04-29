@@ -1,7 +1,17 @@
+---
+title: Theory Of Computation
+publish: true
+tags: [CS, Theory Of Computation]
+aliases: [Theory Of Computation]
+date: 2025-04-05
+date created: Wednesday,2025 March 5th, 11:57:29 am
+date modified: Tuesday,2025 April 29th, 3:31:38 pm
+---
+
 [MIT OpenCourseWare](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 [Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 
-## Index of Notes
+# Index of Notes
 
 1. [[Introduction, Finite Automata, Regular Expression]]
 2. [[Nondeterminism, Closure Properties, Regular Expressions → Finite Automata]]
@@ -22,18 +32,18 @@
 17. [[Space Complexity, PSPACE, Savitch’s Theorem]]
 18. 
 
-## Automata and Language
+# Automata and Language
 
 1-5
-## Computability Theory
+# Computability Theory
 
 5- 11
-## Complexity Theory
+# Complexity Theory
 
 12 - 25
 
-### Time Complexity
+## Time Complexity
 
-### Space Complexity
+## Space Complexity
 
-### Hierarchy Complexity
+## Hierarchy Complexity

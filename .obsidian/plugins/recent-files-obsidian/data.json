@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "クロージャの理解のために知ってほしいこと",
+      "path": "PL/JS/クロージャの理解のために知ってほしいこと.md"
+    },
+    {
+      "basename": "Theory Of Computation",
+      "path": "講義/Theory of computation/Theory Of Computation.md"
+    },
+    {
+      "basename": "Introduction, Finite Automata, Regular Expression",
+      "path": "講義/Theory of computation/Introduction, Finite Automata, Regular Expression.md"
+    },
+    {
+      "basename": "2025-04-27-Sunday",
+      "path": "Timestamps/2025/04/2025-04-27-Sunday.md"
     },
     {
       "basename": "Closure",
       "path": "Compiler/Closure.md"
+    },
+    {
+      "basename": "A semantics for while with break, continue and goto",
+      "path": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "A Few Principles of Macro Design",
@@ -59,10 +79,6 @@
     {
       "basename": "index",
       "path": "Misc/AI/index.md"
-    },
-    {
-      "basename": "2025-04-27-Sunday",
-      "path": "Timestamps/2025/04/2025-04-27-Sunday.md"
     },
     {
       "basename": "Continuation-passing style - Wikipedia",
@@ -125,10 +141,6 @@
       "path": "Misc/AI/LLM.md"
     },
     {
-      "basename": "A semantics for while with break, continue and goto",
-      "path": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md"
-    },
-    {
       "basename": "Tagless Final",
       "path": "Compiler/Tagless Final.md"
     },
@@ -187,14 +199,6 @@
     {
       "basename": "2025-04-26-Saturday",
       "path": "Timestamps/2025/04/2025-04-26-Saturday.md"
-    },
-    {
-      "basename": "ソフトウェアアーキテクチャの基礎",
-      "path": "Architecture/ソフトウェアアーキテクチャの基礎.md"
-    },
-    {
-      "basename": "TaskList",
-      "path": "Timestamps/2025/04/TaskList.md"
     }
   ],
   "omittedPaths": [],

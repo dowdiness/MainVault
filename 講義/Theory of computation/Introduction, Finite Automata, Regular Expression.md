@@ -1,3 +1,13 @@
+---
+title: Introduction, Finite Automata, Regular Expression
+publish: true
+tags: [CS]
+aliases: ['Introduction, Finite Automata, Regular Expression']
+date: 2025-03-05
+date created: Wednesday,2025 March 5th, 11:57:37 am
+date modified: Tuesday,2025 April 29th, 3:31:28 pm
+---
+
 [Video](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)
 #  Finite automaton
 
@@ -38,7 +48,7 @@ Example. Let A = {good, bad} and Let B = {boy, girl}.
 - $A \circ B$ = $AB$ = {goodboy, goodgirl, badboy, badgirl}
 - $A^{\ast}$ = {ε, good, bad, goodgood, goodbad, badgood, badbad, goodgoodgood, goodgoodbad, ... }
 
-### Regular expressions
+## Regular expressions
 
 - Build from Σ, Members are $\Sigma, \emptyset, \epsilon$ [Atomic]
 - By using $\bigcup, \circ, \ast$ [Composite]
@@ -49,7 +59,7 @@ Examples
 - $\Sigma^{\ast}1$ = a
 - $\Sigma^{\ast}11\Sigma^{\ast}$ = a
 
-#### Closure properties for Regular Expressions
+### Closure properties for Regular Expressions
 
 If $A_{1},A_{2}$ are regular languages, so is $A_{1} \bigcup A_{2}$ (closure under $\bigcup$)
 

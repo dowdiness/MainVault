@@ -59,7 +59,8 @@
     "//Timestamps/Timestamps/2024",
     "//Compiler",
     "//Compiler/Compiler/Middleend",
-    "//Compiler/Compiler/Books"
+    "//Compiler/Compiler/Books",
+    "//講義/講義/Theory of computation"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
