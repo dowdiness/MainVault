@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-06-19",
+      "path": "Timestamps/2024/2024-06-19.md"
+    },
+    {
+      "basename": "α-conversion",
+      "path": "Compiler/Middleend/α-conversion.md"
+    },
+    {
+      "basename": "Theory Of Computation",
+      "path": "講義/Theory of computation/Theory Of Computation.md"
+    },
+    {
+      "basename": "Time Complexity",
+      "path": "講義/Theory of computation/Time Complexity.md"
+    },
+    {
+      "basename": "index",
+      "path": "Theory/Logic/Rewriting/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "Theory/型システム/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Computer Networking/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Distributed Systems/index.md"
+    },
+    {
       "basename": "TM Variants, the Church-Turing Thesis",
       "path": "講義/Theory of computation/TM Variants, the Church-Turing Thesis.md"
     },
@@ -70,15 +106,7 @@
     },
     {
       "basename": "index",
-      "path": "講義/Distributed Systems/index.md"
-    },
-    {
-      "basename": "index",
       "path": "講義/Database/index.md"
-    },
-    {
-      "basename": "index",
-      "path": "講義/Computer Networking/index.md"
     },
     {
       "basename": "2025-04-29-Tuesday",
@@ -119,10 +147,6 @@
     {
       "basename": "+Daily Notes",
       "path": "Timestamps/2025/04/+Daily Notes.md"
-    },
-    {
-      "basename": "2024-06-19",
-      "path": "Timestamps/2024/2024-06-19.md"
     },
     {
       "basename": "2024-10-03",
@@ -175,30 +199,6 @@
     {
       "basename": "index",
       "path": "Theory/Logic/Girard/index.md"
-    },
-    {
-      "basename": "Blind spot",
-      "path": "Theory/Logic/Girard/Blind spot.md"
-    },
-    {
-      "basename": "Sequent calculus",
-      "path": "Theory/Logic/Sequent calculus.md"
-    },
-    {
-      "basename": "Syntax",
-      "path": "Theory/Logic/Syntax.md"
-    },
-    {
-      "basename": "Graph Theory",
-      "path": "Theory/Math/Graph theory/Graph Theory.md"
-    },
-    {
-      "basename": "index",
-      "path": "Theory/Math/Notes on Lattice Theory/index.md"
-    },
-    {
-      "basename": "Domain Theory",
-      "path": "Theory/Math/Domain Theory.md"
     }
   ],
   "omittedPaths": [],
