@@ -1,5 +1,11 @@
+---
+aliases: [index]
+publish: true
+created: 2025-03-30T18:53:20+09:00
+modified: 2025-04-29T20:14:42+09:00
+---
 
-## index
+# index
 
 [YouTube](https://youtu.be/asjAc90L8rE?si=ZKy7FLOd3Kkl1Wm0)
 
@@ -13,12 +19,12 @@ $A = \{a^{k}b^{k}| k\ge0\}$
 **Computability Theory: model independence**
 **Complexity Theory: model dependence**
 
-## TIME Complexity Class
+# TIME Complexity Class
 
 
 All reasonable deterministic models are polynomially related.
 
-## The Class P
+# The Class P
 
 Defn: $P=\bigcup_{k}TIME(n^{k})$ = Polynomial time decidable language
 - Invariant for all reasonable deterministic models
@@ -26,4 +32,4 @@ Defn: $P=\bigcup_{k}TIME(n^{k})$ = Polynomial time decidable language
 $PATH \in P$
 
 Polynomial Time: Each stage is polynomial and the total number of steps polynomial
-## The Class NP
+# The Class NP

@@ -1,4 +1,10 @@
-## list
+---
+aliases: [list]
+created: 2025-04-19T16:26:11+09:00
+modified: 2025-04-29T20:20:04+09:00
+---
+
+# list
 
 [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 

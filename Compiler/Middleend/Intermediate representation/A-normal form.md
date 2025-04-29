@@ -1,6 +1,10 @@
 ---
-tags: ir, compiler
+tags: [compiler, ir]
+aliases: [Intro]
+created: 2025-04-18T13:52:21+09:00
+modified: 2025-04-29T20:20:07+09:00
 ---
+
 # Intro
 
 [[A-normal form - Wikipedia]]

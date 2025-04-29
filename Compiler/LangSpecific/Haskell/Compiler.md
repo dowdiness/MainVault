@@ -1,3 +1,9 @@
+---
+aliases: [はじめに]
+created: 2024-06-28T02:15:00+09:00
+modified: 2025-04-29T20:20:42+09:00
+---
+
 # はじめに
 [Haskell コンパイラを書こう！](https://uhideyuki.sakura.ne.jp/studs/index.cgi/ja/HaskellInHaskell)
 Haskellコンパイラに知りたいなら最初に読みたい記事。

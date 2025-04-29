@@ -1,3 +1,8 @@
+---
+aliases: [useState]
+created: 2024-12-23T10:15:51+09:00
+modified: 2025-04-29T20:17:32+09:00
+---
 
 |                       | 再レンダーの実行 | 変数の変更 | データの保存場所 |
 | --------------------- | -------- | ----- | -------- |
@@ -6,9 +11,9 @@
 | モジュールスコープ変数           | 出来ない     | 出来る   | モジュール    |
 
 状態のライフタイム
-## useState
+# useState
 
-### 使う基準
+## 使う基準
 
 `dispatch関数(use何とか)` を使ってHTMLの変更をしたい
 
@@ -17,7 +22,7 @@
 [react-dom-bindings](https://github.com/facebook/react/tree/main/packages/react-dom-bindings) で
 https://github.com/facebook/react/tree/main/packages/react-dom
 
-## useRef
+# useRef
 
 ```ts
 function useRef(initialState) {
@@ -48,8 +53,8 @@ wikiの訳語の統一にもpaintの項目を追加したほうが良いかも�
 
 そういう日本語の資料を今まで読んだきた人がこのドキュメントで描画という単語に出会った時に勘違いしないためにも、カタカナでペイントにしたほうが明確な意図があってこの言葉を選んでるんだなというのが分かって混乱が起きにくい気がします。
 
-## Context
+# Context
 
 グローバルなステート管理ではない
 
-## 外部にステートを持ちたい場合
+# 外部にステートを持ちたい場合

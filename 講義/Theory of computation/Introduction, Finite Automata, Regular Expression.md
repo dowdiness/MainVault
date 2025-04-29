@@ -2,10 +2,12 @@
 title: Introduction, Finite Automata, Regular Expression
 publish: true
 tags: [CS]
-aliases: ['Introduction, Finite Automata, Regular Expression']
+aliases: ['Introduction, Finite Automata, Regular Expression', Finite automaton]
 date: 2025-03-05
 date created: Wednesday,2025 March 5th, 11:57:37 am
 date modified: Tuesday,2025 April 29th, 3:31:28 pm
+created: 2025-03-05T11:57:37+09:00
+modified: 2025-04-29T20:13:23+09:00
 ---
 
 [Video](https://www.youtube.com/watch?v=9syvZr-9xwk&list=PLUl4u3cNGP60_JNv2MmK3wkOt9syvfQWY)

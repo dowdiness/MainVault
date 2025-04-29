@@ -1,3 +1,10 @@
+---
+aliases: [Goals]
+publish: true
+created: 2025-03-05T12:30:44+09:00
+modified: 2025-04-29T20:14:53+09:00
+---
+
 # Goals
 
 - Nondeterminism

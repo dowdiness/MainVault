@@ -1,9 +1,8 @@
 ---
-date: 2025-04-26
 tags: ["Projectional editor", "Structure editor"]
-aliases: [Structure editor]
-date created: Saturday,2025 April 26th, 7:22:26 pm
-date modified: Saturday,2025 April 26th, 8:04:38 pm
+aliases: [Examples, Structure editor]
+created: 2025-04-26T19:22:26+09:00
+modified: 2025-04-29T20:13:02+09:00
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Structure_editor)

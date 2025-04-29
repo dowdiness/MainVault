@@ -1,3 +1,8 @@
+---
+created: 2024-06-25T20:22:42+09:00
+modified: 2025-04-29T20:19:38+09:00
+---
+
 [wiki](https://en.wikipedia.org/wiki/Row_polymorphism)
 
 

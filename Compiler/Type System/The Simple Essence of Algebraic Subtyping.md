@@ -1,3 +1,9 @@
+---
+aliases: [これは何？]
+created: 2024-06-27T22:49:26+09:00
+modified: 2025-04-29T20:19:56+09:00
+---
+
 # これは何？
 
 [The Simple Essence of Algebraic Subtyping](https://lptk.github.io/programming/2020/03/26/demystifying-mlsub.html)を読んだ簡単なまとめです。読んだ時に書いたメモなので内容の正確性や読みやすさへの保証は持てません。詳しくは元論文と[Githubの実装](https://github.com/LPTK/simple-sub)に当たってください。

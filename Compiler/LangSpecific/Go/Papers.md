@@ -1,3 +1,8 @@
+---
+aliases: [Featherweight Go]
+created: 2024-06-28T02:10:05+09:00
+modified: 2025-04-29T20:20:44+09:00
+---
 
 # Featherweight Go
 [Featherweight Go](https://arxiv.org/abs/2005.11710) [動画](https://www.youtube.com/watch?v=62xlcsJ0AUs)

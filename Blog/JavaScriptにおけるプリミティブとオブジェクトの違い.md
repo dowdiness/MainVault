@@ -1,9 +1,7 @@
 ---
-date: 2025-04-27
 tags: [JavaScript]
-aliases: [JavaScriptにおけるプリミティブとオブジェクトの違い]
-date created: Sunday,2025 April 27th, 4:09:02 pm
-date modified: Sunday,2025 April 27th, 4:30:41 pm
+created: 2025-04-27T16:09:02+09:00
+modified: 2025-04-29T20:09:23+09:00
 ---
 
 # JavaScriptにおけるプリミティブとオブジェクトの違い

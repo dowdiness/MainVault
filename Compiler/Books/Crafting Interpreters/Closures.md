@@ -1,9 +1,9 @@
 ---
 date: 2025-04-25
 tags: ["books"]
-aliases: [Closures]
-date created: Friday,2025 April 25th, 4:52:32 pm
-date modified: Friday,2025 April 25th, 4:53:18 pm
+aliases: [25. Closures, Closures]
+created: 2025-04-25T16:52:32+09:00
+modified: 2025-04-29T20:20:55+09:00
 ---
 
 

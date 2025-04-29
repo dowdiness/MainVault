@@ -1,9 +1,7 @@
 ---
-date: 2025-04-26
 tags: ["Conversion Rule", "type theory"]
-aliases: [Conversion Rule]
-date created: Saturday,2025 April 26th, 7:09:46 pm
-date modified: Saturday,2025 April 26th, 7:15:21 pm
+created: 2025-04-26T19:09:46+09:00
+modified: 2025-04-29T20:22:15+09:00
 ---
 
 [nlab](https://ncatlab.org/nlab/show/conversion+rule)

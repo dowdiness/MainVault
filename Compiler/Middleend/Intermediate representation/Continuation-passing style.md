@@ -1,6 +1,7 @@
 ---
-date created: Friday,2025 April 18th, 1:53:01 pm
-date modified: Friday,2025 April 25th, 4:41:53 pm
+aliases: ["**継続渡しスタイル**\_(**CPS**:\_Continuation-passing style)"]
+created: 2025-04-18T13:53:01+09:00
+modified: 2025-04-29T20:19:53+09:00
 ---
 
 # **継続渡しスタイル** (**CPS**: Continuation-passing style)

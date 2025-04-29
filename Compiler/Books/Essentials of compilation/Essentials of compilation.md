@@ -1,8 +1,7 @@
 ---
 tags: ["books"]
-aliases: [Essentials of compilation]
-date created: Saturday,2025 April 12th, 12:42:53 am
-date modified: Friday,2025 April 25th, 4:51:40 pm
+created: 2025-04-12T00:42:53+09:00
+modified: 2025-04-29T20:21:12+09:00
 ---
 
 # Essentials of compilation

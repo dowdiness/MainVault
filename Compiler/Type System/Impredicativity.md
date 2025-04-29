@@ -1,3 +1,9 @@
+---
+aliases: [What is predicativity?]
+created: 2024-06-21T01:47:57+09:00
+modified: 2025-04-29T20:19:51+09:00
+---
+
 非叙述性 ([impredicativity](https://en.wikipedia.org/wiki/Impredicativity "en:Impredicativity"))
 
 **自己言及**のパラドックスを起こしているもの
@@ -13,6 +19,6 @@ https://drops.dagstuhl.de/storage/00lipics/lipics-vol175-types2019/LIPIcs.TYPES.
 
 A type system is _predicative_ if definitions can never be referred to, even indirectly, before they are defined. In particular, polymorphic types ∀𝛼.…∀α.… are predicative only if 𝛼α ranges over types not including the polymorphic type being defined. Predicative systems usually have restricted polymorphism (in ∀𝛼.…∀α.…, 𝛼α may range only over types that do not themselves use ∀∀, or there may be a system of stratified levels of ∀∀-usage). One hallmark of impredicative systems is unrestricted ∀∀ (present in e.g. System F)
 
-### [What is predicativity?](https://proofassistants.stackexchange.com/questions/326/what-is-predicativity)
+# [What is predicativity?](https://proofassistants.stackexchange.com/questions/326/what-is-predicativity)
 
 [Proof Assistants Beta](https://proofassistants.stackexchange.com/)の叙述性に関するスレッドで参考になる

@@ -13,12 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/egg Fast and Extensible Equality Saturation.md",
+                "file": "LowLevel/segmentation fault(segfault).md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "egg Fast and Extensible Equality Saturation"
+              "title": "segmentation fault(segfault)"
+            }
+          },
+          {
+            "id": "d3d70dd9562800dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "講義/Theory of computation/TM Variants, the Church-Turing Thesis.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "TM Variants, the Church-Turing Thesis"
+            }
+          },
+          {
+            "id": "03509f1276401746",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "講義/Theory of computation/CF Pumping Lemma, Turing Machines.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "CF Pumping Lemma, Turing Machines"
+            }
+          },
+          {
+            "id": "09e750b618b2793f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "講義/Theory of computation/Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion"
             }
           }
         ]
@@ -268,32 +310,32 @@
   },
   "active": "f87ed6f917f6cfeb",
   "lastOpenFiles": [
-    "Compiler/ラムダ計算のコンパイル.md",
-    "Format - momentjs.com.md",
-    "Timestamps/2025/04/2025-04-29-Tuesday.md",
-    "Timestamps/2025/04/2025-04-28-Monday.md",
-    "Timestamps/2025/04/TaskList.md",
-    "Clippings/egg Fast and Extensible Equality Saturation.md",
-    "Clippings/A-normal form - Wikipedia.md",
-    "Compiler/Call-by-Push-Value.md",
-    "Compiler/Backend/Abstract Machine.md",
-    "Compiler/Frontend/Parser/Top Down Operator Precedence.md",
-    "Compiler/静的スコープと動的スコープ.md",
-    "Compiler/OOP.md",
-    "Compiler/Expression problem.md",
-    "Compiler/Compiler Test.md",
-    "Compiler/Compiler.md",
-    "Compiler/Closure.md",
-    "Compiler/A Few Principles of Macro Design.md",
-    "Compiler/Algebraic Effects.md",
-    "Compiler/Frontend/Parser/LR 構文解析の原理.md",
-    "Misc/AI/Machine learning/Tensor Flow.md",
-    "Misc/AI/Machine learning/Understanding Machine Learning Principles.md",
-    "Misc/AI/claude code.md",
-    "Misc/AI/index.md",
-    "Misc/AI/LLM.md",
-    "Misc/AI/MCP.md",
-    "Misc/Audio/WebAudio/Web Audio Apiで自動再生が出来ない理由.md",
+    "LowLevel/CPU.md",
+    "Theory/Algorithm/Unification.md",
+    "Theory/Logic/Proof/Logical Relations.md",
+    "Theory/Logic/Proof/Realizability.md",
+    "Theory/Logic/Proof/index.md",
+    "Theory/Logic/Girard/Proofs and Types.md",
+    "Theory/Logic/Girard/index.md",
+    "Theory/Logic/Girard/Blind spot.md",
+    "Theory/Logic/Sequent calculus.md",
+    "Theory/Logic/Syntax.md",
+    "Theory/Math/Graph theory/Graph Theory.md",
+    "Theory/Math/Notes on Lattice Theory/index.md",
+    "Theory/Math/Domain Theory.md",
+    "Theory/Math/Math 教科書.md",
+    "Theory/Math/Papers.md",
+    "Theory/Math/束論.md",
+    "Theory/Math/順序集合.md",
+    "Theory/Type Theory/Conversion rule/Conversion Rule.md",
+    "Theory/Type Theory/Type Theory.md",
+    "Theory/Type Theory/Session Type.md",
+    "Theory/型システム/継承と部分型（サブタイピング）の違いについて.md",
+    "Theory/型システム/部分型関係及び、部分型多相のまとめ.md",
+    "Theory/型システム/リスコフの置換原理.md",
+    "Theory/型システム/index.md",
+    "Theory/型システム/Bidirectional type.md",
+    "Theory/型システム/「型システム入門」入門以前.md",
     "PL/Haskell",
     "Misc/AI/Machine learning",
     "Timestamps/2025/04-April",

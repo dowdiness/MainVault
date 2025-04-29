@@ -1,10 +1,10 @@
 ---
-date: 2025-04-07
-date created: Monday,2025 April 7th, 1:31:15 am
-date modified: Friday,2025 April 25th, 12:23:15 pm
+created: 2025-04-07T01:31:15+09:00
+modified: 2025-04-29T20:17:55+09:00
 ---
 
 # Realizability
+
 https://www.williamjbowman.com/blog/2022/10/05/what-is-realizability/
 
 My best understanding of realizability right now, in programming languages (PL) terms, is:

@@ -1,180 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "egg Fast and Extensible Equality Saturation",
-      "path": "Clippings/egg Fast and Extensible Equality Saturation.md"
+      "basename": "segmentation fault(segfault)",
+      "path": "LowLevel/segmentation fault(segfault).md"
     },
     {
-      "basename": "ラムダ計算のコンパイル",
-      "path": "Compiler/ラムダ計算のコンパイル.md"
-    },
-    {
-      "basename": "2025-04-29-Tuesday",
-      "path": "Timestamps/2025/04/2025-04-29-Tuesday.md"
-    },
-    {
-      "basename": "2025-04-28-Monday",
-      "path": "Timestamps/2025/04/2025-04-28-Monday.md"
-    },
-    {
-      "basename": "TaskList",
-      "path": "Timestamps/2025/04/TaskList.md"
-    },
-    {
-      "basename": "A-normal form - Wikipedia",
-      "path": "Clippings/A-normal form - Wikipedia.md"
-    },
-    {
-      "basename": "Call-by-Push-Value",
-      "path": "Compiler/Call-by-Push-Value.md"
-    },
-    {
-      "basename": "Abstract Machine",
-      "path": "Compiler/Backend/Abstract Machine.md"
-    },
-    {
-      "basename": "Top Down Operator Precedence",
-      "path": "Compiler/Frontend/Parser/Top Down Operator Precedence.md"
-    },
-    {
-      "basename": "静的スコープと動的スコープ",
-      "path": "Compiler/静的スコープと動的スコープ.md"
-    },
-    {
-      "basename": "OOP",
-      "path": "Compiler/OOP.md"
-    },
-    {
-      "basename": "Expression problem",
-      "path": "Compiler/Expression problem.md"
-    },
-    {
-      "basename": "Compiler Test",
-      "path": "Compiler/Compiler Test.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "Compiler/Compiler.md"
-    },
-    {
-      "basename": "Closure",
-      "path": "Compiler/Closure.md"
-    },
-    {
-      "basename": "A Few Principles of Macro Design",
-      "path": "Compiler/A Few Principles of Macro Design.md"
-    },
-    {
-      "basename": "Algebraic Effects",
-      "path": "Compiler/Algebraic Effects.md"
-    },
-    {
-      "basename": "LR 構文解析の原理",
-      "path": "Compiler/Frontend/Parser/LR 構文解析の原理.md"
-    },
-    {
-      "basename": "Tensor Flow",
-      "path": "Misc/AI/Machine learning/Tensor Flow.md"
-    },
-    {
-      "basename": "Understanding Machine Learning Principles",
-      "path": "Misc/AI/Machine learning/Understanding Machine Learning Principles.md"
-    },
-    {
-      "basename": "claude code",
-      "path": "Misc/AI/claude code.md"
-    },
-    {
-      "basename": "index",
-      "path": "Misc/AI/index.md"
-    },
-    {
-      "basename": "LLM",
-      "path": "Misc/AI/LLM.md"
-    },
-    {
-      "basename": "MCP",
-      "path": "Misc/AI/MCP.md"
-    },
-    {
-      "basename": "Web Audio Apiで自動再生が出来ない理由",
-      "path": "Misc/Audio/WebAudio/Web Audio Apiで自動再生が出来ない理由.md"
-    },
-    {
-      "basename": "Fluent API",
-      "path": "Misc/Fluent API.md"
-    },
-    {
-      "basename": "Misc",
-      "path": "Misc/Misc.md"
-    },
-    {
-      "basename": "システムの複雑さはどこから生まれるか？",
-      "path": "Misc/システムの複雑さはどこから生まれるか？.md"
-    },
-    {
-      "basename": "写経という言葉に対する違和感",
-      "path": "Misc/写経という言葉に対する違和感.md"
-    },
-    {
-      "basename": "英語",
-      "path": "Misc/英語.md"
-    },
-    {
-      "basename": "読みたい本リスト",
-      "path": "Misc/読みたい本リスト.md"
-    },
-    {
-      "basename": "読書リスト",
-      "path": "Misc/読書リスト.md"
-    },
-    {
-      "basename": "足りない能力",
-      "path": "Misc/足りない能力.md"
+      "basename": "CPU",
+      "path": "LowLevel/CPU.md"
     },
     {
       "basename": "Unification",
       "path": "Theory/Algorithm/Unification.md"
     },
     {
-      "basename": "A New Approach for Active Automata Learning Based on Apartness",
-      "path": "Theory/Automata/A New Approach for Active Automata Learning Based on Apartness.md"
+      "basename": "Logical Relations",
+      "path": "Theory/Logic/Proof/Logical Relations.md"
     },
     {
-      "basename": "egglog入門",
-      "path": "Theory/Data Structure/E-graph/egglog入門.md"
+      "basename": "Realizability",
+      "path": "Theory/Logic/Proof/Realizability.md"
     },
     {
-      "basename": "E-graph",
-      "path": "Theory/Data Structure/E-graph/E-graph.md"
+      "basename": "index",
+      "path": "Theory/Logic/Proof/index.md"
     },
     {
-      "basename": "Computer Science And Recursion Theory",
-      "path": "Theory/Computer Science And Recursion Theory.md"
+      "basename": "Proofs and Types",
+      "path": "Theory/Logic/Girard/Proofs and Types.md"
     },
     {
-      "basename": "Curry–Howard correspondence",
-      "path": "Theory/Curry–Howard correspondence.md"
+      "basename": "index",
+      "path": "Theory/Logic/Girard/index.md"
     },
     {
-      "basename": "順序集合",
-      "path": "Theory/Math/順序集合.md"
-    },
-    {
-      "basename": "Categorical logic",
-      "path": "Theory/Logic/Categorical logic.md"
-    },
-    {
-      "basename": "introduction",
-      "path": "Theory/Logic/introduction.md"
-    },
-    {
-      "basename": "Model",
-      "path": "Theory/Logic/Model.md"
-    },
-    {
-      "basename": "Separation Logic",
-      "path": "Theory/Logic/Separation Logic.md"
+      "basename": "Blind spot",
+      "path": "Theory/Logic/Girard/Blind spot.md"
     },
     {
       "basename": "Sequent calculus",
@@ -185,16 +45,160 @@
       "path": "Theory/Logic/Syntax.md"
     },
     {
-      "basename": "Blind spot",
-      "path": "Theory/Logic/Girard/Blind spot.md"
+      "basename": "Graph Theory",
+      "path": "Theory/Math/Graph theory/Graph Theory.md"
     },
     {
       "basename": "index",
-      "path": "Theory/Logic/Proof/index.md"
+      "path": "Theory/Math/Notes on Lattice Theory/index.md"
     },
     {
-      "basename": "Realizability",
-      "path": "Theory/Logic/Proof/Realizability.md"
+      "basename": "Domain Theory",
+      "path": "Theory/Math/Domain Theory.md"
+    },
+    {
+      "basename": "Math 教科書",
+      "path": "Theory/Math/Math 教科書.md"
+    },
+    {
+      "basename": "Papers",
+      "path": "Theory/Math/Papers.md"
+    },
+    {
+      "basename": "束論",
+      "path": "Theory/Math/束論.md"
+    },
+    {
+      "basename": "順序集合",
+      "path": "Theory/Math/順序集合.md"
+    },
+    {
+      "basename": "Conversion Rule",
+      "path": "Theory/Type Theory/Conversion rule/Conversion Rule.md"
+    },
+    {
+      "basename": "Type Theory",
+      "path": "Theory/Type Theory/Type Theory.md"
+    },
+    {
+      "basename": "Session Type",
+      "path": "Theory/Type Theory/Session Type.md"
+    },
+    {
+      "basename": "継承と部分型（サブタイピング）の違いについて",
+      "path": "Theory/型システム/継承と部分型（サブタイピング）の違いについて.md"
+    },
+    {
+      "basename": "部分型関係及び、部分型多相のまとめ",
+      "path": "Theory/型システム/部分型関係及び、部分型多相のまとめ.md"
+    },
+    {
+      "basename": "リスコフの置換原理",
+      "path": "Theory/型システム/リスコフの置換原理.md"
+    },
+    {
+      "basename": "index",
+      "path": "Theory/型システム/index.md"
+    },
+    {
+      "basename": "Bidirectional type",
+      "path": "Theory/型システム/Bidirectional type.md"
+    },
+    {
+      "basename": "「型システム入門」入門以前",
+      "path": "Theory/型システム/「型システム入門」入門以前.md"
+    },
+    {
+      "basename": "Computer Science And Recursion Theory",
+      "path": "Theory/Computer Science And Recursion Theory.md"
+    },
+    {
+      "basename": "Curry–Howard correspondence",
+      "path": "Theory/Curry–Howard correspondence.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "Essentials of compilation",
+      "path": "Compiler/Books/Essentials of compilation/Essentials of compilation.md"
+    },
+    {
+      "basename": "Preliminaries",
+      "path": "Compiler/Books/Essentials of compilation/Preliminaries.md"
+    },
+    {
+      "basename": "Garbage Collection",
+      "path": "Compiler/Books/Crafting Interpreters/Garbage Collection.md"
+    },
+    {
+      "basename": "Modern compiler implementation in ML",
+      "path": "Compiler/Books/Modern compiler implementation in ML.md"
+    },
+    {
+      "basename": "Writing an interpreter in Go",
+      "path": "Compiler/Books/Writing an interpreter in Go.md"
+    },
+    {
+      "basename": "Closures",
+      "path": "Compiler/Books/Crafting Interpreters/Closures.md"
+    },
+    {
+      "basename": "Crafting Interpreters",
+      "path": "Compiler/Books/Crafting Interpreters/Crafting Interpreters.md"
+    },
+    {
+      "basename": "LR 構文解析の原理",
+      "path": "Compiler/Frontend/Parser/LR 構文解析の原理.md"
+    },
+    {
+      "basename": "Top Down Operator Precedence",
+      "path": "Compiler/Frontend/Parser/Top Down Operator Precedence.md"
+    },
+    {
+      "basename": "Computation expression",
+      "path": "Compiler/LangSpecific/FSharp/Computation expression.md"
+    },
+    {
+      "basename": "Papers",
+      "path": "Compiler/LangSpecific/Go/Papers.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "Compiler/LangSpecific/Haskell/Compiler.md"
+    },
+    {
+      "basename": "index",
+      "path": "Compiler/LangSpecific/TypeScript/index.md"
+    },
+    {
+      "basename": "資料",
+      "path": "Compiler/LangSpecific/WASM/資料.md"
+    },
+    {
+      "basename": "Elixir",
+      "path": "Compiler/LangSpecific/Elixir.md"
+    },
+    {
+      "basename": "α-conversion",
+      "path": "Compiler/Middleend/α-conversion.md"
+    },
+    {
+      "basename": "Compiler optimization",
+      "path": "Compiler/Middleend/Compiler optimization.md"
+    },
+    {
+      "basename": "Common subexpression elimination",
+      "path": "Compiler/Middleend/Common subexpression elimination.md"
+    },
+    {
+      "basename": "Three-address code",
+      "path": "Compiler/Middleend/Intermediate representation/Three-address code.md"
     }
   ],
   "omittedPaths": [],

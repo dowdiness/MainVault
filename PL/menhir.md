@@ -1,6 +1,6 @@
 ---
-date created: Friday,2024 October 18th, 5:26:09 pm
-date modified: Friday,2025 April 25th, 12:09:55 pm
+created: 2024-10-18T17:26:09+09:00
+modified: 2025-04-29T20:17:49+09:00
 ---
 
 # menhir

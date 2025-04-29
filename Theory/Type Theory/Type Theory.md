@@ -1,6 +1,7 @@
 ---
-date created: Tuesday,2024 June 25th, 8:36:28 pm
-date modified: Friday,2025 April 25th, 5:48:12 pm
+aliases: [Mathematical Logic as based on the Theory of Types.]
+created: 2024-06-25T20:36:28+09:00
+modified: 2025-04-29T20:22:13+09:00
 ---
 
 # [Mathematical Logic as based on the Theory of Types.](https://www.jstor.org/stable/pdf/2369948.pdf)
