@@ -13,86 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md",
+                "file": "PL/JS/クロージャの理解のために知ってほしいこと.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "A semantics for while with break, continue and goto"
+              "title": "クロージャの理解のために知ってほしいこと"
             }
           },
           {
-            "id": "ef979749e3b4cde2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiler/Closure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Closure"
-            }
-          },
-          {
-            "id": "ac24bcc13882b235",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d295b23cfeeb44bb",
+            "id": "88575af0bb274794",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://okmij.org/ftp/Computation/lambda-calc.html#alpha-conv",
-                "title": "Lambda Calculus and Lambda Calculators",
+                "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
+                "title": "Theory of Computation | Mathematics | MIT OpenCourseWare",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Lambda Calculus and Lambda Calculators"
-            }
-          },
-          {
-            "id": "04c216bd91162239",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/04/2025-04-27-Sunday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-27-Sunday"
-            }
-          },
-          {
-            "id": "4948c1abf2a3d32a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://curtclifton.net/papers/MoseleyMarks06a.pdf",
-                "title": "Out of the Tar Pit",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Out of the Tar Pit"
+              "title": "Theory of Computation | Mathematics | MIT OpenCourseWare"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "oop",
+                "query": "クロージ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,7 +128,8 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -337,50 +281,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "24aa0e07d4c107a3",
-    "type": "floating",
-    "children": [
-      {
-        "id": "138c408ddb030d92",
-        "type": "window",
-        "children": [
-          {
-            "id": "72d51b6a5e6bba1d",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8dcd78fc53baf41f",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://screen.garden/",
-                    "title": "Collaboration in Obsidian and on the web | screen.garden",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Collaboration in Obsidian and on the web | screen.garden"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1440,
-        "height": 900,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "80ac97b5a79e9802",
+  "active": "b5cee4bb0e80cf3d",
   "lastOpenFiles": [
-    "index.md",
-    "README.md",
+    "講義/Theory of computation/Theory Of Computation.md",
+    "講義/Theory of computation/Introduction, Finite Automata, Regular Expression.md",
+    "Timestamps/2025/04/2025-04-27-Sunday.md",
     "Compiler/Closure.md",
+    "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md",
+    "README.md",
+    "index.md",
     "Compiler/A Few Principles of Macro Design.md",
     "Compiler/ラムダ計算のコンパイル.md",
     "Index.md",
@@ -396,16 +305,12 @@
     "Theory/Logic/Rewriting/lambda calculus.md",
     "Theory/Logic/Girard/Blind spot.md",
     "Misc/AI/index.md",
-    "Timestamps/2025/04/2025-04-27-Sunday.md",
     "Clippings/Continuation-passing style - Wikipedia.md",
     "Misc/AI/Machine learning/Tensor Flow.md",
     "Misc/AI/Machine learning/Understanding Machine Learning Principles.md",
     "Theory/Logic/Interaction Combinators.md",
     "Misc/AI/Machine learning",
     "Blog/現代的なUIフレームワークの目的とは？.md",
-    "Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
-    "Blog/本質的複雑性と偶発的複雑性.md",
-    "Blog/依存関係をコントロールする.md",
     "Timestamps/2025/04-April",
     "Timestamps/2025",
     "Timestamps",

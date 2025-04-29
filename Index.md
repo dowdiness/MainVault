@@ -1,11 +1,15 @@
 ---
 title: Example Index
 publish: true
-tags: [example-tag]
+tags: []
 aliases: [Example Index]
 date: 2025-04-29
 date created: Tuesday,2025 April 29th, 2:47:54 pm
 date modified: Tuesday,2025 April 29th, 2:59:23 pm
 ---
 
-The rest of your content lives here. You can use **Markdown** here :)
+[Obsidian](https://obsidian.md/)で書いた個人メモ保存場所です。
+
+## リンク一覧
+
+- [[講義]]
