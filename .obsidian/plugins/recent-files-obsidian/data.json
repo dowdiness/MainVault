@@ -1,40 +1,132 @@
 {
   "recentFiles": [
     {
-      "basename": "A-normal form - Wikipedia",
-      "path": "Clippings/A-normal form - Wikipedia.md"
+      "basename": "MCP",
+      "path": "Misc/AI/MCP.md"
     },
     {
-      "basename": "Colin James - ANF Conversion",
-      "path": "Clippings/Colin James - ANF Conversion.md"
+      "basename": "LLM",
+      "path": "Misc/AI/LLM.md"
+    },
+    {
+      "basename": "index",
+      "path": "Misc/AI/index.md"
+    },
+    {
+      "basename": "claude code",
+      "path": "Misc/AI/claude code.md"
+    },
+    {
+      "basename": "Understanding Machine Learning Principles",
+      "path": "Misc/AI/Machine learning/Understanding Machine Learning Principles.md"
+    },
+    {
+      "basename": "Tensor Flow",
+      "path": "Misc/AI/Machine learning/Tensor Flow.md"
+    },
+    {
+      "basename": "足りない能力",
+      "path": "Misc/足りない能力.md"
+    },
+    {
+      "basename": "読書リスト",
+      "path": "Misc/読書リスト.md"
+    },
+    {
+      "basename": "読みたい本リスト",
+      "path": "Misc/読みたい本リスト.md"
+    },
+    {
+      "basename": "英語",
+      "path": "Misc/英語.md"
+    },
+    {
+      "basename": "写経という言葉に対する違和感",
+      "path": "Misc/写経という言葉に対する違和感.md"
+    },
+    {
+      "basename": "システムの複雑さはどこから生まれるか？",
+      "path": "Misc/システムの複雑さはどこから生まれるか？.md"
+    },
+    {
+      "basename": "Misc",
+      "path": "Misc/Misc.md"
+    },
+    {
+      "basename": "Fluent API",
+      "path": "Misc/Fluent API.md"
+    },
+    {
+      "basename": "Web Audio Apiで自動再生が出来ない理由",
+      "path": "Misc/Audio/WebAudio/Web Audio Apiで自動再生が出来ない理由.md"
+    },
+    {
+      "basename": "ラムダ計算のコンパイル",
+      "path": "Compiler/ラムダ計算のコンパイル.md"
+    },
+    {
+      "basename": "Closure",
+      "path": "Compiler/Closure.md"
+    },
+    {
+      "basename": "Call-by-Push-Value",
+      "path": "Compiler/Call-by-Push-Value.md"
+    },
+    {
+      "basename": "Algebraic Effects",
+      "path": "Compiler/Algebraic Effects.md"
+    },
+    {
+      "basename": "A Few Principles of Macro Design",
+      "path": "Compiler/A Few Principles of Macro Design.md"
+    },
+    {
+      "basename": "Top Down Operator Precedence",
+      "path": "Compiler/Frontend/Parser/Top Down Operator Precedence.md"
+    },
+    {
+      "basename": "LR 構文解析の原理",
+      "path": "Compiler/Frontend/Parser/LR 構文解析の原理.md"
+    },
+    {
+      "basename": "Abstract Machine",
+      "path": "Compiler/Backend/Abstract Machine.md"
     },
     {
       "basename": "2025-04-29-Tuesday",
       "path": "Timestamps/2025/04/2025-04-29-Tuesday.md"
     },
     {
+      "basename": "Colin James - ANF Conversion",
+      "path": "Clippings/Colin James - ANF Conversion.md"
+    },
+    {
       "basename": "Continuation-passing style - Wikipedia",
       "path": "Clippings/Continuation-passing style - Wikipedia.md"
     },
     {
-      "basename": "2025-04-28-Monday",
-      "path": "Timestamps/2025/04/2025-04-28-Monday.md"
+      "basename": "egg Fast and Extensible Equality Saturation",
+      "path": "Clippings/egg Fast and Extensible Equality Saturation.md"
     },
     {
-      "basename": "Zenn",
-      "path": "_Template/Templater/Zenn.md"
+      "basename": "A-normal form - Wikipedia",
+      "path": "Clippings/A-normal form - Wikipedia.md"
     },
     {
       "basename": "01_daily-note",
       "path": "_Template/01_daily-note.md"
     },
     {
+      "basename": "Zenn",
+      "path": "_Template/Templater/Zenn.md"
+    },
+    {
       "basename": "Base",
       "path": "_Template/Templater/Base.md"
     },
     {
-      "basename": "egg Fast and Extensible Equality Saturation",
-      "path": "Clippings/egg Fast and Extensible Equality Saturation.md"
+      "basename": "2025-04-28-Monday",
+      "path": "Timestamps/2025/04/2025-04-28-Monday.md"
     },
     {
       "basename": "コンピューターに求めているもの",
@@ -61,10 +153,6 @@
       "path": "Timestamps/2025/04/2025-04-27-Sunday.md"
     },
     {
-      "basename": "Closure",
-      "path": "Compiler/Closure.md"
-    },
-    {
       "basename": "A semantics for while with break, continue and goto",
       "path": "Theory/Logic/Semantics/A semantics for while with break, continue and goto.md"
     },
@@ -73,24 +161,12 @@
       "path": "README.md"
     },
     {
-      "basename": "A Few Principles of Macro Design",
-      "path": "Compiler/A Few Principles of Macro Design.md"
-    },
-    {
-      "basename": "ラムダ計算のコンパイル",
-      "path": "Compiler/ラムダ計算のコンパイル.md"
-    },
-    {
       "basename": "Recursion Schemes",
       "path": "PL/Haskell/Recursion Schemes.md"
     },
     {
       "basename": "参考になるブログ",
       "path": "Blog/参考になるブログ.md"
-    },
-    {
-      "basename": "Abstract Machine",
-      "path": "Compiler/Backend/Abstract Machine.md"
     },
     {
       "basename": "SystemF",
@@ -113,18 +189,6 @@
       "path": "Theory/Logic/Girard/Blind spot.md"
     },
     {
-      "basename": "index",
-      "path": "Misc/AI/index.md"
-    },
-    {
-      "basename": "Tensor Flow",
-      "path": "Misc/AI/Machine learning/Tensor Flow.md"
-    },
-    {
-      "basename": "Understanding Machine Learning Principles",
-      "path": "Misc/AI/Machine learning/Understanding Machine Learning Principles.md"
-    },
-    {
       "basename": "Interaction Combinators",
       "path": "Theory/Logic/Interaction Combinators.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
       "path": "Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
-    },
-    {
-      "basename": "本質的複雑性と偶発的複雑性",
-      "path": "Blog/本質的複雑性と偶発的複雑性.md"
-    },
-    {
-      "basename": "依存関係をコントロールする",
-      "path": "Blog/依存関係をコントロールする.md"
-    },
-    {
-      "basename": "Categorical logic",
-      "path": "Theory/Logic/Categorical logic.md"
-    },
-    {
-      "basename": "Normalization(正規化)",
-      "path": "Theory/Logic/Rewriting/Normalization(正規化).md"
-    },
-    {
-      "basename": "λµµ˜-calculus",
-      "path": "Theory/Logic/Rewriting/λµµ˜-calculus.md"
-    },
-    {
-      "basename": "I'm betting on Call-by-Push-Value",
-      "path": "Compiler/I'm betting on Call-by-Push-Value.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "Compiler/Compiler.md"
-    },
-    {
-      "basename": "LLM",
-      "path": "Misc/AI/LLM.md"
-    },
-    {
-      "basename": "Tagless Final",
-      "path": "Compiler/Tagless Final.md"
-    },
-    {
-      "basename": "Essentials of compilation",
-      "path": "Compiler/Books/Essentials of compilation/Essentials of compilation.md"
-    },
-    {
-      "basename": "Modern compiler implementation in ML",
-      "path": "Compiler/Books/Modern compiler implementation in ML.md"
-    },
-    {
-      "basename": "Big-step Operational Semantics",
-      "path": "Theory/Logic/Semantics/Big-step Operational Semantics.md"
-    },
-    {
-      "basename": "Semantics",
-      "path": "Theory/Logic/Semantics/Semantics.md"
-    },
-    {
-      "basename": "Trace Semantics",
-      "path": "Theory/Logic/Semantics/Trace Semantics.md"
-    },
-    {
-      "basename": "Game Semantics",
-      "path": "Theory/Logic/Semantics/Game Semantics.md"
-    },
-    {
-      "basename": "Compiler Test",
-      "path": "Compiler/Compiler Test.md"
     }
   ],
   "omittedPaths": [],

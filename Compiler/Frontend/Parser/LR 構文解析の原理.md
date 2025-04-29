@@ -1,3 +1,8 @@
+---
+created: Friday,2025 March 7th, 10:40:26 am
+modified: Tuesday,2025 April 29th, 6:32:10 pm
+---
+
 [Paper](https://www.jstage.jst.go.jp/article/jssst/31/1/31_1_30/_pdf)
 
 [応用](https://yui-knk.hatenablog.com/entry/2023/12/06/082203)
