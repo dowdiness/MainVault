@@ -1,10 +1,10 @@
 ---
 title: "Continuation-passing style - Wikipedia"
 source: "https://en.wikipedia.org/wiki/Continuation-passing_style"
-author:
-published:
+author: anonymous
+published: false
 date: 2025-04-19
-description:
+description: Continuation-passing_style wiki clipping
 tags: ["clippings"]
 date created: Saturday,2025 April 19th, 4:43:40 pm
 date modified: Tuesday,2025 April 29th, 6:02:57 pm
@@ -137,7 +137,7 @@ void buttonHandler() {
 
     new Thread(() -> {
         // This code runs in a separate thread.
-        // We can do things like access a database or a 
+        // We can do things like access a database or a
         // blocking resource like the network to get data.
         int result = lookup(parameter);
 

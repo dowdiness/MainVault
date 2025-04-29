@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92dfb2fd83ed68c7",
+        "id": "035258a73373ae09",
         "type": "tabs",
         "children": [
           {
-            "id": "b5cee4bb0e80cf3d",
+            "id": "f87ed6f917f6cfeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/04/2025-04-29-Tuesday.md",
+                "file": "Clippings/A-normal form - Wikipedia.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2025-04-29-Tuesday"
-            }
-          },
-          {
-            "id": "88575af0bb274794",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/",
-                "title": "Theory of Computation | Mathematics | MIT OpenCourseWare",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Theory of Computation | Mathematics | MIT OpenCourseWare"
+              "title": "A-normal form - Wikipedia"
             }
           }
         ]
@@ -109,16 +95,6 @@
             }
           },
           {
-            "id": "20cdfdfd6fd300ff",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
-            }
-          },
-          {
             "id": "529b0cde60276143",
             "type": "leaf",
             "state": {
@@ -126,6 +102,16 @@
               "state": {},
               "icon": "longform",
               "title": "Longform"
+            }
+          },
+          {
+            "id": "7c1f69e44dcb96b4",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ]
@@ -280,16 +266,16 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "b5cee4bb0e80cf3d",
+  "active": "f87ed6f917f6cfeb",
   "lastOpenFiles": [
-    "Timestamps/2025/04/2025-04-28-Monday.md",
-    "Timestamps/2025/04/2025-04-29-Tuesday.md",
+    "Clippings/Colin James - ANF Conversion.md",
     "Clippings/A-normal form - Wikipedia.md",
+    "Timestamps/2025/04/2025-04-29-Tuesday.md",
+    "Clippings/Continuation-passing style - Wikipedia.md",
+    "Timestamps/2025/04/2025-04-28-Monday.md",
     "_Template/Templater/Zenn.md",
     "_Template/01_daily-note.md",
     "_Template/Templater/Base.md",
-    "Clippings/Colin James - ANF Conversion.md",
-    "Clippings/Continuation-passing style - Wikipedia.md",
     "Clippings/egg Fast and Extensible Equality Saturation.md",
     "Blog/コンピューターに求めているもの.md",
     "Theory/Logic/Rewriting/index.md",
