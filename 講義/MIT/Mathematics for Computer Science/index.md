@@ -1,6 +1,6 @@
 ---
-date created: Wednesday,2025 March 26th, 2:46:57 pm
-date modified: Saturday,2025 April 26th, 9:36:33 pm
+created: 2025-03-26T14:46:57+09:00
+modified: 2025-04-29T20:28:18+09:00
 ---
 
 [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/course/)

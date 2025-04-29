@@ -1,3 +1,8 @@
+---
+created: 2025-03-15T21:47:20+09:00
+modified: 2025-04-29T20:28:28+09:00
+---
+
 [6.5840: Distributed Systems](https://pdos.csail.mit.edu/6.824/)
 
 [Schedule](http://nil.csail.mit.edu/6.824/2020/schedule.html)

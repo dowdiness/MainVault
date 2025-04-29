@@ -1,6 +1,150 @@
 {
   "recentFiles": [
     {
+      "basename": "TM Variants, the Church-Turing Thesis",
+      "path": "講義/Theory of computation/TM Variants, the Church-Turing Thesis.md"
+    },
+    {
+      "basename": "Drawing 2025-04-19 18.50.05.excalidraw",
+      "path": "Excalidraw/Drawing 2025-04-19 18.50.05.excalidraw.md"
+    },
+    {
+      "basename": "開発技術",
+      "path": "講義/応用技術者試験/開発技術.md"
+    },
+    {
+      "basename": "技術要素",
+      "path": "講義/応用技術者試験/技術要素.md"
+    },
+    {
+      "basename": "応用技術者試験",
+      "path": "講義/応用技術者試験/応用技術者試験.md"
+    },
+    {
+      "basename": "基礎理論",
+      "path": "講義/応用技術者試験/基礎理論.md"
+    },
+    {
+      "basename": "マネジメント系",
+      "path": "講義/応用技術者試験/マネジメント系.md"
+    },
+    {
+      "basename": "ストラテジ系",
+      "path": "講義/応用技術者試験/ストラテジ系.md"
+    },
+    {
+      "basename": "コンピュータシステム",
+      "path": "講義/応用技術者試験/コンピュータシステム.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Probability for Computer Scientists/index.md"
+    },
+    {
+      "basename": "Counting",
+      "path": "講義/Probability for Computer Scientists/Counting.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Practical Foundations for Programming Languages/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/OCaml/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/MIT/Mathematics for Computer Science/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Mathematics for Computer Science/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Introduction to Machine Learning/index.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "講義/Distributed Systems/Introduction.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Distributed Systems/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Database/index.md"
+    },
+    {
+      "basename": "index",
+      "path": "講義/Computer Networking/index.md"
+    },
+    {
+      "basename": "2025-04-29-Tuesday",
+      "path": "Timestamps/2025/04/2025-04-29-Tuesday.md"
+    },
+    {
+      "basename": "TaskList",
+      "path": "Timestamps/2025/04/TaskList.md"
+    },
+    {
+      "basename": "2025-04-28-Monday",
+      "path": "Timestamps/2025/04/2025-04-28-Monday.md"
+    },
+    {
+      "basename": "2025-04-27-Sunday",
+      "path": "Timestamps/2025/04/2025-04-27-Sunday.md"
+    },
+    {
+      "basename": "2025-04-26-Saturday",
+      "path": "Timestamps/2025/04/2025-04-26-Saturday.md"
+    },
+    {
+      "basename": "2025-04-25-Friday",
+      "path": "Timestamps/2025/04/2025-04-25-Friday.md"
+    },
+    {
+      "basename": "2025-04-24-Thursday",
+      "path": "Timestamps/2025/04/2025-04-24-Thursday.md"
+    },
+    {
+      "basename": "2025-04-21-Monday",
+      "path": "Timestamps/2025/04/2025-04-21-Monday.md"
+    },
+    {
+      "basename": "2025-04-19-Saturday",
+      "path": "Timestamps/2025/04/2025-04-19-Saturday.md"
+    },
+    {
+      "basename": "+Daily Notes",
+      "path": "Timestamps/2025/04/+Daily Notes.md"
+    },
+    {
+      "basename": "2024-06-19",
+      "path": "Timestamps/2024/2024-06-19.md"
+    },
+    {
+      "basename": "2024-10-03",
+      "path": "Timestamps/2024/2024-10-03.md"
+    },
+    {
+      "basename": "Obsidian Git",
+      "path": "Cheat sheet/Obsidian/Plugins/Obsidian Git.md"
+    },
+    {
+      "basename": "Obsidian",
+      "path": "Cheat sheet/Obsidian/Obsidian.md"
+    },
+    {
+      "basename": "Markdown",
+      "path": "Cheat sheet/Markdown.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "Cheat sheet/Latex.md"
+    },
+    {
       "basename": "segmentation fault(segfault)",
       "path": "LowLevel/segmentation fault(segfault).md"
     },
@@ -55,150 +199,6 @@
     {
       "basename": "Domain Theory",
       "path": "Theory/Math/Domain Theory.md"
-    },
-    {
-      "basename": "Math 教科書",
-      "path": "Theory/Math/Math 教科書.md"
-    },
-    {
-      "basename": "Papers",
-      "path": "Theory/Math/Papers.md"
-    },
-    {
-      "basename": "束論",
-      "path": "Theory/Math/束論.md"
-    },
-    {
-      "basename": "順序集合",
-      "path": "Theory/Math/順序集合.md"
-    },
-    {
-      "basename": "Conversion Rule",
-      "path": "Theory/Type Theory/Conversion rule/Conversion Rule.md"
-    },
-    {
-      "basename": "Type Theory",
-      "path": "Theory/Type Theory/Type Theory.md"
-    },
-    {
-      "basename": "Session Type",
-      "path": "Theory/Type Theory/Session Type.md"
-    },
-    {
-      "basename": "継承と部分型（サブタイピング）の違いについて",
-      "path": "Theory/型システム/継承と部分型（サブタイピング）の違いについて.md"
-    },
-    {
-      "basename": "部分型関係及び、部分型多相のまとめ",
-      "path": "Theory/型システム/部分型関係及び、部分型多相のまとめ.md"
-    },
-    {
-      "basename": "リスコフの置換原理",
-      "path": "Theory/型システム/リスコフの置換原理.md"
-    },
-    {
-      "basename": "index",
-      "path": "Theory/型システム/index.md"
-    },
-    {
-      "basename": "Bidirectional type",
-      "path": "Theory/型システム/Bidirectional type.md"
-    },
-    {
-      "basename": "「型システム入門」入門以前",
-      "path": "Theory/型システム/「型システム入門」入門以前.md"
-    },
-    {
-      "basename": "Computer Science And Recursion Theory",
-      "path": "Theory/Computer Science And Recursion Theory.md"
-    },
-    {
-      "basename": "Curry–Howard correspondence",
-      "path": "Theory/Curry–Howard correspondence.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "index",
-      "path": "index.md"
-    },
-    {
-      "basename": "Essentials of compilation",
-      "path": "Compiler/Books/Essentials of compilation/Essentials of compilation.md"
-    },
-    {
-      "basename": "Preliminaries",
-      "path": "Compiler/Books/Essentials of compilation/Preliminaries.md"
-    },
-    {
-      "basename": "Garbage Collection",
-      "path": "Compiler/Books/Crafting Interpreters/Garbage Collection.md"
-    },
-    {
-      "basename": "Modern compiler implementation in ML",
-      "path": "Compiler/Books/Modern compiler implementation in ML.md"
-    },
-    {
-      "basename": "Writing an interpreter in Go",
-      "path": "Compiler/Books/Writing an interpreter in Go.md"
-    },
-    {
-      "basename": "Closures",
-      "path": "Compiler/Books/Crafting Interpreters/Closures.md"
-    },
-    {
-      "basename": "Crafting Interpreters",
-      "path": "Compiler/Books/Crafting Interpreters/Crafting Interpreters.md"
-    },
-    {
-      "basename": "LR 構文解析の原理",
-      "path": "Compiler/Frontend/Parser/LR 構文解析の原理.md"
-    },
-    {
-      "basename": "Top Down Operator Precedence",
-      "path": "Compiler/Frontend/Parser/Top Down Operator Precedence.md"
-    },
-    {
-      "basename": "Computation expression",
-      "path": "Compiler/LangSpecific/FSharp/Computation expression.md"
-    },
-    {
-      "basename": "Papers",
-      "path": "Compiler/LangSpecific/Go/Papers.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "Compiler/LangSpecific/Haskell/Compiler.md"
-    },
-    {
-      "basename": "index",
-      "path": "Compiler/LangSpecific/TypeScript/index.md"
-    },
-    {
-      "basename": "資料",
-      "path": "Compiler/LangSpecific/WASM/資料.md"
-    },
-    {
-      "basename": "Elixir",
-      "path": "Compiler/LangSpecific/Elixir.md"
-    },
-    {
-      "basename": "α-conversion",
-      "path": "Compiler/Middleend/α-conversion.md"
-    },
-    {
-      "basename": "Compiler optimization",
-      "path": "Compiler/Middleend/Compiler optimization.md"
-    },
-    {
-      "basename": "Common subexpression elimination",
-      "path": "Compiler/Middleend/Common subexpression elimination.md"
-    },
-    {
-      "basename": "Three-address code",
-      "path": "Compiler/Middleend/Intermediate representation/Three-address code.md"
     }
   ],
   "omittedPaths": [],
