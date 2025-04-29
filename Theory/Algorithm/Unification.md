@@ -1,6 +1,6 @@
 ---
-created: Saturday,2025 April 19th, 4:32:41 pm
-modified: Tuesday,2025 April 29th, 6:36:54 pm
+created: 2025-04-19T16:32:41+09:00
+modified: 2025-04-29T19:36:47+09:00
 ---
 
 https://en.wikipedia.org/wiki/Unification_(computer_science)

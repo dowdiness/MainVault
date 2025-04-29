@@ -1,6 +1,6 @@
 ---
-date created: Tuesday,2025 March 11th, 2:15:02 pm
-date modified: Friday,2025 April 25th, 5:48:09 pm
+created: 2025-03-11T14:15:02+09:00
+modified: 2025-04-29T19:35:50+09:00
 ---
 
 https://dl.acm.org/doi/abs/10.1145/800127.804061

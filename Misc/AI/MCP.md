@@ -1,7 +1,7 @@
 ---
 tags: ["AI"]
-created: Sunday,2025 March 30th, 8:24:24 pm
-modified: Tuesday,2025 April 29th, 6:34:19 pm
+created: 2025-03-30T20:24:24+09:00
+modified: 2025-04-29T19:37:23+09:00
 ---
 
 https://www.anthropic.com/news/model-context-protocol

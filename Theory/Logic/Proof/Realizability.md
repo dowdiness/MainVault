@@ -1,3 +1,8 @@
+---
+created: 2025-04-11T19:33:29+09:00
+modified: 2025-04-29T19:35:18+09:00
+---
+
 https://www.williamjbowman.com/blog/2022/10/05/what-is-realizability/
 
 My best understanding of realizability right now, in programming languages (PL) terms, is:

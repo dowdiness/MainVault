@@ -1,6 +1,6 @@
 ---
-created: Sunday,2025 April 27th, 7:52:01 pm
-modified: Tuesday,2025 April 29th, 6:34:12 pm
+created: 2025-04-27T19:52:01+09:00
+modified: 2025-04-29T19:37:26+09:00
 ---
 
 [Understanding Machine Learning Principles:](https://github.com/Blocks-Editor/blocks?tab=readme-ov-file)

@@ -1,7 +1,7 @@
 ---
 aliases: [An Introduction to Algebraic Effects and Handlers]
-created: Sunday,2025 April 13th, 12:58:56 pm
-modified: Tuesday,2025 April 29th, 6:32:29 pm
+created: 2025-04-13T12:58:56+09:00
+modified: 2025-04-29T19:37:47+09:00
 ---
 
 

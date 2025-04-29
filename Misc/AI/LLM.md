@@ -1,8 +1,8 @@
 ---
 tags: ["AI"]
 aliases: [LLM, Test]
-created: Saturday,2025 April 26th, 7:06:31 pm
-modified: Tuesday,2025 April 29th, 6:34:13 pm
+created: 2025-04-26T19:06:31+09:00
+modified: 2025-04-29T19:37:24+09:00
 ---
 
 # Test

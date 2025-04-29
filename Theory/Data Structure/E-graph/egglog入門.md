@@ -4,11 +4,11 @@ source: "https://zenn.dev/hatoo/articles/5c4df054704999"
 author:
   - hatoo
 published: 2023-10-08
-created: Saturday,2025 April 19th, 4:47:12 pm
+created: 2025-04-19T16:47:12+09:00
 description: zenn 
 tags: ["clippings"]
 aliases: [はじめに]
-modified: Tuesday,2025 April 29th, 6:37:23 pm
+modified: 2025-04-29T19:36:42+09:00
 ---
 
 # はじめに

@@ -1,6 +1,6 @@
 ---
-created: Friday,2025 April 18th, 2:32:41 pm
-modified: Tuesday,2025 April 29th, 6:37:53 pm
+created: 2025-04-18T14:32:41+09:00
+modified: 2025-04-29T19:35:04+09:00
 ---
 
 **コンビネータ論理**（combinatory logic、組み合わせ論理）

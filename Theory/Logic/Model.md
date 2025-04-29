@@ -1,6 +1,6 @@
 ---
-created: Wednesday,2025 April 9th, 2:52:34 pm
-modified: Tuesday,2025 April 29th, 6:37:38 pm
+created: 2025-04-09T14:52:34+09:00
+modified: 2025-04-29T19:35:08+09:00
 ---
 
 https://www.williamjbowman.com/blog/2023/06/15/what-is-a-model/
