@@ -1,9 +1,10 @@
 ---
-date created: Wednesday,2025 March 5th, 12:20:07 pm
-date modified: Friday,2025 April 25th, 12:26:51 pm
+created: 2025-03-05T12:20:07+09:00
+modified: 2025-04-29T20:26:40+09:00
 ---
 
 # Markdown
+
 ## Basic Symbols
 
 https://www.markdownguide.org/basic-syntax/

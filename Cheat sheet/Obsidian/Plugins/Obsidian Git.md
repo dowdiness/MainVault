@@ -1,9 +1,6 @@
 ---
-date: 2025-04-25
-tags: [" "]
-aliases: [Untitled]
-date created: Friday,2025 April 25th, 1:36:35 pm
-date modified: Friday,2025 April 25th, 1:39:30 pm
+created: 2025-04-25T13:36:35+09:00
+modified: 2025-04-29T20:26:36+09:00
 ---
 
 [Obsidian Git](https://github.com/Vinzent03/obsidian-git)

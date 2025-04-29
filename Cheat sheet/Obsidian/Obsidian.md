@@ -1,6 +1,7 @@
 ---
-date created: Tuesday,2024 June 25th, 2:50:52 am
-date modified: Friday,2025 April 25th, 1:36:51 pm
+aliases: [Zettelkasten]
+created: 2024-06-25T02:50:52+09:00
+modified: 2025-04-29T20:26:27+09:00
 ---
 
 # [Zettelkasten](https://zettelkasten.de/)
