@@ -1,10 +1,8 @@
 ---
 date: 2025-04-26
 tags: [" "]
-date created: Saturday,2025 April 26th, 4:37:36 pm
-date modified: Saturday,2025 April 26th, 4:45:32 pm
 created: 2025-04-26T16:37:36+09:00
-modified: 2025-04-29T19:37:55+09:00
+modified: 2025-04-29T20:19:36+09:00
 ---
 
 [Philip Wadler](https://homepages.inf.ed.ac.uk/wadler/)が作った新しいデータ型と関数の追加の大変さがトレードオフの関係になっていることを示す言葉。おそらくこの[文書](https://homepages.inf.ed.ac.uk/wadler/papers/expression/expression.txt)が初出のはず。

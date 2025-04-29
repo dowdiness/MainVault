@@ -1,6 +1,7 @@
 ---
-date created: Thursday,2025 April 24th, 1:01:12 am
-date modified: Saturday,2025 April 26th, 10:04:28 pm
+aliases: [Alpha-conversion is inevitable]
+created: 2025-04-24T01:01:12+09:00
+modified: 2025-04-29T20:20:13+09:00
 ---
 
 https://en.wikipedia.org/wiki/Lambda_calculus#%CE%B1-conversion

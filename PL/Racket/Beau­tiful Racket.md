@@ -1,9 +1,8 @@
 ---
 date: 2025-04-26
 tags: ["Racket"]
-aliases: [Beau­tiful Racket]
-date created: Saturday,2025 April 26th, 8:04:38 pm
-date modified: Saturday,2025 April 26th, 8:09:42 pm
+created: 2025-04-26T20:04:38+09:00
+modified: 2025-04-29T20:18:25+09:00
 ---
 
 [Beau­tiful Racket](https://beautifulracket.com/)

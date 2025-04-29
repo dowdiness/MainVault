@@ -1,9 +1,7 @@
 ---
-date: 2025-04-25
-tags: [" "]
-aliases: [README]
-date created: Friday,2025 April 25th, 2:51:08 pm
-date modified: Tuesday,2025 April 29th, 3:09:00 pm
+aliases: [My Public Notes, README]
+created: 2025-04-25T14:51:08+09:00
+modified: 2025-04-29T20:21:44+09:00
 ---
 
 # My Public Notes

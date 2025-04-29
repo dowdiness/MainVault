@@ -1,9 +1,8 @@
 ---
-date: 2025-04-25
 tags: ["books"]
-aliases: [Garbage Collection]
-date created: Friday,2025 April 25th, 4:53:51 pm
-date modified: Friday,2025 April 25th, 4:54:25 pm
+aliases: [26.  Garbage Collection, Garbage Collection]
+created: 2025-04-25T16:53:51+09:00
+modified: 2025-04-29T20:20:43+09:00
 ---
 
 # 26.  [Garbage Collection](https://craftinginterpreters.com/garbage-collection.html)

@@ -1,8 +1,8 @@
 ---
 tags: ["books"]
-aliases: [Crafting Interpreters]
-date created: Saturday,2024 October 12th, 2:05:53 pm
-date modified: Friday,2025 April 25th, 5:00:42 pm
+aliases: [Crafting Interpreters, TABLE OF CONTENTS]
+created: 2024-10-12T14:05:53+09:00
+modified: 2025-04-29T20:21:09+09:00
 ---
 
 # TABLE OF CONTENTS

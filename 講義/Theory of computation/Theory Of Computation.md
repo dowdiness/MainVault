@@ -2,10 +2,9 @@
 title: Theory Of Computation
 publish: true
 tags: [CS, Theory Of Computation]
-aliases: [Theory Of Computation]
-date: 2025-04-05
-date created: Wednesday,2025 March 5th, 11:57:29 am
-date modified: Tuesday,2025 April 29th, 3:31:38 pm
+aliases: [Index of Notes, Theory Of Computation]
+created: 2025-03-05T11:57:29+09:00
+modified: 2025-04-29T20:13:57+09:00
 ---
 
 [MIT OpenCourseWare](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)

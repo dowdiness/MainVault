@@ -1,3 +1,8 @@
+---
+created: 2025-01-22T23:04:40+09:00
+modified: 2025-04-29T20:17:28+09:00
+---
+
 native code
 https://github.com/tc39/ecma262/issues/1114
 

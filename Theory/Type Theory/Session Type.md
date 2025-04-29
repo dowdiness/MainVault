@@ -2,8 +2,8 @@
 date: 2025-04-25
 tags: [typetheory]
 aliases: [Session type]
-date created: Friday,2025 April 25th, 5:46:46 pm
-date modified: Saturday,2025 April 26th, 4:19:05 pm
+created: 2025-04-25T17:46:46+09:00
+modified: 2025-04-29T20:22:06+09:00
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Session_type)

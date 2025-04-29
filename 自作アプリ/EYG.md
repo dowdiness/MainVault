@@ -1,4 +1,9 @@
-# index
+---
+created: 2025-04-11T13:56:07+09:00
+modified: 2025-04-29T20:12:49+09:00
+---
+
+# EYG
 
 [CID](https://github.com/multiformats/cid)
 [IPLD](https://ipld.io/)
@@ -6,6 +11,7 @@
 [Spec](https://github.com/CrowdHailer/eyg-lang/tree/main/spec)
 
 [Interpreter](https://github.com/CrowdHailer/eyg-lang/blob/main/packages/javascript_interpreter/src/interpreter.mjs)
+
 ## Videos
 
 [Peter Saxton - EYG a predictable, and useful, programming language](https://www.youtube.com/watch?v=bzUXK5VBbXc)
