@@ -2,7 +2,7 @@
 tags: [semantics]
 aliases: [はじめに]
 created: 2024-09-26T15:52:28+09:00
-modified: 2025-04-29T19:35:01+09:00
+modified: 2025-05-07T22:52:18+09:00
 ---
 
 # はじめに
@@ -29,8 +29,8 @@ modified: 2025-04-29T19:35:01+09:00
 値
 データタイプ
 
-
 # Curry-style Church-style
+
 extrinsic intrinsic
 言語の外側 言語の一部
 https://7colou.red/blog/2018/07-07-difference/index.html

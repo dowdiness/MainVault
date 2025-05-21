@@ -13,29 +13,156 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "講義/Theory of computation/CF Pumping Lemma, Turing Machines.md",
+                "file": "Compiler/Middleend/Bidirectional transformations/Bidirectional transformations.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "CF Pumping Lemma, Turing Machines"
+              "title": "Bidirectional transformations"
             }
           },
           {
-            "id": "09e750b618b2793f",
+            "id": "f20b96b53bd0d812",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.cs.ox.ac.uk/people/jeremy.gibbons/publications/ssbx-intro.pdf",
+                "title": "ssbx-intro.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "ssbx-intro.pdf"
+            }
+          },
+          {
+            "id": "6ac0c899c54762d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "講義/Theory of computation/Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion.md",
+                "file": "Compiler/Backend/Abstract Machine.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Pushdown Automata, Conversion of CFG to PDA and Reverse Conversion"
+              "title": "Abstract Machine"
+            }
+          },
+          {
+            "id": "07d646867b134033",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/05/2025-05-15-Thursday.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-15-Thursday"
+            }
+          },
+          {
+            "id": "9fdfa99493f76fdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Logic/Rewriting/Weakening.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Weakening"
+            }
+          },
+          {
+            "id": "d65ef7ad45949ea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          },
+          {
+            "id": "d05000b5a5dff906",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.kegg.jp/medicus-bin/japic_med_product?id=00068463-001#00068463-001",
+                "title": "医療用医薬品 : デエビゴ (商品詳細情報)",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "医療用医薬品 : デエビゴ (商品詳細情報)"
+            }
+          },
+          {
+            "id": "fa3b88dffd43a413",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.dpmms.cam.ac.uk/~jmeh1/Research/Pub91-00/bbdphcsl93.pdf",
+                "title": "bbdphcsl93.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "bbdphcsl93.pdf"
+            }
+          },
+          {
+            "id": "76c4df7d00e8b6a1",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://cybercat.institute/2025/01/28/bidirectional-typechecking/",
+                "title": "Bidirectional Typechecking is Bidirectional",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Bidirectional Typechecking is Bidirectional"
+            }
+          },
+          {
+            "id": "b2a10ef843f690a5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/effectfully-ou/sketches/tree/master/extensible-monadic-lenses",
+                "title": "sketches/extensible-monadic-lenses at master · effectfully-ou/sketches · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "sketches/extensible-monadic-lenses at master · effectfully-ou/sketches · GitHub"
+            }
+          },
+          {
+            "id": "9c9c02408a15fad9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "講義/Theory of computation/Reducibility.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reducibility"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -55,7 +182,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -67,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "graph theory",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +211,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -119,7 +246,7 @@
             }
           },
           {
-            "id": "7c1f69e44dcb96b4",
+            "id": "9a3e462bc51d3ab0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -132,7 +259,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 311.5
   },
   "right": {
     "id": "feac1799bdef07a6",
@@ -254,7 +381,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,44 +407,45 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "80ac97b5a79e9802",
+  "active": "d65ef7ad45949ea0",
   "lastOpenFiles": [
-    "Compiler/Middleend/α-conversion.md",
-    "講義/Theory of computation/Theory Of Computation.md",
-    "講義/Theory of computation/Time Complexity.md",
-    "Theory/Logic/Rewriting/index.md",
-    "Theory/型システム/index.md",
+    "講義.md",
     "index.md",
-    "講義/Computer Networking/index.md",
-    "講義/Distributed Systems/index.md",
+    "README.md",
+    "Personal/通院・かかりつけ医について.md",
+    "Personal",
+    "講義/Theory of computation/P and NP, SAT, Poly-time Reducibility.md",
+    "Theory/Math/Graph theory/Graph Theory.md",
+    "Theory/Graph Theory",
+    "講義/Theory of computation/Theory Of Computation.md",
     "講義/Theory of computation/TM Variants, the Church-Turing Thesis.md",
-    "Excalidraw/Drawing 2025-04-19 18.50.05.excalidraw.md",
-    "講義/応用技術者試験/開発技術.md",
-    "講義/応用技術者試験/技術要素.md",
-    "講義/応用技術者試験/応用技術者試験.md",
-    "講義/応用技術者試験/基礎理論.md",
-    "講義/応用技術者試験/マネジメント系.md",
-    "講義/応用技術者試験/ストラテジ系.md",
-    "講義/応用技術者試験/コンピュータシステム.md",
-    "講義/Probability for Computer Scientists/index.md",
-    "講義/Probability for Computer Scientists/Counting.md",
-    "講義/Practical Foundations for Programming Languages/index.md",
-    "講義/OCaml/index.md",
-    "講義/MIT/Mathematics for Computer Science/index.md",
-    "講義/Mathematics for Computer Science/index.md",
-    "講義/Introduction to Machine Learning/index.md",
-    "講義/Distributed Systems/Introduction.md",
-    "講義/Database/index.md",
-    "PL/Haskell",
-    "Misc/AI/Machine learning",
-    "Timestamps/2025/04-April",
-    "Timestamps/2025",
-    "Timestamps",
-    "PL/Racket",
-    "Theory/Math/Graph theory",
-    "Theory/Type Theory/Conversion rule",
-    "Theory/Type Theory",
-    "Compiler/Books/Crafting Interpreters",
+    "講義/Theory of computation/Undecidability.md",
+    "講義/Theory of computation/Time Complexity.md",
+    "講義/Theory of computation/NP-Completeness.md",
+    "講義/Theory of computation/Reducibility.md",
+    "講義/Theory of computation/Midterm Exam.md",
+    "Theory/Logic/Linear Logic/Linear λ-Calculus and Categorical ModelsRevisited.md",
+    "講義/哲学演習/厳密含意の論理.md",
+    "講義/哲学演習",
+    "Theory/Logic/Rewriting/Contraction.md",
+    "Theory/Logic/Rewriting/Weakening.md",
+    "Blog/分かっていないこと、もしくは分かっていないことが分かってないこと.md",
+    "Theory/Logic/Rewriting/SystemF.md",
+    "Theory/Logic/Sequent calculus.md",
+    "Theory/Logic/Linear Logic/Linear Logic.md",
+    "Theory/Logic/Girard/Blind spot.md",
+    "Theory/Logic/Linear Logic",
+    "Theory/Logic/Girard/index.md",
+    "Theory/Logic/Girard/Proofs and Types.md",
+    "Blog/論理は重要ではない.md",
+    "趣味/お茶/お茶のお店.md",
+    "Tags",
+    "Theory/Data Structure/Graph",
+    "Reading",
+    "Compiler/JVM",
+    "Theory/Math/A Book of Abstract Algebra",
+    "PL/C",
+    "自作アプリ/Architecture.canvas",
     "InkDrop/開発/読書/hj6fwa0h1-cc6a113db420ae175ef73b7c8d70261e.jpg",
     "InkDrop/開発/技術ブログ/wfet1PJeX-rn_image_picker_lib_temp_4e6d0c8a-5f9e-4ae5-a612-12d67fee3881.png",
     "Untitled.canvas",

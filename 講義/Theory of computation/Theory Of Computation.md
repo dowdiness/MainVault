@@ -4,7 +4,7 @@ publish: true
 tags: [CS, Theory Of Computation]
 aliases: [Index of Notes, Theory Of Computation]
 created: 2025-03-05T11:57:29+09:00
-modified: 2025-04-29T20:13:57+09:00
+modified: 2025-04-30T14:14:06+09:00
 ---
 
 [MIT OpenCourseWare](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
@@ -31,13 +31,15 @@ modified: 2025-04-29T20:13:57+09:00
 17. [[Space Complexity, PSPACE, Savitch’s Theorem]]
 18. 
 
-# Automata and Language
+## Automata and Language
 
 1-5
-# Computability Theory
+
+## Computability Theory
 
 5- 11
-# Complexity Theory
+
+## Complexity Theory
 
 12 - 25
 

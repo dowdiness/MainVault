@@ -1,7 +1,10 @@
 ---
 created: 2024-06-28T19:30:50+09:00
-modified: 2025-04-29T20:20:37+09:00
+modified: 2025-05-10T21:56:12+09:00
+aliases: [WASM資料集]
 ---
+
+# WASM資料集
 
 [Binaryen](https://github.com/WebAssembly/binaryen) is a compiler and toolchain infrastructure library for WebAssembly, written in C++. It aims to make [compiling to WebAssembly](https://github.com/WebAssembly/binaryen/wiki/Compiling-to-WebAssembly-with-Binaryen) **easy, fast, and effective**:
 

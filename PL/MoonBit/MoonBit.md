@@ -1,9 +1,14 @@
 ---
 created: 2025-04-11T14:04:46+09:00
-modified: 2025-04-29T20:17:45+09:00
+modified: 2025-05-09T17:16:22+09:00
 ---
 
 # MoonBit
+
+https://www.moonbitlang.com/
+https://discuss.moonbitlang.com/
+[Awesome MoonBit](https://github.com/moonbitlang/awesome-moonbit)
+
 
 ## Tutorials
 
@@ -22,3 +27,7 @@ Haskellのような遅延評価を実装するチュートリアル
 
 [MoonBit QuickCheck](https://github.com/moonbitlang/quickcheck)
 
+## Repo
+
+[TAPL-in-MoonBit](https://github.com/pku-dppl/TAPL-in-MoonBit)
+TAPLをMoonbitでやったもの。中国の大学の授業で使われているっぽくて型システムの実装において参考になりそう。

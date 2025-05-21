@@ -1,6 +1,6 @@
 ---
 created: 2025-04-19T21:03:01+09:00
-modified: 2025-04-29T20:19:02+09:00
+modified: 2025-05-07T20:15:53+09:00
 ---
 
 [Oleg Kiselyov's website](https://okmij.org/ftp/)
@@ -12,3 +12,6 @@ https://okmij.org/ftp/tagless-final/
 [Finally Tagless, Partially Evaluated](https://okmij.org/ftp/tagless-final/JFP.pdf)
 
 [Typed Tagless Final Interpreters](https://www.okmij.org/ftp/tagless-final/course/lecture.pdf)
+
+
+[Introduction to Tagless Final](https://serokell.io/blog/introduction-tagless-final)

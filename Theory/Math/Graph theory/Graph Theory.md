@@ -1,6 +1,7 @@
 ---
-tags: ["Graph Theory"]
+tags: [GraphTheory]
 created: 2025-04-26T19:15:21+09:00
-modified: 2025-04-29T20:22:30+09:00
+modified: 2025-05-21T15:13:12+09:00
 ---
 
+# Graph Theory

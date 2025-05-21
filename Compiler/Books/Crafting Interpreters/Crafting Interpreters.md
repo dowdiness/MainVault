@@ -2,7 +2,7 @@
 tags: ["books"]
 aliases: [Crafting Interpreters, TABLE OF CONTENTS]
 created: 2024-10-12T14:05:53+09:00
-modified: 2025-04-29T20:21:09+09:00
+modified: 2025-05-08T01:30:04+09:00
 ---
 
 # TABLE OF CONTENTS
@@ -54,9 +54,9 @@ modified: 2025-04-29T20:21:09+09:00
 - 23.[Jumping Back and Forth](https://www.craftinginterpreters.com/jumping-back-and-forth.html)
 	-  [Design Note: Considering Goto Harmful](https://www.craftinginterpreters.com/jumping-back-and-forth.html#design-note)
 - 24.[Calls and Functions](https://www.craftinginterpreters.com/calls-and-functions.html)
-- 25.[[Closures]]
+- 25.[[25.Closures]]
 	-  [Design Note: Closing Over the Loop Variable](https://www.craftinginterpreters.com/closures.html#design-note)
-- 26.[[Garbage Collection]]
+- 26.[[26. Garbage Collection]]
 	-  [Design Note: Generational Collectors](https://www.craftinginterpreters.com/garbage-collection.html#design-note)
 - 27.[Classes and Instances](https://www.craftinginterpreters.com/classes-and-instances.html)
 - 28.[Methods and Initializers](https://www.craftinginterpreters.com/methods-and-initializers.html)
