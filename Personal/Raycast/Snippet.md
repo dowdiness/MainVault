@@ -1,10 +1,10 @@
 ---
-title: Base
+title: Snippet
 publish: false
 tags: [raycast]
 aliases: [snippet]
 created: 2025-05-21T19:56:56+09:00
-modified: 2025-05-21T20:23:24+09:00
+modified: 2025-05-21T22:31:50+09:00
 ---
 
 # Snippet
@@ -25,3 +25,4 @@ modified: 2025-05-21T20:23:24+09:00
 | Add Calendar | {clipboard}の予定をカレンダーに追加してください。 | ;yotei  |
 |              |                                |         |
 
+[参考サイト](https://ray.so/snippets/symbols)

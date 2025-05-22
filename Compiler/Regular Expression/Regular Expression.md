@@ -1,6 +1,7 @@
 ---
+tags: ["automata"]
 created: 2025-04-19T16:26:11+09:00
-modified: 2025-05-14T16:14:46+09:00
+modified: 2025-05-21T23:08:01+09:00
 ---
 
 # Regular Expression
