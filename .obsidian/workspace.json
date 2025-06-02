@@ -13,10 +13,24 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Compiler/Middleend/Bidirectional transformations"
+                "path": "Compiler/Regular Expression"
               },
               "icon": "lucide-file",
-              "title": "Bidirectional transformations"
+              "title": "Regular Expression"
+            }
+          },
+          {
+            "id": "f8bb969757654c3e",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/bobzhang/moonbit-regex-demo/tree/main/src/lib",
+                "title": "moonbit-regex-demo/src/lib at main · bobzhang/moonbit-regex-demo · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "moonbit-regex-demo/src/lib at main · bobzhang/moonbit-regex-demo · GitHub"
             }
           },
           {
@@ -25,12 +39,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiler/LowLevel/Memory/segmentation fault(segfault).md",
+                "file": "Compiler/Type System/Type System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "segmentation fault(segfault)"
+              "title": "Type System"
+            }
+          },
+          {
+            "id": "d02ab5bc9b026f20",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://dl.acm.org/doi/10.1145/3674630",
+                "title": "On the Operational Theory of the CPS-Calculus: Towards a Theoretical Foundation for IRs | Proceedings of the ACM on Programming Languages",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "On the Operational Theory of the CPS-Calculus: Towards a Theoretical Foundation for IRs | Proceedings of the ACM on Programming Languages"
+            }
+          },
+          {
+            "id": "c1e47f9f2ea7d06b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/pdf/2193-07.pdf",
+                "title": "2020069-Masaya Taniguchi.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "2020069-Masaya Taniguchi.pdf"
+            }
+          },
+          {
+            "id": "0cb3bc01d10a2a60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Algorithm/Heuristic search/Heuristic search 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Heuristic search 1"
+            }
+          },
+          {
+            "id": "60af388120d05c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compiler/Middleend/Intermediate representation/Continuations and Delimited Control/Introduction to Programming with Shift and Reset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Programming with Shift and Reset"
             }
           },
           {
@@ -39,12 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/Edit.md",
+                "file": "Blog/読む候補の論文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edit"
+              "title": "読む候補の論文"
+            }
+          },
+          {
+            "id": "dde922ba8288ccd7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://naotoogawa.hatenablog.jp/entry/2016/11/27/Data_types_%C3%A0_la_carte_%E3%81%AE%E5%86%99%E7%B5%8C",
+                "title": "Data types à la carte の写経 - IT練習ノート",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Data types à la carte の写経 - IT練習ノート"
             }
           },
           {
@@ -62,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -82,7 +166,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "memory",
+                "query": "continuation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -307,44 +391,44 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f110519e77e3ce43",
+  "active": "60af388120d05c2f",
   "lastOpenFiles": [
-    "Compiler/LowLevel/Memory/Memory.md",
-    "Compiler/LowLevel/Memory/Stackと再帰関数のStackFrameの関係.md",
-    "Compiler/LowLevel/Memory/segmentation fault(segfault).md",
-    "Compiler/LowLevel/Memory/What Every Programmer Should Know About Memory.md",
     "Personal/病院.md",
-    "Compiler/Regular Expression/Regular Expression.md",
-    "Personal/興味関心.md",
-    "README.md",
-    "開発/Edit.md",
-    "Timestamps/2025/05/2025-05-22-Thursday.md",
-    "Untitled.md",
-    "Compiler/Regular Expression/Thompson's Construction Algorithm.md",
-    "Blog/「型」＝「値の集合」ではない.md",
-    "Blog/型とテストの役割は違いますよ.md",
-    "index.md",
-    "趣味/お茶/お茶のお店.md",
-    "Theory/Automata/Automata.md",
-    "Theory/Automata/A New Approach for Active Automata Learning Based on Apartness.md",
-    "講義/Theory of computation/The Regular Pumping Lemma, Finite Automata → Regular Expressions, CFGs.md",
-    "Personal/Raycast/Raycast SnippetでのKeywordの作り方.md",
-    "講義/Theory of computation/Reducibility.md",
+    "Theory/Algorithm/Heuristic search/Heuristic search 1.md",
+    "Compiler/Middleend/Intermediate representation/Continuations and Delimited Control/Introduction to Programming with Shift and Reset.md",
+    "Compiler/Middleend/Intermediate representation/Continuations and Delimited Control/Continuations and Delimited Control.md",
+    "Compiler/Middleend/Intermediate representation/Continuations and Delimited Control/Continuation-passing style.md",
+    "Theory/型システム/index.md",
+    "Theory/型システム/Bidirectional type.md",
+    "Blog/組織論.md",
+    "Blog/参考になるブログ.md",
+    "Theory/Algorithm/Heuristic search/計画と決めないことの重要性.md",
+    "Theory/Algorithm/Heuristic search/Heuristic search.md",
+    "Theory/Algorithm/Heuristic search",
+    "Theory/Algorithm/Algorithms.md",
     "Compiler/Middleend/Bidirectional transformations/Bidirectional transformations.md",
-    "Compiler/Backend/Abstract Machine.md",
-    "Timestamps/2025/05/2025-05-15-Thursday.md",
-    "Theory/Logic/Rewriting/Weakening.md",
-    "Compiler/JVM/JVM.md",
-    "Personal/Raycast",
-    "趣味/英語",
-    "Personal",
-    "Theory/Graph Theory",
-    "講義/哲学演習",
-    "Theory/Logic/Linear Logic",
-    "Tags",
-    "Theory/Data Structure/Graph",
-    "Reading",
-    "Compiler/JVM",
+    "Compiler/Middleend/Intermediate representation/A-normal form.md",
+    "Blog/読む候補の論文.md",
+    "PL/Haskell/Haskell.md",
+    "Theory/Algorithm/PEARLS OF FUNCTIONAL ALGORITHM DESIGN/PEARLS OF FUNCTIONAL ALGORITHM DESIGN.md",
+    "PL/Haskell/Effect System.md",
+    "Compiler/Expression problem.md",
+    "Compiler/Tagless Final.md",
+    "PL/Haskell/HaskellでのBenchmarkの取り方.md",
+    "開発/AI/AI.md",
+    "Compiler/Backend/Memory Management/Memory.md",
+    "Compiler/Backend/Memory Management/Garbage Collection.md",
+    "Theory/Logic/Rewriting/lambda calculus.md",
+    "Theory/Logic/Girard/Blind spot.md",
+    "開発/Security",
+    "Theory/Systems theory",
+    "Compiler/Type System/Subtype",
+    "Theory/Cryptography",
+    "PL/Lean",
+    "Compiler/Middleend/Intermediate representation/Continuations and Delimited Control",
+    "Compiler/評価戦略",
+    "Theory/Math/Equality",
+    "開発/Prototypes",
     "自作アプリ/Architecture.canvas",
     "InkDrop/開発/読書/hj6fwa0h1-cc6a113db420ae175ef73b7c8d70261e.jpg",
     "InkDrop/開発/技術ブログ/wfet1PJeX-rn_image_picker_lib_temp_4e6d0c8a-5f9e-4ae5-a612-12d67fee3881.png",

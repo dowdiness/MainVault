@@ -1,6 +1,6 @@
 ---
 created: 2025-03-15T21:48:22+09:00
-modified: 2025-05-07T19:34:21+09:00
+modified: 2025-06-01T20:32:24+09:00
 ---
 
 - [[「型システム入門」入門以前]]
@@ -10,3 +10,6 @@ modified: 2025-05-07T19:34:21+09:00
 
 論理学入門
 https://scrapbox.io/sno2wman/%E8%AB%96%E7%90%86%E5%AD%A6%E3%82%92%E7%8B%AC%E7%BF%92%E3%81%97%E3%81%9F%E3%81%84%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AB
+
+
+[Type Inference Logics](https://dl.acm.org/doi/10.1145/3689786)

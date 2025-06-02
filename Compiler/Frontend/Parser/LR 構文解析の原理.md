@@ -1,12 +1,11 @@
 ---
 created: 2025-03-07T10:40:26+09:00
-modified: 2025-04-29T19:37:44+09:00
+modified: 2025-05-23T23:26:09+09:00
 ---
 
 [Paper](https://www.jstage.jst.go.jp/article/jssst/31/1/31_1_30/_pdf)
 
 [応用](https://yui-knk.hatenablog.com/entry/2023/12/06/082203)
-
 
 1. [BNF](https://d.hatena.ne.jp/keyword/BNF)のルールに対応する[オートマトン](https://d.hatena.ne.jp/keyword/%A5%AA%A1%BC%A5%C8%A5%DE%A5%C8%A5%F3)を用意する
 2. 1で用意した[オートマトン](https://d.hatena.ne.jp/keyword/%A5%AA%A1%BC%A5%C8%A5%DE%A5%C8%A5%F3)を合成して1つの[オートマトン](https://d.hatena.ne.jp/keyword/%A5%AA%A1%BC%A5%C8%A5%DE%A5%C8%A5%F3)にまとめる

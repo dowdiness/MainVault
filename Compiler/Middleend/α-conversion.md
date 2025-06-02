@@ -1,8 +1,10 @@
 ---
 aliases: [Alpha-conversion is inevitable]
 created: 2025-04-24T01:01:12+09:00
-modified: 2025-04-29T20:20:13+09:00
+modified: 2025-05-31T17:33:45+09:00
 ---
+
+# α-conversion
 
 https://en.wikipedia.org/wiki/Lambda_calculus#%CE%B1-conversion
 https://people.cs.nott.ac.uk/psztxa/publ/alpha-draft.pdf

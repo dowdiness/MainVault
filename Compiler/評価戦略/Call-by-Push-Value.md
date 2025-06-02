@@ -1,7 +1,11 @@
 ---
 created: 2024-10-17T03:51:05+09:00
-modified: 2025-04-29T19:37:50+09:00
+modified: 2025-05-27T01:23:53+09:00
 ---
+
+# Call-by-Push-Value
+
+Call-by-push-value (CBPV) is a new programming language paradigm, based on the slogan “a value is, a computation does”. We claim that CBPV provides the semantic primitives from which the call-by-value and call-by-name paradigms are built.
 
 Call-by-Push-Valueは値呼び戦略と名前呼び戦略を両立させる評価戦略。
 
@@ -42,3 +46,5 @@ data Comp
     | App Comp Value
     | Return Value
 ```
+
+https://pblevy.github.io/papers/thesisqmwphd.pdf

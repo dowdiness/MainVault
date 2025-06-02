@@ -1,16 +1,15 @@
 ---
-title: Base
+title: Edit
 publish: false
-tags: [" "]
-aliases: [Untitled]
+tags: []
+aliases: [edit]
 created: 2025-05-22T18:13:31+09:00
-modified: 2025-05-22T18:42:13+09:00
+modified: 2025-05-22T22:59:47+09:00
 ---
 
 # Edit
 
 [Edit](https://github.com/microsoft/edit/tree/main) のコードリーディングをした感想
-
 
 ## arena
 
@@ -28,5 +27,4 @@ Text buffer
 ## simd
 
 [SIMD Within A Register](https://en.wikipedia.org/wiki/SWAR)
-
 [Compiling For SIMD Within A Register](http://www.phys.aoyama.ac.jp/lab/furukawa/aoyama+/Tech_notes/adaptor_doc/Users_Guide.pdf)

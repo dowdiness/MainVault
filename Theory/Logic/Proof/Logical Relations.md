@@ -1,7 +1,7 @@
 ---
 aliases: ["Logical Relations as Types: Proof-Relevant Parametricity for Program Modules"]
 created: 2025-04-07T01:34:08+09:00
-modified: 2025-04-29T19:35:16+09:00
+modified: 2025-05-29T20:08:04+09:00
 ---
 
 [wiki](https://en.wikipedia.org/wiki/Logical_relations)
@@ -14,3 +14,5 @@ https://arxiv.org/pdf/1907.11133
 
 # Logical Relations as Types: Proof-Relevant Parametricity for Program Modules
 https://dl.acm.org/doi/10.1145/3474834
+
+[On Computational Indistinguishability and Logical Relations](https://arxiv.org/abs/2408.17340)

@@ -1,0 +1,12 @@
+---
+title: Base
+publish: false
+tags: [" "]
+aliases: [Untitled]
+created: 2025-05-28T22:01:27+09:00
+modified: 2025-05-28T22:02:08+09:00
+---
+
+# Introduction to Programming Languages
+
+https://hjaem.info/itpl

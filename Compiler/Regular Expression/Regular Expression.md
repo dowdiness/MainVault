@@ -1,7 +1,7 @@
 ---
 tags: ["automata"]
 created: 2025-04-19T16:26:11+09:00
-modified: 2025-05-21T23:08:01+09:00
+modified: 2025-05-22T20:10:06+09:00
 ---
 
 # Regular Expression
@@ -80,3 +80,5 @@ https://github.com/yallop/ocaml-re-nfa
 [Is Reuse All You Need? A Systematic Comparison of Regular Expression Composition Strategies](https://arxiv.org/abs/2503.20579)[Regular Expressions with Backreferences and Lookaheads Capture NLOG](https://arxiv.org/abs/2404.17492)
 [A Coq Mechanization of JavaScript Regular Expression Semantics](https://arxiv.org/abs/2403.11919)
 [An Evaluation of N-Gram Selection Strategies for Regular Expression Indexing in Contemporary Text Analysis Tasks](https://arxiv.org/abs/2504.12251)
+
+[# Extended to Multi-Tilde-Bar Regular Expressions and Efficient Finite Automata Constructions](https://arxiv.org/abs/1306.3507)

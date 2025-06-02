@@ -1,6 +1,6 @@
 ---
 created: 2025-04-18T14:54:19+09:00
-modified: 2025-05-09T18:09:38+09:00
+modified: 2025-05-22T22:39:59+09:00
 ---
 
 Making compiler tests based on compiler source code coverage
@@ -13,6 +13,8 @@ Effect-Driven QuickChecking of Compilers
 
 https://www.reddit.com/r/ProgrammingLanguages/comments/7kbz5p/how_do_you_write_tests_for_your_compiler/
 
+
+https://propertesting.com/toc.html
 
 Verifying a Simple Compiler Using Property-based Random Testing
 https://www.dcc.fc.up.pt/Pubs/TR13/dcc-2013-06.pdf

@@ -4,7 +4,7 @@ publish: false
 tags: [" "]
 aliases: [Bidirectional Transformations International Summer School, Untitled]
 created: 2025-04-30T14:26:08+09:00
-modified: 2025-05-04T16:51:38+09:00
+modified: 2025-06-01T03:15:47+09:00
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Bidirectional_transformation)
@@ -33,6 +33,8 @@ Oxford大学で行われた双方向変換のセミナーの書籍化です。
 
 [A bidirectional-transformation-based framework for software visualization and visual editing](https://dds.sciengine.com/cfs/files/pdfs/1674-733X/LXZAPybw8GLfQd622-mark.pdf)
 [Application of Graph Transformation to Visual Languages](https://people.cs.pitt.edu/~chang/231/UML/tr97-10.pdf)
+
+[“Bidirectionalization for free” for monomorphic transformations](https://www.sciencedirect.com/science/article/pii/S0167642314003323)
 
 ## 特徴
 

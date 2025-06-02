@@ -1,6 +1,6 @@
 ---
 created: 2025-03-30T20:25:47+09:00
-modified: 2025-05-10T21:39:56+09:00
+modified: 2025-05-31T18:23:18+09:00
 ---
 
 # AI
@@ -32,3 +32,12 @@ https://apxml.com/posts/top-10-machine-learning-papers-to-read
 
 [  
 ](https://www.reddit.com/r/MachineLearning/?f=flair_name%3A%22Discussion%22)
+
+https://8factoragent.org/
+## Semantics
+
+[# From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
+
+## Rewriting
+
+[The Darwin Gödel Machine: AI that improves itself by rewriting its own code](https://sakana.ai/dgm/)

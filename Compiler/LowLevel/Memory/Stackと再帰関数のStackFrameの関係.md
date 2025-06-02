@@ -3,16 +3,18 @@ title: Stackと再帰関数のStackFrameの関係
 publish: true
 tags: [claude]
 created: 2025-05-22T19:08:01+09:00
-modified: 2025-05-22T19:18:46+09:00
+modified: 2025-05-22T19:58:25+09:00
 ---
 
 # Stackと再帰関数のStackFrameの関係
 
 注：Claude 3.7 sonnetを使用しています
+
 ## 参考
 
 - [Call Stack](https://en.wikipedia.org/wiki/Call_stack)
 - [Recursion - Recursive Call Stacks & Algorithms - DSA Course in Python Lecture 6](https://www.youtube.com/watch?v=TGT79h7e7tE)
+
 ## 質問
 
 再帰関数では関数の持つStack Frameを活用することにより明示的なStackを宣言せずともStackを使ったアルゴリズムを実現できるのでしょうか？Stackを使ったプログラムを再帰関数に変換するにはどうすればよいでしょうか？

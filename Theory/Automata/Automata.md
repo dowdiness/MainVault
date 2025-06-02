@@ -1,9 +1,9 @@
 ---
 title: Base
 publish: false
-tags: [automata]
+tags: [automata, automaton]
 created: 2025-05-21T23:09:07+09:00
-modified: 2025-05-21T23:16:54+09:00
+modified: 2025-05-27T19:35:14+09:00
 ---
 
 # Automata
@@ -16,3 +16,8 @@ modified: 2025-05-21T23:16:54+09:00
 ## reading list
 
 - [Explicit vs. on-the-fly: two interfaces for exploring automata](https://spot.lre.epita.fr/tut50.html)
+
+## Celluer Automata
+
+[Elementary Cellular Automata with Memory](https://content.wolfram.com/sites/13/2018/02/14-2-1.pdf)
+

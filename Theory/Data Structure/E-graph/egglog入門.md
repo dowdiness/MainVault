@@ -8,7 +8,7 @@ created: 2025-04-19T16:47:12+09:00
 description: zenn
 tags: ["clippings"]
 aliases: [はじめに]
-modified: 2025-04-29T19:36:42+09:00
+modified: 2025-05-27T19:30:35+09:00
 ---
 
 # はじめに
