@@ -4,15 +4,15 @@ publish: true
 tags: [continuation, cps, redex]
 aliases: [shift and reset]
 created: 2025-05-27T19:40:01+09:00
-modified: 2025-06-02T15:34:55+09:00
+modified: 2025-06-02T15:46:32+09:00
 ---
 
 # Introduction to Programming with Shift and Reset
 
 下記の論文の読書メモです
 
-[英語](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-e.pdf): Introduction to Programming with Shift and Reset
-[日本語](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf): shift/reset プログラミング入門
+- [英語](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-e.pdf): Introduction to Programming with Shift and Reset
+- [日本語](http://pllab.is.ocha.ac.jp/~asai/cw2011tutorial/main-j.pdf): shift/reset プログラミング入門
 
 ## この記事に必要な前提知識
 
@@ -124,7 +124,7 @@ shift (fun k -> M)
 継続を破棄する、例外に当たる処理。
 
 ```ocaml
-shift (fun _ -> M)　 %% _ は他にどこにも現れない変数 %%
+shift (fun _ -> M)　 (* _ は他にどこにも現れない変数 *)
 ```
 
 #### 練習問題 3
@@ -210,7 +210,7 @@ let start tree =
 	reset (fun () -> walk tree; Done) ;;
 	
 type ’a result_t = Done
-				 | Next of int * (unit / ’a -> ’a result_t / ’a) ;;
+	| Next of int * (unit / ’a -> ’a result_t / ’a) ;;
 ```
 ### 2.8 継続の包み込み： printf
 
