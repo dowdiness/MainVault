@@ -1,10 +1,14 @@
 ---
-aliases: ["**be/get carried away**"]
-created: 2024-10-29T19:32:54+09:00
-modified: 2025-04-29T19:37:16+09:00
+title: Base
+publish: false
+tags: []
+created: 2025-06-03T14:40:54+09:00
+modified: 2025-06-03T14:44:22+09:00
 ---
 
-# **be/get carried away**
+# Vocabulary
+
+## **be/get carried away**
 
 to [become](https://dictionary.cambridge.org/dictionary/english/become "become") so [excited](https://dictionary.cambridge.org/dictionary/english/excite "excited") about something that you do not [control](https://dictionary.cambridge.org/dictionary/english/control "control") what you say or do:
 
@@ -21,5 +25,4 @@ Against her [better](https://dictionary.cambridge.org/dictionary/english/better
 1分9秒から
 https://youtu.be/aB2PWcmQ3nw?si=rCj0zR6tr3qUbMTJ&t=69
 
-〜時に発動出来る効果は発動条件を満たした時に直前の効果にチェーンを重ねて発動出来る。〜場合に発動出来る効果ならその発動条件を満たしたチェーンが終わってから発動出来る。
-
+「〜時に発動出来る」効果は発動条件を満たした時の効果に更にチェーンを重ねて発動します。「〜場合に発動出来る」効果は発動条件を満たした効果のチェーンが終わってから、新しい別のチェーンを作って発動します。

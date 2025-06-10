@@ -1,9 +1,14 @@
 ---
 created: 2025-03-30T20:25:47+09:00
-modified: 2025-05-31T18:23:18+09:00
+modified: 2025-06-05T19:49:33+09:00
 ---
 
 # AI
+
+## History
+
+[Annotated History of Modern AI and Deep Learning](https://people.idsia.ch/~juergen/deep-learning-history.html)
+
 
 [Gemini](https://gemini.google.com/app)
 
@@ -28,16 +33,27 @@ https://www.sas.upenn.edu/~fdiebold/NoHesitations/BookAdvanced.pdf
 
 https://apxml.com/posts/top-10-machine-learning-papers-to-read
 
+[codename goose](https://github.com/block/goose)
+
+
+
 # [D] The ML Papers That Rocked Our World (2020-2023)
 
 [  
 ](https://www.reddit.com/r/MachineLearning/?f=flair_name%3A%22Discussion%22)
 
 https://8factoragent.org/
+
+[Virtual Machinations: Using Large Language Models as Neural Computers](https://queue.acm.org/detail.cfm?id=3676287)
+
 ## Semantics
 
-[# From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
-
+[From Tokens to Thoughts: How LLMs and Humans Trade Compression for Meaning](https://arxiv.org/abs/2505.17117)
+[Can LLMs Reason About Program Semantics? A Comprehensive Evaluation of LLMs on Formal Specification Inference](https://arxiv.org/abs/2503.04779)
 ## Rewriting
 
 [The Darwin Gödel Machine: AI that improves itself by rewriting its own code](https://sakana.ai/dgm/)
+
+## Motivation
+
+[Motivations for Artificial Intelligence, for Deep Learning, for ALife: Mortality and Existential Risk](https://direct.mit.edu/artl/article/30/1/48/119522/Motivations-for-Artificial-Intelligence-for-Deep)

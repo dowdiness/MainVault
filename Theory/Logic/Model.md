@@ -1,7 +1,11 @@
 ---
 created: 2025-04-09T14:52:34+09:00
-modified: 2025-04-29T19:35:08+09:00
+modified: 2025-06-02T19:58:05+09:00
 ---
+
+# Model
+
+[[Model Theory]]
 
 https://www.williamjbowman.com/blog/2023/06/15/what-is-a-model/
 

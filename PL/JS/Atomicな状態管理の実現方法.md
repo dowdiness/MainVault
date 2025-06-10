@@ -1,8 +1,10 @@
 ---
 aliases: [何故Atomicな状態管理が必要なのか?]
 created: 2025-02-11T13:15:39+09:00
-modified: 2025-04-29T20:17:20+09:00
+modified: 2025-06-02T17:48:26+09:00
 ---
+
+# Atomicな状態管理の実現方法
 
 https://jotai.org/
 https://github.com/jotaijs/jotai-location

@@ -4,7 +4,7 @@ publish: true
 tags: [continuation, cps, redex]
 aliases: [shift and reset]
 created: 2025-05-27T19:40:01+09:00
-modified: 2025-06-02T15:46:32+09:00
+modified: 2025-06-03T04:18:20+09:00
 ---
 
 # Introduction to Programming with Shift and Reset
@@ -233,6 +233,8 @@ reset (fun () -> "hello " ^ shift (fun k -> fun str -> k str) ^ "!")
 ```ocaml
 reset (fun () -> [...] ^ " world")
 ```
+
+「答の型」とは、着目している式を取り囲む reset が返すものの型のこと。
 
 ### 2.10 継続の包み込み：状態モナド
 

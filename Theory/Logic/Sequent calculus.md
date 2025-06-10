@@ -1,8 +1,10 @@
 ---
 tags: [logic]
 created: 2025-04-25T17:59:58+09:00
-modified: 2025-05-07T20:34:33+09:00
+modified: 2025-06-02T19:06:59+09:00
 ---
+
+# Sequent calculus
 
 [Wiki](https://en.wikipedia.org/wiki/Sequent_calculus)
 

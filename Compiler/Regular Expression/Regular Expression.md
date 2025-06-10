@@ -1,7 +1,7 @@
 ---
 tags: ["automata"]
 created: 2025-04-19T16:26:11+09:00
-modified: 2025-05-22T20:10:06+09:00
+modified: 2025-06-02T20:10:16+09:00
 ---
 
 # Regular Expression
@@ -81,4 +81,11 @@ https://github.com/yallop/ocaml-re-nfa
 [A Coq Mechanization of JavaScript Regular Expression Semantics](https://arxiv.org/abs/2403.11919)
 [An Evaluation of N-Gram Selection Strategies for Regular Expression Indexing in Contemporary Text Analysis Tasks](https://arxiv.org/abs/2504.12251)
 
-[# Extended to Multi-Tilde-Bar Regular Expressions and Efficient Finite Automata Constructions](https://arxiv.org/abs/1306.3507)
+[Extended to Multi-Tilde-Bar Regular Expressions and Efficient Finite Automata Constructions](https://arxiv.org/abs/1306.3507)
+
+[A parallel parser for regular expressions](https://arxiv.org/abs/2503.06763)
+
+## Disambiguation
+
+[Static Analysis for Checking the Disambiguation Robustness of Regular Expressions](https://dl.acm.org/doi/abs/10.1145/3656461)
+[Disambiguation in Regular Expression Matching via Position Automata with Augmented Transitions](https://u-aizu.ac.jp/files/page/research/techreport/2013-002.pdf)

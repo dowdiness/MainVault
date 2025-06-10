@@ -1,10 +1,11 @@
 ---
 date: 2025-04-28
-tags: [" "]
-aliases: [Untitled]
+tags: []
 created: 2025-04-28T00:10:44+09:00
-modified: 2025-04-29T20:16:58+09:00
+modified: 2025-06-02T21:16:10+09:00
 ---
+
+# Recursion Schemes
 
 [# An Introduction to Recursion Schemes](https://blog.sumtypeofway.com/posts/introduction-to-recursion-schemes.html)
 [nlab](https://ncatlab.org/nlab/show/recursion+scheme)
