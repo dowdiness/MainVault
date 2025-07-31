@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -337,8 +337,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "7624d6e99e2c9fd1",
+  "active": "2b42c1e1187dd6f1",
   "lastOpenFiles": [
+    "Timestamps/2025/07/2025-07-24-Thursday.md",
     "Timestamps/2025/07/2025-07-26-Saturday.md",
     "Timestamps/2025/07/2025-07-28-Monday.md",
     "Timestamps/2025/07/2025-07-30-Wednesday.md",
@@ -352,7 +353,6 @@
     "Compiler/VM",
     "Compiler/Books/Crafting Interpreters/Crafting Interpreters.md",
     "Blog/ソフトウェアの作るハードルが下がったらどうなるか.md",
-    "Timestamps/2025/07/2025-07-24-Thursday.md",
     "Theory/Data Structure/E-graph/E-graph.md",
     "Clippings/egg Fast and Extensible Equality Saturation.md",
     "自作アプリ/Visual Programming.md",

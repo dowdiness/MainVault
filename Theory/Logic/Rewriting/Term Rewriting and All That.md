@@ -1,10 +1,10 @@
 ---
-title: Base
-publish: false
-tags: [" "]
-aliases: [Term Rewriting and All That, Untitled]
+title: Term Rewriting and All That
+publish: true
+tags: [compiler]
+aliases: [Term Rewriting and All That]
 created: 2025-07-31T15:08:29+09:00
-modified: 2025-07-31T15:37:41+09:00
+modified: 2025-07-31T15:41:31+09:00
 ---
 
 # Term Rewriting and All That
@@ -30,4 +30,4 @@ The central themes of this book is termination and confluence of reduction.
 
 A reduction is called
 - Church-Rosser: iff $x \xleftrightarrow{\star} y \Rightarrow x \downarrow y$ 
--  confluent
+-  confluent: 
