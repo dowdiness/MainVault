@@ -3,7 +3,7 @@ title: Base
 publish: false
 tags: []
 created: 2025-06-03T14:40:54+09:00
-modified: 2025-06-03T14:44:22+09:00
+modified: 2025-06-11T23:54:02+09:00
 ---
 
 # Vocabulary
@@ -26,3 +26,8 @@ Against her [better](https://dictionary.cambridge.org/dictionary/english/better
 https://youtu.be/aB2PWcmQ3nw?si=rCj0zR6tr3qUbMTJ&t=69
 
 「〜時に発動出来る」効果は発動条件を満たした時の効果に更にチェーンを重ねて発動します。「〜場合に発動出来る」効果は発動条件を満たした効果のチェーンが終わってから、新しい別のチェーンを作って発動します。
+
+## spin the narrative
+
+And so just like back there in 1957; when Eisenhower had to federalize the national guards and make sure that the local authorities conform to his wishes and will the national mandate. I'm just doing the same kind of thing.  So he's gonna spin the narrative for sure that way.
+https://youtu.be/dnuQi_B4IDQ?si=ssow5YAmngRXUWoX&t=485

@@ -1,11 +1,17 @@
 ---
-title: Base
+title: Lean
 publish: false
 tags: [lean, prover]
 created: 2025-05-29T21:17:02+09:00
-modified: 2025-05-29T21:17:47+09:00
+modified: 2025-07-16T17:21:40+09:00
 ---
 
 # Lean
 
 ## [Lean by Example](https://lean-ja.github.io/lean-by-example/#lean-by-example)
+
+## Paper
+
+[A Novice-Friendly Induction Tactic for Lean](https://dl.acm.org/doi/pdf/10.1145/3437992.3439928)
+
+[Lean4Lean](https://arxiv.org/pdf/2403.14064)

@@ -8,7 +8,7 @@ modified: 2025-04-29T19:35:17+09:00
 
 [[Reducibility]]
 [[Theory/Logic/Proof/Realizability|Realizability]]
-[[Logical Relations]]
+[[Theory/Logic/Proof/Logical Relations]]
 
 
 Robert Harper

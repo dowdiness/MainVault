@@ -1,7 +1,9 @@
 ---
 created: 2025-04-12T00:07:59+09:00
-modified: 2025-04-29T20:23:04+09:00
+modified: 2025-07-16T20:59:37+09:00
 ---
+
+# Proofs and Types
 
 _Proofs and Types_ is a seminal book on proof theory and type theory by logician [Jean-Yves Girard](https://www.pls-lab.org/people/Jean-Yves_Girard).
 The book originated as a set of graduate lecture notes on typed λ-calculus given at the Université Paris VII in the autumn term of 1986-7.

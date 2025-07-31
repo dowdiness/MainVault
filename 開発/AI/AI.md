@@ -1,9 +1,13 @@
 ---
 created: 2025-03-30T20:25:47+09:00
-modified: 2025-06-05T19:49:33+09:00
+modified: 2025-06-11T16:45:58+09:00
 ---
 
 # AI
+
+[Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008)
+
+[Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
 
 ## History
 
@@ -57,3 +61,6 @@ https://8factoragent.org/
 ## Motivation
 
 [Motivations for Artificial Intelligence, for Deep Learning, for ALife: Mortality and Existential Risk](https://direct.mit.edu/artl/article/30/1/48/119522/Motivations-for-Artificial-Intelligence-for-Deep)
+
+
+[The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://machinelearning.apple.com/research/illusion-of-thinking)

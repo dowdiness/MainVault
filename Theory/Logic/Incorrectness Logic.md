@@ -4,7 +4,7 @@ publish: false
 tags: [" "]
 aliases: [Untitled]
 created: 2025-05-03T19:18:51+09:00
-modified: 2025-05-13T23:28:39+09:00
+modified: 2025-07-16T20:53:47+09:00
 ---
 
 # Incorrectness Logic
@@ -34,6 +34,7 @@ True negative
 
 Kelvin Qian, Scott Smith, Brandon Stride, Shiwei Weng, and Ke Wu. 2024. Semantic-Type-Guided Bug Finding. Proc. ACM Program. Lang. 8, OOPSLA2, Article 348 (October 2024), 28 pages. https://doi.org/10.1145/3689788
 
+[Limits and Difficulties in the Design of Under-Approximation Abstract Domains](https://dl.acm.org/doi/pdf/10.1145/3666014)
 ## Blog
 
 [Incorrectness Logic by Example](https://hexgolems.com/2020/04/incorrectness-logic-by-example/)

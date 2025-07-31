@@ -1,9 +1,10 @@
 ---
 title: Distributed system
 publish: false
-tags: [distributed-system]
+tags: [distributed-system, 分散システム]
+alias: [分散システム]
 created: 2025-05-07T22:49:13+09:00
-modified: 2025-05-10T22:40:43+09:00
+modified: 2025-06-30T18:37:21+09:00
 ---
 
 # Distributed system
@@ -16,6 +17,8 @@ An Equational Theory for Transactions[^2]
 https://groups.csail.mit.edu/tds/papers/Lynch/Lifetime_Contributions_Book-2.pdf
 
 ## Blog
+
+[Clockの取り扱い方に関する簡単な説明](https://techblog.hacomono.jp/entry/2024/12/18/000000)
 
 [Jepsen](https://jepsen.io/)
 

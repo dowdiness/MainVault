@@ -4,7 +4,7 @@ publish: true
 tags: [moonbit, 正規表現]
 aliases: [Moonbitで作る簡易正規表現 v2, Moonbitで作る簡易正規表現 改訂版]
 created: 2025-06-10T15:45:33+09:00
-modified: 2025-06-10T16:01:17+09:00
+modified: 2025-06-12T18:55:34+09:00
 ---
 
 # Moonbitで作る簡易正規表現 v2
@@ -287,7 +287,7 @@ test {
 
 # 0回以上の繰り返し(*)への対応
 
-`*` は直前の文字が0回以上現れることを表します。これは最も複雑な処理の一つです。
+`*` は直前の文字が0回以上現れることを表します。
 
 ```moonbit
 fn regex_match(pattern : String, text : String) -> Bool {

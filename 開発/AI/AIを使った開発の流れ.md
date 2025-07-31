@@ -3,7 +3,7 @@ title: Base
 publish: false
 tags: [ai]
 created: 2025-05-23T20:27:09+09:00
-modified: 2025-05-23T20:28:17+09:00
+modified: 2025-06-10T16:46:36+09:00
 ---
 
 # AIを使った開発の流れ
@@ -28,3 +28,9 @@ modified: 2025-05-23T20:28:17+09:00
 ## Task management
 
 https://www.task-master.dev/
+
+## Tools
+
+[Peekaboo](https://github.com/steipete/Peekaboo)
+
+MCP server that enables AI agents to capture screenshots of applications
