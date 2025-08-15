@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a320e95d6411b09",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.nue.ie.niigata-u.ac.jp/toyama/lab-intro/TRS-intro/index.html",
-                "title": "研究の紹介",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "研究の紹介"
-            }
-          },
-          {
             "id": "801cf33b03520f87",
             "type": "leaf",
             "state": {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Logic/Rewriting/Term Rewriting and All That.md",
+                "file": "Timestamps/2025/08/2025-08-04-Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Term Rewriting and All That"
+              "title": "2025-08-04-Monday"
             }
           },
           {
@@ -83,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Theory/Math/Graph theory/Graph Theory.md",
+                "file": "Timestamps/2025/08/2025-08-15-Friday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Graph Theory"
+              "title": "2025-08-15-Friday"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -141,8 +127,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -171,12 +157,12 @@
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "longform",
-              "title": "Longform"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
-            "id": "dc2719bde5e64c0f",
+            "id": "352728a4683753a2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -337,35 +323,36 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2b42c1e1187dd6f1",
+  "active": "ead7d2ec6a52bd9c",
   "lastOpenFiles": [
+    "Timestamps/2025/08/2025-08-11-Monday.md",
+    "Timestamps/2025/04/+Daily Notes.md",
+    "Timestamps/2025/08/2025-08-15-Friday.md",
+    "Timestamps/2025/08/2025-08-08-Friday.md",
+    "Timestamps/2025/08/2025-08-07-Thursday.md",
+    "Theory/Logic/Rewriting/Term Rewriting and All That.md",
+    "Timestamps/2025/08/2025-08-06-Wednesday.md",
+    "Theory/Math/Graph theory/Graph Theory.md",
     "Timestamps/2025/07/2025-07-24-Thursday.md",
+    "Timestamps/2025/08/2025-08-04-Monday.md",
+    "Theory/Database/Index.md",
+    "Theory/Database/Database.md",
+    "Theory/Database/Redis.md",
+    "講義/Database/index.md",
+    "講義/Distributed Systems/6.5840 Distributed Systems.md",
+    "講義/Distributed Systems/Introduction.md",
+    "Timestamps/2025/08/2025-08-01-Friday.md",
+    "Timestamps/2025/08",
     "Timestamps/2025/07/2025-07-26-Saturday.md",
     "Timestamps/2025/07/2025-07-28-Monday.md",
     "Timestamps/2025/07/2025-07-30-Wednesday.md",
     "Timestamps/2025/07/2025-07-31-Thursday.md",
     "Theory/Logic/Girard/Proofs and Types.md",
-    "Theory/Logic/Rewriting/Term Rewriting and All That.md",
     "Theory/Type Theory/Completeness.md",
     "Theory/Logic/Rewriting/index.md",
     "Compiler/VM/Virtual machine.md",
     "開発/AI/AI.md",
     "Compiler/VM",
-    "Compiler/Books/Crafting Interpreters/Crafting Interpreters.md",
-    "Blog/ソフトウェアの作るハードルが下がったらどうなるか.md",
-    "Theory/Data Structure/E-graph/E-graph.md",
-    "Clippings/egg Fast and Extensible Equality Saturation.md",
-    "自作アプリ/Visual Programming.md",
-    "Theory/Logic/Rewriting/Graph Reduction.md",
-    "Compiler/Backend/Register allocation.md",
-    "Compiler/Books/Modern Compiler Implementation in ML/Modern Compiler Implementation in ML.md",
-    "Compiler/Backend/Assembly.md",
-    "Misc/読書リスト.md",
-    "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
-    "開発/Code Reading/Edit.md",
-    "Blog/参考になるブログ.md",
-    "Blog/言語化は役に立つのか.md",
-    "Blog/型の健全性と完全性.md",
     "Timestamps/2025/07",
     "Theory/Math/Category Theory",
     "Timestamps/2025/06",
@@ -374,7 +361,6 @@
     "Theory/Math/Linear Algebra",
     "開発/Nix",
     "PL/Scala",
-    "Tags/# ",
     "自作アプリ/Architecture.canvas",
     "InkDrop/開発/読書/hj6fwa0h1-cc6a113db420ae175ef73b7c8d70261e.jpg",
     "InkDrop/開発/技術ブログ/wfet1PJeX-rn_image_picker_lib_temp_4e6d0c8a-5f9e-4ae5-a612-12d67fee3881.png",
