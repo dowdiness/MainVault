@@ -11,21 +11,26 @@ tags:: [[+Daily Notes]]
 ## 📅 質問
 
 ##### 🚀 今日やったこと
+
 - [ ] 
 
 ---
 ## 📝 メモ書き
+
 - 
 
 ---
 ## 感想
+
 ---
 ## 今日作ったノート
+
 ```dataview
 List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
 ```
 
 ## 今日編集したノート
+
 ```dataview
 List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
 ```
