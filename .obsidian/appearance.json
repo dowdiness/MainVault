@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "system",
   "baseFontSizeAction": true,
-  "translucency": false
+  "translucency": false,
+  "interfaceFontFamily": "Moralerspace Argon",
+  "textFontFamily": "Moralerspace Argon",
+  "monospaceFontFamily": "Moralerspace Argon"
 }

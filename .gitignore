@@ -1,7 +1,13 @@
+# Ignore node modules
 node_modules
-.DS_Store
-.obsidian/workspace
+
 # https://www.make.md/
 .makemd
-.trash
+
+# Eexclude Obsidian's workspace cache
+.obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Exclude MacOS settings and caches
+.trash/
+.DS_Store

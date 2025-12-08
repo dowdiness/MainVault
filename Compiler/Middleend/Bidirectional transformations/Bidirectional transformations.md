@@ -4,7 +4,7 @@ publish: false
 tags: [" "]
 aliases: [Bidirectional Transformations International Summer School, Untitled]
 created: 2025-04-30T14:26:08+09:00
-modified: 2025-06-01T03:15:47+09:00
+modified: 2025-12-08T22:09:17+09:00
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Bidirectional_transformation)

@@ -1,9 +1,9 @@
 ---
-title: Base
+title: Is Bidirectionality Important
 publish: false
-tags: []
-created: 2025-04-30T14:55:02+09:00
-modified: 2025-05-02T15:28:55+09:00
+tags: [compiler]
+created: 2025-12-08T22:08:53+09:00
+modified: 2025-12-08T22:11:31+09:00
 ---
 
 [Video](https://youtu.be/2Vxo_6YMJrg?si=A8vxli0WH1cwlMLq)

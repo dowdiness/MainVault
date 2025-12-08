@@ -1,98 +1,37 @@
 {
   "main": {
-    "id": "615a4d60cc032bfd",
+    "id": "a25f01409a17ee95",
     "type": "split",
     "children": [
       {
-        "id": "035258a73373ae09",
+        "id": "7122f8052c80dff0",
         "type": "tabs",
         "children": [
           {
-            "id": "801cf33b03520f87",
+            "id": "3e38bd915b2706d2",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://ub-deposit.fernuni-hagen.de/servlets/MCRFileNodeServlet/mir_derivate_00001128/Widera_Beierle_Complete_Type_System_1998.pdf",
-                "title": "A complete type system for functional languages",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "A complete type system for functional languages"
-            }
-          },
-          {
-            "id": "2b42c1e1187dd6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/08/2025-08-04-Monday.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-08-04-Monday"
-            }
-          },
-          {
-            "id": "7624d6e99e2c9fd1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/07/2025-07-24-Thursday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-07-24-Thursday"
-            }
-          },
-          {
-            "id": "24f9e855f9fefc08",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://transactional.blog/talk/enough-with-all-the-raft",
-                "title": "Enough With All The Raft",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Enough With All The Raft"
-            }
-          },
-          {
-            "id": "ead7d2ec6a52bd9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2025/08/2025-08-15-Friday.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-08-15-Friday"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "52abb660fa0e6a90",
+    "id": "5b453024fe1bbb8e",
     "type": "split",
     "children": [
       {
-        "id": "5f5387c8ad030a67",
+        "id": "ec62c086be84ad43",
         "type": "tabs",
         "children": [
           {
-            "id": "80ac97b5a79e9802",
+            "id": "ae92932708dbf1df",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -101,16 +40,16 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "ファイルエクスプローラ"
             }
           },
           {
-            "id": "254dafceb6fab80d",
+            "id": "5536a17ad847a786",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "term rewriti",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,27 +61,7 @@
             }
           },
           {
-            "id": "eb141c26e87a9586",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "4496104728eb18d2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer-history",
-              "state": {},
-              "icon": "lucide-clock",
-              "title": "Web history"
-            }
-          },
-          {
-            "id": "710ff6aaa72b5b45",
+            "id": "c3af5b9281a0ecd4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -152,17 +71,17 @@
             }
           },
           {
-            "id": "529b0cde60276143",
+            "id": "2cba36ca026dcb4d",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "longform",
+              "title": "Longform"
             }
           },
           {
-            "id": "352728a4683753a2",
+            "id": "3e51167468908791",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -175,23 +94,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 234.5
+    "width": 300
   },
   "right": {
-    "id": "feac1799bdef07a6",
+    "id": "b02b8403f0203c4a",
     "type": "split",
     "children": [
       {
-        "id": "1302915477c95cb4",
+        "id": "779b6422a5c4dc5f",
         "type": "tabs",
         "children": [
           {
-            "id": "1b2b71448b7a5827",
+            "id": "f9ae57d4c570fd6d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cheat sheet/Obsidian/Plugins/Obsidian Git.md",
+                "file": "自作アプリ/EG-walker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,31 +120,31 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Obsidian Git"
+              "title": "Backlinks for EG-walker"
             }
           },
           {
-            "id": "9ba93ca90041a6fc",
+            "id": "bccdb047adb4006c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zenn/books/Reconstructing TypeScript/Reconstructing TypeScript 英語.md",
-                "linksCollapsed": true,
+                "file": "自作アプリ/EG-walker.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Reconstructing TypeScript 英語"
+              "title": "Outgoing links from EG-walker"
             }
           },
           {
-            "id": "cd490db31ffd68c1",
+            "id": "8122f1f965349f20",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -234,22 +153,7 @@
             }
           },
           {
-            "id": "90e8aa99a927bfe3",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "zenn/books/Reconstructing TypeScript/Reconstructing TypeScript 英語.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Reconstructing TypeScript 英語"
-            }
-          },
-          {
-            "id": "2df591db400009f5",
+            "id": "aa21485f581ec6f6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -263,55 +167,72 @@
             }
           },
           {
-            "id": "e801a01edf80aa68",
+            "id": "6f922a0adab83838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "自作アプリ/EG-walker.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "EG-walkerのアウトライン"
+            }
+          },
+          {
+            "id": "3bbbd571b333a137",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
-            "id": "c76f3f8d400e9b37",
+            "id": "bf896a2a8dcca98b",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "a89a58c5c447040e",
+            "id": "65eca6e3d61b9ba2",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "footnotes",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "markdown-importer:Markdownインポーターを開く": false,
+      "zk-prefixer:新規ユニークノートの作成": false,
+      "random-note:ランダムノートを開く": false,
+      "audio-recorder:録音の開始/停止": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "open-vscode:VSCode": false,
@@ -319,52 +240,49 @@
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "tldraw:Create new tldrawing": false,
-      "obsidian-kanban:Create new board": false
+      "tldraw:Create new tldrawing": false
     }
   },
-  "active": "ead7d2ec6a52bd9c",
+  "active": "3e38bd915b2706d2",
   "lastOpenFiles": [
-    "Timestamps/2025/08/2025-08-11-Monday.md",
-    "Timestamps/2025/04/+Daily Notes.md",
-    "Timestamps/2025/08/2025-08-15-Friday.md",
-    "Timestamps/2025/08/2025-08-08-Friday.md",
-    "Timestamps/2025/08/2025-08-07-Thursday.md",
-    "Theory/Logic/Rewriting/Term Rewriting and All That.md",
-    "Timestamps/2025/08/2025-08-06-Wednesday.md",
-    "Theory/Math/Graph theory/Graph Theory.md",
-    "Timestamps/2025/07/2025-07-24-Thursday.md",
-    "Timestamps/2025/08/2025-08-04-Monday.md",
-    "Theory/Database/Index.md",
-    "Theory/Database/Database.md",
-    "Theory/Database/Redis.md",
-    "講義/Database/index.md",
-    "講義/Distributed Systems/6.5840 Distributed Systems.md",
-    "講義/Distributed Systems/Introduction.md",
-    "Timestamps/2025/08/2025-08-01-Friday.md",
-    "Timestamps/2025/08",
-    "Timestamps/2025/07/2025-07-26-Saturday.md",
-    "Timestamps/2025/07/2025-07-28-Monday.md",
-    "Timestamps/2025/07/2025-07-30-Wednesday.md",
-    "Timestamps/2025/07/2025-07-31-Thursday.md",
-    "Theory/Logic/Girard/Proofs and Types.md",
-    "Theory/Type Theory/Completeness.md",
-    "Theory/Logic/Rewriting/index.md",
-    "Compiler/VM/Virtual machine.md",
-    "開発/AI/AI.md",
-    "Compiler/VM",
-    "Timestamps/2025/07",
-    "Theory/Math/Category Theory",
-    "Timestamps/2025/06",
-    "Theory/Concurrent and Distributed Systems",
-    "Theory/Algorithm/Search",
-    "Theory/Math/Linear Algebra",
-    "開発/Nix",
-    "PL/Scala",
-    "自作アプリ/Architecture.canvas",
-    "InkDrop/開発/読書/hj6fwa0h1-cc6a113db420ae175ef73b7c8d70261e.jpg",
-    "InkDrop/開発/技術ブログ/wfet1PJeX-rn_image_picker_lib_temp_4e6d0c8a-5f9e-4ae5-a612-12d67fee3881.png",
+    "202512082226.md",
+    "202512082225.md",
+    "202512082227.md",
+    "Timestamps/2025/12/2025-12-08-月曜日.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Theory/Distributed system/Self-stabilization.md",
+    "PL/Prolog/すごい Prolog つくって学ぼう.md",
+    "Compiler/Middleend/Bidirectional transformations/Is Bidirectionality Important.md",
+    "Compiler/Middleend/Bidirectional transformations/Drawing 2025-05-02 14.31.55.excalidraw.md",
+    "Compiler/Middleend/Bidirectional transformations/Bidirectional transformations.md",
+    "Compiler/Compiler.md",
+    "Timestamps/2025/12/2025-12-08-Monday.md",
+    "Tags",
+    "自作アプリ/EG-walker.md",
+    "Timestamps/2025/12",
+    "自作アプリ/index.md",
+    "開発/Architecture/VCS.md",
+    "開発/Architecture/Critical Architecture-Software Theory.md",
+    "自作アプリ/Visual Programming.md",
+    "自作アプリ/Key Event.md",
+    "自作アプリ/KeyBoard shortcut.md",
+    "自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
+    "自作アプリ/Architecture.canvas",
+    "Cheat sheet/Obsidian/Plugins/Obsidian Git.md",
+    "Cheat sheet/Obsidian/Plugins",
+    "Cheat sheet/Obsidian/Obsidian.md",
+    "Cheat sheet/Obsidian",
+    "Cheat sheet/Markdown.md",
+    "Cheat sheet/Latex.md",
+    "Cheat sheet",
+    "開発/Frontend/React/現代的なUIフレームワークの目的とは？.md",
+    "開発/Frontend/React/状態の変更検知.md",
+    "開発/Frontend/React/Styling.md",
+    "開発/Frontend/React",
+    "開発/Audio/WebAudio",
+    "開発/AI/Machine learning",
+    "開発/Unix",
+    "開発/Test"
   ]
 }
