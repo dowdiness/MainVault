@@ -11,10 +11,14 @@
             "id": "3e38bd915b2706d2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2025/12/2025-12-08-月曜日.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "2025-12-08-月曜日"
             }
           }
         ]
@@ -84,17 +88,19 @@
             "id": "3e51167468908791",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "mk-space",
+              "state": {
+                "path": "Timestamps/2025/12"
+              },
+              "icon": "lucide-file",
+              "title": "12"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 403.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -172,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "自作アプリ/EG-walker.md",
+                "file": "Timestamps/2025/12/2025-12-08-月曜日.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "EG-walkerのアウトライン"
+              "title": "2025-12-08-月曜日のアウトライン"
             }
           },
           {
@@ -206,7 +212,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Timestamps/2025/12/2025-12-08-月曜日.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
@@ -245,10 +253,12 @@
   },
   "active": "3e38bd915b2706d2",
   "lastOpenFiles": [
+    "Timestamps/2025/12/2025-12-08-月曜日.md",
+    "Timestamps/2025/08/2025-08-07-Thursday.md",
+    "Timestamps/2025/08/2025-08-04-Monday.md",
     "202512082226.md",
     "202512082225.md",
     "202512082227.md",
-    "Timestamps/2025/12/2025-12-08-月曜日.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Theory/Distributed system/Self-stabilization.md",
@@ -257,7 +267,6 @@
     "Compiler/Middleend/Bidirectional transformations/Drawing 2025-05-02 14.31.55.excalidraw.md",
     "Compiler/Middleend/Bidirectional transformations/Bidirectional transformations.md",
     "Compiler/Compiler.md",
-    "Timestamps/2025/12/2025-12-08-Monday.md",
     "Tags",
     "自作アプリ/EG-walker.md",
     "Timestamps/2025/12",
@@ -277,8 +286,6 @@
     "Cheat sheet/Latex.md",
     "Cheat sheet",
     "開発/Frontend/React/現代的なUIフレームワークの目的とは？.md",
-    "開発/Frontend/React/状態の変更検知.md",
-    "開発/Frontend/React/Styling.md",
     "開発/Frontend/React",
     "開発/Audio/WebAudio",
     "開発/AI/Machine learning",
