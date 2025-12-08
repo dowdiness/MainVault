@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/Moonbitで作るラムダ計算のコンパイラ.md",
+                "file": "Compiler/Books/Essentials of compilation/Preliminaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moonbitで作るラムダ計算のコンパイラ"
+              "title": "Preliminaries"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "essential",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "検索"
             }
           },
           {
@@ -106,7 +106,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Moonbitで作るラムダ計算のコンパイラ.md",
+                "file": "Compiler/Books/Essentials of compilation/Preliminaries.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Moonbitで作るラムダ計算のコンパイラのアウトライン"
+              "title": "Preliminariesのアウトライン"
             }
           },
           {
@@ -263,6 +264,8 @@
   },
   "active": "65a15b56c21e2ada",
   "lastOpenFiles": [
+    "Compiler/Books/Essentials of compilation/Preliminaries.md",
+    "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
     "Blog/Moonbitで作るラムダ計算のコンパイラ.md",
     "README.md",
     "Timestamps/2025/12/2025-12-08-月曜日.md",
@@ -287,10 +290,8 @@
     "Timestamps/2025/08/2025-08-04-Monday.md",
     "202512082226.md",
     "202512082225.md",
-    "202512082227.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Theory/Distributed system/Self-stabilization.md",
     "Tags",
     "Timestamps/2025/12",
     "自作アプリ/Architecture.canvas",

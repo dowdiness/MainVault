@@ -1,14 +1,10 @@
 ---
 title: Moonbitでラムダ計算のコンパイラを作ってみた
 publish: false
-tags:
-  - compiler
-  - moonbit
-aliases:
-  - はじめに
-  - 無題のファイル
+tags: [compiler, moonbit]
+aliases: [はじめに, 無題のファイル]
 created: 2025-12-08T23:49:49+09:00
-modified: 2025-12-09T00:26:06+09:00
+modified: 2025-12-09T01:32:18+09:00
 ---
 
 # はじめに
