@@ -4,7 +4,7 @@ publish: false
 tags: [compiler]
 aliases: ["_Implementing Functional Languages_: a tutorial", Implementing Functional Languages]
 created: 2025-05-04T16:37:50+09:00
-modified: 2025-05-05T21:58:08+09:00
+modified: 2025-12-09T04:57:52+09:00
 ---
 
 # _Implementing Functional Languages_: a tutorial

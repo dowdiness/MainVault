@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiler/Books/Essentials of compilation/Preliminaries.md",
+                "file": "Compiler/Books/Essentials of compilation/Integers and variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Preliminaries"
+              "title": "Integers and variables"
             }
           }
         ]
@@ -100,18 +100,19 @@
             "id": "963630cdecd53ad6",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "mk-space",
+              "state": {
+                "path": "Compiler/Books/Essentials of compilation"
+              },
+              "icon": "lucide-file",
+              "title": "Essentials of compilation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 269.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -189,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiler/Books/Essentials of compilation/Preliminaries.md",
+                "file": "Compiler/Books/Essentials of compilation/Integers and variables.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Preliminariesのアウトライン"
+              "title": "Integers and variablesのアウトライン"
             }
           },
           {
@@ -266,6 +267,11 @@
   "lastOpenFiles": [
     "Compiler/Books/Essentials of compilation/Preliminaries.md",
     "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
+    "Compiler/Books/Essentials of compilation/Integers and variables.md",
+    "Compiler/Books/Modern compiler implementation in ML.md",
+    "Compiler/Books/The Implementation of Functional Programming Languages.md",
+    "Compiler/Books/Writing an interpreter in Go.md",
+    "Compiler/Books/Implementing Functional Languages.md",
     "Blog/Moonbitで作るラムダ計算のコンパイラ.md",
     "README.md",
     "Timestamps/2025/12/2025-12-08-月曜日.md",
@@ -285,11 +291,6 @@
     "講義/応用技術者試験/コンピュータシステム.md",
     "講義/哲学演習/厳密含意の論理.md",
     "index.md",
-    "Personal/病院.md",
-    "講義.md",
-    "Timestamps/2025/08/2025-08-04-Monday.md",
-    "202512082226.md",
-    "202512082225.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Tags",

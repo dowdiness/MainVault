@@ -1,7 +1,7 @@
 ---
 tags: ["books"]
 created: 2025-04-12T00:42:53+09:00
-modified: 2025-12-09T01:32:40+09:00
+modified: 2025-12-09T04:59:11+09:00
 ---
 
 # Essentials of compilation
@@ -33,7 +33,7 @@ $L_{?}$
 # Book Chapters
 
 1. [[Preliminaries]]
-2. Integers and variables
+2. [[Integers and variables]]
 3. Register allocation
 4. Booleans and Conditionals
 5. Loops and Dataflow Analysis
