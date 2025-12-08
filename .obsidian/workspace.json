@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7122f8052c80dff0",
+        "id": "dd96341049a4211c",
         "type": "tabs",
         "children": [
           {
-            "id": "3e38bd915b2706d2",
+            "id": "65a15b56c21e2ada",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -95,12 +95,23 @@
               "icon": "lucide-file",
               "title": "12"
             }
+          },
+          {
+            "id": "963630cdecd53ad6",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 337.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -213,7 +224,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Timestamps/2025/12/2025-12-08-月曜日.md"
+                "file": "Timestamps/2025/12/2025-12-08-月曜日w.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -251,10 +262,28 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "3e38bd915b2706d2",
+  "active": "65a15b56c21e2ada",
   "lastOpenFiles": [
+    "Timestamps/2025/12/2025-12-08-月曜日w.md",
     "Timestamps/2025/12/2025-12-08-月曜日.md",
+    "Untitled.md",
+    "Timestamps/2025/08/2025-08-15-Friday.md",
+    "Timestamps/2025/08/2025-08-11-Monday.md",
+    "Timestamps/2025/08/2025-08-08-Friday.md",
     "Timestamps/2025/08/2025-08-07-Thursday.md",
+    "_Template/Templater/01_daily-note.md",
+    "_Template/Templater/Zenn.md",
+    "_Template/Templater/Base.md",
+    "Timestamps/2025/08/2025-08-01-Friday.md",
+    "Timestamps/2024/2024-10-03.md",
+    "Timestamps/2024/2024-06-19.md",
+    "講義/応用技術者試験/開発技術.md",
+    "講義/応用技術者試験/コンピュータシステム.md",
+    "講義/哲学演習/厳密含意の論理.md",
+    "index.md",
+    "README.md",
+    "Personal/病院.md",
+    "講義.md",
     "Timestamps/2025/08/2025-08-04-Monday.md",
     "202512082226.md",
     "202512082225.md",
@@ -263,29 +292,12 @@
     "Untitled.canvas",
     "Theory/Distributed system/Self-stabilization.md",
     "PL/Prolog/すごい Prolog つくって学ぼう.md",
-    "Compiler/Middleend/Bidirectional transformations/Is Bidirectionality Important.md",
-    "Compiler/Middleend/Bidirectional transformations/Drawing 2025-05-02 14.31.55.excalidraw.md",
-    "Compiler/Middleend/Bidirectional transformations/Bidirectional transformations.md",
-    "Compiler/Compiler.md",
     "Tags",
-    "自作アプリ/EG-walker.md",
     "Timestamps/2025/12",
-    "自作アプリ/index.md",
-    "開発/Architecture/VCS.md",
-    "開発/Architecture/Critical Architecture-Software Theory.md",
-    "自作アプリ/Visual Programming.md",
-    "自作アプリ/Key Event.md",
-    "自作アプリ/KeyBoard shortcut.md",
-    "自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
     "自作アプリ/Architecture.canvas",
-    "Cheat sheet/Obsidian/Plugins/Obsidian Git.md",
     "Cheat sheet/Obsidian/Plugins",
-    "Cheat sheet/Obsidian/Obsidian.md",
     "Cheat sheet/Obsidian",
-    "Cheat sheet/Markdown.md",
-    "Cheat sheet/Latex.md",
     "Cheat sheet",
-    "開発/Frontend/React/現代的なUIフレームワークの目的とは？.md",
     "開発/Frontend/React",
     "開発/Audio/WebAudio",
     "開発/AI/Machine learning",

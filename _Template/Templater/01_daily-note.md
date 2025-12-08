@@ -1,10 +1,6 @@
 ---
 date: <% tp.file.creation_date() %>
-aliases: ["<% moment(tp.file.title,'YYYY-MM-DD') %>"]
-created: 2025-08-15T15:14:24+09:00
-modified: 2025-12-08T23:40:20+09:00
 ---
-
 tags:: [[+Daily Notes]]
 
 # <% moment(tp.file.title,'YYYY-MM-DD') %>
@@ -14,12 +10,12 @@ tags:: [[+Daily Notes]]
 ---
 ## 📅 質問
 
-### 🚀 今日やったこと
+##### 🚀 今日やったこと
 - [ ] 
 
 ---
 ## 📝 メモ書き
-- <% tp.file.cursor() %>
+- 
 
 ---
 ## 感想
