@@ -3,10 +3,11 @@ title: Integers and variables
 publish: false
 tags: [compiler]
 created: 2025-12-09T04:58:11+09:00
-modified: 2025-12-09T05:17:14+09:00
+modified: 2025-12-09T16:00:03+09:00
+aliases: [Assembly]
 ---
 
-## Assembly
+# Assembly
 
 `global` directiveにより `main` procedureを外部へと公開してOSにより呼び出せるようにしている。
 *program counter* `rip` 次に実行される命令を保持するレジスタ
