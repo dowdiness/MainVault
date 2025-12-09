@@ -4,7 +4,7 @@ publish: false
 tags: [" "]
 aliases: [Untitled]
 created: 2025-05-30T20:31:57+09:00
-modified: 2025-05-30T20:32:38+09:00
+modified: 2025-12-09T16:08:41+09:00
 ---
 
 # Lisp

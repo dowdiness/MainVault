@@ -1,12 +1,13 @@
 ---
 aliases: [Mathematical Logic as based on the Theory of Types.]
 created: 2024-06-25T20:36:28+09:00
-modified: 2025-07-16T20:57:08+09:00
+modified: 2025-12-09T16:54:46+09:00
 ---
 
 # Type Theory
 
 ## 資料
+
 [learn-tt](https://github.com/jozefg/learn-tt)
 https://github.com/steshaw/plt
 
@@ -23,6 +24,8 @@ https://plato.stanford.edu/entries/type-theory/
 
 [Set-Theoretic and Type-Theoretic Ordinals Coincide](https://arxiv.org/abs/2301.10696)
 
-
-
 [Programming Language Theory and its Implementation](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=e94334412e47eb35ebb418037f7279a61021151a)
+
+## Podcast
+
+[The Iowa Type Theory Commute](https://cshub.bc.edu/stumpaa/ittc.html)

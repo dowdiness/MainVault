@@ -1,6 +1,6 @@
 ---
 created: 2025-04-11T14:19:09+09:00
-modified: 2025-05-10T21:44:33+09:00
+modified: 2025-12-09T16:43:11+09:00
 ---
 
 # Bidirectional type

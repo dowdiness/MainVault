@@ -3,7 +3,7 @@ title: Base
 publish: false
 tags: [math]
 created: 2025-05-10T02:28:21+09:00
-modified: 2025-05-10T02:30:33+09:00
+modified: 2025-12-09T16:07:52+09:00
 ---
 
 # A Book of Abstract Algebra

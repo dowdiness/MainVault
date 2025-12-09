@@ -1,11 +1,14 @@
 ---
 tags: [Compiler]
-aliases: [Compiler, 参考資料集]
+aliases: [参考資料集]
 created: 2025-04-26T22:04:33+09:00
-modified: 2025-12-08T22:07:23+09:00
+modified: 2025-12-09T17:11:18+09:00
+title: Compiler
 ---
 
-# 参考資料集
+# Compiler
+
+## 参考資料集
 
 ## 本
 
@@ -18,14 +21,21 @@ modified: 2025-12-08T22:07:23+09:00
 [低レイヤを知りたい人のためのCコンパイラ作成入門](https://www.sigbus.info/compilerbook#)
 網羅的なC言語のコンパイラを作るチュートリアル
 最初の方は丁寧だけど後半に行くほど目標だけ示されて自分で考えて実装しないといけなくなるので大変かも
+
+[Three Implementation Models for Scheme](https://www.cs.unc.edu/xcms/wpfiles/dissertations/dybvig.pdf)
+
 ## ブログ記事
 
 [So you want to write a programming language](https://docs.google.com/document/d/e/2PACX-1vSPUfmDiniZy0yn9wjqag8lWOg4Kei_3EXy03EB_pQ-5elwacy0IBZjFyOsjrehIldvhUq0_odDY0Ft/pub)
 最初に読むべき記事かもしれない
+
+[JavaScriptで100行で作る！数式言語のインタプリタ](https://zenn.dev/nextbeat/articles/4006498a7f36bc)
+
 [Lessons from Writing a Compiler](https://borretti.me/article/lessons-writing-compiler)
 [Programming languages resources](https://bernsteinbear.com/pl-resources/)
 網羅的にいろんな資料が載っていてとても良さそう
 [PLSE](https://uwplse.org/)
+
 ## 講義
 
 [6.S050 Programming Language Design](https://people.csail.mit.edu/feser/pld-s23/)
@@ -37,6 +47,7 @@ MITの授業
 ## 論文
 
 [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf)
+
 ## 実装
 
 [flub-example-compiler](https://github.com/natefaubion/example-functional-compiler)

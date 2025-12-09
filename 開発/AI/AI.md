@@ -1,6 +1,6 @@
 ---
 created: 2025-03-30T20:25:47+09:00
-modified: 2025-06-11T16:45:58+09:00
+modified: 2025-12-09T16:06:12+09:00
 ---
 
 # AI
@@ -8,6 +8,8 @@ modified: 2025-06-11T16:45:58+09:00
 [Why is AI hard and Physics simple?](https://arxiv.org/abs/2104.00008)
 
 [Focus and Context and LLMs](https://taras.glek.net/posts/focus-and-context-and-llms/)
+
+[The No Body Problem: Intelligence and Selfhood in Biological and Artificial Systems](https://osf.io/preprints/psyarxiv/gh79z_v1?view_only=)
 
 ## History
 

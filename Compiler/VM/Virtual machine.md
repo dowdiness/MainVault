@@ -4,7 +4,7 @@ publish: false
 tags: [" "]
 aliases: [Untitled]
 created: 2025-07-24T21:56:46+09:00
-modified: 2025-07-24T22:03:28+09:00
+modified: 2025-12-09T16:13:40+09:00
 ---
 
 # Virtual machine
