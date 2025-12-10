@@ -25,14 +25,14 @@
             "id": "0038bd29805b8c20",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/dowdiness/toy-os",
-                "title": "GitHub - dowdiness/toy-os: my os study repository",
-                "mode": "webview"
+                "file": "Timestamps/2025/12/2025-12-09-火曜日.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "GitHub - dowdiness/toy-os: my os study repository"
+              "icon": "lucide-file",
+              "title": "2025-12-09-火曜日"
             }
           }
         ],
@@ -203,12 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Timestamps/2025/12/2025-12-09-火曜日.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "2025-12-09-火曜日のアウトライン"
             }
           },
           {
@@ -236,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "footnotes",
-              "state": {},
+              "state": {
+                "file": "Timestamps/2025/12/2025-12-09-火曜日.md"
+              },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
