@@ -5,7 +5,7 @@ tags:: [[+Daily Notes]]
 
 # <% moment(tp.file.title,'YYYY-MM-DD') %>
 
-<< [[Daily Notes/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|昨日]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|明日]] >>
+<< [[Timestamps<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|昨日]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|明日]] >>
 
 ---
 ## 📅 質問
@@ -15,12 +15,7 @@ tags:: [[+Daily Notes]]
 - [ ] 
 
 ---
-## 📝 メモ書き
-
-- 
-
----
-## 感想
+## 📝 感想
 
 ---
 ## 今日作ったノート
