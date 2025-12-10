@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "開発/AI/AI.md",
+                "file": "Timestamps/2025/12/2025-12-11-木曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AI"
+              "title": "2025-12-11-木曜日"
             }
           },
           {
@@ -129,10 +129,13 @@
             "id": "4aed4d44c8077544",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
             }
           }
         ]
@@ -217,13 +220,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "開発/AI/AI.md",
+                "file": "Timestamps/2025/12/2025-12-11-木曜日.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AIのアウトライン"
+              "title": "2025-12-11-木曜日のアウトライン"
             }
           },
           {
@@ -292,11 +295,12 @@
   },
   "active": "f2b0346606c6a761",
   "lastOpenFiles": [
+    "開発/AI/AI.md",
+    "Timestamps/2025/12/2025-12-11-木曜日.md",
     "Blog/コードの共通化で避けるべきアンチパターン.md",
     "Compiler/Compiler.md",
     "Blog/依存関係をコントロールする.md",
     "Compiler/Brainfuck.md",
-    "開発/AI/AI.md",
     "Compiler/Type System/Dependent Type.md",
     "PL/Lisp.md",
     "Theory/Math/束論.md",
@@ -317,7 +321,6 @@
     "Compiler/VM/Virtual machine.md",
     "PL/証明支援系.md",
     "PL/Haskell/Recursion Schemes.md",
-    "開発/Audio/TidalCycles.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Tags",
