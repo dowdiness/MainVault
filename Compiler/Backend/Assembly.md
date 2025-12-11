@@ -16,4 +16,4 @@ modified: 2025-12-09T17:03:05+09:00
 
 ## Links
 
-[[Register allocation]]
+[[Compiler/Backend/Register allocation]]
