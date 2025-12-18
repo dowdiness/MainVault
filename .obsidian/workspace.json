@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/12/2025-12-19-金曜日.md",
+                "file": "Blog/言語化の功罪.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-19-金曜日"
+              "title": "言語化の功罪"
             }
           }
         ],
@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "brainf",
+                "query": "言語化の",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/2025/12/2025-12-19-金曜日.md",
+                "file": "Blog/言語化の功罪.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-19-金曜日のアウトライン"
+              "title": "言語化の功罪のアウトライン"
             }
           },
           {
@@ -293,8 +293,8 @@
   },
   "active": "24d7c76d3e7f4dd5",
   "lastOpenFiles": [
-    "Compiler/Books/Essentials of compilation/Register allocation.md",
     "Timestamps/2025/12/2025-12-19-金曜日.md",
+    "Compiler/Books/Essentials of compilation/Register allocation.md",
     "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
     "Compiler/Books/Essentials of compilation/Preliminaries.md",
     "Compiler/Books/Essentials of compilation/Integers and variables.md",
