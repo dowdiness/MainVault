@@ -4,7 +4,7 @@ publish: false
 tags: [" "]
 aliases: [Untitled]
 created: 2025-04-30T17:31:05+09:00
-modified: 2025-04-30T17:59:48+09:00
+modified: 2025-12-20T18:06:16+09:00
 ---
 
 # A Formal Analysis of the Interrelationships Among Syntax, Semantics, and Pragmatics

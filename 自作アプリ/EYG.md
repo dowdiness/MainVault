@@ -1,6 +1,6 @@
 ---
 created: 2025-04-11T13:56:07+09:00
-modified: 2025-04-29T20:12:49+09:00
+modified: 2025-12-20T18:11:16+09:00
 ---
 
 # EYG
@@ -11,6 +11,8 @@ modified: 2025-04-29T20:12:49+09:00
 [Spec](https://github.com/CrowdHailer/eyg-lang/tree/main/spec)
 
 [Interpreter](https://github.com/CrowdHailer/eyg-lang/blob/main/packages/javascript_interpreter/src/interpreter.mjs)
+
+
 
 ## Videos
 

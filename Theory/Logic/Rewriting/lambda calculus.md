@@ -5,7 +5,7 @@ aliases: [Untitled, λ-calculus]
 date created: Sunday,2025 April 27th, 2:32:06 am
 date modified: Sunday,2025 April 27th, 10:59:39 pm
 created: 2025-04-27T02:32:06+09:00
-modified: 2025-05-31T17:37:23+09:00
+modified: 2025-12-20T18:08:37+09:00
 ---
 
 # λ-calculus
@@ -22,6 +22,8 @@ modified: 2025-05-31T17:37:23+09:00
 
 https://crypto.stanford.edu/~blynn/lambda/
 
+Bunchless λ-calculus for Bunched Implications
+https://www.cs.ru.nl/masters-theses/2024/T_Somers___Bunchless_%CE%BB-calculus_for_Bunched_Implications.pdf
 ## Compile
 
 λ-calculusをコンパイルするには　Bracket abstraction algorithms　が使える

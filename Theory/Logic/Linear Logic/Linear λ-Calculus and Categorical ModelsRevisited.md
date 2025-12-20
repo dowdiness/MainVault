@@ -4,7 +4,7 @@ publish: false
 tags: []
 aliases: ["Linear \x15λ-Calculus and Categorical Models Revisited", λ-Calculus]
 created: 2025-05-21T00:38:53+09:00
-modified: 2025-05-21T01:58:07+09:00
+modified: 2025-12-20T18:06:53+09:00
 ---
 
 # Linear λ-Calculus and Categorical Models Revisited

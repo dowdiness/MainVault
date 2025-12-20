@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/12/2025-12-20-土曜日.md",
+                "file": "Theory/Logic/Rewriting/λµµ˜-calculus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-20-土曜日"
+              "title": "λµµ˜-calculus"
+            }
+          },
+          {
+            "id": "c8c51f6ea9adcd0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自作アプリ/Structure editor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Structure editor"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "言語化の",
+                "query": "eyg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,14 +143,15 @@
             "id": "0695b253a5eba880",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "mk-space",
+              "state": {
+                "path": "Theory/Logic/Linear Logic"
+              },
+              "icon": "lucide-file",
+              "title": "Linear Logic"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/2025/12/2025-12-20-土曜日.md",
+                "file": "自作アプリ/Structure editor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-20-土曜日のアウトライン"
+              "title": "Structure editorのアウトライン"
             }
           },
           {
@@ -291,13 +306,26 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "24d7c76d3e7f4dd5",
+  "active": "c8c51f6ea9adcd0f",
   "lastOpenFiles": [
-    "Blog/言語化の功罪.md",
+    "自作アプリ/EYG.md",
+    "自作アプリ/Structure editor.md",
+    "自作アプリ/UI.md",
+    "自作アプリ/無題のファイル.md",
+    "自作アプリ/Spec.md",
+    "Theory/Logic/Rewriting/lambda calculus.md",
+    "Theory/Logic/Rewriting/無題のファイル.md",
+    "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
+    "Theory/Logic/Rewriting/λµµ˜-calculus.md",
+    "Theory/Logic/Linear Logic/Linear Logic.md",
+    "Theory/Logic/Linear Logic/Linear λ-Calculus and Categorical ModelsRevisited.md",
+    "Compiler/Type System/MLSUB.md",
+    "Theory/Logic/Sequent calculus.md",
+    "Theory/A Formal Analysis of the Interrelationships Among Syntax, Semantics, and Pragmatics.md",
     "Timestamps/2025/12/2025-12-20-土曜日.md",
+    "Blog/言語化の功罪.md",
     "Timestamps/2025/12/2025-12-19-金曜日.md",
     "Compiler/Books/Essentials of compilation/Register allocation.md",
-    "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
     "Compiler/Books/Essentials of compilation/Preliminaries.md",
     "Compiler/Books/Essentials of compilation/Integers and variables.md",
     "Timestamps/2025/12/2025-12-11-木曜日.md",
@@ -306,22 +334,9 @@
     "Timestamps/2025/12/2025-12-08-月曜日.md",
     "Daily Notes/2025/12/2025-12-08-月曜日.md",
     "Daily Notes/2025/12/2025-12-10-水曜日.md",
-    "_Template/Templater/01_daily-note.md",
-    "Timestamps/2025/12/2025-12-12-金曜日.md",
-    "Compiler/Compiler.md",
-    "Blog/依存関係をコントロールする.md",
-    "Timestamps/2025/04/+Daily Notes.md",
     "Daily Notes/2025/12",
     "Daily Notes/2025",
     "Daily Notes",
-    "開発/AI/AI.md",
-    "Blog/コードの共通化で避けるべきアンチパターン.md",
-    "Compiler/Brainfuck.md",
-    "Compiler/Type System/Dependent Type.md",
-    "PL/Lisp.md",
-    "Theory/Math/束論.md",
-    "Theory/Math/Math 教科書.md",
-    "index.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Tags",
