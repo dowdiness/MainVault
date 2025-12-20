@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/言語化の功罪.md",
+                "file": "Timestamps/2025/12/2025-12-20-土曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "言語化の功罪"
+              "title": "2025-12-20-土曜日"
             }
           }
         ],
@@ -126,7 +126,7 @@
             }
           },
           {
-            "id": "fa8137b2b4a90c47",
+            "id": "0695b253a5eba880",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -218,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/言語化の功罪.md",
+                "file": "Timestamps/2025/12/2025-12-20-土曜日.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "言語化の功罪のアウトライン"
+              "title": "2025-12-20-土曜日のアウトライン"
             }
           },
           {
@@ -293,6 +293,8 @@
   },
   "active": "24d7c76d3e7f4dd5",
   "lastOpenFiles": [
+    "Blog/言語化の功罪.md",
+    "Timestamps/2025/12/2025-12-20-土曜日.md",
     "Timestamps/2025/12/2025-12-19-金曜日.md",
     "Compiler/Books/Essentials of compilation/Register allocation.md",
     "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
@@ -320,8 +322,6 @@
     "Theory/Math/束論.md",
     "Theory/Math/Math 教科書.md",
     "index.md",
-    "README.md",
-    "Compiler/Algebraic Effects.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Tags",
