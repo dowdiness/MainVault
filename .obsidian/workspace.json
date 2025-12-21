@@ -13,58 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2025/12/2025-12-10-水曜日.md",
+                "file": "quartz/content/Personal/introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-10-水曜日"
-            }
-          },
-          {
-            "id": "0038bd29805b8c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Essentials of compilation"
-            }
-          },
-          {
-            "id": "24d7c76d3e7f4dd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Theory/Logic/Rewriting/λµµ˜-calculus.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "λµµ˜-calculus"
-            }
-          },
-          {
-            "id": "c8c51f6ea9adcd0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Moonbitで作るラムダ計算のコンパイラ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Moonbitで作るラムダ計算のコンパイラ"
+              "title": "introduction"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,12 +100,10 @@
             "id": "0695b253a5eba880",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Theory/Logic/Linear Logic"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Linear Logic"
+              "title": "新規タブ"
             }
           }
         ]
@@ -233,13 +188,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/Moonbitで作るラムダ計算のコンパイラ.md",
+                "file": "quartz/content/Personal/introduction.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Moonbitで作るラムダ計算のコンパイラのアウトライン"
+              "title": "introductionのアウトライン"
             }
           },
           {
@@ -306,45 +261,58 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c8c51f6ea9adcd0f",
+  "active": "65a15b56c21e2ada",
   "lastOpenFiles": [
-    "Personal/introduction.md",
-    "自作アプリ/Structure editor.md",
-    "自作アプリ/Spec.md",
-    "Personal/introduction.md.tmp.19224.1766290687731",
-    "自作アプリ/EYG.md",
-    "自作アプリ/UI.md",
-    "自作アプリ/無題のファイル.md",
-    "Theory/Logic/Rewriting/lambda calculus.md",
-    "Theory/Logic/Rewriting/無題のファイル.md",
-    "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
-    "Theory/Logic/Rewriting/λµµ˜-calculus.md",
-    "Theory/Logic/Linear Logic/Linear Logic.md",
-    "Theory/Logic/Linear Logic/Linear λ-Calculus and Categorical ModelsRevisited.md",
-    "Compiler/Type System/MLSUB.md",
-    "Theory/Logic/Sequent calculus.md",
-    "Theory/A Formal Analysis of the Interrelationships Among Syntax, Semantics, and Pragmatics.md",
-    "Timestamps/2025/12/2025-12-20-土曜日.md",
-    "Blog/言語化の功罪.md",
-    "Timestamps/2025/12/2025-12-19-金曜日.md",
-    "Compiler/Books/Essentials of compilation/Register allocation.md",
-    "Compiler/Books/Essentials of compilation/Preliminaries.md",
-    "Compiler/Books/Essentials of compilation/Integers and variables.md",
-    "Timestamps/2025/12/2025-12-11-木曜日.md",
-    "Timestamps/2025/12/2025-12-10-水曜日.md",
-    "Timestamps/2025/12/2025-12-09-火曜日.md",
-    "Timestamps/2025/12/2025-12-08-月曜日.md",
-    "Daily Notes/2025/12",
-    "Daily Notes/2025",
-    "Daily Notes",
+    "quartz/content/Personal/病院.md",
+    "quartz/content/Personal/introduction.md",
+    "quartz/tsconfig.json",
+    "quartz/quartz/static/giscus/light.css",
+    "quartz/quartz/static/giscus/dark.css",
+    "quartz/quartz/plugins/transformers/toc.ts",
+    "quartz/quartz/plugins/transformers/syntax.ts",
+    "quartz/quartz/plugins/transformers/roam.ts",
+    "quartz/quartz/plugins/transformers/oxhugofm.ts",
+    "quartz/quartz/plugins/transformers/ofm.ts",
+    "quartz/quartz/plugins/transformers/links.ts",
+    "quartz/quartz/plugins/transformers/linebreaks.ts",
+    "quartz/quartz/static/og-image.png",
+    "quartz/quartz/static/icon.png",
+    "quartz/docs/tags/plugin.md",
+    "quartz/docs/tags/component.md",
+    "quartz/docs/plugins/TagPage.md",
+    "quartz/docs/plugins/TableOfContents.md",
+    "quartz/docs/plugins/SyntaxHighlighting.md",
+    "quartz/docs/plugins/Static.md",
+    "quartz/docs/plugins/RoamFlavoredMarkdown.md",
+    "quartz/docs/plugins/RemoveDrafts.md",
+    "quartz/docs/plugins/OxHugoFlavoredMarkdown.md",
+    "quartz/docs/plugins/ObsidianFlavoredMarkdown.md",
+    "quartz/docs/plugins/NotFoundPage.md",
+    "quartz/docs/plugins/Latex.md",
+    "quartz/docs/plugins/index.md",
+    "quartz/docs/plugins/HardLineBreaks.md",
+    "quartz/docs/plugins/GitHubFlavoredMarkdown.md",
+    "quartz/docs/plugins/Frontmatter.md",
+    "quartz/docs/plugins/FolderPage.md",
+    "quartz/docs/plugins/Favicon.md",
+    "quartz/docs/plugins/ExplicitPublish.md",
+    "quartz/docs/plugins/Description.md",
+    "quartz/docs/plugins/CustomOgImages.md",
+    "quartz/docs/plugins/CreatedModifiedDate.md",
+    "quartz/docs/plugins/CrawlLinks.md",
+    "quartz/docs/plugins/ContentPage.md",
+    "quartz/docs/images/social-image-preview-light.png",
+    "quartz/docs/images/social-image-preview-dark.png",
+    "quartz/docs/images/quartz-layout-tablet.png",
+    "quartz/docs/images/quartz-layout-mobile.png",
+    "quartz/docs/images/quartz-layout-desktop.png",
+    "quartz/docs/images/quartz transform pipeline.png",
+    "quartz/docs/images/github-quick-setup.png",
+    "quartz/docs/images/github-init-repo-options.png",
+    "quartz/content/自作アプリ/Architecture.canvas",
+    "content/自作アプリ/Architecture.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Tags",
-    "Timestamps/2025/12",
-    "自作アプリ/Architecture.canvas",
-    "Cheat sheet/Obsidian/Plugins",
-    "Cheat sheet/Obsidian",
-    "Cheat sheet",
-    "開発/Frontend/React"
+    "自作アプリ/Architecture.canvas"
   ]
 }
