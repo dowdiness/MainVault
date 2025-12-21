@@ -1,0 +1,53 @@
+name: Sync Main to V4 Content
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:  # 手動実行も可能
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout v4 branch
+        uses: actions/checkout@v4
+        with:
+          ref: v4
+          fetch-depth: 0  # 全履歴を取得
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Fetch main branch
+        run: git fetch origin main
+
+      - name: Clear content directory (except .gitkeep)
+        run: |
+          find content -type f ! -name '.gitkeep' -delete
+          find content -type d -empty -delete
+
+      - name: Copy files from main branch to content
+        run: |
+          git archive origin/main | tar -x -C content/ \
+            --exclude='.obsidian' \
+            --exclude='.github' \
+            --exclude='.gitignore' \
+            --exclude='.space' \
+            --exclude='node_modules'
+
+      - name: Commit and push changes
+        run: |
+          git add content/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Sync content from main branch [skip ci]"
+            git push origin v4
+          fi
