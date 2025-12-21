@@ -1,7 +1,7 @@
 ---
 aliases: [My Public Notes]
 created: 2025-04-25T14:51:08+09:00
-modified: 2025-12-08T22:48:33+09:00
+modified: 2025-05-22T18:49:02+09:00
 ---
 
 # My Public Notes
