@@ -2,9 +2,9 @@
 title: Introduction
 publish: true
 tags: [personal, portfolio]
-aliases: introduction
-created: 2025-12-21
-modified: 2025-12-21
+aliases: [Developer Portfolio(仮), introduction]
+created: 2025-12-21T13:18:07+09:00
+modified: 2025-12-21T15:52:30+09:00
 ---
 
 # Developer Portfolio(仮)
@@ -26,27 +26,30 @@ modified: 2025-12-21
 
 ## Technical Skills
 
-### Languages
-- **Primary:** JavaScript, TypeScript, CSS
-- **Exploring:** ReScript, MoonBit, Haskell
-- **Interest Areas:** Compiler Design, Type Systems
+### プログラミング言語
+
+- **主に使用している言語:** JavaScript, TypeScript
+- **興味のある言語:** ReScript, MoonBit, Haskell
+- 関数型言語が好きです。
+- Haskellなどから学んだテクニックをTypeScriptにも生かせないかを日々考えています。
 
 ### Technologies & Frameworks
+
 - **Frontend:** React, Vue.js
 - **Tools:** Git, GitHub Actions, Slack Webhooks
 
-### Areas of Expertise
-- Web Development (Full-stack)
-- Type Systems & Programming Language Theory
+### 興味関心
+
+- フルスタックなウェブ開発
+- コンパイラ、型システム、Structure editor
+- 自作言語に興味があります
 - Interactive & Creative Coding
-- Operating Systems (Learning)
-- API Integrations
 
-## Featured Projects
 
-### 🎓 Learning & Research
+## 取り組んでいるプロジェクト
 
-**[tapl-rescript](https://github.com/dowdiness/tapl-rescript)**
+#### **[tapl-rescript](https://github.com/dowdiness/tapl-rescript)**
+
 *JavaScript/ReScript*
 - [「Types and Programming Languages（型システム入門）」](https://www.ohmsha.co.jp/book/9784274069116/)の実装を[ReScript](https://rescript-lang.org/)で行うプロジェクトです
 - 2023年から2024年まで[TAPL.ts](https://taplts.connpass.com)にて、型システム入門の輪読会に参加していました
@@ -54,19 +57,17 @@ modified: 2025-12-21
 - まだまだ未完成なところも多いですが [NPM Package](https://www.npmjs.com/package/@antisatori/tapl) として公開しています
 - 最終更新: 2025年12月
 
-
-### 🛠️ Practical Applications
-
-**[twitter-clone](https://github.com/dowdiness/twitter-clone)**
-*Nuxt.js*
-- Nuxt.jsを使用したソーシャルネットワーキングプラットフォーム
+#### **[twitter-clone](https://github.com/dowdiness/twitter-clone)**
+*Nuxt.js*, *Firebase*
+- FirebaseとNuxt.jsを使用した簡易的なＳＮＳアプリです
 - フルスタックWeb開発のスキルを実証
+- 少し内容が古いかもしれません
 
-### 📝 Knowledge Management
+### 📝学びの蓄積
 
 **[MainVault](https://github.com/dowdiness/MainVault)**
-- Obsidianを使用した知識管理システム
-- [Quartz](https://github.com/jackyzha0/quartz)でデプロイ可能な公開ノート
+- Obsidianを使用して学んだことを後から見直せるように管理しています
+- [Quartz](https://github.com/jackyzha0/quartz)によって公開する仕組みを作っています
 - 継続的な学習と知識の共有
 
 ### Web Design
@@ -78,8 +79,9 @@ modified: 2025-12-21
 - 主に私と[papi-tokei](https://github.com/papi-tokei)で作成しました。
 - 私はNuxt.jsのセットアップやサイト全体のラフなデザインをしています。イベントのイメージカラーやサイトのデザインのイメージなどが決まるよりも先に制作を始めており、後に詳細が決まった際に対応できるような枠組み作りをしました。
 
-**[yowai-zine](https://github.com/dowdiness/yowai-zine)**
+**[yowai-zine](https://yowai.band)**
 *TypeScript*
+- [GitHub](https://github.com/dowdiness/yowai-zine)
 - 「こころおきなく居られるweb zine」
 - 快適なWeb雑誌空間の構築
 
@@ -91,12 +93,8 @@ modified: 2025-12-21
 - **Computer Science Fundamentals:** CS基礎の深い理解
 - **Operating Systems:** OSの内部構造の学習
 
-### Technologies I'm Exploring
-- ReScript（関数型プログラミング）
-- MoonBit（新興プログラミング言語）
-- Assembly（低レイヤープログラミング）
-
 ### Beyond Code
+
 - 外国語学習を通じた異文化理解
 - 知識の体系化と公開（Obsidian + Quartz）
 - クリエイティブコーディングとアート表現
