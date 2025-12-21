@@ -235,7 +235,7 @@
               "state": {
                 "file": "自作アプリ/Structure editor.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -306,15 +306,15 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "c8c51f6ea9adcd0f",
+  "active": "6f922a0adab83838",
   "lastOpenFiles": [
+    "自作アプリ/Spec.md",
+    "自作アプリ/Structure editor.md",
     "Personal/introduction.md.tmp.19224.1766290687731",
     "Personal/introduction.md",
     "自作アプリ/EYG.md",
-    "自作アプリ/Structure editor.md",
     "自作アプリ/UI.md",
     "自作アプリ/無題のファイル.md",
-    "自作アプリ/Spec.md",
     "Theory/Logic/Rewriting/lambda calculus.md",
     "Theory/Logic/Rewriting/無題のファイル.md",
     "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
@@ -345,7 +345,6 @@
     "Cheat sheet/Obsidian/Plugins",
     "Cheat sheet/Obsidian",
     "Cheat sheet",
-    "開発/Frontend/React",
-    "開発/Audio/WebAudio"
+    "開発/Frontend/React"
   ]
 }
