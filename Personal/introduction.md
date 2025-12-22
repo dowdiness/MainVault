@@ -4,7 +4,7 @@ publish: true
 tags: [personal, portfolio]
 aliases: [Developer Portfolio(仮), introduction]
 created: 2025-12-21T13:18:07+09:00
-modified: 2025-12-21T16:20:27+09:00
+modified: 2025-12-22T20:04:54+09:00
 ---
 
 # Developer Portfolio(仮)

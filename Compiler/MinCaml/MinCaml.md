@@ -3,7 +3,7 @@ title: Base
 publish: false
 tags: []
 created: 2025-05-07T18:19:54+09:00
-modified: 2025-05-08T00:12:35+09:00
+modified: 2025-12-22T18:49:24+09:00
 ---
 
 # MinCaml

@@ -34,8 +34,37 @@
               "icon": "lucide-file",
               "title": "introduction"
             }
+          },
+          {
+            "id": "eed6db25e8fc4518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Instruction Selection"
+            }
+          },
+          {
+            "id": "d506a3ae7af91726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Blog/コンピューターに求めているもの.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "コンピューターに求めているもの"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eyg",
+                "query": "LLVM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,6 +147,19 @@
               "state": {},
               "icon": "lucide-file",
               "title": "新規タブ"
+            }
+          },
+          {
+            "id": "5ee67630ec4051e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
             }
           }
         ]
@@ -202,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Timestamps/2025/12/2025-12-22-月曜日.md",
+                "file": "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-22-月曜日のアウトライン"
+              "title": "Instruction Selectionのアウトライン"
             }
           },
           {
@@ -275,45 +317,45 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "65a15b56c21e2ada",
+  "active": "eed6db25e8fc4518",
   "lastOpenFiles": [
+    "quartz/content/Blog/コンピューターに求めているもの.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
+    "quartz/content/Compiler/Books/Essentials of compilation/Essentials of compilation.md",
+    "quartz/content/Compiler/Backend/LLVM.md",
+    "Blog/コンピューターに求めているもの.md",
+    "quartz/content/Blog/コードの共通化で避けるべきアンチパターン.md",
+    "Blog/コードの共通化で避けるべきアンチパターン.md",
+    "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
+    "Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
+    "quartz/content/Blog/Functional Core, Imperative Shell.md",
+    "Blog/Functional Core, Imperative Shell.md",
+    "quartz/content/Blog/「型」＝「値の集合」ではない.md",
+    "Blog/「型」＝「値の集合」ではない.md",
+    "Blog/Moonbitで作るラムダ計算のコンパイラ.md",
+    "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
+    "Personal/introduction.md",
     "quartz/content/Personal/introduction.md",
-    "index.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/目次.md",
+    "Compiler/MinCaml/MinCaml.md",
+    "Compiler/Books/Essentials of compilation/Preliminaries.md",
+    "Compiler/Books/Essentials of compilation/Register allocation.md",
+    "Compiler/Books/Essentials of compilation/Integers and variables.md",
+    "Compiler/Books/Essentials of compilation/Essentials of compilation.md",
+    "quartz/content/Compiler/Books/Essentials of compilation/Register allocation.md",
+    "quartz/content/Compiler/Books/Essentials of compilation/Preliminaries.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
     "quartz/quartz.config.ts",
-    "Reading/Reading list.md",
-    "Reading/Domain Modeling Made Functional.md",
     "Reading",
-    "Timestamps/2025/12/2025-12-22-月曜日.md",
-    "無題のファイル.md",
-    "README.md",
-    "Clippings/egg Fast and Extensible Equality Saturation.md",
-    "Clippings/Continuation-passing style - Wikipedia.md",
-    "Clippings/Colin James - ANF Conversion.md",
-    "Clippings/A-normal form - Wikipedia.md",
     "Clippings",
-    "Cheat sheet/Obsidian/Plugins/Obsidian Git.md",
     "Cheat sheet/Obsidian/Plugins",
-    "Cheat sheet/Obsidian/Obsidian.md",
     "Cheat sheet/Obsidian",
-    "Cheat sheet/Markdown.md",
-    "Cheat sheet/Latex.md",
     "Cheat sheet",
-    "_Template/Templater/Zenn.md",
-    "_Template/Templater/Base.md",
-    "_Template/Templater/01_daily-note.md",
     "_Template/Templater",
     "_Template",
-    "自作アプリ/Visual Programming.md",
-    "自作アプリ/UI.md",
-    "自作アプリ/Structure editor.md",
-    "自作アプリ/Spec.md",
-    "自作アプリ/KeyBoard shortcut.md",
-    "自作アプリ/Key Event.md",
-    "自作アプリ/index.md",
-    "自作アプリ/EYG.md",
     "自作アプリ/Architecture.canvas",
-    "自作アプリ",
     "quartz/quartz/static/og-image.png",
     "quartz/quartz/static/icon.png",
     "quartz/docs/images/social-image-preview-light.png",

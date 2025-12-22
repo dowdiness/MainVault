@@ -4,7 +4,7 @@ publish: false
 tags: [compiler]
 aliases: [Untitled]
 created: 2025-05-04T16:36:20+09:00
-modified: 2025-12-09T04:57:54+09:00
+modified: 2025-12-22T17:17:25+09:00
 ---
 
 # The Implementation of Functional Programming Languages
