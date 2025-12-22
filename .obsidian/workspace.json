@@ -263,6 +263,7 @@
   },
   "active": "65a15b56c21e2ada",
   "lastOpenFiles": [
+    "quartz/content/Personal/introduction.md",
     "Clippings/egg Fast and Extensible Equality Saturation.md",
     "Clippings/Continuation-passing style - Wikipedia.md",
     "Clippings/Colin James - ANF Conversion.md",
@@ -293,7 +294,6 @@
     "自作アプリ/Architecture.canvas",
     "自作アプリ",
     "quartz/content/Personal/病院.md",
-    "quartz/content/Personal/introduction.md",
     "quartz/tsconfig.json",
     "quartz/quartz/static/giscus/light.css",
     "quartz/quartz/static/giscus/dark.css",
