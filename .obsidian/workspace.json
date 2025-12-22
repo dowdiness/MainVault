@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
+                "file": "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instruction Selection"
+              "title": "Engineering a Compiler"
             }
           },
           {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
+                "file": "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Instruction Selectionのアウトライン"
+              "title": "Engineering a Compilerのアウトライン"
             }
           },
           {
@@ -273,8 +273,8 @@
   },
   "active": "66c444734e6fd0b1",
   "lastOpenFiles": [
-    "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
     "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
     "quartz/content/Personal/introduction.md",
     "quartz/content/Personal/病院.md",
     "quartz/content/Personal/Quartz.md",
