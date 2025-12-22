@@ -3,7 +3,7 @@ title: Base
 publish: false
 tags: [" "]
 created: 2025-05-30T14:18:20+09:00
-modified: 2025-05-30T14:18:55+09:00
+modified: 2025-12-22T20:25:14+09:00
 ---
 
 # Subtype
