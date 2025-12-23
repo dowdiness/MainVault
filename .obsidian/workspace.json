@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
+                "file": "Timestamps/2025/12/2025-12-23-火曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Engineering a Compiler"
+              "title": "2025-12-23-火曜日"
             }
           },
           {
@@ -104,6 +104,19 @@
           },
           {
             "id": "3a89bf89cd1faa68",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "875c8562596b174f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -273,8 +286,9 @@
   },
   "active": "66c444734e6fd0b1",
   "lastOpenFiles": [
-    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
     "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
+    "Timestamps/2025/12/2025-12-23-火曜日.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
     "quartz/content/Personal/introduction.md",
     "quartz/content/Personal/病院.md",
     "quartz/content/Personal/Quartz.md",
@@ -298,7 +312,6 @@
     "quartz/content/README.md",
     "README.md",
     "index.md",
-    "Timestamps/2025/12/2025-12-22-月曜日.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
