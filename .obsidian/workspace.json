@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Books/Engineering a Compiler/IR implementation.md",
+                "file": "quartz/content/Compiler/Backend/Assembly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IR implementation"
+              "title": "Assembly"
+            }
+          },
+          {
+            "id": "17a92514ab68b43d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Compiler/Backend/Hello Worldのアセンブリ解説.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hello Worldのアセンブリ解説"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Intermediate",
+                "query": "assembly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -295,16 +309,19 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "be45f4fbc12dd27b",
+  "active": "17a92514ab68b43d",
   "lastOpenFiles": [
-    "quartz/content/Compiler/Middleend/Intermediate representation/Intermediate representation.md",
+    "quartz/content/Compiler/Backend/Assembly.md",
+    "quartz/content/Compiler/Backend/Hello Worldのアセンブリ解説.md",
+    "quartz/content/Compiler/Books/Essentials of compilation/Integers and variables.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
     "quartz/content/Compiler/Books/Engineering a Compiler/IR implementation.md",
+    "quartz/content/Compiler/Middleend/Intermediate representation/Intermediate representation.md",
     "quartz/content/Compiler/Middleend/Intermediate representation/A-normal form.md",
     "quartz/content/Compiler/Middleend/Deforestation.md",
     "quartz/docs/advanced/making plugins.md",
     "quartz/content/Clippings/Colin James - ANF Conversion.md",
     "quartz/content/Compiler/Books/Engineering a Compiler/Engineering a Compiler.md",
-    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
     "quartz/content/Compiler/Semantics-Driven Interoperability between Scala.js and JavaScript.md",
     "Timestamps/2025/12/2025-12-23-火曜日.md",
     "quartz/content/Personal/introduction.md",
@@ -320,9 +337,6 @@
     "Timestamps/2025/12/無題のファイル.md",
     "quartz/content/Excalidraw/Drawing 2025-04-19 18.50.05.excalidraw.md",
     "quartz/content/Compiler/Type System/Impredicativity.md",
-    "quartz/content/Compiler/Type System/Type Theory/Duality.md",
-    "quartz/content/Compiler/Type System/Type Theory/Completeness.md",
-    "quartz/content/Compiler/Type System/Subtyping/継承と部分型（サブタイピング）の違いについて.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
