@@ -97,16 +97,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Personal/introduction.md",
+                "file": "quartz/content/開発/Code Reading/Edit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "introduction"
+              "title": "Edit"
+            }
+          },
+          {
+            "id": "b1ca3a61d832df8b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/microsoft/edit/blob/main/crates/edit/src/clipboard.rs",
+                "title": "edit/crates/edit/src/clipboard.rs at main · microsoft/edit · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "edit/crates/edit/src/clipboard.rs at main · microsoft/edit · GitHub"
+            }
+          },
+          {
+            "id": "25c55a66d77df248",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://en.wikipedia.org/wiki/SWAR",
+                "title": "SWAR - Wikipedia",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "SWAR - Wikipedia"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -138,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "incremental",
+                "query": "register allo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +219,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -347,8 +376,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "a7d6860b27f96935",
+  "active": "b1ca3a61d832df8b",
   "lastOpenFiles": [
+    "quartz/content/開発/Code Reading/Edit.md",
+    "quartz/content/Personal/introduction.md",
     "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
     "Timestamps/2025/12/2025-12-25-木曜日.md",
     "quartz/content/Compiler/Backend/Assembly.md",
@@ -373,8 +404,6 @@
     "quartz/content/Compiler/Books/Engineering a Compiler/IR implementation.md",
     "quartz/content/Compiler/Middleend/Intermediate representation/A-normal form.md",
     "quartz/content/Compiler/Middleend/Deforestation.md",
-    "quartz/docs/advanced/making plugins.md",
-    "quartz/content/Clippings/Colin James - ANF Conversion.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
