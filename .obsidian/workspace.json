@@ -109,14 +109,14 @@
             "id": "b1ca3a61d832df8b",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://github.com/microsoft/edit/blob/main/crates/edit/src/clipboard.rs",
-                "title": "edit/crates/edit/src/clipboard.rs at main · microsoft/edit · GitHub",
-                "mode": "webview"
+                "file": "Timestamps/2025/12/2025-12-26-金曜日.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "edit/crates/edit/src/clipboard.rs at main · microsoft/edit · GitHub"
+              "icon": "lucide-file",
+              "title": "2025-12-26-金曜日"
             }
           },
           {
@@ -210,7 +210,7 @@
             }
           },
           {
-            "id": "7f4962b5ca95690d",
+            "id": "ed2b8e76b6153440",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -220,7 +220,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -378,6 +378,7 @@
   },
   "active": "b1ca3a61d832df8b",
   "lastOpenFiles": [
+    "Timestamps/2025/12/2025-12-26-金曜日.md",
     "quartz/content/開発/Code Reading/Edit.md",
     "quartz/content/Personal/introduction.md",
     "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
@@ -403,7 +404,6 @@
     "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
     "quartz/content/Compiler/Books/Engineering a Compiler/IR implementation.md",
     "quartz/content/Compiler/Middleend/Intermediate representation/A-normal form.md",
-    "quartz/content/Compiler/Middleend/Deforestation.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
