@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Theory/Logic/Harmony.md",
+                "file": "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harmony"
+              "title": "Incremental Parser"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": " dual",
+                "query": "incremental parser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -310,12 +310,12 @@
   },
   "active": "24401aca67097851",
   "lastOpenFiles": [
+    "quartz/content/Theory/Logic/Harmony.md",
     "quartz/content/Theory/Logic/論理入門.md",
     "quartz/content/開発/Code Reading/Edit.md",
     "quartz/content/Compiler/Compiler.md",
     "quartz/content/Compiler/Frontend/Parser/Parser.md",
     "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
-    "quartz/content/Theory/Logic/Harmony.md",
     "quartz/content/Compiler/Type System/Type Theory/Duality.md",
     "quartz/content/Theory/Logic/Separation Logic.md",
     "quartz/content/Clippings/egg Fast and Extensible Equality Saturation.md",
