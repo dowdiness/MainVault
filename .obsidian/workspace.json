@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Type System/Type Theory/Duality.md",
+                "file": "quartz/content/講義/Distributed Systems/6.5840 Distributed Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Duality"
+              "title": "6.5840 Distributed Systems"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "duality",
+                "query": "consiste",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,8 +154,7 @@
               "title": "ファイルエクスプローラ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -313,6 +312,10 @@
   },
   "active": "be45f4fbc12dd27b",
   "lastOpenFiles": [
+    "quartz/content/講義/Distributed Systems/Introduction.md",
+    "quartz/content/講義/Distributed Systems/6.5840 Distributed Systems.md",
+    "講義/Distributed Systems/6.5840 Distributed Systems.md",
+    "quartz/content/Compiler/Type System/Type Theory/Duality.md",
     "quartz/content/開発/AI/Machine learning/Backpropagation.md",
     "quartz/content/開発/AI/Machine learning/Tensor Flow.md",
     "quartz/content/開発/AI/Machine learning/Understanding Machine Learning Principles.md",
@@ -335,10 +338,6 @@
     "quartz/content/Theory/Logic/Rewriting/index.md",
     "quartz/content/Compiler/Type System/Subtyping/継承と部分型（サブタイピング）の違いについて.md",
     "quartz/content/Compiler/Type System/Subtyping/リスコフの置換原理.md",
-    "quartz/content/Compiler/Type System/Subtyping/Subtyping.md",
-    "quartz/content/Compiler/Type System/Type Theory/Duality.md",
-    "quartz/content/Compiler/Type System/「型システム入門」入門以前.md",
-    "quartz/content/Compiler/Type System/Ad hoc polymorphism.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
