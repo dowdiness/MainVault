@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Theory/Logic/Rewriting/Lambda calculus.md",
+                "file": "quartz/content/Compiler/Type System/Type Theory/Duality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lambda calculus"
+              "title": "Duality"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reduction",
+                "query": "duality",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -154,7 +154,8 @@
               "title": "ファイルエクスプローラ"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -312,8 +313,15 @@
   },
   "active": "be45f4fbc12dd27b",
   "lastOpenFiles": [
-    "quartz/content/Theory/Logic/Rewriting/SystemF.md",
+    "quartz/content/開発/AI/Machine learning/Backpropagation.md",
+    "quartz/content/開発/AI/Machine learning/Tensor Flow.md",
+    "quartz/content/開発/AI/Machine learning/Understanding Machine Learning Principles.md",
+    "quartz/content/開発/AI/No Free Lunch Theorems.md",
+    "quartz/content/開発/AI/MCP.md",
+    "quartz/content/開発/AI/LLM.md",
+    "quartz/content/Theory/Algorithm/Algorithms.md",
     "quartz/content/Theory/Logic/Rewriting/Lambda calculus.md",
+    "quartz/content/Theory/Logic/Rewriting/SystemF.md",
     "quartz/content/Compiler/Type System/Calculus of Constructions.md",
     "quartz/content/Compiler/Type System/Dependent Type.md",
     "index.md",
@@ -331,13 +339,6 @@
     "quartz/content/Compiler/Type System/Type Theory/Duality.md",
     "quartz/content/Compiler/Type System/「型システム入門」入門以前.md",
     "quartz/content/Compiler/Type System/Ad hoc polymorphism.md",
-    "quartz/content/Compiler/Type System/Hindley–Milner type system.md",
-    "quartz/content/Compiler/Type System/Impredicativity.md",
-    "quartz/content/Compiler/Type System/Type System.md",
-    "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
-    "quartz/content/Compiler/Type System/MLSUB.md",
-    "quartz/content/Compiler/Books/Writing an interpreter in Go.md",
-    "quartz/content/Compiler/Books/The Implementation of Functional Programming Languages.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
