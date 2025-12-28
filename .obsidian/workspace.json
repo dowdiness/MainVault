@@ -41,12 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Theory/Logic/Harmony.md",
+                "file": "quartz/content/Theory/Logic/Proof/Proof Theory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harmony"
+              "title": "Proof Theory"
+            }
+          },
+          {
+            "id": "b8a175ffaec393da",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.dpmms.cam.ac.uk/~jmeh1/Research/Pub91-00/bbdphcsl93.pdf",
+                "title": "bbdphcsl93.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "bbdphcsl93.pdf"
+            }
+          },
+          {
+            "id": "640b8b91f947f2c3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.nue.ie.niigata-u.ac.jp/toyama/lab-intro/TRS-intro/index.html",
+                "title": "研究の紹介",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "研究の紹介"
             }
           },
           {
@@ -55,12 +83,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Compiler.md",
-                "mode": "source",
+                "file": "quartz/content/Theory/Logic/Rewriting/Lambda calculus.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Compiler"
+              "title": "Lambda calculus"
+            }
+          },
+          {
+            "id": "7db196976cf9fab6",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.codersbase.com/posts/2013-12-03-learning-dependent-types.html",
+                "title": "Learning Dependent Types",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Learning Dependent Types"
             }
           },
           {
@@ -69,30 +111,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Type System/Row Polymorphism.md",
+                "file": "quartz/content/Compiler/Middleend/Intermediate representation/Continuations and Delimited Control/Continuation-passing style.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Row Polymorphism"
-            }
-          },
-          {
-            "id": "20e1a3006e0f6e96",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dl.acm.org/doi/10.1145/2103656.2103695",
-                "title": "Syntactic control of interference for separation logic | Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Syntactic control of interference for separation logic | Proceedings of the 39th annual ACM SIGPLAN-SIGACT symposium on Principles of programming languages"
+              "title": "Continuation-passing style"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iowa",
+                "query": "単純型",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,31 +184,19 @@
             }
           },
           {
-            "id": "b453ef96a75f79ca",
+            "id": "576b6fd43dbcf550",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "file-explorer",
               "state": {
-                "path": "quartz/content/Compiler/Frontend/Parser"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
-              "icon": "lucide-file",
-              "title": "quartz/content/Compiler/Frontend/Parser"
-            }
-          },
-          {
-            "id": "4d16d300bc2620bf",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "quartz/content/Compiler/LowLevel/CPU"
-              },
-              "icon": "lucide-file",
-              "title": "quartz/content/Compiler/LowLevel/CPU"
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -336,34 +352,34 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "d1f11e9780800354",
+  "active": "ae92932708dbf1df",
   "lastOpenFiles": [
-    "quartz/content/Compiler/Just in time.md",
-    "quartz/content/Compiler/Interpreter.md",
-    "quartz/content/Compiler/Compiler.md",
-    "quartz/content/Theory/Logic/Harmony.md",
-    "quartz/content/Compiler/Algebraic Effects.md",
-    "quartz/content/Compiler/Tagless Final.md",
-    "quartz/content/Compiler/Semantics-Driven Interoperability between Scala.js and JavaScript.md",
-    "quartz/content/Compiler/Books/Essentials of compilation/Essentials of compilation.md",
-    "quartz/content/Compiler/Books/Crafting Interpreters/26. Garbage Collection.md",
-    "quartz/content/Compiler/Backend/ABI(Application Binary Interface).md",
-    "quartz/content/Compiler/Backend/Calling convention.md",
-    "quartz/content/Compiler/LowLevel/CPU/Instruction set architecture.md",
-    "quartz/content/Compiler/LowLevel/CPU/CPU.md",
-    "Timestamps/2025/12/2025-12-28-日曜日.md",
-    "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
-    "quartz/content/Theory/Logic/論理入門.md",
-    "quartz/content/開発/Code Reading/Edit.md",
-    "quartz/content/Compiler/Frontend/Parser/Parser.md",
-    "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
+    "Theory/Logic/Proof/index.md",
+    "quartz/content/Theory/Logic/Proof/Proof Theory.md",
+    "quartz/content/Theory/Logic/Rewriting/Lambda calculus.md",
+    "quartz/content/Compiler/Type System/Dependent Type.md",
+    "quartz/content/Theory/Logic/Linear Logic/Linear λ-Calculus and Categorical ModelsRevisited.md",
+    "quartz/content/Theory/Logic/Rewriting/index.md",
+    "quartz/content/Compiler/Type System/Calculus of Constructions.md",
+    "quartz/content/Compiler/Type System/Subtyping/継承と部分型（サブタイピング）の違いについて.md",
+    "quartz/content/Compiler/Type System/Subtyping/リスコフの置換原理.md",
+    "quartz/content/Compiler/Type System/Subtyping/Subtyping.md",
     "quartz/content/Compiler/Type System/Type Theory/Duality.md",
-    "quartz/content/Theory/Logic/Separation Logic.md",
-    "quartz/content/Clippings/egg Fast and Extensible Equality Saturation.md",
-    "quartz/content/Theory/Logic/Sequent calculus.md",
-    "quartz/content/Theory/Logic/Syntax.md",
-    "Timestamps/2025/12/2025-12-25-木曜日.md",
-    "quartz/content/Theory/Logic/Model.md",
+    "quartz/content/Compiler/Type System/「型システム入門」入門以前.md",
+    "quartz/content/Compiler/Type System/Ad hoc polymorphism.md",
+    "quartz/content/Compiler/Type System/Hindley–Milner type system.md",
+    "quartz/content/Compiler/Type System/Impredicativity.md",
+    "quartz/content/Compiler/Type System/Type System.md",
+    "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
+    "quartz/content/Compiler/Type System/MLSUB.md",
+    "quartz/content/Compiler/Books/Writing an interpreter in Go.md",
+    "quartz/content/Compiler/Books/The Implementation of Functional Programming Languages.md",
+    "quartz/content/Compiler/Books/Modern compiler implementation in ML.md",
+    "quartz/content/Compiler/Books/Introduction to Programming Languages.md",
+    "quartz/content/Compiler/Books/Implementing Functional Languages.md",
+    "quartz/content/Theory/Logic/Proof/Logical Relations.md",
+    "quartz/content/Theory/Logic/Rewriting/λµµ˜-calculus.md",
+    "quartz/content/Theory/Logic/Rewriting/Weakening.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
