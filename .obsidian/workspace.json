@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
+                "file": "Timestamps/2025/12/2025-12-28-日曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Incremental Parser"
+              "title": "2025-12-28-日曜日"
             }
           }
         ],
@@ -140,19 +140,17 @@
             }
           },
           {
-            "id": "ed2b8e76b6153440",
+            "id": "4d16d300bc2620bf",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Theory/Logic"
-              },
-              "icon": "lucide-file",
-              "title": "Theory/Logic"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -310,6 +308,8 @@
   },
   "active": "24401aca67097851",
   "lastOpenFiles": [
+    "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
+    "Timestamps/2025/12/2025-12-28-日曜日.md",
     "quartz/content/Theory/Logic/Harmony.md",
     "quartz/content/Theory/Logic/論理入門.md",
     "quartz/content/開発/Code Reading/Edit.md",
@@ -334,8 +334,6 @@
     "quartz/content/Compiler/Middleend/Intermediate representation/Intermediate representation.md",
     "quartz/content/Compiler/無題のファイル.md",
     "quartz/content/Compiler/Frontend/Parser/Top Down Operator Precedence.md",
-    "quartz/content/Compiler/Frontend/Parser/Symbols, Productions and Grammars.md",
-    "quartz/content/Compiler/Frontend/Parser/Tree-sitter.md",
     "Tags",
     "quartz/content/Compiler/Books/Engineering a Compiler",
     "quartz/quartz.layout.ts",
