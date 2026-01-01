@@ -2,7 +2,7 @@
 tags: [Projectional editor, structural editing, Structure editor]
 aliases: [Examples, Structure editor]
 created: 2025-04-26T19:22:26+09:00
-modified: 2025-12-20T18:11:32+09:00
+modified: 2026-01-01T16:21:44+09:00
 ---
 
 [Wiki](https://en.wikipedia.org/wiki/Structure_editor)
