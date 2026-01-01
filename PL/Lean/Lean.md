@@ -3,7 +3,7 @@ title: Lean
 publish: false
 tags: [lean, prover]
 created: 2025-05-29T21:17:02+09:00
-modified: 2025-07-16T17:21:40+09:00
+modified: 2026-01-02T00:26:09+09:00
 ---
 
 # Lean
