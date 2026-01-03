@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -209,8 +209,7 @@
               "title": "quartz/content/Theory/Algorithm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -366,10 +365,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "070d58e72680e404",
+  "active": "ae92932708dbf1df",
   "lastOpenFiles": [
-    "quartz/content/自作アプリ/Structure editor.md",
     "quartz/content/自作アプリ/Incremental computation.md",
+    "quartz/content/自作アプリ/Structure editor.md",
     "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/自作アプリ/Spec.md",
     "quartz/content/PL/Lean/Lean.md",
