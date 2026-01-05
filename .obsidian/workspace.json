@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/index.md",
+                "file": "quartz/content/自作アプリ/EG-walker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "EG-walker"
+            }
+          },
+          {
+            "id": "61ac9a77f5db9bb3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://arxiv.org/abs/2305.00583",
+                "title": "[2305.00583] The Art of the Fugue: Minimizing Interleaving in Collaborative Text Editing",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "[2305.00583] The Art of the Fugue: Minimizing Interleaving in Collaborative Text Editing"
             }
           },
           {
@@ -138,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "設計",
+                "query": "aliases",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +205,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -350,13 +365,19 @@
   "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
     "quartz/content/自作アプリ/EG-walker.md",
+    "index.md",
     "quartz/content/Theory/Algorithm/Tree/Merkle Search Trees.md",
+    "quartz/content/index.md",
+    "quartz/docs/plugins/ContentIndex.md",
+    "quartz/content/講義/Theory of computation/Theory Of Computation.md",
+    "quartz/docs/setting up your GitHub repository.md",
+    "quartz/docs/features/RSS Feed.md",
+    "quartz/content/PL/MoonBit/Segment Tree in Moonbit.md",
     "quartz/content/Blog/依存関係をコントロールする.md",
     "quartz/content/自作アプリ/Structural Editingとは何か？.md",
     "Timestamps/2026/01/2026-01-05-月曜日.md",
     "Timestamps/2026/01/2026-01-01-木曜日.md",
     "quartz/content/Compiler/Expression problem.md",
-    "quartz/content/index.md",
     "quartz/content/自作アプリ/Structure editor.md",
     "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/node_modules/yargs/locales/zh_CN.json",
@@ -379,12 +400,6 @@
     "quartz/node_modules/ignore/README.md",
     "quartz/node_modules/strip-ansi/readme.md",
     "quartz/node_modules/readdirp/README.md",
-    "quartz/node_modules/picocolors/README.md",
-    "quartz/node_modules/string-width/readme.md",
-    "quartz/node_modules/pretty-bytes/readme.md",
-    "quartz/node_modules/chokidar/README.md",
-    "quartz/node_modules/@floating-ui/utils/README.md",
-    "quartz/node_modules/@floating-ui/dom/README.md",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
