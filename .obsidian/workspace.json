@@ -191,7 +191,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -347,7 +348,7 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "071d4b225f7b0fdd",
+  "active": "5536a17ad847a786",
   "lastOpenFiles": [
     "quartz/content/自作アプリ/EG-walker.md",
     "index.md",
