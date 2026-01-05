@@ -50,20 +50,6 @@
             }
           },
           {
-            "id": "61ac9a77f5db9bb3",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://arxiv.org/abs/2305.00583",
-                "title": "[2305.00583] The Art of the Fugue: Minimizing Interleaving in Collaborative Text Editing",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "[2305.00583] The Art of the Fugue: Minimizing Interleaving in Collaborative Text Editing"
-            }
-          },
-          {
             "id": "341868ef6240ce62",
             "type": "leaf",
             "state": {
@@ -205,8 +191,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
