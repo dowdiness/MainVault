@@ -41,40 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/index.md",
+                "file": "quartz/content/Compiler/Type System/Dependent Type.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Dependent Type"
             }
           },
           {
-            "id": "341868ef6240ce62",
+            "id": "8dd1442473fb503d",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://inria.hal.science/hal-02303490/file/paper%20(1).pdf",
-                "title": "Merkle Search Trees: Efficient State-Based CRDTs in Open Networks",
-                "mode": "webview"
+                "url": "https://dl.acm.org/doi/epdf/10.1145/75277.75283",
+                "title": "How to make ad-hoc polymorphism less ad hoc",
+                "mode": "blank"
               },
               "icon": "globe-2",
-              "title": "Merkle Search Trees: Efficient State-Based CRDTs in Open Networks"
-            }
-          },
-          {
-            "id": "746834188dc962dc",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.martinfowler.com/bliki/ProjectionalEditing.html",
-                "title": "Projectional Editing",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Projectional Editing"
+              "title": "How to make ad-hoc polymorphism less ad hoc"
             }
           },
           {
@@ -138,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aliases",
+                "query": "elaboration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -185,10 +171,12 @@
             "id": "d76c18e87d60de07",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "mk-space",
+              "state": {
+                "path": "quartz/content/Compiler/Type System"
+              },
+              "icon": "lucide-file",
+              "title": "quartz/content/Compiler/Type System"
             }
           }
         ],
@@ -348,18 +336,22 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "5536a17ad847a786",
+  "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
+    "quartz/content/Blog/依存関係をコントロールする.md",
+    "quartz/content/Compiler/Type System/Dependent Type.md",
+    "quartz/content/Compiler/Type System/Row Polymorphism.md",
+    "quartz/content/Compiler/Type System/Subtyping/部分型関係及び、部分型多相のまとめ.md",
+    "quartz/content/Compiler/Type System/Ad hoc polymorphism.md",
+    "quartz/content/index.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "index.md",
     "quartz/content/Theory/Algorithm/Tree/Merkle Search Trees.md",
-    "quartz/content/index.md",
     "quartz/docs/plugins/ContentIndex.md",
     "quartz/content/講義/Theory of computation/Theory Of Computation.md",
     "quartz/docs/setting up your GitHub repository.md",
     "quartz/docs/features/RSS Feed.md",
     "quartz/content/PL/MoonBit/Segment Tree in Moonbit.md",
-    "quartz/content/Blog/依存関係をコントロールする.md",
     "quartz/content/自作アプリ/Structural Editingとは何か？.md",
     "Timestamps/2026/01/2026-01-05-月曜日.md",
     "Timestamps/2026/01/2026-01-01-木曜日.md",
@@ -382,10 +374,6 @@
     "quartz/node_modules/ansi-styles/readme.md",
     "quartz/node_modules/ansi-regex/readme.md",
     "quartz/node_modules/slash/readme.md",
-    "quartz/node_modules/is-path-inside/readme.md",
-    "quartz/node_modules/ignore/README.md",
-    "quartz/node_modules/strip-ansi/readme.md",
-    "quartz/node_modules/readdirp/README.md",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
