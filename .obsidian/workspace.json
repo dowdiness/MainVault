@@ -333,8 +333,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "ae92932708dbf1df",
+  "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
+    "duplicates.txt",
+    "find_duplicates.ps1",
     "quartz/content/Compiler/Middleend/A Few Principles of Macro Design.md",
     "quartz/content/Compiler/Middleend/Macro.md",
     "Timestamps/2026/01/2026-01-06-火曜日.md",
@@ -366,11 +368,9 @@
     "quartz/node_modules/yargs/locales/ru.json",
     "quartz/node_modules/yargs/locales/pt_BR.json",
     "quartz/node_modules/yargs/locales/pl.json",
-    "quartz/node_modules/yargs/locales/pt.json",
     "quartz/node_modules/mime-types/HISTORY.md",
     "quartz/node_modules/mime-types/README.md",
     "quartz/node_modules/path-to-regexp/Readme.md",
-    "quartz/node_modules/safe-identifier/README.md",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
