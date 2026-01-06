@@ -335,6 +335,8 @@
   },
   "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
+    "update_aliases.ps1",
+    "update_aliases.py",
     "duplicates.txt",
     "find_duplicates.ps1",
     "quartz/content/Compiler/Middleend/A Few Principles of Macro Design.md",
@@ -366,8 +368,6 @@
     "quartz/node_modules/yargs/locales/tr.json",
     "quartz/node_modules/yargs/locales/th.json",
     "quartz/node_modules/yargs/locales/ru.json",
-    "quartz/node_modules/yargs/locales/pt_BR.json",
-    "quartz/node_modules/yargs/locales/pl.json",
     "quartz/node_modules/mime-types/HISTORY.md",
     "quartz/node_modules/mime-types/README.md",
     "quartz/node_modules/path-to-regexp/Readme.md",
