@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Type System/Dependent Type.md",
+                "file": "Timestamps/2026/01/2026-01-06-火曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dependent Type"
+              "title": "2026-01-06-火曜日"
             }
           },
           {
@@ -168,19 +168,17 @@
             }
           },
           {
-            "id": "d76c18e87d60de07",
+            "id": "40f110c674cd9da6",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "quartz/content/Compiler/Type System"
-              },
-              "icon": "lucide-file",
-              "title": "quartz/content/Compiler/Type System"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -338,8 +336,9 @@
   },
   "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
-    "quartz/content/Blog/依存関係をコントロールする.md",
     "quartz/content/Compiler/Type System/Dependent Type.md",
+    "Timestamps/2026/01/2026-01-06-火曜日.md",
+    "quartz/content/Blog/依存関係をコントロールする.md",
     "quartz/content/Compiler/Type System/Row Polymorphism.md",
     "quartz/content/Compiler/Type System/Subtyping/部分型関係及び、部分型多相のまとめ.md",
     "quartz/content/Compiler/Type System/Ad hoc polymorphism.md",
@@ -373,7 +372,6 @@
     "quartz/node_modules/safe-identifier/README.md",
     "quartz/node_modules/ansi-styles/readme.md",
     "quartz/node_modules/ansi-regex/readme.md",
-    "quartz/node_modules/slash/readme.md",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
