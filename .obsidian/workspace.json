@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Middleend/Macro.md",
-                "mode": "source",
+                "file": "quartz/content/Compiler/Middleend/α-conversion.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Macro"
+              "title": "α-conversion"
             }
           },
           {
@@ -335,12 +335,15 @@
   },
   "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
+    "quartz/content/Compiler/Middleend/Parallel Moves.md",
+    "quartz/content/Compiler/Middleend/Compiler optimization.md",
+    "quartz/content/Compiler/Middleend/Common subexpression elimination.md",
+    "quartz/content/Compiler/Middleend/Macro.md",
     "update_aliases.ps1",
     "update_aliases.py",
     "duplicates.txt",
     "find_duplicates.ps1",
     "quartz/content/Compiler/Middleend/A Few Principles of Macro Design.md",
-    "quartz/content/Compiler/Middleend/Macro.md",
     "Timestamps/2026/01/2026-01-06-火曜日.md",
     "quartz/content/Compiler/Type System/Dependent Type.md",
     "quartz/content/Blog/依存関係をコントロールする.md",
@@ -367,10 +370,7 @@
     "quartz/node_modules/yargs/locales/uk_UA.json",
     "quartz/node_modules/yargs/locales/tr.json",
     "quartz/node_modules/yargs/locales/th.json",
-    "quartz/node_modules/yargs/locales/ru.json",
     "quartz/node_modules/mime-types/HISTORY.md",
-    "quartz/node_modules/mime-types/README.md",
-    "quartz/node_modules/path-to-regexp/Readme.md",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
