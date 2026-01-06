@@ -10,9 +10,13 @@ modified: 2026-01-06T00:59:14+09:00
 
 # このサイトは何？
 
-[Obsidian](https://obsidian.md/)で書いている記事の公開サイトです。
+[Obsidian](https://obsidian.md/)で書いている日々のメモです
+[Quartz](https://quartz.jzhao.xyz/) によって作られています。
 
-# リンク一覧
 
+## サイト内リンク
+
+[[Personal/introduction|プログラマーとしての紹介]]
+
+- [[Compiler]]
 - [[講義]]
-- [[病院]]
