@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Middleend/α-conversion.md",
-                "mode": "preview",
+                "file": "Timestamps/2026/01/2026-01-07-水曜日.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "α-conversion"
+              "title": "2026-01-07-水曜日"
             }
           },
           {
@@ -336,6 +336,9 @@
   },
   "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
+    "quartz/content/Compiler/Middleend/α-conversion.md",
+    "Timestamps/2026/01/2026-01-07-水曜日.md",
+    "Tags",
     "quartz/content/Compiler/Middleend/Parallel Moves.md",
     "quartz/content/Compiler/Middleend/Compiler optimization.md",
     "quartz/content/Compiler/Middleend/Common subexpression elimination.md",
@@ -364,14 +367,11 @@
     "Timestamps/2026/01/2026-01-05-月曜日.md",
     "Timestamps/2026/01/2026-01-01-木曜日.md",
     "quartz/content/Compiler/Expression problem.md",
-    "quartz/content/自作アプリ/Structure editor.md",
     "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/node_modules/yargs/locales/zh_CN.json",
     "quartz/node_modules/yargs/locales/uz.json",
     "quartz/node_modules/yargs/locales/uk_UA.json",
     "quartz/node_modules/yargs/locales/tr.json",
-    "quartz/node_modules/yargs/locales/th.json",
-    "quartz/node_modules/mime-types/HISTORY.md",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
