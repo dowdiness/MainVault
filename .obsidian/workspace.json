@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/Structural Editingとは何か？.md",
+                "file": "Timestamps/2026/01/2026-01-08-木曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Structural Editingとは何か？"
+              "title": "2026-01-08-木曜日"
             }
           },
           {
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "78883d4059106db3",
+            "id": "04406ef21837c106",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -336,6 +336,8 @@
   },
   "active": "071d4b225f7b0fdd",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
+    "Timestamps/2026/01/2026-01-08-木曜日.md",
     "Timestamps/2026/01/2026-01-07-水曜日.md",
     "quartz/content/Compiler/Middleend/α-conversion.md",
     "Tags",
@@ -363,10 +365,8 @@
     "quartz/docs/setting up your GitHub repository.md",
     "quartz/docs/features/RSS Feed.md",
     "quartz/content/PL/MoonBit/Segment Tree in Moonbit.md",
-    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
     "Timestamps/2026/01/2026-01-05-月曜日.md",
     "Timestamps/2026/01/2026-01-01-木曜日.md",
-    "quartz/content/Compiler/Expression problem.md",
     "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/node_modules/yargs/locales/zh_CN.json",
     "quartz/node_modules/yargs/locales/uz.json",
