@@ -50,6 +50,36 @@
             }
           },
           {
+            "id": "8202e451303cab4c",
+            "type": "leaf",
+            "state": {
+              "type": "thino-changelog-view",
+              "state": {},
+              "icon": "info",
+              "title": "Thino update info"
+            }
+          },
+          {
+            "id": "76a66c98292fe960",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          },
+          {
+            "id": "de9d45613b43dd6b",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          },
+          {
             "id": "8dd1442473fb503d",
             "type": "leaf",
             "state": {
@@ -92,7 +122,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -177,8 +207,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,13 +360,18 @@
       "homepage:Open homepage": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "omnisearch:Omnisearch": false,
-      "tldraw:Create new tldrawing": false
+      "tldraw:Create new tldrawing": false,
+      "obsidian-memos:Thino": false
     }
   },
-  "active": "071d4b225f7b0fdd",
+  "active": "de9d45613b43dd6b",
   "lastOpenFiles": [
-    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
+    "quartz/node_modules/d3-delaunay/README.md",
+    "quartz/node_modules/pretty-time/README.md",
+    "無題のファイル.md",
+    "無題のファイル 1.md",
     "Timestamps/2026/01/2026-01-08-木曜日.md",
+    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
     "Timestamps/2026/01/2026-01-07-水曜日.md",
     "quartz/content/Compiler/Middleend/α-conversion.md",
     "Tags",
@@ -363,10 +397,6 @@
     "quartz/docs/plugins/ContentIndex.md",
     "quartz/content/講義/Theory of computation/Theory Of Computation.md",
     "quartz/docs/setting up your GitHub repository.md",
-    "quartz/docs/features/RSS Feed.md",
-    "quartz/content/PL/MoonBit/Segment Tree in Moonbit.md",
-    "Timestamps/2026/01/2026-01-05-月曜日.md",
-    "Timestamps/2026/01/2026-01-01-木曜日.md",
     "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/node_modules/yargs/locales/zh_CN.json",
     "quartz/node_modules/yargs/locales/uz.json",
