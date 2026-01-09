@@ -131,12 +131,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-08-木曜日.md",
+                "file": "Timestamps/2026/01/2026-01-09-金曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-08-木曜日"
+              "title": "2026-01-09-金曜日"
             }
           }
         ],
@@ -216,7 +216,7 @@
             }
           },
           {
-            "id": "04406ef21837c106",
+            "id": "c118f99d7a77133d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -225,7 +225,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -384,9 +385,9 @@
   },
   "active": "95e56d8526be409c",
   "lastOpenFiles": [
+    "Timestamps/2026/01/2026-01-08-木曜日.md",
     "Timestamps/2026/01/2026-01-06-火曜日.md",
     "Timestamps/2026/01/2026-01-07-水曜日.md",
-    "Timestamps/2026/01/2026-01-08-木曜日.md",
     "Timestamps/2026/01/2026-01-09-金曜日.md",
     "README.md",
     "_Template/Templater/01_daily-note.md",
