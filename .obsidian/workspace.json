@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "bfa94c5a416f0201",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.philipzucker.com/unify/",
-                "title": "Don’t Implement Unification by Recursion | Hey There Buddo!",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Don’t Implement Unification by Recursion | Hey There Buddo!"
-            }
-          },
-          {
             "id": "071d4b225f7b0fdd",
             "type": "leaf",
             "state": {
@@ -50,97 +36,35 @@
             }
           },
           {
-            "id": "8202e451303cab4c",
-            "type": "leaf",
-            "state": {
-              "type": "thino-changelog-view",
-              "state": {},
-              "icon": "info",
-              "title": "Thino update info"
-            }
-          },
-          {
-            "id": "de9d45613b43dd6b",
-            "type": "leaf",
-            "state": {
-              "type": "thino_view",
-              "state": {},
-              "icon": "Memos",
-              "title": "Thino"
-            }
-          },
-          {
-            "id": "8dd1442473fb503d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dl.acm.org/doi/epdf/10.1145/75277.75283",
-                "title": "How to make ad-hoc polymorphism less ad hoc",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "How to make ad-hoc polymorphism less ad hoc"
-            }
-          },
-          {
-            "id": "8d815816fc609a5f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://arxiv.org/pdf/1703.08694",
-                "title": "1703.08694",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "1703.08694"
-            }
-          },
-          {
-            "id": "dabb8f1d347e70fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quartz/content/Blog/依存関係をコントロールする.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "依存関係をコントロールする"
-            }
-          },
-          {
             "id": "73e27e8647d3779b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/開発/Test/Property testing.md",
+                "file": "quartz/content/自作アプリ/Structure editor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Property testing"
+              "title": "Structure editor"
             }
           },
           {
-            "id": "95e56d8526be409c",
+            "id": "f73631a14b13a0f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-09-金曜日.md",
+                "file": "quartz/content/自作アプリ/Layout Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-09-金曜日"
+              "title": "Layout Algorithm"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "property test",
+                "query": "Graph Drawing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -226,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -383,12 +307,29 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "95e56d8526be409c",
+  "active": "73e27e8647d3779b",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/Layout Algorithm.md",
+    "quartz/content/自作アプリ/Structure editor.md",
+    "quartz/content/開発/Test/Property testing.md",
     "Timestamps/2026/01/2026-01-08-木曜日.md",
+    "quartz/content/Blog/依存関係をコントロールする.md",
+    "quartz/node_modules/d3-geo/README.md",
+    "quartz/content/自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
+    "quartz/content/自作アプリ/EG-walker.md",
+    "quartz/content/自作アプリ/Architecture.canvas",
+    "quartz/content/自作アプリ/EYG.md",
+    "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
+    "quartz/content/自作アプリ/Incremental computation.md",
+    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
+    "quartz/content/自作アプリ/UI.md",
+    "quartz/content/自作アプリ/Visual Programming.md",
+    "quartz/content/自作アプリ/Spec.md",
+    "quartz/content/自作アプリ/Key Event.md",
+    "quartz/node_modules/d3-hierarchy/README.md",
+    "Timestamps/2026/01/2026-01-09-金曜日.md",
     "Timestamps/2026/01/2026-01-06-火曜日.md",
     "Timestamps/2026/01/2026-01-07-水曜日.md",
-    "Timestamps/2026/01/2026-01-09-金曜日.md",
     "README.md",
     "_Template/Templater/01_daily-note.md",
     "_Template/Templater/Zenn.md",
@@ -397,27 +338,11 @@
     "Timestamps2026/01/2026-01-06-火曜日.md",
     "Timestamps2026/01",
     "Timestamps2026",
-    "Timestamps2026/01/2026-01-07-水曜日.md",
-    "Timestamps2026/01/2026-01-08-木曜日.md",
-    "quartz/content/開発/Test/Property testing.md",
-    "quartz/content/Compiler/Compiler Test.md",
-    "quartz/node_modules/d3-delaunay/README.md",
-    "quartz/node_modules/pretty-time/README.md",
-    "無題のファイル.md",
-    "無題のファイル 1.md",
-    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
-    "quartz/content/Compiler/Middleend/α-conversion.md",
     "Tags",
-    "quartz/content/Compiler/Middleend/Parallel Moves.md",
-    "quartz/content/Compiler/Middleend/Compiler optimization.md",
-    "quartz/content/Compiler/Middleend/Common subexpression elimination.md",
-    "quartz/content/Compiler/Middleend/Macro.md",
     "update_aliases.ps1",
     "update_aliases.py",
     "duplicates.txt",
     "find_duplicates.ps1",
-    "quartz/content/Compiler/Middleend/A Few Principles of Macro Design.md",
-    "quartz/content/Compiler/Type System/Dependent Type.md",
     "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/node_modules/yargs/locales/zh_CN.json",
     "quartz/node_modules/yargs/locales/uz.json",
@@ -432,7 +357,6 @@
     "quartz/public/講義/Theory-of-computation/P-and-NP,-SAT,-Poly-time-Reducibility-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Nondeterminism,-Closure-Properties,-Regular-Expressions-→-Finite-Automata-og-image.webp",
     "quartz/public/自作アプリ/Architecture.canvas",
-    "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
     "Untitled 1.canvas",
