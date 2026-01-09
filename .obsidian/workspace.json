@@ -60,16 +60,6 @@
             }
           },
           {
-            "id": "76a66c98292fe960",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
-            }
-          },
-          {
             "id": "de9d45613b43dd6b",
             "type": "leaf",
             "state": {
@@ -120,9 +110,37 @@
               "icon": "lucide-file",
               "title": "依存関係をコントロールする"
             }
+          },
+          {
+            "id": "73e27e8647d3779b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/開発/Test/Property testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Property testing"
+            }
+          },
+          {
+            "id": "95e56d8526be409c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2026/01/2026-01-08-木曜日.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-08-木曜日"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -154,7 +172,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structural editi",
+                "query": "property test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -364,15 +382,29 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "de9d45613b43dd6b",
+  "active": "95e56d8526be409c",
   "lastOpenFiles": [
+    "Timestamps/2026/01/2026-01-06-火曜日.md",
+    "Timestamps/2026/01/2026-01-07-水曜日.md",
+    "Timestamps/2026/01/2026-01-08-木曜日.md",
+    "Timestamps/2026/01/2026-01-09-金曜日.md",
+    "README.md",
+    "_Template/Templater/01_daily-note.md",
+    "_Template/Templater/Zenn.md",
+    "_Template/Templater/Base.md",
+    "_Template/01_daily-note.md",
+    "Timestamps2026/01/2026-01-06-火曜日.md",
+    "Timestamps2026/01",
+    "Timestamps2026",
+    "Timestamps2026/01/2026-01-07-水曜日.md",
+    "Timestamps2026/01/2026-01-08-木曜日.md",
+    "quartz/content/開発/Test/Property testing.md",
+    "quartz/content/Compiler/Compiler Test.md",
     "quartz/node_modules/d3-delaunay/README.md",
     "quartz/node_modules/pretty-time/README.md",
     "無題のファイル.md",
     "無題のファイル 1.md",
-    "Timestamps/2026/01/2026-01-08-木曜日.md",
     "quartz/content/自作アプリ/Structural Editingとは何か？.md",
-    "Timestamps/2026/01/2026-01-07-水曜日.md",
     "quartz/content/Compiler/Middleend/α-conversion.md",
     "Tags",
     "quartz/content/Compiler/Middleend/Parallel Moves.md",
@@ -384,24 +416,10 @@
     "duplicates.txt",
     "find_duplicates.ps1",
     "quartz/content/Compiler/Middleend/A Few Principles of Macro Design.md",
-    "Timestamps/2026/01/2026-01-06-火曜日.md",
     "quartz/content/Compiler/Type System/Dependent Type.md",
-    "quartz/content/Blog/依存関係をコントロールする.md",
-    "quartz/content/Compiler/Type System/Row Polymorphism.md",
-    "quartz/content/Compiler/Type System/Subtyping/部分型関係及び、部分型多相のまとめ.md",
-    "quartz/content/Compiler/Type System/Ad hoc polymorphism.md",
-    "quartz/content/index.md",
-    "quartz/content/自作アプリ/EG-walker.md",
-    "index.md",
-    "quartz/content/Theory/Algorithm/Tree/Merkle Search Trees.md",
-    "quartz/docs/plugins/ContentIndex.md",
-    "quartz/content/講義/Theory of computation/Theory Of Computation.md",
-    "quartz/docs/setting up your GitHub repository.md",
     "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/node_modules/yargs/locales/zh_CN.json",
     "quartz/node_modules/yargs/locales/uz.json",
-    "quartz/node_modules/yargs/locales/uk_UA.json",
-    "quartz/node_modules/yargs/locales/tr.json",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
