@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/Layout Algorithm.md",
+                "file": "quartz/content/自作アプリ/Excalidraw.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Layout Algorithm"
+              "title": "Excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pretty printer",
+                "query": "exca",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,17 +306,18 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "73e27e8647d3779b",
+  "active": "f73631a14b13a0f9",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/EG-walker.md",
+    "quartz/content/自作アプリ/Excalidraw.md",
     "quartz/content/自作アプリ/Structure editor.md",
-    "quartz/content/Compiler/Pretty Printer.md",
     "quartz/content/自作アプリ/Layout Algorithm.md",
+    "quartz/content/Compiler/Pretty Printer.md",
     "quartz/content/開発/Test/Property testing.md",
     "Timestamps/2026/01/2026-01-08-木曜日.md",
     "quartz/content/Blog/依存関係をコントロールする.md",
     "quartz/node_modules/d3-geo/README.md",
     "quartz/content/自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
-    "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/content/自作アプリ/EYG.md",
     "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
@@ -334,7 +335,6 @@
     "_Template/Templater/01_daily-note.md",
     "_Template/Templater/Zenn.md",
     "_Template/Templater/Base.md",
-    "_Template/01_daily-note.md",
     "Timestamps2026/01",
     "Timestamps2026",
     "Tags",
