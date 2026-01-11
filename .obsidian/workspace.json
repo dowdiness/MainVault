@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-10-土曜日.md",
+                "file": "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-10-土曜日"
+              "title": "Polarity"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sequent ",
+                "query": "polarity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -278,10 +278,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-10-土曜日.md"
+                "file": "quartz/content/Compiler/Type System/Type Theory/Polarity.md"
               },
               "icon": "lucide-info",
-              "title": "2026-01-10-土曜日のファイルプロパティ"
+              "title": "Polarityのファイルプロパティ"
             }
           }
         ],
@@ -319,9 +319,11 @@
   },
   "active": "f73631a14b13a0f9",
   "lastOpenFiles": [
+    "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
+    "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
+    "Timestamps/2026/01/2026-01-10-土曜日.md",
     "quartz/content/開発/AI/AI.md",
     "quartz/content/Theory/Logic/Sequent calculus.md",
-    "Timestamps/2026/01/2026-01-10-土曜日.md",
     "quartz/content/Theory/Logic/Linear Logic/Linear λ-Calculus and Categorical ModelsRevisited.md",
     "quartz/content/Clippings/Colin James - ANF Conversion.md",
     "quartz/content/Theory/Logic/Girard/Blind spot.md",
@@ -344,8 +346,6 @@
     "quartz/content/自作アプリ/UI.md",
     "quartz/content/自作アプリ/Visual Programming.md",
     "quartz/content/自作アプリ/Spec.md",
-    "quartz/content/自作アプリ/Key Event.md",
-    "quartz/node_modules/d3-hierarchy/README.md",
     "Timestamps2026/01",
     "Timestamps2026",
     "Tags",
