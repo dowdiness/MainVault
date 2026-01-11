@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
+                "file": "quartz/content/自作アプリ/Layout Algorithm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Simple Essence of Algebraic Subtyping"
+              "title": "Layout Algorithm"
             }
           },
           {
@@ -110,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "polarity",
+                "query": "trees visualization",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,10 +293,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md"
+                "file": "quartz/content/自作アプリ/Layout Algorithm.md"
               },
               "icon": "lucide-info",
-              "title": "The Simple Essence of Algebraic Subtypingのファイルプロパティ"
+              "title": "Layout Algorithmのファイルプロパティ"
             }
           }
         ],
@@ -332,10 +332,10 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f73631a14b13a0f9",
+  "active": "5536a17ad847a786",
   "lastOpenFiles": [
-    "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
     "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
+    "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
     "Timestamps/2026/01/2026-01-10-土曜日.md",
     "quartz/content/開発/AI/AI.md",
     "quartz/content/Theory/Logic/Sequent calculus.md",
