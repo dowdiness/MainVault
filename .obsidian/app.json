@@ -6,5 +6,11 @@
   "showUnsupportedFiles": true,
   "uriCallbacks": true,
   "attachmentFolderPath": "./",
-  "propertiesInDocument": "source"
+  "propertiesInDocument": "source",
+  "userIgnoreFilters": [
+    "quartz/node_modules",
+    "quartz/docs/",
+    "quartz/quartz/",
+    "quartz/public/"
+  ]
 }
