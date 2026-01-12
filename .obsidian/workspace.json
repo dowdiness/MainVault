@@ -55,12 +55,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-12-月曜日.md",
+                "file": "quartz/content/Compiler/Backend/Pattern Matching/Pattern Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-12-月曜日"
+              "title": "Pattern Matching"
+            }
+          },
+          {
+            "id": "4a0fe1af2d971aa5",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf",
+                "title": "slpj-book-1987.pdf",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "slpj-book-1987.pdf"
             }
           },
           {
@@ -78,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pattern",
+                "query": "pattern matching",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,11 +177,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 281.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -291,11 +306,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Timestamps/2026/01/2026-01-12-月曜日.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "2026-01-12-月曜日のファイルプロパティ"
+              "title": "ファイルプロパティ"
             }
           }
         ],
@@ -331,12 +344,17 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "ae92932708dbf1df",
+  "active": "4a0fe1af2d971aa5",
   "lastOpenFiles": [
-    "quartz/content/自作アプリ/Layout Algorithm.md",
-    "Timestamps/2026/01/2026-01-12-月曜日.md",
-    "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
+    "quartz/content/Compiler/Backend/Pattern Matching/Pattern Matching.md",
     "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
+    "quartz/node_modules/picomatch/CHANGELOG.md",
+    "quartz/content/PL/JS/Atomicな状態管理の実現方法.md",
+    "quartz/content/Compiler/Backend/Abstract Machine.md",
+    "Timestamps/2026/01/2026-01-12-月曜日.md",
+    "quartz/content/自作アプリ/Layout Algorithm.md",
+    "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
     "Timestamps/2026/01/2026-01-10-土曜日.md",
     "quartz/content/開発/AI/AI.md",
     "quartz/content/Theory/Logic/Sequent calculus.md",
@@ -355,11 +373,6 @@
     "quartz/node_modules/d3-geo/README.md",
     "quartz/content/自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
     "quartz/content/自作アプリ/Architecture.canvas",
-    "quartz/content/自作アプリ/EYG.md",
-    "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
-    "quartz/content/自作アプリ/Incremental computation.md",
-    "quartz/content/自作アプリ/UI.md",
-    "quartz/content/自作アプリ/Visual Programming.md",
     "Timestamps2026/01",
     "Timestamps2026",
     "Tags",
