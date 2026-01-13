@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,7 +154,7 @@
             }
           },
           {
-            "id": "3c9518def871f674",
+            "id": "5c3981c6bb416d0a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -292,10 +292,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "quartz/content/TODO.md"
+                "file": "quartz/content/Theory/Automata/Automata.md"
               },
               "icon": "lucide-info",
-              "title": "TODOのファイルプロパティ"
+              "title": "Automataのファイルプロパティ"
             }
           }
         ],
@@ -331,8 +331,9 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f73631a14b13a0f9",
+  "active": "ae92932708dbf1df",
   "lastOpenFiles": [
+    "quartz/content/TODO.md",
     "quartz/content/Theory/Automata/Automata.md",
     "quartz/content/Theory/Automata/A New Approach for Active Automata Learning Based on Apartness.md",
     "quartz/docs/setting up your GitHub repository.md",
@@ -348,7 +349,6 @@
     "quartz/content/開発/Test/TDD.md",
     "quartz/content/開発/AI/AI.md",
     "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
-    "quartz/content/TODO.md",
     "quartz/node_modules/sass/node_modules/readdirp/README.md",
     "quartz/content/Theory/Automata/Automata TheoryAn Algorithmic Approach.md",
     "quartz/node_modules/rxjs/CHANGELOG.md",
