@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eg-walker",
+                "query": "llvm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "5c3981c6bb416d0a",
+            "id": "a903e6a83939335f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -348,7 +347,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "73e27e8647d3779b",
+  "active": "5536a17ad847a786",
   "lastOpenFiles": [
     "quartz/content/開発/Frontend/Bundler.md",
     "quartz/content/TODO.md",
