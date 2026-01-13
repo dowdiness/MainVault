@@ -22,31 +22,59 @@
             }
           },
           {
-            "id": "071d4b225f7b0fdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2026/01/2026-01-13-火曜日.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-13-火曜日"
-            }
-          },
-          {
             "id": "73e27e8647d3779b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/EG-walker.md",
+                "file": "quartz/content/Compiler/Backend/Assembly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EG-walker"
+              "title": "Assembly"
+            }
+          },
+          {
+            "id": "995569f0d06ab56b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://wolchok.org/posts/how-to-read-assembly-language/",
+                "title": "How to Read Assembly Language - Scott Wolchok",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "How to Read Assembly Language - Scott Wolchok"
+            }
+          },
+          {
+            "id": "0e57c24d1bc2a2bf",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language",
+                "title": "Learning to Read x86 Assembly Language - Pat Shaughnessy",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Learning to Read x86 Assembly Language - Pat Shaughnessy"
+            }
+          },
+          {
+            "id": "39d81e47c1809e3f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://existentialtype.wordpress.com/2012/08/25/polarity-in-type-theory/",
+                "title": "Polarity in Type Theory | Existential Type",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Polarity in Type Theory | Existential Type"
             }
           },
           {
@@ -92,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "llvm",
+                "query": "assembly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +196,7 @@
             }
           },
           {
-            "id": "a903e6a83939335f",
+            "id": "4da13945d98e85c1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -178,11 +206,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 317.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -347,34 +375,34 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "5536a17ad847a786",
+  "active": "73e27e8647d3779b",
   "lastOpenFiles": [
+    "quartz/content/Compiler/Backend/Assembly.md",
+    "quartz/content/開発/Architecture/ソフトウェア設計.md",
+    "quartz/content/開発/Architecture/Critical Architecture-Software Theory.md",
+    "quartz/content/開発/Architecture/アクセス制御.md",
+    "quartz/content/開発/Architecture/ソフトウェアアーキテクチャの基礎.md",
+    "quartz/content/開発/Architecture/VCS.md",
+    "quartz/content/開発/Architecture/The Curse of the Excluded Middle.md",
     "quartz/content/開発/Frontend/Bundler.md",
+    "quartz/content/開発/Frontend/Feature-Sliced Design.md",
+    "quartz/content/開発/Frontend/TypeScript Compiler.md",
+    "quartz/content/開発/Frontend/Local-first Software.md",
+    "quartz/content/開発/Frontend/Signal.md",
+    "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
+    "quartz/content/Compiler/Type System/MLSUB.md",
+    "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
+    "quartz/content/Compiler/Pretty Printer.md",
+    "quartz/content/Compiler/Type System/Subtyping/Subtyping.md",
+    "quartz/content/Compiler/Backend/LLVM.md",
     "quartz/content/TODO.md",
+    "quartz/content/Personal/introduction.md",
+    "quartz/content/自作アプリ/EG-walker.md",
     "Timestamps/2026/01/2026-01-13-火曜日.md",
     "Timestamps/2026/01/2026-01-12-月曜日.md",
     "Timestamps/2026/01/2026-01-11-日曜日.md",
     "README.md",
     "Timestamps/2026/01/2026-01-10-土曜日.md",
-    "Timestamps/2026/01/2026-01-09-金曜日.md",
-    "Timestamps/2026/01/2026-01-08-木曜日.md",
-    "quartz/content/Theory/Automata/Automata.md",
-    "quartz/content/Theory/Automata/A New Approach for Active Automata Learning Based on Apartness.md",
-    "quartz/docs/setting up your GitHub repository.md",
-    "quartz/content/開発/AI/Machine learning/Understanding Machine Learning Principles.md",
-    "quartz/content/Compiler/Middleend/Intermediate representation/Static Single Assignment.md",
-    "quartz/docs/advanced/making plugins.md",
-    "quartz/README.md",
-    "quartz/content/Misc/ls-lint.md",
-    "quartz/content/開発/Test/Property testing.md",
-    "quartz/content/開発/Test/Fuzzing.md",
-    "quartz/content/Compiler/Compiler Test.md",
-    "quartz/content/開発/Test/TDD.md",
-    "quartz/content/開発/AI/AI.md",
-    "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
-    "quartz/node_modules/sass/node_modules/readdirp/README.md",
-    "quartz/content/Theory/Automata/Automata TheoryAn Algorithmic Approach.md",
-    "quartz/node_modules/rxjs/CHANGELOG.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
