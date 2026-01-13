@@ -5,5 +5,6 @@
   "translucency": false,
   "interfaceFontFamily": "Moralerspace Argon",
   "textFontFamily": "Moralerspace Argon",
-  "monospaceFontFamily": "Moralerspace Argon"
+  "monospaceFontFamily": "Moralerspace Argon",
+  "baseFontSize": 13
 }
