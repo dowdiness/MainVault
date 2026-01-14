@@ -224,18 +224,17 @@
             }
           },
           {
-            "id": "4da13945d98e85c1",
+            "id": "0326b93664780f2e",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "quartz/content/Theory/Distributed system"
-              },
-              "icon": "lucide-file",
-              "title": "quartz/content/Theory/Distributed system"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
