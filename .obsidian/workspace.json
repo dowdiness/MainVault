@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Theory/Distributed system/Distributed system.md",
+                "file": "quartz/content/Compiler/Type System/Type Theory/Bidirectional Typing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Distributed system"
+              "title": "Bidirectional Typing"
             }
           },
           {
@@ -50,73 +50,17 @@
             }
           },
           {
-            "id": "871f5171c38af505",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://link.springer.com/article/10.1007/s41980-024-00865-0",
-                "title": "An Approach to Distributed Systems from Orderings and Representability | Bulletin of the Iranian Mathematical Society",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "An Approach to Distributed Systems from Orderings and Representability | Bulletin of the Iranian Mathematical Society"
-            }
-          },
-          {
-            "id": "995569f0d06ab56b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://wolchok.org/posts/how-to-read-assembly-language/",
-                "title": "How to Read Assembly Language - Scott Wolchok",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "How to Read Assembly Language - Scott Wolchok"
-            }
-          },
-          {
-            "id": "0e57c24d1bc2a2bf",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language",
-                "title": "Learning to Read x86 Assembly Language - Pat Shaughnessy",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Learning to Read x86 Assembly Language - Pat Shaughnessy"
-            }
-          },
-          {
-            "id": "39d81e47c1809e3f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://existentialtype.wordpress.com/2012/08/25/polarity-in-type-theory/",
-                "title": "Polarity in Type Theory | Existential Type",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Polarity in Type Theory | Existential Type"
-            }
-          },
-          {
             "id": "f73631a14b13a0f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/TODO.md",
+                "file": "quartz/content/開発/Frontend/React/React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "React"
             }
           },
           {
@@ -125,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/開発/Frontend/Bundler.md",
+                "file": "quartz/content/Theory/Algorithm/Unification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bundler"
+              "title": "Unification"
             }
           },
           {
@@ -148,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -180,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "distributed",
+                "query": "react",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -403,8 +347,16 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "a8615aabef6ed233",
+  "active": "f73631a14b13a0f9",
   "lastOpenFiles": [
+    "quartz/content/PL/JS/React Philosophy.md",
+    "quartz/content/開発/Frontend/React/React.md",
+    "quartz/content/Compiler/Type System/Type Theory/Bidirectional Typing.md",
+    "quartz/content/Theory/Algorithm/Unification.md",
+    "quartz/content/開発/Frontend/Bundler.md",
+    "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
+    "quartz/content/TODO.md",
+    "quartz/content/Theory/Logic/Separation Logic.md",
     "quartz/content/Theory/Distributed system/Ordering.md",
     "quartz/content/Theory/Distributed system/Distributed system.md",
     "quartz/content/Theory/Distributed system/Time, Clocks and the Ordering of Events in a Distributed System.md",
@@ -418,19 +370,11 @@
     "quartz/content/開発/Architecture/ソフトウェアアーキテクチャの基礎.md",
     "quartz/content/開発/Architecture/VCS.md",
     "quartz/content/開発/Architecture/The Curse of the Excluded Middle.md",
-    "quartz/content/開発/Frontend/Bundler.md",
     "quartz/content/開発/Frontend/Feature-Sliced Design.md",
     "quartz/content/開発/Frontend/TypeScript Compiler.md",
     "quartz/content/開発/Frontend/Local-first Software.md",
     "quartz/content/開発/Frontend/Signal.md",
     "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
-    "quartz/content/Compiler/Type System/MLSUB.md",
-    "quartz/content/Compiler/Type System/The Simple Essence of Algebraic Subtyping.md",
-    "quartz/content/Compiler/Pretty Printer.md",
-    "quartz/content/Compiler/Type System/Subtyping/Subtyping.md",
-    "quartz/content/Compiler/Backend/LLVM.md",
-    "quartz/content/TODO.md",
-    "quartz/content/Personal/introduction.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
