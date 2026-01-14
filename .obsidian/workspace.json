@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react",
+                "query": "Compound Components",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -347,7 +347,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f73631a14b13a0f9",
+  "active": "5536a17ad847a786",
   "lastOpenFiles": [
     "quartz/content/PL/JS/React Philosophy.md",
     "quartz/content/開発/Frontend/React/React.md",
