@@ -84,11 +84,11 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf",
-                "title": "slpj-book-1987.pdf",
+                "title": "microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "slpj-book-1987.pdf"
+              "title": "microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf"
             }
           }
         ],
@@ -177,12 +177,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 455.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -349,6 +348,8 @@
   },
   "active": "f73631a14b13a0f9",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/無題のファイル.md",
+    "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/自作アプリ/Incremental computation.md",
     "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/Compiler/Backend/Pattern Matching/Pattern Matching.md",
@@ -373,8 +374,6 @@
     "quartz/content/Theory/Math/順序集合.md",
     "quartz/content/Compiler/Backend/Assembly.md",
     "quartz/content/開発/Architecture/ソフトウェア設計.md",
-    "quartz/content/開発/Architecture/Critical Architecture-Software Theory.md",
-    "quartz/content/開発/Architecture/アクセス制御.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
