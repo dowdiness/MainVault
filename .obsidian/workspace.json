@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Theory/Distributed system/Ordering.md",
+                "file": "Timestamps/2026/01/2026-01-15-木曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ordering"
+              "title": "2026-01-15-木曜日"
+            }
+          },
+          {
+            "id": "78808aee4b7e881a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://lambda-editor.koji-ishimoto.workers.dev/",
+                "title": "Lambda Calculus CRDT Editor",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Lambda Calculus CRDT Editor"
             }
           },
           {
@@ -55,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/開発/Frontend/React/React.md",
+                "file": "quartz/content/Compiler/Backend/Pattern Matching/Pattern Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "Pattern Matching"
             }
           },
           {
@@ -92,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Compound Components",
+                "query": "bidirectional typ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +182,7 @@
             }
           },
           {
-            "id": "782a2b621261d5d0",
+            "id": "82214735f031ecf1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -347,17 +361,21 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "5536a17ad847a786",
+  "active": "a8615aabef6ed233",
   "lastOpenFiles": [
-    "quartz/content/PL/JS/React Philosophy.md",
-    "quartz/content/開発/Frontend/React/React.md",
+    "Timestamps/2026/01/2026-01-15-木曜日.md",
     "quartz/content/Compiler/Type System/Type Theory/Bidirectional Typing.md",
+    "quartz/content/Theory/Distributed system/Ordering.md",
+    "quartz/content/Compiler/Backend/Pattern Matching/Pattern Matching.md",
+    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
+    "quartz/content/Compiler/Backend/Abstract Machine.md",
+    "quartz/content/開発/Frontend/React/React.md",
+    "quartz/content/PL/JS/React Philosophy.md",
     "quartz/content/Theory/Algorithm/Unification.md",
     "quartz/content/開発/Frontend/Bundler.md",
     "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/TODO.md",
     "quartz/content/Theory/Logic/Separation Logic.md",
-    "quartz/content/Theory/Distributed system/Ordering.md",
     "quartz/content/Theory/Distributed system/Distributed system.md",
     "quartz/content/Theory/Distributed system/Time, Clocks and the Ordering of Events in a Distributed System.md",
     "quartz/content/Theory/Distributed system/Raft.md",
@@ -371,10 +389,6 @@
     "quartz/content/開発/Architecture/VCS.md",
     "quartz/content/開発/Architecture/The Curse of the Excluded Middle.md",
     "quartz/content/開発/Frontend/Feature-Sliced Design.md",
-    "quartz/content/開発/Frontend/TypeScript Compiler.md",
-    "quartz/content/開発/Frontend/Local-first Software.md",
-    "quartz/content/開発/Frontend/Signal.md",
-    "quartz/content/Compiler/Type System/Type Theory/Polarity.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
