@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Type System/Type Theory/Bidirectional Typing.md",
+                "file": "quartz/content/自作アプリ/Incremental computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bidirectional Typing"
+              "title": "Incremental computation"
+            }
+          },
+          {
+            "id": "aec17a1ab365eeb7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=G6a5G5i4gQU",
+                "title": "Seven Implementations of Incremental - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Seven Implementations of Incremental - YouTube"
             }
           },
           {
@@ -41,26 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-16-金曜日.md",
+                "file": "quartz/content/PL/Rust/Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-16-金曜日"
-            }
-          },
-          {
-            "id": "78808aee4b7e881a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://lambda-editor.koji-ishimoto.workers.dev/",
-                "title": "Lambda Calculus CRDT Editor",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Lambda Calculus CRDT Editor"
+              "title": "Rust"
             }
           },
           {
@@ -84,15 +84,15 @@
               "type": "webviewer",
               "state": {
                 "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf",
-                "title": "microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf",
+                "title": "slpj-book-1987.pdf",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf"
+              "title": "slpj-book-1987.pdf"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bidirectional typ",
+                "query": "rust",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -346,34 +346,34 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f73631a14b13a0f9",
+  "active": "4a0fe1af2d971aa5",
   "lastOpenFiles": [
-    "quartz/content/自作アプリ/無題のファイル.md",
     "quartz/content/自作アプリ/EG-walker.md",
+    "quartz/content/PL/Rust/Rust.md",
     "quartz/content/自作アプリ/Incremental computation.md",
+    "quartz/content/開発/Security/Supply chain security.md",
+    "quartz/content/PL/Rust/所有権(Owrnership).md",
+    "quartz/content/PL/Rust/演算子とシンボル(Operators and Symbols).md",
+    "quartz/content/Compiler/Type System/Subtyping/Subtyping.md",
+    "quartz/content/Compiler/Type System/MLSUB.md",
+    "Timestamps/2026/01/2026-01-16-金曜日.md",
+    "quartz/content/Compiler/Compiler.md",
+    "quartz/content/Compiler/Middleend/Intermediate representation/Static Single Assignment.md",
+    "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
+    "quartz/content/Compiler/Type System/Type Theory/Bidirectional Typing.md",
+    "quartz/content/自作アプリ/無題のファイル.md",
     "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/Compiler/Backend/Pattern Matching/Pattern Matching.md",
     "quartz/content/Theory/Algorithm/Unification.md",
-    "Timestamps/2026/01/2026-01-16-金曜日.md",
     "Timestamps/2026/01/2026-01-15-木曜日.md",
     "_Template/Templater/01_daily-note.md",
     "_Template/01_daily-note.md",
-    "quartz/content/Compiler/Type System/Type Theory/Bidirectional Typing.md",
     "quartz/content/Theory/Distributed system/Ordering.md",
     "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
     "quartz/content/Compiler/Backend/Abstract Machine.md",
     "quartz/content/開発/Frontend/React/React.md",
     "quartz/content/PL/JS/React Philosophy.md",
     "quartz/content/開発/Frontend/Bundler.md",
-    "quartz/content/TODO.md",
-    "quartz/content/Theory/Logic/Separation Logic.md",
-    "quartz/content/Theory/Distributed system/Distributed system.md",
-    "quartz/content/Theory/Distributed system/Time, Clocks and the Ordering of Events in a Distributed System.md",
-    "quartz/content/Theory/Distributed system/Raft.md",
-    "quartz/content/Theory/Distributed system/Leslie Lamport.md",
-    "quartz/content/Theory/Math/順序集合.md",
-    "quartz/content/Compiler/Backend/Assembly.md",
-    "quartz/content/開発/Architecture/ソフトウェア設計.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
