@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "quartz/content/自作アプリ/Incremental computation.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 234.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -346,7 +346,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "4a0fe1af2d971aa5",
+  "active": "73e27e8647d3779b",
   "lastOpenFiles": [
     "Timestamps/2026/01/2026-01-17-土曜日.md",
     "quartz/content/自作アプリ/EG-walker.md",
