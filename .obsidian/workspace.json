@@ -81,14 +81,14 @@
             "id": "4a0fe1af2d971aa5",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.microsoft.com/en-us/research/wp-content/uploads/1987/01/slpj-book-1987.pdf",
-                "title": "slpj-book-1987.pdf",
-                "mode": "webview"
+                "file": "Timestamps/2026/01/2026-01-17-土曜日.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "globe-2",
-              "title": "slpj-book-1987.pdf"
+              "icon": "lucide-file",
+              "title": "2026-01-17-土曜日"
             }
           }
         ],
@@ -348,6 +348,7 @@
   },
   "active": "4a0fe1af2d971aa5",
   "lastOpenFiles": [
+    "Timestamps/2026/01/2026-01-17-土曜日.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/PL/Rust/Rust.md",
     "quartz/content/自作アプリ/Incremental computation.md",
@@ -373,7 +374,6 @@
     "quartz/content/Compiler/Backend/Abstract Machine.md",
     "quartz/content/開発/Frontend/React/React.md",
     "quartz/content/PL/JS/React Philosophy.md",
-    "quartz/content/開発/Frontend/Bundler.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
