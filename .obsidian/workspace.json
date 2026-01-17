@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/Replicated Tree.md",
-                "mode": "source",
+                "file": "quartz/content/Theory/Algorithm/Tree/Union find.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Replicated Tree"
+              "title": "Union find"
             }
           },
           {
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tree",
+                "query": "union find",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -349,6 +349,7 @@
   "active": "73e27e8647d3779b",
   "lastOpenFiles": [
     "quartz/content/自作アプリ/Fractional Indexing.md",
+    "quartz/content/Theory/Algorithm/Tree/Union find.md",
     "quartz/content/自作アプリ/Replicated Tree.md",
     "quartz/content/自作アプリ/Incremental computation.md",
     "Timestamps/2026/01/2026-01-17-土曜日.md",
@@ -373,7 +374,6 @@
     "quartz/content/Theory/Distributed system/Ordering.md",
     "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
     "quartz/content/Compiler/Backend/Abstract Machine.md",
-    "quartz/content/開発/Frontend/React/React.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
