@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-18-日曜日.md",
+                "file": "quartz/content/Theory/Distributed system/Distributed system.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-18-日曜日"
+              "title": "Distributed system"
+            }
+          },
+          {
+            "id": "96ce6b76a42fda51",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/#fnref15",
+                "title": "Predicting the Future of Distributed Systems",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Predicting the Future of Distributed Systems"
             }
           },
           {
@@ -124,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "union find",
+                "query": "distributed",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -349,13 +363,21 @@
   },
   "active": "73e27e8647d3779b",
   "lastOpenFiles": [
-    "quartz/content/Theory/Algorithm/Tree/Union find.md",
-    "Timestamps/2026/01/2026-01-18-日曜日.md",
-    "quartz/content/自作アプリ/Fractional Indexing.md",
-    "quartz/content/自作アプリ/Replicated Tree.md",
-    "quartz/content/自作アプリ/Incremental computation.md",
-    "Timestamps/2026/01/2026-01-17-土曜日.md",
+    "quartz/content/Theory/Distributed system/Distributed system.md",
+    "quartz/content/自作アプリ/Architecture.canvas",
+    "quartz/content/自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
+    "quartz/content/自作アプリ/Excalidraw.md",
     "quartz/content/自作アプリ/EG-walker.md",
+    "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
+    "quartz/content/自作アプリ/Incremental computation.md",
+    "quartz/content/自作アプリ/Fractional Indexing.md",
+    "quartz/content/自作アプリ/Key Event.md",
+    "quartz/content/自作アプリ/KeyBoard shortcut.md",
+    "quartz/content/自作アプリ/Layout Algorithm.md",
+    "quartz/content/自作アプリ/Replicated Tree.md",
+    "Timestamps/2026/01/2026-01-18-日曜日.md",
+    "quartz/content/Theory/Algorithm/Tree/Union find.md",
+    "Timestamps/2026/01/2026-01-17-土曜日.md",
     "quartz/content/PL/Rust/Rust.md",
     "quartz/content/開発/Security/Supply chain security.md",
     "quartz/content/PL/Rust/所有権(Owrnership).md",
@@ -367,15 +389,7 @@
     "quartz/content/Compiler/Middleend/Intermediate representation/Static Single Assignment.md",
     "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
     "quartz/content/Compiler/Type System/Type Theory/Bidirectional Typing.md",
-    "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/Compiler/Backend/Pattern Matching/Pattern Matching.md",
-    "quartz/content/Theory/Algorithm/Unification.md",
-    "Timestamps/2026/01/2026-01-15-木曜日.md",
-    "_Template/Templater/01_daily-note.md",
-    "_Template/01_daily-note.md",
-    "quartz/content/Theory/Distributed system/Ordering.md",
-    "quartz/content/Compiler/Books/Engineering a Compiler/Instruction Selection.md",
-    "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
     "Tags",
