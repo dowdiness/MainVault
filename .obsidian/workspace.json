@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-17-土曜日.md",
+                "file": "Timestamps/2026/01/2026-01-15-木曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-17-土曜日"
+              "title": "2026-01-15-木曜日"
             }
           }
         ],
@@ -157,10 +157,12 @@
             "id": "1cbc7ad91ce1773b",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "mk-space",
+              "state": {
+                "path": "Timestamps2026/01"
+              },
+              "icon": "lucide-file",
+              "title": "01"
             }
           }
         ]
@@ -334,9 +336,16 @@
   },
   "active": "a8615aabef6ed233",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/EG-walker.md",
+    "Timestamps/2026/01/2026-01-15-木曜日.md",
+    "Timestamps/2026/01/2026-01-16-金曜日.md",
+    "Timestamps2026/01/2026-01-16-金曜日.md",
+    "Timestamps/2026/01/2026-01-17-土曜日.md",
+    "Timestamps2026/01",
+    "Timestamps2026",
+    "quartz/content/Personal/introduction.md",
     "quartz/content/自作アプリ/分散システムまとめ.md",
     "quartz/content/自作アプリ/Fractional Indexing.md",
-    "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/自作アプリ/UI.md",
     "quartz/content/自作アプリ/Structure editor.md",
     "quartz/content/自作アプリ/Structural Editingとは何か？.md",
@@ -353,16 +362,9 @@
     "quartz/content/自作アプリ/Replicated Tree.md",
     "Timestamps/2026/01/2026-01-18-日曜日.md",
     "quartz/content/Theory/Algorithm/Tree/Union find.md",
-    "Timestamps/2026/01/2026-01-17-土曜日.md",
     "quartz/content/開発/Security/Supply chain security.md",
     "quartz/content/PL/Rust/所有権(Owrnership).md",
     "quartz/content/PL/Rust/演算子とシンボル(Operators and Symbols).md",
-    "quartz/content/Compiler/Type System/Subtyping/Subtyping.md",
-    "quartz/content/Compiler/Type System/MLSUB.md",
-    "Timestamps/2026/01/2026-01-16-金曜日.md",
-    "quartz/content/Compiler/Compiler.md",
-    "Timestamps2026/01",
-    "Timestamps2026",
     "Tags",
     "update_aliases.ps1",
     "update_aliases.py",
