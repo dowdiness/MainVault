@@ -154,18 +154,17 @@
             }
           },
           {
-            "id": "8435ef3d42efb5ec",
+            "id": "1cbc7ad91ce1773b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "quartz/content"
-              },
-              "icon": "lucide-file",
-              "title": "quartz/content"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -334,7 +333,7 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "ae92932708dbf1df",
+  "active": "a8615aabef6ed233",
   "lastOpenFiles": [
     "quartz/content/自作アプリ/Fractional Indexing.md",
     "quartz/content/自作アプリ/分散システムまとめ.md",
