@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/分散システムまとめ.md",
+                "file": "quartz/content/Personal/introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分散システムまとめ"
+              "title": "introduction"
             }
           },
           {
@@ -163,8 +163,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -335,8 +334,8 @@
   },
   "active": "a8615aabef6ed233",
   "lastOpenFiles": [
-    "quartz/content/自作アプリ/Fractional Indexing.md",
     "quartz/content/自作アプリ/分散システムまとめ.md",
+    "quartz/content/自作アプリ/Fractional Indexing.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/自作アプリ/UI.md",
     "quartz/content/自作アプリ/Structure editor.md",
