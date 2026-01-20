@@ -154,18 +154,17 @@
             }
           },
           {
-            "id": "1cbc7ad91ce1773b",
+            "id": "fc3cc4f8fccb3e92",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "Timestamps2026/01"
-              },
-              "icon": "lucide-file",
-              "title": "01"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
