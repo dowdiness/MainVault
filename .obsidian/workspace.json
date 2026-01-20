@@ -42,7 +42,7 @@
               "type": "markdown",
               "state": {
                 "file": "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-15-木曜日.md",
+                "file": "Timestamps/2026/01/2026-01-18-日曜日.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-15-木曜日"
+              "title": "2026-01-18-日曜日"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -333,11 +333,15 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "f73631a14b13a0f9",
+  "active": "a8615aabef6ed233",
   "lastOpenFiles": [
+    "Timestamps/2026/01/2026-01-18-日曜日.md",
+    "Timestamps/2026/01/2026-01-17-土曜日.md",
+    "Timestamps/2026/01/2026-01-16-金曜日.md",
+    "Timestamps/2026/01/2026-01-15-木曜日.md",
+    "quartz/content/Personal/introduction.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
-    "quartz/content/Personal/introduction.md",
     "quartz/content/Theory/Algorithm/Unification.md",
     "quartz/content/自作アプリ/Structural Editingとは何か？.md",
     "quartz/content/自作アプリ/Spec.md",
@@ -355,15 +359,11 @@
     "quartz/content/自作アプリ/UI.md",
     "quartz/content/自作アプリ/Visual Programming.md",
     "quartz/content/自作アプリ/分散システムまとめ.md",
-    "Timestamps/2026/01/2026-01-15-木曜日.md",
-    "Timestamps/2026/01/2026-01-16-金曜日.md",
     "Timestamps2026/01/2026-01-16-金曜日.md",
-    "Timestamps/2026/01/2026-01-17-土曜日.md",
     "Timestamps2026/01",
     "Timestamps2026",
     "quartz/content/自作アプリ/Fractional Indexing.md",
     "quartz/content/PL/Rust/Rust.md",
-    "quartz/content/Theory/Distributed system/Distributed system.md",
     "Tags",
     "update_aliases.ps1",
     "update_aliases.py",
