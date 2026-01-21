@@ -12,5 +12,6 @@
     "quartz/docs/",
     "quartz/quartz/",
     "quartz/public/"
-  ]
+  ],
+  "openBehavior": "daily"
 }
