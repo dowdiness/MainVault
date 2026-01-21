@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ソフトウェア設計においてやるべきことは「意味の圧縮」"
             }
           }
         ]
@@ -102,13 +106,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5,
-    "collapsed": true
+    "width": 268.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -278,7 +280,7 @@
     "Timestamps/2026/01/2026-01-21-水曜日.md",
     "Timestamps/2026/01/2026-01-20-火曜日.md",
     "quartz/content/Personal/introduction.md",
-    "quartz/content/Blog/プログラミング言語における意味圧縮.md",
+    "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
     "quartz/content/Blog/MoonBitのtryが使いやすくて最高.md",
     "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
     "quartz/content/開発/Architecture/ソフトウェア設計.md",
