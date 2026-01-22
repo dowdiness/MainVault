@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/TODO.md",
+                "file": "quartz/content/tags/Compiler.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "Compiler"
             }
           }
         ],
@@ -264,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "quartz/content/TODO.md"
+                "file": "quartz/content/tags/Compiler.md"
               },
               "icon": "lucide-info",
-              "title": "TODOのファイルプロパティ"
+              "title": "Compilerのファイルプロパティ"
             }
           }
         ],
@@ -305,6 +305,9 @@
   },
   "active": "d82c8cbebb94daff",
   "lastOpenFiles": [
+    "quartz/content/TODO.md",
+    "quartz/content/tags/Compiler.md",
+    "quartz/content/tags",
     "Timestamps/2026/01/2026-01-22-木曜日.md",
     "quartz/content/Compiler/評価戦略/Call-by-Push-Value.md",
     "quartz/content/自作アプリ/CRDTs.md",
@@ -329,8 +332,6 @@
     "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
     "Timestamps/2026/01/2026-01-21-水曜日.md",
     "Timestamps/2026/01/2026-01-20-火曜日.md",
-    "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
-    "quartz/content/開発/Architecture/ソフトウェア設計.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
@@ -341,7 +342,6 @@
     "find_duplicates.ps1",
     "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/node_modules/yargs/locales/zh_CN.json",
-    "quartz/node_modules/yargs/locales/uz.json",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
