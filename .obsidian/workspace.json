@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -264,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "quartz/content/tags/Compiler.md"
+                "file": "quartz/content/自作アプリ/CRDTs.md"
               },
               "icon": "lucide-info",
-              "title": "Compilerのファイルプロパティ"
+              "title": "CRDTsのファイルプロパティ"
             }
           }
         ],
@@ -303,15 +303,16 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "d82c8cbebb94daff",
+  "active": "884e60618a53efbe",
   "lastOpenFiles": [
-    "quartz/content/TODO.md",
     "quartz/content/tags/Compiler.md",
+    "quartz/content/自作アプリ/無題のファイル.md",
+    "quartz/content/自作アプリ/CRDTs.md",
+    "quartz/content/自作アプリ/Collaborative real-time editor.md",
+    "quartz/content/TODO.md",
     "quartz/content/tags",
     "Timestamps/2026/01/2026-01-22-木曜日.md",
     "quartz/content/Compiler/評価戦略/Call-by-Push-Value.md",
-    "quartz/content/自作アプリ/CRDTs.md",
-    "quartz/content/自作アプリ/Collaborative real-time editor.md",
     "quartz/content/講義/Formal Methods for the Informal Engineer/Formal Methods for the Informal Engineer.md",
     "quartz/content/自作アプリ/Bisimulation.md",
     "quartz/content/Compiler/評価戦略/I'm betting on Call-by-Push-Value.md",
@@ -331,7 +332,6 @@
     "quartz/content/Personal/introduction.md",
     "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
     "Timestamps/2026/01/2026-01-21-水曜日.md",
-    "Timestamps/2026/01/2026-01-20-火曜日.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
