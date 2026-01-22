@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-22-木曜日.md",
+                "file": "quartz/content/自作アプリ/Lambda editor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-22-木曜日"
+              "title": "Lambda editor"
+            }
+          },
+          {
+            "id": "884e60618a53efbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/自作アプリ/CRDTs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRDTs"
+            }
+          },
+          {
+            "id": "d82c8cbebb94daff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "focusing",
+                "query": "crdt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +135,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -236,10 +264,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-22-木曜日.md"
+                "file": "quartz/content/TODO.md"
               },
               "icon": "lucide-info",
-              "title": "2026-01-22-木曜日のファイルプロパティ"
+              "title": "TODOのファイルプロパティ"
             }
           }
         ],
@@ -275,9 +303,22 @@
       "obsidian-memos:Thino": false
     }
   },
-  "active": "9acb361fcf9a55cf",
+  "active": "d82c8cbebb94daff",
   "lastOpenFiles": [
     "Timestamps/2026/01/2026-01-22-木曜日.md",
+    "quartz/content/Compiler/評価戦略/Call-by-Push-Value.md",
+    "quartz/content/自作アプリ/CRDTs.md",
+    "quartz/content/自作アプリ/Collaborative real-time editor.md",
+    "quartz/content/講義/Formal Methods for the Informal Engineer/Formal Methods for the Informal Engineer.md",
+    "quartz/content/自作アプリ/Bisimulation.md",
+    "quartz/content/Compiler/評価戦略/I'm betting on Call-by-Push-Value.md",
+    "quartz/content/自作アプリ/EG-walker.md",
+    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
+    "quartz/content/自作アプリ/Structure editor.md",
+    "quartz/content/自作アプリ/Replicated Tree.md",
+    "quartz/content/自作アプリ/Incremental computation.md",
+    "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md",
+    "quartz/content/自作アプリ/Lambda editor.md",
     "quartz/content/Theory/Logic/Sequent calculus.md",
     "quartz/content/Theory/Logic/Separation Logic.md",
     "quartz/content/Theory/Logic/Focusing.md",
@@ -290,19 +331,6 @@
     "Timestamps/2026/01/2026-01-20-火曜日.md",
     "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
     "quartz/content/開発/Architecture/ソフトウェア設計.md",
-    "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
-    "quartz/content/Blog/言語化は役に立つのか.md",
-    "quartz/content/Blog/言語化の功罪.md",
-    "Timestamps/2026/01/2026-01-19-月曜日.md",
-    "Timestamps/2026/01/2026-01-18-日曜日.md",
-    "Timestamps/2026/01/2026-01-17-土曜日.md",
-    "Timestamps/2026/01/2026-01-16-金曜日.md",
-    "Timestamps/2026/01/2026-01-15-木曜日.md",
-    "quartz/content/自作アプリ/EG-walker.md",
-    "quartz/content/Theory/Algorithm/Unification.md",
-    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
-    "quartz/content/自作アプリ/Spec.md",
-    "quartz/content/自作アプリ/Replicated Tree.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
     "Timestamps2026",
