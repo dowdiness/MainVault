@@ -1,6 +1,12 @@
 # Ignore node modules
 node_modules
 
+# Quartz build artifacts and dependencies
+quartz/node_modules/
+quartz/.quartz-cache/
+quartz/public/
+quartz/.github/
+
 # https://www.make.md/
 .makemd
 

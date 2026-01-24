@@ -1,7 +1,6 @@
 [
   "obsidian-excalidraw-plugin",
   "templater-obsidian",
-  "open-vscode",
   "obsidian-icon-folder",
   "recent-files-obsidian",
   "obsidian-citation-plugin",
@@ -12,13 +11,9 @@
   "obsidian-advanced-uri",
   "dataview",
   "obsidian-linter",
-  "make-md",
   "obsidian-outliner",
-  "omnisearch",
   "obsidian-tasks-plugin",
-  "tldraw",
   "obsidian-kanban",
-  "longform",
   "obsidian-memos",
   "url-into-selection",
   "terminal",
@@ -29,5 +24,5 @@
   "smart-connections",
   "yolo",
   "obsidian42-brat",
-  "chatgpt-md"
+  "open-vscode"
 ]
