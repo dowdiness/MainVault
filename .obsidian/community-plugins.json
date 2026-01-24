@@ -21,5 +21,7 @@
   "longform",
   "obsidian-memos",
   "url-into-selection",
-  "terminal"
+  "terminal",
+  "obsidian-local-rest-api",
+  "open-in-terminal"
 ]
