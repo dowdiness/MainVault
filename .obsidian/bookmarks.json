@@ -5,6 +5,24 @@
       "ctime": 1745055071780,
       "path": "Timestamps/2025",
       "title": "This year"
+    },
+    {
+      "type": "group",
+      "ctime": 1769250465718,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1769250547645,
+          "path": "quartz/content/開発/AI/Michael Timothy Bennett.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1769250499187,
+          "path": "quartz/content/開発/AI/学習プラン/00_README.md",
+          "title": "AI 学習ガイド"
+        }
+      ],
+      "title": "Ai"
     }
   ]
 }
