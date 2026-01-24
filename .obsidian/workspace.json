@@ -79,16 +79,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/開発/AI/学習プラン/08_Resources.md",
+                "file": "quartz/content/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08_Resources"
+              "title": "TODO"
+            }
+          },
+          {
+            "id": "3bb384d165c66e0a",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://obsolete.hatenadiary.com/entry/2025/12/31/141424#LLM-%E6%B4%BB%E5%AD%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3",
+                "title": "Obsidian+GPT: 抑うつ症状を前提としたタスク管理【2025-12-31】 - 二千三百五十五年",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Obsidian+GPT: 抑うつ症状を前提としたタスク管理【2025-12-31】 - 二千三百五十五年"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "racket",
+                "query": "todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +185,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -299,11 +314,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "quartz/content/開発/AI/学習プラン/08_Resources.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "08_Resourcesのファイルプロパティ"
+              "title": "ファイルプロパティ"
             }
           }
         ],
@@ -341,12 +354,17 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6600ac5bd8f19e80",
+  "active": "3bb384d165c66e0a",
   "lastOpenFiles": [
+    "quartz/content/TODO.md",
+    "quartz/content/Timestamps/2025/04/TaskList.md",
+    "quartz/content/Theory/Formal Methods/Formal Methods.md",
+    "quartz/content/講義/Formal Methods for the Informal Engineer/Formal Methods for the Informal Engineer.md",
+    "quartz/content/Personal/introduction.md",
+    "quartz/content/開発/AI/学習プラン/08_Resources.md",
     "quartz/content/開発/AI/学習プラン/01_ML_Classification.md",
     "quartz/content/開発/AI/学習プラン/02_Automata_Theory.md",
     "quartz/content/PL/Racket/Racket.md",
-    "quartz/content/開発/AI/学習プラン/08_Resources.md",
     "quartz/content/開発/AI/学習プラン/07_Integration.md",
     "quartz/content/開発/AI/学習プラン/05_Theorem_Provers.md",
     "quartz/content/開発/AI/学習プラン/03_Category_Theory.md",
@@ -365,11 +383,6 @@
     "quartz/content/Compiler/Books/Essentials of compilation/Essentials of compilation.md",
     "quartz/content/自作アプリ/Structure editor.md",
     "quartz/content/開発/AI/AIを使った開発の流れ.md",
-    "quartz/content/自作アプリ/Lambda editor.md",
-    "quartz/content/自作アプリ/無題のファイル.md",
-    "quartz/content/自作アプリ/Structural Editingとは何か？.md",
-    "quartz/content/自作アプリ/UI.md",
-    "quartz/content/自作アプリ/Incremental computation.md",
     "quartz/content/tags",
     "quartz/content/自作アプリ/Architecture.canvas",
     "Timestamps2026/01",
