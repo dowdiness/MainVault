@@ -1,0 +1,323 @@
+{
+  "workspaces": {
+    "デフォルト": {
+      "main": {
+        "id": "5324373015726ba8",
+        "type": "split",
+        "children": [
+          {
+            "id": "231ade94815aa84f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "57966f5a98acd53c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Timestamps/2026/01/2026-01-25-日曜日.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2026-01-25-日曜日"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "5b453024fe1bbb8e",
+        "type": "split",
+        "children": [
+          {
+            "id": "ec62c086be84ad43",
+            "type": "tabs",
+            "dimension": 62.698412698412696,
+            "children": [
+              {
+                "id": "ae92932708dbf1df",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "ファイルエクスプローラ"
+                }
+              },
+              {
+                "id": "5536a17ad847a786",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tasks",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "検索"
+                }
+              },
+              {
+                "id": "c3af5b9281a0ecd4",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "ブックマーク"
+                }
+              },
+              {
+                "id": "97f5a3a79e63258a",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              },
+              {
+                "id": "be7dad78a8fec05c",
+                "type": "leaf",
+                "state": {
+                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+                  "state": {},
+                  "icon": "longform",
+                  "title": "Longform"
+                }
+              },
+              {
+                "id": "85f8b523a4abf3b1",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {},
+                  "icon": "layout-grid",
+                  "title": "Navigator"
+                }
+              }
+            ]
+          },
+          {
+            "id": "0ca9d6acd2326ca0",
+            "type": "tabs",
+            "dimension": 37.301587301587304,
+            "children": [
+              {
+                "id": "6e3d3e97a6eb340e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "グラフビュー"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 265.5
+      },
+      "right": {
+        "id": "b02b8403f0203c4a",
+        "type": "split",
+        "children": [
+          {
+            "id": "779b6422a5c4dc5f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f9ae57d4c570fd6d",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "自作アプリ/EG-walker.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for EG-walker"
+                }
+              },
+              {
+                "id": "bccdb047adb4006c",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "quartz/content/開発/AI/Michael Timothy Bennett.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Michael Timothy Bennettからのアウトゴーイングリンク"
+                }
+              },
+              {
+                "id": "8122f1f965349f20",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "タグ"
+                }
+              },
+              {
+                "id": "6f922a0adab83838",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "quartz/content/開発/AI/Michael Timothy Bennett.md",
+                    "followCursor": true,
+                    "showSearch": true,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Michael Timothy Bennettのアウトライン"
+                }
+              },
+              {
+                "id": "3bbbd571b333a137",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "88fb742b4364fe8e",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "すべてのプロパティ"
+                }
+              },
+              {
+                "id": "6c60f80386183fc9",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-bluesky",
+                  "state": {},
+                  "icon": "lucide-bird",
+                  "title": "BlueSky"
+                }
+              },
+              {
+                "id": "764fdaa04924dd16",
+                "type": "leaf",
+                "state": {
+                  "type": "custom-frames-chatgpt",
+                  "state": {},
+                  "icon": "lucide-bot",
+                  "title": "ChatGPT"
+                }
+              },
+              {
+                "id": "fc47e2b97403cbb1",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-lookup-view",
+                  "state": {},
+                  "icon": "smart-lookup",
+                  "title": "Lookup"
+                }
+              },
+              {
+                "id": "51212baf869c22d9",
+                "type": "leaf",
+                "state": {
+                  "type": "smart-connections-view",
+                  "state": {},
+                  "icon": "smart-connections",
+                  "title": "Connections"
+                }
+              },
+              {
+                "id": "8775218d72decec4",
+                "type": "leaf",
+                "state": {
+                  "type": "smtcmp-chat-view",
+                  "state": {},
+                  "icon": "wand-sparkles",
+                  "title": "Yolo chat"
+                }
+              }
+            ],
+            "currentTab": 7
+          }
+        ],
+        "direction": "horizontal",
+        "width": 341.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "obsidian-memos:Thino": false,
+          "daily-notes:今日のデイリーノートを開く": false,
+          "terminal:Open terminal": false,
+          "obsidian-custom-frames:Open Google Calendar": false,
+          "graph:グラフビューを開く": false,
+          "switcher:クイックスイッチャーを開く": false,
+          "canvas:新規キャンバスを作成": true,
+          "templates:テンプレートを挿入": true,
+          "command-palette:コマンドパレットを開く": true,
+          "markdown-importer:Markdownインポーターを開く": true,
+          "zk-prefixer:新規ユニークノートの作成": true,
+          "random-note:ランダムノートを開く": true,
+          "audio-recorder:録音の開始/停止": true,
+          "obsidian-git:Open Git source control": true,
+          "obsidian-kanban:カンバンボードを新規作成": true,
+          "bases:Create new base": true,
+          "obsidian-excalidraw-plugin:New drawing": true,
+          "templater-obsidian:Templater": true,
+          "open-vscode:VSCode": true,
+          "table-editor-obsidian:Advanced Tables Toolbar": true,
+          "omnisearch:Omnisearch": false,
+          "tldraw:Create new tldrawing": true,
+          "workspaces:ワークスペースレイアウトを管理": false,
+          "smart-connections:Smart Connections: Open connections view": false,
+          "smart-connections:Smart Lookup: Open lookup view": false,
+          "smart-connections:Smart Connections: Open random connection": false,
+          "yolo:Open chat": false,
+          "obsidian42-brat:BRAT": false
+        }
+      },
+      "active": "6e3d3e97a6eb340e",
+      "mtime": "2026-01-25T00:29:25+09:00"
+    }
+  },
+  "active": "デフォルト"
+}

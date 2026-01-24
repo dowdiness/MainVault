@@ -23,6 +23,28 @@
         }
       ],
       "title": "Ai"
+    },
+    {
+      "type": "group",
+      "ctime": 1769269639166,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1769261635765,
+          "path": "タスク管理ガイド.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1769269668586,
+          "path": "Tasks.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1769269683154,
+          "path": "AI秘書プロンプト.md"
+        }
+      ],
+      "title": "タスク管理"
     }
   ]
 }

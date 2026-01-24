@@ -1,0 +1,73 @@
+{
+  "id": "4ebd88c6-a40b-41f7-b2e9-343fcbeffda1",
+  "title": "新消息",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 1,
+                  "format": 0,
+                  "mode": "token",
+                  "style": "",
+                  "text": "@タスク管理ガイド.md",
+                  "type": "mention",
+                  "version": 1,
+                  "mentionName": "タスク管理ガイド.md",
+                  "mentionable": {
+                    "type": "current-file",
+                    "file": "タスク管理ガイド.md"
+                  }
+                },
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": " ",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": null,
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": null,
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\n@タスク管理ガイド.md \n\n"
+        }
+      ],
+      "id": "569058ce-f57a-4027-aaa6-b83833159815",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "タスク管理ガイド.md"
+        }
+      ],
+      "reasoningLevel": "medium"
+    }
+  ],
+  "createdAt": 1769264231641,
+  "updatedAt": 1769264234443,
+  "schemaVersion": 1,
+  "overrides": null,
+  "reasoningLevel": "medium"
+}

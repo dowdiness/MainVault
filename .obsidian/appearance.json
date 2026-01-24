@@ -8,6 +8,6 @@
   "monospaceFontFamily": "Moralerspace Argon",
   "baseFontSize": 13,
   "cssTheme": "Minimal",
-  "showRibbon": false,
+  "showRibbon": true,
   "showViewHeader": true
 }

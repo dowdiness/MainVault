@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/EYG.md",
+                "file": "タスク管理ガイド.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EYG"
+              "title": "タスク管理ガイド"
             }
           }
         ]
@@ -33,6 +33,7 @@
       {
         "id": "ec62c086be84ad43",
         "type": "tabs",
+        "dimension": 62.698412698412696,
         "children": [
           {
             "id": "ae92932708dbf1df",
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "todo",
+                "query": "tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +96,7 @@
             }
           },
           {
-            "id": "206a15ca80ca2a83",
+            "id": "ea7364d069f0073b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -105,10 +106,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "0ca9d6acd2326ca0",
+        "type": "tabs",
+        "dimension": 37.301587301587304,
+        "children": [
+          {
+            "id": "6e3d3e97a6eb340e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 265.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -172,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "quartz/content/開発/AI/Michael Timothy Bennett.md",
+                "file": "AI秘書プロンプト.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Michael Timothy Bennettのアウトライン"
+              "title": "AI秘書プロンプトのアウトライン"
             }
           },
           {
@@ -214,13 +232,53 @@
               "icon": "lucide-bird",
               "title": "BlueSky"
             }
+          },
+          {
+            "id": "764fdaa04924dd16",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-chatgpt",
+              "state": {},
+              "icon": "lucide-bot",
+              "title": "ChatGPT"
+            }
+          },
+          {
+            "id": "fc47e2b97403cbb1",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "51212baf869c22d9",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "8775218d72decec4",
+            "type": "leaf",
+            "state": {
+              "type": "smtcmp-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Yolo chat"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,48 +305,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "omnisearch:Omnisearch": false,
       "tldraw:Create new tldrawing": true,
-      "workspaces:ワークスペースレイアウトを管理": false
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "yolo:Open chat": false,
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "ae92932708dbf1df",
   "lastOpenFiles": [
-    "README.md",
+    "_Template/Templater/02_daily-enhanced.md",
+    "Timestamps/2026/01/2026-01-25-日曜日.md",
+    "AI秘書プロンプト.md",
+    "Tasks.md",
+    "Untitled.md",
+    "タスク管理.md",
+    "タスク管理ガイド.md",
     "Timestamps/2026/01/2026-01-24-土曜日.md",
+    "Timestamps/2026/01/2026-01-25-Saturday.md",
+    "Timestamps/2026/01/2026-01-23-金曜日.md",
+    "_Template/Templater/01_daily-note.md",
+    "_Template/01_daily-note.md",
+    "_Template/Templater/Zenn.md",
+    "_Template/Templater/Base.md",
+    "quartz/content/Timestamps/2025/04/+Daily Notes.md",
+    "quartz/content/Timestamps/2025/12/2025-12-10-水曜日.md",
+    "quartz/content/Timestamps/2025/12/2025-12-20-土曜日.md",
+    "quartz/content/Timestamps/2025/12/2025-12-19-金曜日.md",
+    "quartz/content/自作アプリ/CRDTs.md",
+    "quartz/content/Blog/分かっていないこと、もしくは分かっていないことが分かってないこと.md",
+    "quartz/content/TODO.md",
+    "quartz/content/自作アプリ/EYG.md",
+    "mcp-obsidian/uv.lock",
+    "mcp-obsidian/src/mcp_obsidian/__init__.py",
+    "mcp-obsidian/src/mcp_obsidian/tools.py",
+    "mcp-obsidian/src/mcp_obsidian/obsidian.py",
+    "mcp-obsidian/src/mcp_obsidian/server.py",
+    "mcp-obsidian/src/mcp_obsidian",
+    "mcp-obsidian/src",
+    "mcp-obsidian/pyproject.toml",
+    "mcp-obsidian/openapi.yaml",
+    "mcp-obsidian/README.md",
+    "mcp-obsidian/LICENSE",
+    "README.md",
     "quartz/CODE_OF_CONDUCT.md",
     "quartz/content/開発/AI/Michael Timothy Bennett.md",
-    "quartz/content/開発/AI/学習プラン/00_README.md",
-    "quartz/content/開発/AI/学習プラン/08_Resources.md",
-    "Timestamps/2026/01/2026-01-21-水曜日.md",
-    "Timestamps/2026/01/2026-01-06-火曜日.md",
-    "Timestamps/2026/01/2026-01-05-月曜日.md",
-    "quartz/content/TODO.md",
-    "quartz/content/Timestamps/2025/04/TaskList.md",
-    "quartz/content/Theory/Formal Methods/Formal Methods.md",
-    "quartz/content/講義/Formal Methods for the Informal Engineer/Formal Methods for the Informal Engineer.md",
-    "quartz/content/Personal/introduction.md",
-    "quartz/content/開発/AI/学習プラン/01_ML_Classification.md",
-    "quartz/content/開発/AI/学習プラン/02_Automata_Theory.md",
-    "quartz/content/PL/Racket/Racket.md",
-    "quartz/content/開発/AI/学習プラン/07_Integration.md",
-    "quartz/content/開発/AI/学習プラン/05_Theorem_Provers.md",
-    "quartz/content/開発/AI/学習プラン/03_Category_Theory.md",
-    "quartz/content/開発/AI/学習プラン/00_README 1.md",
-    "quartz/content/開発/AI/学習プラン/08_Resources 1.md",
-    "quartz/content/開発/AI/学習プラン/07_Integration 1.md",
-    "quartz/content/開発/AI/学習プラン/05_Theorem_Provers 1.md",
-    "quartz/content/開発/AI/学習プラン/03_Category_Theory 1.md",
-    "quartz/content/開発/AI/学習プラン/02_Automata_Theory 1.md",
-    "quartz/content/開発/AI/学習プラン",
-    "quartz/content/tags",
     "quartz/content/自作アプリ/Architecture.canvas",
-    "Timestamps2026/01",
-    "Timestamps2026",
-    "Tags",
-    "update_aliases.ps1",
-    "update_aliases.py",
-    "duplicates.txt",
-    "find_duplicates.ps1",
-    "quartz/node_modules/yargs/locales/zh_TW.json",
     "quartz/public/static/og-image.png",
     "quartz/public/static/icon.png",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",

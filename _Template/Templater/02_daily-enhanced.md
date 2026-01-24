@@ -1,0 +1,76 @@
+---
+date: <% tp.file.creation_date() %>
+aliases: ["<% moment(tp.file.title,'YYYY-MM-DD') %>"]
+created: <% tp.file.creation_date("YYYY-MM-DDTHH:mm:ssZ") %>
+modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
+---
+
+# <% moment(tp.file.title,'YYYY-MM-DD') %>
+
+<< [[Timestamps/<% tp.date.now("YYYY", -1) %>/<% tp.date.now("MM", -1) %>/<% tp.date.now("YYYY-MM-DD-dddd", -1) %>|昨日]] | [[Timestamps/<% tp.date.now("YYYY", 1) %>/<% tp.date.now("MM", 1) %>/<% tp.date.now("YYYY-MM-DD-dddd", 1) %>|明日]] >>
+
+---
+
+## 🌅 朝（AIに共有）
+
+**昨日の反省:**
+
+
+**今日の予定（外部）:**
+- [ ] 
+
+**やりたいこと:**（[[Tasks]]から1-3個選ぶ）
+- 
+
+**体調:** /5
+
+---
+
+## 📊 作業記録
+
+**稼働開始:** 
+
+<!-- 作業開始・終了をAIに報告 -->
+<!-- AIが時刻と進捗点を記録してくれる -->
+
+**合計進捗:** +0
+**総稼働:** 0h
+
+**終業:** 21:00
+
+---
+
+## 💭 メモ
+<!-- 思いついたことをすぐここに。後でTasksや別ノートに移動してもOK -->
+<% tp.file.cursor() %>
+
+---
+
+## 🌙 振り返り（21:00以降、AIと）
+
+**今日の成果:**
+
+
+**改善点:**
+
+
+**明日への布石:**
+
+
+---
+
+## 📝 感想
+
+---
+
+## 🔗 関連ノート
+
+### 今日作ったノート
+```dataview
+List FROM "" WHERE file.cday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.ctime asc
+```
+
+### 今日編集したノート
+```dataview
+List FROM "" WHERE file.mday = date("<%tp.date.now("YYYY-MM-DD")%>") SORT file.mtime asc
+```
