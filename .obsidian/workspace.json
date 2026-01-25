@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI秘書プロンプト.md",
+                "file": "Timestamps/2026/01/2026-01-23-金曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI秘書プロンプト"
+              "title": "2026-01-23-金曜日"
             }
           }
         ]
@@ -288,7 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 497.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -322,7 +322,13 @@
   },
   "active": "57966f5a98acd53c",
   "lastOpenFiles": [
+    "Timestamps/2026/01/2026-01-24-土曜日.md",
     "Timestamps/2026/01/2026-01-25-日曜日.md",
+    "Timestamps/2026/01/2026-01-23-金曜日.md",
+    "Timestamps/2026/01/2026-01-24-金曜日.md",
+    "Timestamps/2026/01/2026-01-24-Friday.md",
+    "Timestamps/2026/01/2026-01-26-Sunday.md",
+    "AI秘書プロンプト.md",
     "quartz/content/開発/AI/学習プラン/00_README.md",
     "quartz/README.md",
     "README.md",
@@ -330,7 +336,6 @@
     "quartz/docs/advanced/architecture.md",
     "タスク管理ガイド.md",
     "quartz/content/講義/哲学演習/厳密含意の論理.md",
-    "AI秘書プロンプト.md",
     "example/nodejs-esm/basic.md",
     "example/nodejs-esm",
     "example",
@@ -353,11 +358,6 @@
     "quartz/node_modules/unist-util-is/node_modules/@types/unist/README.md",
     "quartz/node_modules/unist-util-find-after/node_modules/@types/unist/README.md",
     "quartz/node_modules/unified/node_modules/@types/unist/README.md",
-    "quartz/node_modules/parse-latin/node_modules/@types/unist/README.md",
-    "quartz/node_modules/mdast-util-to-markdown/node_modules/@types/unist/README.md",
-    "quartz/node_modules/mdast-util-mdx-jsx/node_modules/@types/unist/README.md",
-    "quartz/node_modules/mdast-util-from-markdown/node_modules/@types/unist/README.md",
-    "quartz/node_modules/hast-util-to-text/node_modules/@types/unist/README.md",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
