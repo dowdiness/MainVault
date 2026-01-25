@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-23-金曜日.md",
+                "file": "quartz/content/PL/MoonBit/LLM.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-23-金曜日"
+              "title": "LLM"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tasks",
+                "query": "MoonBit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,26 +93,6 @@
               "state": {},
               "icon": "clock",
               "title": "Recent Files"
-            }
-          },
-          {
-            "id": "be7dad78a8fec05c",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "VIEW_TYPE_LONGFORM_EXPLORER"
-            }
-          },
-          {
-            "id": "85f8b523a4abf3b1",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "mk-path-view"
             }
           }
         ]
@@ -320,11 +300,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "57966f5a98acd53c",
+  "active": "6e3d3e97a6eb340e",
   "lastOpenFiles": [
+    "quartz/content/PL/MoonBit/LLM.md",
+    "quartz/content/PL/MoonBit/MoonBit.md",
+    "quartz/content/PL/MoonBit/Moonbitで作る簡易正規表現 改定判.md",
+    "quartz/content/自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
+    "Timestamps/2026/01/2026-01-23-金曜日.md",
     "Timestamps/2026/01/2026-01-24-土曜日.md",
     "Timestamps/2026/01/2026-01-25-日曜日.md",
-    "Timestamps/2026/01/2026-01-23-金曜日.md",
     "Timestamps/2026/01/2026-01-24-金曜日.md",
     "Timestamps/2026/01/2026-01-24-Friday.md",
     "Timestamps/2026/01/2026-01-26-Sunday.md",
@@ -354,10 +338,6 @@
     "quartz/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
     "quartz/node_modules/unist-util-remove-position/node_modules/@types/unist/README.md",
     "quartz/node_modules/unist-util-position/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unist-util-modify-children/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unist-util-is/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unist-util-find-after/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unified/node_modules/@types/unist/README.md",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
