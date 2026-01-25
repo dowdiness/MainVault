@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/PL/MoonBit/LLM.md",
+                "file": "Timestamps/2026/01/2026-01-25-日曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LLM"
+              "title": "2026-01-25-日曜日"
+            }
+          },
+          {
+            "id": "048cb6f9b3a4920c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/自作アプリ/Run Length Encoding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Run Length Encoding"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MoonBit",
+                "query": "run length encoding",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 221.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -268,7 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 417.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,15 +325,17 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "6e3d3e97a6eb340e",
+  "active": "048cb6f9b3a4920c",
   "lastOpenFiles": [
+    "Timestamps/2026/01/2026-01-25-日曜日.md",
+    "Timestamps/2026/01/2026-01-22-木曜日.md",
+    "Timestamps/2026/01/2026-01-23-金曜日.md",
+    "Timestamps/2026/01/2026-01-24-土曜日.md",
+    "quartz/content/自作アプリ/Run Length Encoding.md",
     "quartz/content/PL/MoonBit/LLM.md",
     "quartz/content/PL/MoonBit/MoonBit.md",
     "quartz/content/PL/MoonBit/Moonbitで作る簡易正規表現 改定判.md",
     "quartz/content/自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
-    "Timestamps/2026/01/2026-01-23-金曜日.md",
-    "Timestamps/2026/01/2026-01-24-土曜日.md",
-    "Timestamps/2026/01/2026-01-25-日曜日.md",
     "Timestamps/2026/01/2026-01-24-金曜日.md",
     "Timestamps/2026/01/2026-01-24-Friday.md",
     "Timestamps/2026/01/2026-01-26-Sunday.md",
@@ -336,8 +363,6 @@
     "quartz/node_modules/unist-util-visit-parents/node_modules/@types/unist/README.md",
     "quartz/node_modules/unist-util-visit-children/node_modules/@types/unist/README.md",
     "quartz/node_modules/unist-util-visit/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unist-util-remove-position/node_modules/@types/unist/README.md",
-    "quartz/node_modules/unist-util-position/node_modules/@types/unist/README.md",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
