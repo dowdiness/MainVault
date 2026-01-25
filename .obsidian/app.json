@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "newFileFolderPath": "Diary/2025",
+  "newFileFolderPath": "quartz/content",
   "strictLineBreaks": true,
   "showUnsupportedFiles": false,
   "uriCallbacks": true,
@@ -16,9 +16,16 @@
     "quartz/.quartz-cache",
     "quartz/CODE_OF_CONDUCT.md",
     "quartz/package.json",
-    "quartz/package-lock.json"
+    "quartz/package-lock.json",
+    "quartz/tsconfig.json",
+    "quartz/quartz.config.ts",
+    "quartz/quartz.layout.ts",
+    "quartz/globals.d.ts",
+    "quartz/index.d.ts",
+    "quartz/Dockerfile",
+    "quartz/LICENSE.txt"
   ],
-  "openBehavior": "",
+  "openBehavior": "daily",
   "showInlineTitle": false,
   "newLinkFormat": "absolute"
 }
