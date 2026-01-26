@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-01-27-火曜日"
             }
           }
         ]
@@ -289,10 +289,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "README.md",
     "Timestamps/2026/01/2026-01-27-火曜日.md",
     "Timestamps/2026/01/2026-01-25-日曜日.md",
     "Timestamps/2026/01/2026-01-26-月曜日.md",
-    "README.md",
     "quartz/content/Tasks/ワークフロー詳細.md",
     "quartz/content/Tasks/タスク管理システム.md",
     "quartz/content/Tasks/システム設計思想.md",
