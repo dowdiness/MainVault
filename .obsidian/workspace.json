@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/TODOs/タスク管理ガイド.md",
+                "file": "quartz/content/TODOs/Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "タスク管理ガイド"
+              "title": "Tasks"
             }
           }
         ],
@@ -347,17 +347,20 @@
   },
   "active": "ec9b44860f56e601",
   "lastOpenFiles": [
-    "Timestamps/2026/01/2026-01-26-月曜日.md",
+    "quartz/content/TODOs/システム設計思想.md",
+    "quartz/content/TODOs/TODO.md",
     "quartz/content/TODOs/タスク管理ガイド.md",
+    "quartz/content/TODOs/ワークフロー詳細.md",
+    "quartz/content/TODOs/自分の特性について.md",
+    "quartz/content/TODOs/AI秘書プロンプト.md",
+    "quartz/content/TODOs/Tasks.md",
+    "Timestamps/2026/01/2026-01-26-月曜日.md",
     "Timestamps/2026/01/2026-01-25-日曜日.md",
     "content/TODOs/タスク管理システム.md",
     "content/TODOs",
     "content",
     "quartz/content/自作アプリ/Run Length Encoding.md",
     "quartz/content/PL/MoonBit/Package manager.md",
-    "quartz/content/TODOs/AI秘書プロンプト.md",
-    "quartz/content/TODOs/Tasks.md",
-    "quartz/content/TODOs/TODO.md",
     "quartz/content/TODOs",
     "quartz/content/Timestamps/2025/04/TaskList.md",
     "quartz/content/Timestamps/2025/04/2025-04-28-Monday.md",
@@ -373,9 +376,6 @@
     "quartz/content/PL/MoonBit/Moonbitで作る簡易正規表現 改定判.md",
     "quartz/content/自作アプリ/Development Plan for a Declarative, Functional, and Modular Data Visualization Library in Moonbit.md",
     "Timestamps/2026/01/2026-01-24-金曜日.md",
-    "Timestamps/2026/01/2026-01-24-Friday.md",
-    "Timestamps/2026/01/2026-01-26-Sunday.md",
-    "quartz/content/開発/AI/学習プラン/00_README.md",
     "example/nodejs-esm",
     "example",
     "quartz/LICENSE.txt",
