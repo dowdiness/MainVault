@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/TODOs/Tasks.md",
+                "file": "Timestamps/2026/01/2026-01-25-日曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "5386eff1939244c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quartz/content/自作アプリ/Run Length Encoding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Run Length Encoding"
-            }
-          },
-          {
-            "id": "58716455121255c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quartz/content/TODOs/AI秘書プロンプト.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI秘書プロンプト"
+              "title": "2026-01-25-日曜日"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +43,7 @@
       {
         "id": "ec62c086be84ad43",
         "type": "tabs",
-        "dimension": 68.25396825396825,
+        "dimension": 62.698412698412696,
         "children": [
           {
             "id": "ae92932708dbf1df",
@@ -113,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trait",
+                "query": "tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,13 +115,12 @@
               "title": "mk-path-view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
         "type": "tabs",
-        "dimension": 31.746031746031743,
+        "dimension": 37.301587301587304,
         "children": [
           {
             "id": "6e3d3e97a6eb340e",
@@ -338,7 +288,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 474.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -372,6 +322,9 @@
   },
   "active": "6e3d3e97a6eb340e",
   "lastOpenFiles": [
+    "content/TODOs/タスク管理システム.md",
+    "content/TODOs",
+    "content",
     "quartz/content/自作アプリ/Run Length Encoding.md",
     "quartz/content/PL/MoonBit/Package manager.md",
     "quartz/content/TODOs/AI秘書プロンプト.md",
@@ -398,7 +351,6 @@
     "Timestamps/2026/01/2026-01-26-Sunday.md",
     "quartz/content/開発/AI/学習プラン/00_README.md",
     "quartz/README.md",
-    "quartz/node_modules/rxjs/CHANGELOG.md",
     "example/nodejs-esm",
     "example",
     "quartz/LICENSE.txt",
@@ -406,8 +358,6 @@
     "quartz/globals.d.ts",
     "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-variant.js",
     "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-size4.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-size3.js",
-    "quartz/node_modules/mathjax-full/components/src/output/svg/fonts/tex/lib/output/svg/fonts/tex/tex-oldstyle.js",
     "quartz/node_modules/js-binary-schema-parser/example/horses.gif",
     "quartz/node_modules/js-binary-schema-parser/example/dog.gif",
     "quartz/node_modules/js-binary-schema-parser/example/box.gif",
