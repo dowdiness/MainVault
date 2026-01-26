@@ -17,7 +17,17 @@
                   "state": {
                     "file": "Timestamps/2026/01/2026-01-25-日曜日.md",
                     "mode": "source",
-                    "source": false
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
                   },
                   "icon": "lucide-file",
                   "title": "2026-01-25-日曜日"
@@ -85,26 +95,6 @@
                   "state": {},
                   "icon": "clock",
                   "title": "Recent Files"
-                }
-              },
-              {
-                "id": "be7dad78a8fec05c",
-                "type": "leaf",
-                "state": {
-                  "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-                  "state": {},
-                  "icon": "longform",
-                  "title": "Longform"
-                }
-              },
-              {
-                "id": "85f8b523a4abf3b1",
-                "type": "leaf",
-                "state": {
-                  "type": "mk-path-view",
-                  "state": {},
-                  "icon": "layout-grid",
-                  "title": "Navigator"
                 }
               }
             ]
@@ -297,7 +287,6 @@
           "markdown-importer:Markdownインポーターを開く": true,
           "zk-prefixer:新規ユニークノートの作成": true,
           "random-note:ランダムノートを開く": true,
-          "audio-recorder:録音の開始/停止": true,
           "obsidian-git:Open Git source control": true,
           "obsidian-kanban:カンバンボードを新規作成": true,
           "bases:Create new base": true,
@@ -305,8 +294,6 @@
           "templater-obsidian:Templater": true,
           "open-vscode:VSCode": true,
           "table-editor-obsidian:Advanced Tables Toolbar": true,
-          "omnisearch:Omnisearch": false,
-          "tldraw:Create new tldrawing": true,
           "workspaces:ワークスペースレイアウトを管理": false,
           "smart-connections:Smart Connections: Open connections view": false,
           "smart-connections:Smart Lookup: Open lookup view": false,
@@ -315,8 +302,8 @@
           "obsidian42-brat:BRAT": false
         }
       },
-      "active": "6e3d3e97a6eb340e",
-      "mtime": "2026-01-25T00:29:25+09:00"
+      "active": "ae92932708dbf1df",
+      "mtime": "2026-01-26T20:52:49+09:00"
     }
   },
   "active": "デフォルト"
