@@ -10,13 +10,20 @@ quartz/.github/
 # https://www.make.md/
 .makemd
 
-# Eexclude Obsidian's workspace cache
+# Exclude Obsidian's workspace cache
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
-.smart-env
 
 # Exclude MacOS settings and caches
 .trash/
 .DS_Store
+
+# Excude obsidian plugins data
 .obsidian/plugins/**/*.js
 .obsidian/plugins/obsidian-local-rest-api/data.json
+.obsidian/plugins/mcp-tools
+.obsidian/plugins/yolo
+.env
+
+# Ignore Smart Environment folder
+.smart-env

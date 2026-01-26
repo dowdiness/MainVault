@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-01-27-火曜日",
+      "path": "Timestamps/2026/01/2026-01-27-火曜日.md"
+    },
+    {
+      "basename": "2026-01-25-日曜日",
+      "path": "Timestamps/2026/01/2026-01-25-日曜日.md"
+    },
+    {
+      "basename": "2026-01-26-月曜日",
+      "path": "Timestamps/2026/01/2026-01-26-月曜日.md"
+    },
+    {
       "basename": "EYG",
       "path": "quartz/content/自作アプリ/EYG.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2026-01-22-木曜日",
       "path": "Timestamps/2026/01/2026-01-22-木曜日.md"
-    },
-    {
-      "basename": "CRDTs",
-      "path": "quartz/content/自作アプリ/CRDTs.md"
-    },
-    {
-      "basename": "Compiler",
-      "path": "quartz/content/tags/Compiler.md"
-    },
-    {
-      "basename": "Call-by-Push-Value",
-      "path": "quartz/content/Compiler/評価戦略/Call-by-Push-Value.md"
     }
   ],
   "omittedPaths": [],
