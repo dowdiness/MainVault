@@ -1,7 +1,7 @@
 ---
 aliases: [My Public Notes]
 created: 2025-04-25T14:51:08+09:00
-modified: 2026-01-09T01:01:59+09:00
+modified: 2026-01-26T14:53:35+09:00
 ---
 
 # My Public Notes
@@ -23,3 +23,5 @@ modified: 2026-01-09T01:01:59+09:00
 - `Theory/`: 理論に関するメモ
 - `Blog/`: ブログ記事
 - `Personal/`: 個人的なメモ
+
+claude mcp add obsidian-mcp-tools -s user -- "file:///C:/Users/antisatori/Documents/MainVault/.obsidian/plugins/mcp-tools/bin/mcp-server.exe" \ --env OBSIDIAN_API_KEY=1eb4fb5f295c6c3dc34ad7bef0bc9b38af6b72074b3fa24fdc82a27e82de0b1e

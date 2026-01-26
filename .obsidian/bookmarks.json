@@ -29,22 +29,27 @@
       "ctime": 1769269639166,
       "items": [
         {
+          "type": "folder",
+          "ctime": 1769410321162,
+          "path": "quartz/content/TODOs"
+        },
+        {
           "type": "file",
           "ctime": 1769261635765,
-          "path": "タスク管理ガイド.md"
+          "path": "quartz/content/TODOs/タスク管理ガイド.md"
         },
         {
           "type": "file",
           "ctime": 1769269668586,
-          "path": "Tasks.md"
+          "path": "quartz/content/TODOs/Tasks.md"
         },
         {
           "type": "file",
           "ctime": 1769269683154,
-          "path": "AI秘書プロンプト.md"
+          "path": "quartz/content/TODOs/AI秘書プロンプト.md"
         }
       ],
-      "title": "タスク管理"
+      "title": "TODOs"
     }
   ]
 }
