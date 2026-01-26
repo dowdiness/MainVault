@@ -1,0 +1,7 @@
+{
+  "terminalApp": "C:\\WINDOWS\\system32\\wsl.exe",
+  "enableClaude": true,
+  "enableCodex": true,
+  "enableGemini": false,
+  "enableLogging": false
+}

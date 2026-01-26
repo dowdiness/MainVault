@@ -1,0 +1,208 @@
+{
+  "recentFiles": [
+    {
+      "basename": "EYG",
+      "path": "quartz/content/自作アプリ/EYG.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "2026-01-24-土曜日",
+      "path": "Timestamps/2026/01/2026-01-24-土曜日.md"
+    },
+    {
+      "basename": "CODE_OF_CONDUCT",
+      "path": "quartz/CODE_OF_CONDUCT.md"
+    },
+    {
+      "basename": "Michael Timothy Bennett",
+      "path": "quartz/content/開発/AI/Michael Timothy Bennett.md"
+    },
+    {
+      "basename": "00_README",
+      "path": "quartz/content/開発/AI/学習プラン/00_README.md"
+    },
+    {
+      "basename": "08_Resources",
+      "path": "quartz/content/開発/AI/学習プラン/08_Resources.md"
+    },
+    {
+      "basename": "2026-01-21-水曜日",
+      "path": "Timestamps/2026/01/2026-01-21-水曜日.md"
+    },
+    {
+      "basename": "2026-01-06-火曜日",
+      "path": "Timestamps/2026/01/2026-01-06-火曜日.md"
+    },
+    {
+      "basename": "2026-01-05-月曜日",
+      "path": "Timestamps/2026/01/2026-01-05-月曜日.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "quartz/content/TODO.md"
+    },
+    {
+      "basename": "TaskList",
+      "path": "quartz/content/Timestamps/2025/04/TaskList.md"
+    },
+    {
+      "basename": "Formal Methods",
+      "path": "quartz/content/Theory/Formal Methods/Formal Methods.md"
+    },
+    {
+      "basename": "Formal Methods for the Informal Engineer",
+      "path": "quartz/content/講義/Formal Methods for the Informal Engineer/Formal Methods for the Informal Engineer.md"
+    },
+    {
+      "basename": "introduction",
+      "path": "quartz/content/Personal/introduction.md"
+    },
+    {
+      "basename": "01_ML_Classification",
+      "path": "quartz/content/開発/AI/学習プラン/01_ML_Classification.md"
+    },
+    {
+      "basename": "02_Automata_Theory",
+      "path": "quartz/content/開発/AI/学習プラン/02_Automata_Theory.md"
+    },
+    {
+      "basename": "Racket",
+      "path": "quartz/content/PL/Racket/Racket.md"
+    },
+    {
+      "basename": "Zenn",
+      "path": "_Template/Templater/Zenn.md"
+    },
+    {
+      "basename": "Essentials of compilation",
+      "path": "quartz/content/Compiler/Books/Essentials of compilation/Essentials of compilation.md"
+    },
+    {
+      "basename": "Structure editor",
+      "path": "quartz/content/自作アプリ/Structure editor.md"
+    },
+    {
+      "basename": "AIを使った開発の流れ",
+      "path": "quartz/content/開発/AI/AIを使った開発の流れ.md"
+    },
+    {
+      "basename": "Lambda editor",
+      "path": "quartz/content/自作アプリ/Lambda editor.md"
+    },
+    {
+      "basename": "Structural Editingとは何か？",
+      "path": "quartz/content/自作アプリ/Structural Editingとは何か？.md"
+    },
+    {
+      "basename": "Incremental computation",
+      "path": "quartz/content/自作アプリ/Incremental computation.md"
+    },
+    {
+      "basename": "Incremental Bidirectional Typing via Order Maintenance",
+      "path": "quartz/content/自作アプリ/Incremental Bidirectional Typing via Order Maintenance.md"
+    },
+    {
+      "basename": "Collaborative real-time editor",
+      "path": "quartz/content/自作アプリ/Collaborative real-time editor.md"
+    },
+    {
+      "basename": "DSP",
+      "path": "quartz/content/開発/Audio/DSP.md"
+    },
+    {
+      "basename": "AI",
+      "path": "quartz/content/開発/AI/AI.md"
+    },
+    {
+      "basename": "claude code",
+      "path": "quartz/content/開発/AI/claude code.md"
+    },
+    {
+      "basename": "Audio programming",
+      "path": "quartz/content/開発/Audio/Audio programming.md"
+    },
+    {
+      "basename": "TidalCycles",
+      "path": "quartz/content/開発/Audio/TidalCycles.md"
+    },
+    {
+      "basename": "Web Audio Apiで自動再生が出来ない理由",
+      "path": "quartz/content/開発/Audio/WebAudio/Web Audio Apiで自動再生が出来ない理由.md"
+    },
+    {
+      "basename": "Categorical logic",
+      "path": "quartz/content/Theory/Logic/Categorical logic.md"
+    },
+    {
+      "basename": "C",
+      "path": "quartz/content/PL/C/C.md"
+    },
+    {
+      "basename": "Colin James - ANF Conversion",
+      "path": "quartz/content/Clippings/Colin James - ANF Conversion.md"
+    },
+    {
+      "basename": "A Formal Analysis of the Interrelationships Among Syntax, Semantics, and Pragmatics",
+      "path": "quartz/content/Theory/A Formal Analysis of the Interrelationships Among Syntax, Semantics, and Pragmatics.md"
+    },
+    {
+      "basename": "Lean",
+      "path": "quartz/content/PL/Lean/Lean.md"
+    },
+    {
+      "basename": "6.5840 Distributed Systems",
+      "path": "quartz/content/講義/Distributed Systems/6.5840 Distributed Systems.md"
+    },
+    {
+      "basename": "2026-01-23-金曜日",
+      "path": "Timestamps/2026/01/2026-01-23-金曜日.md"
+    },
+    {
+      "basename": "Introduction",
+      "path": "quartz/content/講義/Distributed Systems/Introduction.md"
+    },
+    {
+      "basename": "Raft",
+      "path": "quartz/content/Theory/Distributed system/Raft.md"
+    },
+    {
+      "basename": "RPC",
+      "path": "quartz/content/Theory/Distributed system/RPC.md"
+    },
+    {
+      "basename": "Ordering",
+      "path": "quartz/content/Theory/Distributed system/Ordering.md"
+    },
+    {
+      "basename": "Distributed system",
+      "path": "quartz/content/Theory/Distributed system/Distributed system.md"
+    },
+    {
+      "basename": "Self-stabilization",
+      "path": "quartz/content/Theory/Distributed system/Self-stabilization.md"
+    },
+    {
+      "basename": "2026-01-22-木曜日",
+      "path": "Timestamps/2026/01/2026-01-22-木曜日.md"
+    },
+    {
+      "basename": "CRDTs",
+      "path": "quartz/content/自作アプリ/CRDTs.md"
+    },
+    {
+      "basename": "Compiler",
+      "path": "quartz/content/tags/Compiler.md"
+    },
+    {
+      "basename": "Call-by-Push-Value",
+      "path": "quartz/content/Compiler/評価戦略/Call-by-Push-Value.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
