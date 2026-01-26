@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Tasks/タスク管理システム.md",
+                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "タスク管理システム"
+              "title": "2026-01-27-火曜日"
             }
           }
         ]
@@ -289,6 +289,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/Tasks/Tasks.md",
+    "quartz/content/Tasks/タスク管理システム.md",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
@@ -299,7 +301,6 @@
     "quartz/public/講義/Theory-of-computation/Nondeterminism,-Closure-Properties,-Regular-Expressions-→-Finite-Automata-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Introduction,-Finite-Automata,-Regular-Expression-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Decision-Problems-for-Automata-and-Grammars-og-image.webp",
-    "quartz/public/講義/Theory-of-computation/CF-Pumping-Lemma,-Turing-Machines-og-image.webp",
     "quartz/public/TIME-Complexity-Class.html",
     "quartz/public/Time-Complexity.html",
     "quartz/public/Theory-Of-Computation.html",
@@ -312,10 +313,8 @@
     "quartz/public/Pumping-Lemma-for-CFGs.html",
     "quartz/public/自作アプリ/Architecture.canvas",
     "quartz/content/Tasks/ワークフロー詳細.md",
-    "quartz/content/Tasks/タスク管理システム.md",
     "quartz/content/Tasks/AI秘書プロンプト.md",
     "quartz/content/Tasks/システム設計思想.md",
-    "quartz/content/Tasks/Tasks.md",
     "quartz/content/Tasks/自分の特性について.md",
     "Timestamps/2026/01/2026-01-27-火曜日.md",
     "README.md",
