@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27-火曜日"
+              "title": "README"
             }
           }
         ]
@@ -194,6 +194,64 @@
               "icon": "smart-connections",
               "title": "Connections"
             }
+          },
+          {
+            "id": "dc90198b01e58269",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-01-27-火曜日へのバックリンク"
+            }
+          },
+          {
+            "id": "e44f5c3cbac7fd12",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-01-27-火曜日からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "71542e554692d797",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-01-27-火曜日のアウトライン"
+            }
+          },
+          {
+            "id": "4e2d4e2d6d29e87a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -229,8 +287,9 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "ae92932708dbf1df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Timestamps/2026/01/2026-01-27-火曜日.md",
     "Timestamps/2026/01/2026-01-25-日曜日.md",
     "Timestamps/2026/01/2026-01-26-月曜日.md",
     "README.md",
@@ -259,7 +318,6 @@
     "Timestamps/2026/01/2026-01-23-金曜日.md",
     "quartz/content/PL/MoonBit/LLM.md",
     "quartz/content/PL/MoonBit/MoonBit.md",
-    "quartz/content/PL/MoonBit/Moonbitで作る簡易正規表現 改定判.md",
     "example/nodejs-esm",
     "example",
     "quartz/LICENSE.txt",
