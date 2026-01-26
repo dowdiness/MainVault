@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Tasks/ワークフロー詳細.md",
+                "file": "Timestamps/2026/01/2026-01-26-月曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ワークフロー詳細"
+              "title": "2026-01-26-月曜日"
             }
           },
           {
@@ -324,14 +324,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "ae92932708dbf1df",
+  "active": "57966f5a98acd53c",
   "lastOpenFiles": [
+    "README.md",
+    "quartz/content/Tasks/ワークフロー詳細.md",
     "quartz/content/Tasks/タスク管理システム.md",
     "quartz/content/Tasks/システム設計思想.md",
     "quartz/content/Tasks/Tasks.md",
     "quartz/content/Tasks/AI秘書プロンプト.md",
     "quartz/content/Tasks/自分の特性について.md",
-    "quartz/content/Tasks/ワークフロー詳細.md",
     "content/TODOs/タスク管理システム2.md",
     "Timestamps/2026/01/2026-01-26-月曜日.md",
     "Timestamps/2026/01/2026-01-25-日曜日.md",
@@ -347,7 +348,6 @@
     "quartz/content/Timestamps/2025/04/2025-04-28-Monday.md",
     "quartz/content/Timestamps/2025/08/2025-08-08-Friday.md",
     "quartz/content/Timestamps/2025/08/2025-08-07-Thursday.md",
-    "README.md",
     "_Template/Templater/🌅朝テンプレ集.md",
     "Timestamps/2026/01/2026-01-24-土曜日.md",
     "Timestamps/2026/01/2026-01-22-木曜日.md",
