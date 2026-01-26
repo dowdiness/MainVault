@@ -1,24 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Tasks",
-      "path": "quartz/content/Tasks/Tasks.md"
+      "basename": "タスク管理システム",
+      "path": "quartz/content/Tasks/タスク管理システム.md"
+    },
+    {
+      "basename": "ワークフロー詳細",
+      "path": "quartz/content/Tasks/ワークフロー詳細.md"
     },
     {
       "basename": "AI秘書プロンプト",
       "path": "quartz/content/Tasks/AI秘書プロンプト.md"
     },
     {
-      "basename": "タスク管理システム",
-      "path": "quartz/content/Tasks/タスク管理システム.md"
-    },
-    {
       "basename": "システム設計思想",
       "path": "quartz/content/Tasks/システム設計思想.md"
     },
     {
-      "basename": "ワークフロー詳細",
-      "path": "quartz/content/Tasks/ワークフロー詳細.md"
+      "basename": "Tasks",
+      "path": "quartz/content/Tasks/Tasks.md"
     },
     {
       "basename": "自分の特性について",
