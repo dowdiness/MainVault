@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
+                "file": "quartz/content/Tasks/Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27-火曜日"
+              "title": "Tasks"
             }
           }
         ]
@@ -289,16 +289,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "README.md",
-    "Timestamps/2026/01/2026-01-27-火曜日.md",
-    "Timestamps/2026/01/2026-01-25-日曜日.md",
-    "Timestamps/2026/01/2026-01-26-月曜日.md",
-    "quartz/content/Tasks/ワークフロー詳細.md",
-    "quartz/content/Tasks/タスク管理システム.md",
-    "quartz/content/Tasks/システム設計思想.md",
     "quartz/content/Tasks/Tasks.md",
     "quartz/content/Tasks/AI秘書プロンプト.md",
+    "quartz/content/Tasks/タスク管理システム.md",
+    "quartz/content/Tasks/システム設計思想.md",
+    "quartz/content/Tasks/ワークフロー詳細.md",
     "quartz/content/Tasks/自分の特性について.md",
+    "Timestamps/2026/01/2026-01-27-火曜日.md",
+    "README.md",
+    "Timestamps/2026/01/2026-01-25-日曜日.md",
+    "Timestamps/2026/01/2026-01-26-月曜日.md",
     "content/TODOs/タスク管理システム2.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/TODOs/無題のファイル.md",

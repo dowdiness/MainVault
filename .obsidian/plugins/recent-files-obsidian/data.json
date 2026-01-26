@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "quartz/content/Tasks/Tasks.md"
+    },
+    {
+      "basename": "AI秘書プロンプト",
+      "path": "quartz/content/Tasks/AI秘書プロンプト.md"
+    },
+    {
+      "basename": "タスク管理システム",
+      "path": "quartz/content/Tasks/タスク管理システム.md"
+    },
+    {
+      "basename": "システム設計思想",
+      "path": "quartz/content/Tasks/システム設計思想.md"
+    },
+    {
+      "basename": "ワークフロー詳細",
+      "path": "quartz/content/Tasks/ワークフロー詳細.md"
+    },
+    {
+      "basename": "自分の特性について",
+      "path": "quartz/content/Tasks/自分の特性について.md"
+    },
+    {
       "basename": "2026-01-27-火曜日",
       "path": "Timestamps/2026/01/2026-01-27-火曜日.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Introduction",
       "path": "quartz/content/講義/Distributed Systems/Introduction.md"
-    },
-    {
-      "basename": "Raft",
-      "path": "quartz/content/Theory/Distributed system/Raft.md"
-    },
-    {
-      "basename": "RPC",
-      "path": "quartz/content/Theory/Distributed system/RPC.md"
-    },
-    {
-      "basename": "Ordering",
-      "path": "quartz/content/Theory/Distributed system/Ordering.md"
-    },
-    {
-      "basename": "Distributed system",
-      "path": "quartz/content/Theory/Distributed system/Distributed system.md"
-    },
-    {
-      "basename": "Self-stabilization",
-      "path": "quartz/content/Theory/Distributed system/Self-stabilization.md"
-    },
-    {
-      "basename": "2026-01-22-木曜日",
-      "path": "Timestamps/2026/01/2026-01-22-木曜日.md"
     }
   ],
   "omittedPaths": [],
