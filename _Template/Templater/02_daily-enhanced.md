@@ -19,7 +19,7 @@ modified: <% tp.file.last_modified_date("YYYY-MM-DDTHH:mm:ssZ") %>
 **今日の予定（外部）:**
 - [ ] 
 
-**やりたいこと:**（[[quartz/content/TODOs/Tasks]]から1-3個選ぶ）
+**やりたいこと:**（[[quartz/content/Tasks/Tasks]]から1-3個選ぶ）
 - 
 
 **体調:** /5

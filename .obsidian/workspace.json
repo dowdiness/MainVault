@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "quartz/content/Tasks/ワークフロー詳細.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ワークフロー詳細"
+            }
+          },
+          {
+            "id": "dba21dad15d6e991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Timestamps/2026/01/2026-01-26-月曜日.md",
                 "mode": "source",
                 "source": false,
@@ -268,7 +292,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,25 +324,25 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "57966f5a98acd53c",
+  "active": "ae92932708dbf1df",
   "lastOpenFiles": [
-    "Timestamps/2026/01/2026-01-25-日曜日.md",
+    "quartz/content/Tasks/タスク管理システム.md",
+    "quartz/content/Tasks/システム設計思想.md",
+    "quartz/content/Tasks/Tasks.md",
+    "quartz/content/Tasks/AI秘書プロンプト.md",
+    "quartz/content/Tasks/自分の特性について.md",
+    "quartz/content/Tasks/ワークフロー詳細.md",
+    "content/TODOs/タスク管理システム2.md",
     "Timestamps/2026/01/2026-01-26-月曜日.md",
-    "quartz/content/TODOs/自分の特性について.md",
-    "quartz/content/TODOs/Tasks.md",
-    "quartz/content/TODOs/ワークフロー詳細.md",
-    "quartz/content/TODOs/タスク管理ガイド.md",
-    "quartz/content/TODOs/システム設計思想.md",
-    "quartz/content/TODOs/AI秘書プロンプト.md",
+    "Timestamps/2026/01/2026-01-25-日曜日.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/TODOs/無題のファイル.md",
     "quartz/content/TODOs/TODO.md",
-    "content/TODOs/タスク管理システム.md",
     "content/TODOs",
     "content",
     "quartz/content/自作アプリ/Run Length Encoding.md",
     "quartz/content/PL/MoonBit/Package manager.md",
-    "quartz/content/TODOs",
+    "quartz/content/Tasks",
     "quartz/content/Timestamps/2025/04/TaskList.md",
     "quartz/content/Timestamps/2025/04/2025-04-28-Monday.md",
     "quartz/content/Timestamps/2025/08/2025-08-08-Friday.md",
