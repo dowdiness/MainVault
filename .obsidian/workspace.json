@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-28-水曜日.md",
+                "file": "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-28-水曜日"
+              "title": "職務経歴書・技術経歴書_フォーマット準拠版"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tasks",
+                "query": "職務",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -257,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,8 +290,12 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Timestamps/2026/01/2026-01-27-火曜日.md",
+    "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
+    "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
+    "quartz/content/Personal/introduction.md",
+    "Timestamps/2026/01/2026-01-20-火曜日.md",
     "Timestamps/2026/01/2026-01-28-水曜日.md",
+    "Timestamps/2026/01/2026-01-27-火曜日.md",
     "quartz/content/Tasks/Tasks.md",
     "quartz/content/Tasks/タスク管理システム.md",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
@@ -332,10 +337,6 @@
     "quartz/content/Timestamps/2025/08/2025-08-08-Friday.md",
     "quartz/content/Timestamps/2025/08/2025-08-07-Thursday.md",
     "_Template/Templater/🌅朝テンプレ集.md",
-    "Timestamps/2026/01/2026-01-24-土曜日.md",
-    "Timestamps/2026/01/2026-01-22-木曜日.md",
-    "Timestamps/2026/01/2026-01-23-金曜日.md",
-    "quartz/content/PL/MoonBit/LLM.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
