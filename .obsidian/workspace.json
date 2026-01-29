@@ -95,7 +95,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -288,16 +289,16 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6e3d3e97a6eb340e",
   "lastOpenFiles": [
-    "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
     "Timestamps/2026/01/2026-01-29-木曜日.md",
+    "quartz/content/Tasks/Tasks.md",
+    "Timestamps/2026/01/2026-01-28-水曜日.md",
+    "Timestamps/2026/01/2026-01-20-火曜日.md",
+    "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
     "quartz/content/Personal/introduction.md",
-    "Timestamps/2026/01/2026-01-20-火曜日.md",
-    "Timestamps/2026/01/2026-01-28-水曜日.md",
     "Timestamps/2026/01/2026-01-27-火曜日.md",
-    "quartz/content/Tasks/Tasks.md",
     "quartz/content/Tasks/タスク管理システム.md",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",

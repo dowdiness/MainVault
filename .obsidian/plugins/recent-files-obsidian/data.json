@@ -5,6 +5,18 @@
       "path": "Timestamps/2026/01/2026-01-29-木曜日.md"
     },
     {
+      "basename": "Tasks",
+      "path": "quartz/content/Tasks/Tasks.md"
+    },
+    {
+      "basename": "2026-01-28-水曜日",
+      "path": "Timestamps/2026/01/2026-01-28-水曜日.md"
+    },
+    {
+      "basename": "2026-01-20-火曜日",
+      "path": "Timestamps/2026/01/2026-01-20-火曜日.md"
+    },
+    {
       "basename": "職務経歴書・技術経歴書_フォーマット準拠版",
       "path": "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "introduction",
       "path": "quartz/content/Personal/introduction.md"
-    },
-    {
-      "basename": "2026-01-20-火曜日",
-      "path": "Timestamps/2026/01/2026-01-20-火曜日.md"
-    },
-    {
-      "basename": "2026-01-28-水曜日",
-      "path": "Timestamps/2026/01/2026-01-28-水曜日.md"
     }
   ],
   "omittedPaths": [],
