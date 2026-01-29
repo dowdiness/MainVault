@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "quartz/content/Tasks/Tasks.md"
+    },
+    {
+      "basename": "02_daily-enhanced",
+      "path": "_Template/Templater/02_daily-enhanced.md"
+    },
+    {
+      "basename": "タスク管理システム",
+      "path": "quartz/content/Tasks/タスク管理システム.md"
+    },
+    {
       "basename": "CRDTs",
       "path": "quartz/content/自作アプリ/CRDTs.md"
     },
     {
       "basename": "2026-01-29-木曜日",
       "path": "Timestamps/2026/01/2026-01-29-木曜日.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "quartz/content/Tasks/Tasks.md"
     },
     {
       "basename": "EG-walker",
