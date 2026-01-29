@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "職務",
+                "query": "tasks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,8 +95,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -117,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 211.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -289,10 +288,11 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "6e3d3e97a6eb340e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Timestamps/2026/01/2026-01-29-木曜日.md",
     "quartz/content/Tasks/Tasks.md",
+    "quartz/content/自作アプリ/EG-walker.md",
     "Timestamps/2026/01/2026-01-28-水曜日.md",
     "Timestamps/2026/01/2026-01-20-火曜日.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
@@ -329,7 +329,6 @@
     "Timestamps/2026/01/2026-01-25-日曜日.md",
     "Timestamps/2026/01/2026-01-26-月曜日.md",
     "content/TODOs/タスク管理システム2.md",
-    "quartz/content/自作アプリ/EG-walker.md",
     "quartz/content/TODOs/無題のファイル.md",
     "quartz/content/TODOs/TODO.md",
     "quartz/content/自作アプリ/Run Length Encoding.md",
