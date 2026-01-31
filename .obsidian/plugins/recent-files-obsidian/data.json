@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "UndoManager",
+      "path": "quartz/content/自作アプリ/UndoManager.md"
+    },
+    {
+      "basename": "CRDTs",
+      "path": "quartz/content/自作アプリ/CRDTs.md"
+    },
+    {
       "basename": "2026-01-31-土曜日",
       "path": "Timestamps/2026/01/2026-01-31-土曜日.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "タスク管理システム",
       "path": "quartz/content/Tasks/タスク管理システム.md"
-    },
-    {
-      "basename": "CRDTs",
-      "path": "quartz/content/自作アプリ/CRDTs.md"
     },
     {
       "basename": "EG-walker",

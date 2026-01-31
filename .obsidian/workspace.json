@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-31-土曜日.md",
+                "file": "quartz/content/自作アプリ/UndoManager.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-31-土曜日"
+              "title": "UndoManager"
             }
           }
         ]
@@ -290,12 +290,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/CRDTs.md",
+    "quartz/content/自作アプリ/UndoManager.md",
     "Timestamps/2026/01/2026-01-31-土曜日.md",
     "Timestamps/2026/01/2026-01-29-木曜日.md",
     "quartz/content/Tasks/Tasks.md",
     "_Template/Templater/02_daily-enhanced.md",
     "quartz/content/Tasks/タスク管理システム.md",
-    "quartz/content/自作アプリ/CRDTs.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "Timestamps/2026/01/2026-01-28-水曜日.md",
     "Timestamps/2026/01/2026-01-20-火曜日.md",
@@ -336,7 +337,6 @@
     "quartz/content/TODOs/TODO.md",
     "quartz/content/自作アプリ/Run Length Encoding.md",
     "quartz/content/PL/MoonBit/Package manager.md",
-    "quartz/content/Timestamps/2025/04/TaskList.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
