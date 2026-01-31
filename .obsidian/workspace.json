@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Tasks/Tasks.md",
+                "file": "Timestamps/2026/01/2026-01-29-木曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-01-29-木曜日"
             }
           }
         ]
@@ -288,13 +288,13 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "ae92932708dbf1df",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "_Template/Templater/02_daily-enhanced.md",
+    "Timestamps/2026/01/2026-01-29-木曜日.md",
     "quartz/content/Tasks/Tasks.md",
+    "_Template/Templater/02_daily-enhanced.md",
     "quartz/content/Tasks/タスク管理システム.md",
     "quartz/content/自作アプリ/CRDTs.md",
-    "Timestamps/2026/01/2026-01-29-木曜日.md",
     "quartz/content/自作アプリ/EG-walker.md",
     "Timestamps/2026/01/2026-01-28-水曜日.md",
     "Timestamps/2026/01/2026-01-20-火曜日.md",
