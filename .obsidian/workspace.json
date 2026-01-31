@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "UndoManager"
             }
+          },
+          {
+            "id": "0c92b319029aae43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/自作アプリ/Incremental computation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Incremental computation"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tasks",
+                "query": "Increme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +120,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -116,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 347.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -288,10 +314,10 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0c92b319029aae43",
   "lastOpenFiles": [
-    "quartz/content/自作アプリ/CRDTs.md",
     "quartz/content/自作アプリ/UndoManager.md",
+    "quartz/content/自作アプリ/CRDTs.md",
     "Timestamps/2026/01/2026-01-31-土曜日.md",
     "Timestamps/2026/01/2026-01-29-木曜日.md",
     "quartz/content/Tasks/Tasks.md",
