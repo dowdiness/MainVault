@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
-                "mode": "source",
+                "file": "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incremental Parser"
+              "title": "Red Green Tree"
             }
           }
         ],
@@ -120,8 +120,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -316,6 +315,8 @@
   },
   "active": "0c92b319029aae43",
   "lastOpenFiles": [
+    "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
+    "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
     "quartz/content/Compiler/Pretty Printer.md",
     "quartz/content/自作アプリ/Incremental computation.md",
     "quartz/content/自作アプリ/UndoManager.md",
@@ -361,8 +362,6 @@
     "Timestamps/2026/01/2026-01-25-日曜日.md",
     "Timestamps/2026/01/2026-01-26-月曜日.md",
     "content/TODOs/タスク管理システム2.md",
-    "quartz/content/TODOs/無題のファイル.md",
-    "quartz/content/TODOs/TODO.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",

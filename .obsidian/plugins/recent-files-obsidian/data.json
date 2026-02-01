@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Red Green Tree",
+      "path": "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md"
+    },
+    {
       "basename": "Incremental Parser",
       "path": "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md"
     },
