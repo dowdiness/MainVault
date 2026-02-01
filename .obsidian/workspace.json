@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/Incremental computation.md",
+                "file": "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incremental computation"
+              "title": "Incremental Parser"
             }
           }
         ],
@@ -89,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Increme",
+                "query": "incremental parser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -316,6 +316,8 @@
   },
   "active": "0c92b319029aae43",
   "lastOpenFiles": [
+    "quartz/content/Compiler/Pretty Printer.md",
+    "quartz/content/自作アプリ/Incremental computation.md",
     "quartz/content/自作アプリ/UndoManager.md",
     "quartz/content/自作アプリ/CRDTs.md",
     "Timestamps/2026/01/2026-01-31-土曜日.md",
@@ -361,8 +363,6 @@
     "content/TODOs/タスク管理システム2.md",
     "quartz/content/TODOs/無題のファイル.md",
     "quartz/content/TODOs/TODO.md",
-    "quartz/content/自作アプリ/Run Length Encoding.md",
-    "quartz/content/PL/MoonBit/Package manager.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",

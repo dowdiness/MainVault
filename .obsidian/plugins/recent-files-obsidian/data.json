@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Incremental Parser",
+      "path": "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md"
+    },
+    {
+      "basename": "Pretty Printer",
+      "path": "quartz/content/Compiler/Pretty Printer.md"
+    },
+    {
       "basename": "Incremental computation",
       "path": "quartz/content/自作アプリ/Incremental computation.md"
     },
