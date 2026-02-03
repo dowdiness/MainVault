@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/02/2026-02-03-火曜日.md",
-                "mode": "source",
+                "file": "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-03-火曜日"
+              "title": "Red Green Tree"
+            }
+          },
+          {
+            "id": "844c0157ae16e883",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://yui-knk.hatenablog.com/entry/2024/08/23/113543",
+                "title": "Ruby Parser開発日誌 (19) - 最高の構文木の設計 2024年版 - かねこにっき",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Ruby Parser開発日誌 (19) - 最高の構文木の設計 2024年版 - かねこにっき"
             }
           }
         ]
@@ -64,12 +78,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "green",
+                "query": "parser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "検索"
@@ -95,8 +109,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -289,7 +302,7 @@
       "smart-connections:Smart Connections: Open random connection": false
     }
   },
-  "active": "5536a17ad847a786",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
     "Timestamps/2026/02/2026-02-03-火曜日.md",
