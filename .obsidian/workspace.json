@@ -11,24 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "quartz/content/Compiler/Frontend/Parser/Cursor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "quartz/content/Compiler/Frontend/Parser/Cursor.md",
+                "bFile": "quartz/content/Compiler/Frontend/Parser/Cursor.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Cursor"
+              "icon": "diff",
+              "title": "Diff: Cursor  (Working Tree)"
             }
           }
         ]
@@ -291,8 +281,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Timestamps/2026/02/2026-02-04-水曜日.md",
     "quartz/content/Compiler/Frontend/Parser/Cursor.md",
+    "Timestamps/2026/02/2026-02-04-水曜日.md",
     "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
     "Timestamps/2026/02/2026-02-03-火曜日.md",
     "Timestamps/2026/02",
