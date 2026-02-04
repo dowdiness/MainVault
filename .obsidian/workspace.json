@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
-                "mode": "preview",
+                "file": "Timestamps/2026/02/2026-02-04-水曜日.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,21 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Red Green Tree"
-            }
-          },
-          {
-            "id": "844c0157ae16e883",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://yui-knk.hatenablog.com/entry/2024/08/23/113543",
-                "title": "Ruby Parser開発日誌 (19) - 最高の構文木の設計 2024年版 - かねこにっき",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Ruby Parser開発日誌 (19) - 最高の構文木の設計 2024年版 - かねこにっき"
+              "title": "2026-02-04-水曜日"
             }
           }
         ]
@@ -305,6 +291,7 @@
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
+    "Timestamps/2026/02/2026-02-04-水曜日.md",
     "Timestamps/2026/02/2026-02-03-火曜日.md",
     "Timestamps/2026/02",
     "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
@@ -350,7 +337,6 @@
     "quartz/content/Tasks/自分の特性について.md",
     "README.md",
     "Timestamps/2026/01/2026-01-25-日曜日.md",
-    "Timestamps/2026/01/2026-01-26-月曜日.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
