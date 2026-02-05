@@ -11,14 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "quartz/content/Compiler/Frontend/Parser/Cursor.md",
-                "bFile": "quartz/content/Compiler/Frontend/Parser/Cursor.md",
-                "aRef": ""
+                "file": "quartz/content/Compiler/Frontend/Parser/Cursor.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: Cursor  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Cursor"
             }
           }
         ]
