@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Compiler/Frontend/Parser/Cursor.md",
+                "file": "Timestamps/2026/02/2026-02-06-金曜日.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Cursor"
+              "title": "2026-02-06-金曜日"
             }
           }
         ]
@@ -91,12 +91,11 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -133,8 +132,8 @@
             "state": {
               "type": "custom-frames-chatgpt",
               "state": {},
-              "icon": "lucide-bot",
-              "title": "ChatGPT"
+              "icon": "lucide-ghost",
+              "title": "custom-frames-chatgpt"
             }
           },
           {
@@ -143,8 +142,8 @@
             "state": {
               "type": "custom-frames-bluesky",
               "state": {},
-              "icon": "lucide-bird",
-              "title": "BlueSky"
+              "icon": "lucide-ghost",
+              "title": "custom-frames-bluesky"
             }
           },
           {
@@ -182,8 +181,8 @@
             "state": {
               "type": "smart-lookup-view",
               "state": {},
-              "icon": "smart-lookup",
-              "title": "Lookup"
+              "icon": "lucide-ghost",
+              "title": "smart-lookup-view"
             }
           },
           {
@@ -192,8 +191,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
+              "icon": "lucide-ghost",
+              "title": "smart-connections-view"
             }
           },
           {
@@ -250,8 +249,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -263,11 +262,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
-      "obsidian-memos:Thino": false,
       "daily-notes:今日のデイリーノートを開く": false,
-      "terminal:Open terminal": false,
-      "obsidian-custom-frames:Open Google Calendar": false,
       "graph:グラフビューを開く": false,
       "switcher:クイックスイッチャーを開く": false,
       "canvas:新規キャンバスを作成": true,
@@ -276,43 +271,61 @@
       "markdown-importer:Markdownインポーターを開く": true,
       "zk-prefixer:新規ユニークノートの作成": true,
       "random-note:ランダムノートを開く": true,
-      "obsidian-git:Open Git source control": true,
-      "obsidian-kanban:カンバンボードを新規作成": true,
       "bases:Create new base": true,
-      "obsidian-excalidraw-plugin:New drawing": true,
-      "templater-obsidian:Templater": true,
-      "open-vscode:VSCode": true,
-      "table-editor-obsidian:Advanced Tables Toolbar": true,
       "workspaces:ワークスペースレイアウトを管理": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "homepage:Open homepage": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:カンバンボードを新規作成": false,
+      "obsidian-memos:Thino": false,
+      "terminal:Open terminal": false,
+      "obsidian-custom-frames:Open Google Calendar": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false
+      "smart-connections:Smart Connections: Open random connection": false,
+      "open-vscode:VSCode": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Timestamps/2026/02/2026-02-06-金曜日.md",
+    "quartz/content/自作アプリ/Projectional editing introduction/00-index.md",
+    "quartz/content/自作アプリ/Collaborative real-time editor.md",
+    "quartz/content/自作アプリ/Bisimulation.md",
+    "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770365170433",
+    "quartz/content/自作アプリ/Architecture.canvas",
+    "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770365167424",
+    "quartz/content/自作アプリ/CRDTs.md",
+    "quartz/content/自作アプリ/Projectional editing introduction/03-gradual-structure-editing.md.tmp.39662.1770365164728",
+    "quartz/content/自作アプリ/Projectional editing introduction/02-projectional-editing.md.tmp.39662.1770365162585",
+    "quartz/content/自作アプリ/Projectional editing introduction/01-why-syntax-errors.md.tmp.39662.1770365159628",
+    "quartz/content/自作アプリ/Projectional editing introduction/00-index.md.tmp.39662.1770365157721",
+    "quartz/content/自作アプリ/Projectional editing introduction/01-why-syntax-errors.md",
+    "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md",
+    "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md",
+    "quartz/content/自作アプリ/Projectional editing introduction/02-projectional-editing.md",
+    "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770364937162",
+    "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770364936555",
+    "quartz/content/自作アプリ/Projectional editing introduction/02-projectional-editing.md.tmp.39662.1770364936266",
+    "quartz/content/自作アプリ/Projectional editing introduction/00-index.md.tmp.39662.1770364935949",
+    "quartz/content/自作アプリ/Projectional editing introduction/03-gradual-structure-editing.md",
+    "quartz/content/自作アプリ/Excalidraw.md",
+    "quartz/content/自作アプリ/Layout Algorithm.md",
+    "quartz/content/自作アプリ/無題のファイル.md",
+    "quartz/content/自作アプリ/moonbit-cli-argparser-design.md",
+    "Timestamps/2026/02/2026-02-05-木曜日.md",
     "quartz/content/Compiler/Frontend/Parser/Cursor.md",
     "Timestamps/2026/02/2026-02-04-水曜日.md",
     "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
     "Timestamps/2026/02/2026-02-03-火曜日.md",
-    "Timestamps/2026/02",
     "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
     "quartz/content/Compiler/Pretty Printer.md",
     "quartz/content/自作アプリ/Incremental computation.md",
     "quartz/content/自作アプリ/UndoManager.md",
-    "quartz/content/自作アプリ/CRDTs.md",
     "Timestamps/2026/01/2026-01-31-土曜日.md",
     "Timestamps/2026/01/2026-01-29-木曜日.md",
-    "quartz/content/Tasks/Tasks.md",
-    "_Template/Templater/02_daily-enhanced.md",
-    "quartz/content/Tasks/タスク管理システム.md",
-    "quartz/content/自作アプリ/EG-walker.md",
-    "Timestamps/2026/01/2026-01-28-水曜日.md",
-    "Timestamps/2026/01/2026-01-20-火曜日.md",
-    "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
-    "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
-    "quartz/content/Personal/introduction.md",
-    "Timestamps/2026/01/2026-01-27-火曜日.md",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
@@ -323,22 +336,7 @@
     "quartz/public/講義/Theory-of-computation/Nondeterminism,-Closure-Properties,-Regular-Expressions-→-Finite-Automata-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Introduction,-Finite-Automata,-Regular-Expression-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Decision-Problems-for-Automata-and-Grammars-og-image.webp",
-    "quartz/public/TIME-Complexity-Class.html",
-    "quartz/public/Time-Complexity.html",
-    "quartz/public/Theory-Of-Computation.html",
-    "quartz/public/Index-of-Notes.html",
-    "quartz/public/Pumping-lemma.html",
-    "quartz/public/Nondeterministic-Complexity.html",
-    "quartz/public/Goals.html",
-    "quartz/public/Finite-automaton.html",
-    "quartz/public/Introduction,-Finite-Automata,-Regular-Expression.html",
     "quartz/public/自作アプリ/Architecture.canvas",
-    "quartz/content/Tasks/ワークフロー詳細.md",
-    "quartz/content/Tasks/AI秘書プロンプト.md",
-    "quartz/content/Tasks/システム設計思想.md",
-    "quartz/content/Tasks/自分の特性について.md",
-    "README.md",
-    "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
     "Untitled 1.canvas",
