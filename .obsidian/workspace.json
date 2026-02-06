@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/02/2026-02-06-金曜日.md",
+                "file": "Timestamps/2026/02/2026-02-03-火曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-06-金曜日"
+              "title": "2026-02-03-火曜日"
             }
           }
         ]
@@ -290,7 +290,10 @@
   },
   "active": "6e3d3e97a6eb340e",
   "lastOpenFiles": [
+    "Timestamps/2026/02/2026-02-03-火曜日.md",
+    "Timestamps/2026/02/2026-02-05-木曜日.md",
     "Timestamps/2026/02/2026-02-06-金曜日.md",
+    "Timestamps/2026/02/2026-02-04-水曜日.md",
     "quartz/content/自作アプリ/Projectional editing introduction/formalization.md",
     "quartz/content/自作アプリ/Projectional editing introduction/projectional-editing-introduction.md",
     "quartz/content/自作アプリ/Projectional editing introduction/00-index.md",
@@ -317,11 +320,8 @@
     "quartz/content/自作アプリ/Layout Algorithm.md",
     "quartz/content/自作アプリ/無題のファイル.md",
     "quartz/content/自作アプリ/moonbit-cli-argparser-design.md",
-    "Timestamps/2026/02/2026-02-05-木曜日.md",
     "quartz/content/Compiler/Frontend/Parser/Cursor.md",
-    "Timestamps/2026/02/2026-02-04-水曜日.md",
     "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md",
-    "Timestamps/2026/02/2026-02-03-火曜日.md",
     "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md",
     "quartz/content/Compiler/Pretty Printer.md",
     "quartz/content/自作アプリ/Incremental computation.md",

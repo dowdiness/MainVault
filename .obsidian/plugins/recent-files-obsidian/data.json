@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-02-03-火曜日",
+      "path": "Timestamps/2026/02/2026-02-03-火曜日.md"
+    },
+    {
+      "basename": "2026-02-05-木曜日",
+      "path": "Timestamps/2026/02/2026-02-05-木曜日.md"
+    },
+    {
       "basename": "2026-02-06-金曜日",
       "path": "Timestamps/2026/02/2026-02-06-金曜日.md"
+    },
+    {
+      "basename": "2026-02-04-水曜日",
+      "path": "Timestamps/2026/02/2026-02-04-水曜日.md"
     },
     {
       "basename": "moonbit-cli-argparser-design",
@@ -13,24 +25,12 @@
       "path": "quartz/content/自作アプリ/無題のファイル.md"
     },
     {
-      "basename": "2026-02-05-木曜日",
-      "path": "Timestamps/2026/02/2026-02-05-木曜日.md"
-    },
-    {
       "basename": "Cursor",
       "path": "quartz/content/Compiler/Frontend/Parser/Cursor.md"
     },
     {
-      "basename": "2026-02-04-水曜日",
-      "path": "Timestamps/2026/02/2026-02-04-水曜日.md"
-    },
-    {
       "basename": "Red Green Tree",
       "path": "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md"
-    },
-    {
-      "basename": "2026-02-03-火曜日",
-      "path": "Timestamps/2026/02/2026-02-03-火曜日.md"
     },
     {
       "basename": "Incremental Parser",
