@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/02/2026-02-03-火曜日.md",
+                "file": "Timestamps/2026/02/2026-02-07-土曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-03-火曜日"
+              "title": "2026-02-07-土曜日"
             }
           }
         ]
@@ -288,8 +288,9 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "6e3d3e97a6eb340e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Timestamps/2026/02/2026-02-07-土曜日.md",
     "Timestamps/2026/02/2026-02-03-火曜日.md",
     "Timestamps/2026/02/2026-02-05-木曜日.md",
     "Timestamps/2026/02/2026-02-06-金曜日.md",
@@ -326,7 +327,6 @@
     "quartz/content/Compiler/Pretty Printer.md",
     "quartz/content/自作アプリ/Incremental computation.md",
     "quartz/content/自作アプリ/UndoManager.md",
-    "Timestamps/2026/01/2026-01-31-土曜日.md",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
