@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/02/2026-02-10-火曜日.md",
+                "file": "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-10-火曜日"
+              "title": "ソフトウェア設計においてやるべきことは「意味の圧縮」"
             }
           }
         ]
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cursor",
+                "query": "意味の",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -116,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5,
-    "collapsed": true
+    "width": 347.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -291,8 +291,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Timestamps/2026/02/2026-02-09-月曜日.md",
     "Timestamps/2026/02/2026-02-10-火曜日.md",
+    "Timestamps/2026/02/2026-02-09-月曜日.md",
     "Timestamps/2026/02/2026-02-07-土曜日.md",
     "Timestamps/2026/02/2026-02-03-火曜日.md",
     "Timestamps/2026/02/2026-02-05-木曜日.md",
