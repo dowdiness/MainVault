@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
+                "file": "Timestamps/2026/02/2026-02-11-水曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,25 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "意味の圧縮から考えるコード設計"
-            }
-          },
-          {
-            "id": "a7861e42a78bc421",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.youtube.com/watch?v=rxsdOQa_QkM",
-                "title": "(82) Jeff Bezos explains one-way door decisions and two-way door decisions - YouTube",
-                "mode": "blank"
-              },
-              "icon": "globe-2",
-              "title": "(82) Jeff Bezos explains one-way door decisions and two-way door decisions - YouTube"
+              "title": "2026-02-11-水曜日"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -303,9 +288,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "a7861e42a78bc421",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
+    "Timestamps/2026/02/2026-02-11-水曜日.md",
     "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
     "quartz/content/Blog/ソフトウェアの作るハードルが下がったらどうなるか.md",
     "Timestamps/2026/02/2026-02-10-火曜日.md",
@@ -341,7 +327,6 @@
     "quartz/content/自作アプリ/Layout Algorithm.md",
     "quartz/content/自作アプリ/無題のファイル.md",
     "quartz/content/自作アプリ/moonbit-cli-argparser-design.md",
-    "quartz/content/Compiler/Frontend/Parser/Cursor.md",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
