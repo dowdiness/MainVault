@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-02-11-水曜日",
-      "path": "Timestamps/2026/02/2026-02-11-水曜日.md"
+      "basename": "教育とスクリーニングの違い、見分け方について",
+      "path": "quartz/content/Blog/教育とスクリーニングの違い、見分け方について.md"
     },
     {
       "basename": "意味の圧縮から考えるコード設計",
@@ -13,8 +13,84 @@
       "path": "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md"
     },
     {
+      "basename": "依存関係をコントロールする",
+      "path": "quartz/content/Blog/依存関係をコントロールする.md"
+    },
+    {
+      "basename": "モナドなんてどうでも良い",
+      "path": "quartz/content/Blog/モナドなんてどうでも良い.md"
+    },
+    {
+      "basename": "プログラミングの格言は気にしなくて良い",
+      "path": "quartz/content/Blog/プログラミングの格言は気にしなくて良い.md"
+    },
+    {
       "basename": "ソフトウェアの作るハードルが下がったらどうなるか",
       "path": "quartz/content/Blog/ソフトウェアの作るハードルが下がったらどうなるか.md"
+    },
+    {
+      "basename": "コンピューターに求めているもの",
+      "path": "quartz/content/Blog/コンピューターに求めているもの.md"
+    },
+    {
+      "basename": "コードの共通化で避けるべきアンチパターン",
+      "path": "quartz/content/Blog/コードの共通化で避けるべきアンチパターン.md"
+    },
+    {
+      "basename": "MoonBitのtryが使いやすくて最高",
+      "path": "quartz/content/Blog/MoonBitのtryが使いやすくて最高.md"
+    },
+    {
+      "basename": "Moonbitで作るラムダ計算のコンパイラ",
+      "path": "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md"
+    },
+    {
+      "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
+      "path": "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
+    },
+    {
+      "basename": "「型」＝「値の集合」ではない",
+      "path": "quartz/content/Blog/「型」＝「値の集合」ではない.md"
+    },
+    {
+      "basename": "An Incremental Approach to Compiler Constructionをやってみた",
+      "path": "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md"
+    },
+    {
+      "basename": "読む候補の論文",
+      "path": "quartz/content/Blog/読む候補の論文.md"
+    },
+    {
+      "basename": "認知のゆがみという言葉の危険性について",
+      "path": "quartz/content/Blog/認知のゆがみという言葉の危険性について.md"
+    },
+    {
+      "basename": "分かっていないこと、もしくは分かっていないことが分かってないこと",
+      "path": "quartz/content/Blog/分かっていないこと、もしくは分かっていないことが分かってないこと.md"
+    },
+    {
+      "basename": "文章を書くのが難しいのは何故か",
+      "path": "quartz/content/Blog/文章を書くのが難しいのは何故か.md"
+    },
+    {
+      "basename": "本質的複雑性と偶発的複雑性",
+      "path": "quartz/content/Blog/本質的複雑性と偶発的複雑性.md"
+    },
+    {
+      "basename": "論理は重要ではない",
+      "path": "quartz/content/Blog/論理は重要ではない.md"
+    },
+    {
+      "basename": "Functional Core, Imperative Shell",
+      "path": "quartz/content/Blog/Functional Core, Imperative Shell.md"
+    },
+    {
+      "basename": "2026-02-21-土曜日",
+      "path": "Timestamps/2026/02/2026-02-21-土曜日.md"
+    },
+    {
+      "basename": "2026-02-11-水曜日",
+      "path": "Timestamps/2026/02/2026-02-11-水曜日.md"
     },
     {
       "basename": "2026-02-10-火曜日",

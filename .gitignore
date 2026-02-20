@@ -27,3 +27,7 @@ quartz/.github/
 
 # Ignore Smart Environment folder
 .smart-env
+
+# Smart Composer AI cache/index files
+.smtcmp_vector_db.tar.gz
+.smtcmp_json_db/
