@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "2026-02-28-土曜日"
             }
+          },
+          {
+            "id": "7f9526932f9b7617",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.12.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,6 +275,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新規ベースを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "graph:グラフビューを開く": false,
       "switcher:クイックスイッチャーを開く": false,
@@ -271,7 +285,6 @@
       "markdown-importer:Markdownインポーターを開く": true,
       "zk-prefixer:新規ユニークノートの作成": true,
       "random-note:ランダムノートを開く": true,
-      "bases:Create new base": true,
       "workspaces:ワークスペースレイアウトを管理": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
@@ -288,10 +301,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7f9526932f9b7617",
   "lastOpenFiles": [
-    "Timestamps/2026/02/2026-02-27-金曜日.md",
     "Timestamps/2026/02/2026-02-28-土曜日.md",
+    "Timestamps/2026/02/2026-02-27-金曜日.md",
     "Timestamps/2026/02/2026-02-24-火曜日.md",
     "Timestamps/2026/02/2026-02-23-月曜日.md",
     "quartz/content/Blog/教育とスクリーニングの違い、見分け方について.md",
