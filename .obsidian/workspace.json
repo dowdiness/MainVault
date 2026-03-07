@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/02/2026-02-28-土曜日.md",
+                "file": "Timestamps/2026/03/2026-03-07-土曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-28-土曜日"
-            }
-          },
-          {
-            "id": "7f9526932f9b7617",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.12.4"
+              "title": "2026-03-07-土曜日"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,8 +288,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "7f9526932f9b7617",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Timestamps/2026/03/2026-03-07-土曜日.md",
+    "Timestamps/2026/03",
     "Timestamps/2026/02/2026-02-28-土曜日.md",
     "Timestamps/2026/02/2026-02-27-金曜日.md",
     "Timestamps/2026/02/2026-02-24-火曜日.md",
@@ -329,7 +318,6 @@
     "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
     "quartz/content/Blog/本質的複雑性と偶発的複雑性.md",
     "quartz/content/Blog/論理は重要ではない.md",
-    "quartz/content/Blog/Functional Core, Imperative Shell.md",
     "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770365170433",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770365167424",
@@ -339,7 +327,6 @@
     "quartz/content/自作アプリ/Projectional editing introduction/00-index.md.tmp.39662.1770365157721",
     "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770364937162",
     "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770364936555",
-    "quartz/content/自作アプリ/Projectional editing introduction/02-projectional-editing.md.tmp.39662.1770364936266",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
