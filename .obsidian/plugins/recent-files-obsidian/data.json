@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Incremental Hylomorphism Pipeline",
+      "path": "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md"
+    },
+    {
+      "basename": "Incremental Bidirectional Typing via Order Maintenance",
+      "path": "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md"
+    },
+    {
+      "basename": "Incremental computation",
+      "path": "quartz/content/自作アプリ/Incremental computation/Incremental computation.md"
+    },
+    {
+      "basename": "Layout Algorithm",
+      "path": "quartz/content/自作アプリ/Layout Algorithm.md"
+    },
+    {
+      "basename": "Key Event",
+      "path": "quartz/content/自作アプリ/Key Event.md"
+    },
+    {
+      "basename": "KeyBoard shortcut",
+      "path": "quartz/content/自作アプリ/KeyBoard shortcut.md"
+    },
+    {
+      "basename": "CLAUDE",
+      "path": "CLAUDE.md"
+    },
+    {
+      "basename": "index",
+      "path": "quartz/content/index.md"
+    },
+    {
+      "basename": "「型」＝「値の集合」ではない",
+      "path": "quartz/content/Blog/「型」＝「値の集合」ではない.md"
+    },
+    {
       "basename": "2026-03-07-土曜日",
       "path": "Timestamps/2026/03/2026-03-07-土曜日.md"
     },
@@ -67,10 +103,6 @@
     {
       "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
       "path": "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
-    },
-    {
-      "basename": "「型」＝「値の集合」ではない",
-      "path": "quartz/content/Blog/「型」＝「値の集合」ではない.md"
     },
     {
       "basename": "An Incremental Approach to Compiler Constructionをやってみた",
@@ -145,10 +177,6 @@
       "path": "quartz/content/自作アプリ/moonbit-cli-argparser-design.md"
     },
     {
-      "basename": "無題のファイル",
-      "path": "quartz/content/自作アプリ/無題のファイル.md"
-    },
-    {
       "basename": "Cursor",
       "path": "quartz/content/Compiler/Frontend/Parser/Cursor.md"
     },
@@ -165,40 +193,8 @@
       "path": "quartz/content/Compiler/Pretty Printer.md"
     },
     {
-      "basename": "Incremental computation",
-      "path": "quartz/content/自作アプリ/Incremental computation.md"
-    },
-    {
       "basename": "UndoManager",
       "path": "quartz/content/自作アプリ/UndoManager.md"
-    },
-    {
-      "basename": "CRDTs",
-      "path": "quartz/content/自作アプリ/CRDTs.md"
-    },
-    {
-      "basename": "2026-01-31-土曜日",
-      "path": "Timestamps/2026/01/2026-01-31-土曜日.md"
-    },
-    {
-      "basename": "2026-01-29-木曜日",
-      "path": "Timestamps/2026/01/2026-01-29-木曜日.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "quartz/content/Tasks/Tasks.md"
-    },
-    {
-      "basename": "02_daily-enhanced",
-      "path": "_Template/Templater/02_daily-enhanced.md"
-    },
-    {
-      "basename": "タスク管理システム",
-      "path": "quartz/content/Tasks/タスク管理システム.md"
-    },
-    {
-      "basename": "EG-walker",
-      "path": "quartz/content/自作アプリ/EG-walker.md"
     }
   ],
   "omittedPaths": [],

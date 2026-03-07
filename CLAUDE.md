@@ -1,3 +1,9 @@
+---
+aliases: [CLAUDE.md]
+created: 2026-02-21T02:47:11+09:00
+modified: 2026-03-07T22:33:16+09:00
+---
+
 # CLAUDE.md
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.

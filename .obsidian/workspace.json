@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/03/2026-03-07-土曜日.md",
-                "mode": "source",
+                "file": "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-07-土曜日"
+              "title": "Incremental Hylomorphism Pipeline"
+            }
+          },
+          {
+            "id": "3e78507e89b7c593",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.zxch3n.com/tidy/tidy/",
+                "title": "High-performance tidy trees visualization | Zxch3n",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "High-performance tidy trees visualization | Zxch3n"
+            }
+          },
+          {
+            "id": "3ae72c84355f464b",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://llimllib.github.io/pymag-trees/",
+                "title": "llimllib.github.io/pymag-trees/",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "llimllib.github.io/pymag-trees/"
             }
           }
         ]
@@ -64,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "意味の",
+                "query": "incremental",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,8 +219,8 @@
             "state": {
               "type": "smart-connections-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-connections-view"
+              "icon": "smart-connections",
+              "title": "Connections"
             }
           },
           {
@@ -253,12 +281,12 @@
               "title": "calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,6 +318,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md",
+    "quartz/content/自作アプリ/Incremental computation/Incremental computation.md",
+    "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
+    "quartz/content/自作アプリ/無題のファイル.md",
+    "quartz/content/自作アプリ/Layout Algorithm.md",
+    "quartz/content/自作アプリ/Incremental computation",
+    "quartz/content/自作アプリ/Key Event.md",
+    "quartz/content/自作アプリ/KeyBoard shortcut.md",
+    "CLAUDE.md",
+    "quartz/content/index.md",
+    "quartz/content/Blog/「型」＝「値の集合」ではない.md",
     "Timestamps/2026/03/2026-03-07-土曜日.md",
     "Timestamps/2026/03",
     "Timestamps/2026/02/2026-02-28-土曜日.md",
@@ -297,7 +336,6 @@
     "Timestamps/2026/02/2026-02-24-火曜日.md",
     "Timestamps/2026/02/2026-02-23-月曜日.md",
     "quartz/content/Blog/教育とスクリーニングの違い、見分け方について.md",
-    "CLAUDE.md",
     "CLAUDE.md.tmp.283683.1771609631732",
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
     "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
@@ -309,15 +347,6 @@
     "quartz/content/Blog/コードの共通化で避けるべきアンチパターン.md",
     "quartz/content/Blog/MoonBitのtryが使いやすくて最高.md",
     "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
-    "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
-    "quartz/content/Blog/「型」＝「値の集合」ではない.md",
-    "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
-    "quartz/content/Blog/読む候補の論文.md",
-    "quartz/content/Blog/認知のゆがみという言葉の危険性について.md",
-    "quartz/content/Blog/分かっていないこと、もしくは分かっていないことが分かってないこと.md",
-    "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
-    "quartz/content/Blog/本質的複雑性と偶発的複雑性.md",
-    "quartz/content/Blog/論理は重要ではない.md",
     "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770365170433",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770365167424",
@@ -326,7 +355,6 @@
     "quartz/content/自作アプリ/Projectional editing introduction/01-why-syntax-errors.md.tmp.39662.1770365159628",
     "quartz/content/自作アプリ/Projectional editing introduction/00-index.md.tmp.39662.1770365157721",
     "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770364937162",
-    "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770364936555",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
