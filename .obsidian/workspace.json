@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
-                "mode": "preview",
+                "file": "Timestamps/2026/03/2026-03-12-木曜日.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,35 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Incremental Hylomorphism Pipeline"
-            }
-          },
-          {
-            "id": "3e78507e89b7c593",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://www.zxch3n.com/tidy/tidy/",
-                "title": "High-performance tidy trees visualization | Zxch3n",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "High-performance tidy trees visualization | Zxch3n"
-            }
-          },
-          {
-            "id": "3ae72c84355f464b",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://llimllib.github.io/pymag-trees/",
-                "title": "llimllib.github.io/pymag-trees/",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "llimllib.github.io/pymag-trees/"
+              "title": "2026-03-12-木曜日"
             }
           }
         ]
@@ -318,9 +290,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
+    "Timestamps/2026/03/2026-03-12-木曜日.md",
     "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/自作アプリ/Incremental computation/Incremental computation.md",
-    "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
     "quartz/content/自作アプリ/無題のファイル.md",
     "quartz/content/自作アプリ/Layout Algorithm.md",
     "quartz/content/自作アプリ/Incremental computation",
@@ -346,7 +319,6 @@
     "quartz/content/Blog/コンピューターに求めているもの.md",
     "quartz/content/Blog/コードの共通化で避けるべきアンチパターン.md",
     "quartz/content/Blog/MoonBitのtryが使いやすくて最高.md",
-    "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md",
     "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770365170433",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770365167424",
