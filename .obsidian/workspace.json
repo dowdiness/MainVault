@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/03/2026-03-13-金曜日.md",
+                "file": "quartz/content/Personal/introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-13-金曜日"
+              "title": "introduction"
+            }
+          },
+          {
+            "id": "79a87e65ab51c2c7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/dowdiness/flow-sound",
+                "title": "GitHub - dowdiness/flow-sound: Experimental node editor for sound synthesis. · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "GitHub - dowdiness/flow-sound: Experimental node editor for sound synthesis. · GitHub"
             }
           }
         ]
@@ -181,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamps/2026/03/2026-03-13-金曜日.md",
+                "file": "quartz/content/Personal/introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +205,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-03-13-金曜日へのバックリンク"
+              "title": "introductionへのバックリンク"
             }
           },
           {
@@ -238,7 +252,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5
+    "width": 369.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,10 +281,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Timestamps/2026/03/2026-03-13-金曜日.md",
     "quartz/content/Personal/introduction.md",
+    "quartz/content/Personal/introduction.md.tmp.64494.1773380389529",
+    "quartz/content/Personal/Quartz.md",
+    "quartz/content/Personal/introduction.md.tmp.64494.1773380266423",
+    "quartz/content/Personal/興味関心.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
+    "quartz/content/Personal/introduction.md.tmp.64494.1773378636713",
+    "Timestamps/2026/03/2026-03-13-金曜日.md",
     "Timestamps/2026/03/2026-03-12-木曜日.md",
     "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
     "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md",
@@ -292,17 +312,11 @@
     "CLAUDE.md.tmp.283683.1771609631732",
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
     "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
-    "quartz/content/Blog/依存関係をコントロールする.md",
-    "quartz/content/Blog/モナドなんてどうでも良い.md",
-    "quartz/content/Blog/プログラミングの格言は気にしなくて良い.md",
     "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770365170433",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770365167424",
     "quartz/content/自作アプリ/Projectional editing introduction/03-gradual-structure-editing.md.tmp.39662.1770365164728",
     "quartz/content/自作アプリ/Projectional editing introduction/02-projectional-editing.md.tmp.39662.1770365162585",
-    "quartz/content/自作アプリ/Projectional editing introduction/01-why-syntax-errors.md.tmp.39662.1770365159628",
-    "quartz/content/自作アプリ/Projectional editing introduction/00-index.md.tmp.39662.1770365157721",
-    "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770364937162",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
