@@ -1,5 +1,4 @@
 [
-  "obsidian-excalidraw-plugin",
   "templater-obsidian",
   "obsidian-icon-folder",
   "recent-files-obsidian",
@@ -20,8 +19,6 @@
   "obsidian-local-rest-api",
   "open-in-terminal",
   "obsidian-custom-frames",
-  "mcp-tools",
-  "smart-connections",
   "yolo",
   "obsidian42-brat",
   "open-vscode"

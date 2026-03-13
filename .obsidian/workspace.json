@@ -176,32 +176,12 @@
             }
           },
           {
-            "id": "fc47e2b97403cbb1",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smart-lookup-view"
-            }
-          },
-          {
-            "id": "51212baf869c22d9",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {},
-              "icon": "smart-connections",
-              "title": "Connections"
-            }
-          },
-          {
             "id": "dc90198b01e58269",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Timestamps/2026/01/2026-01-27-火曜日.md",
+                "file": "Timestamps/2026/03/2026-03-13-金曜日.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-01-27-火曜日へのバックリンク"
+              "title": "2026-03-13-金曜日へのバックリンク"
             }
           },
           {
@@ -254,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -273,7 +253,6 @@
       "zk-prefixer:新規ユニークノートの作成": true,
       "random-note:ランダムノートを開く": true,
       "workspaces:ワークスペースレイアウトを管理": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
@@ -282,16 +261,13 @@
       "obsidian-memos:Thino": false,
       "terminal:Open terminal": false,
       "obsidian-custom-frames:Open Google Calendar": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
       "open-vscode:VSCode": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "quartz/content/Personal/introduction.md",
     "Timestamps/2026/03/2026-03-13-金曜日.md",
+    "quartz/content/Personal/introduction.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
     "Timestamps/2026/03/2026-03-12-木曜日.md",
