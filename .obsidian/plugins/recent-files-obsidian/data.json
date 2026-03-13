@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-13-金曜日",
+      "path": "Timestamps/2026/03/2026-03-13-金曜日.md"
+    },
+    {
+      "basename": "introduction",
+      "path": "quartz/content/Personal/introduction.md"
+    },
+    {
+      "basename": "職務経歴書・技術経歴書_フォーマット準拠版",
+      "path": "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md"
+    },
+    {
+      "basename": "職務経歴書・技術経歴書_情報整理",
+      "path": "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md"
+    },
+    {
       "basename": "2026-03-12-木曜日",
       "path": "Timestamps/2026/03/2026-03-12-木曜日.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Cursor",
       "path": "quartz/content/Compiler/Frontend/Parser/Cursor.md"
-    },
-    {
-      "basename": "Red Green Tree",
-      "path": "quartz/content/Compiler/Frontend/Parser/Red Green Tree.md"
-    },
-    {
-      "basename": "Incremental Parser",
-      "path": "quartz/content/Compiler/Frontend/Parser/Incremental Parser.md"
-    },
-    {
-      "basename": "Pretty Printer",
-      "path": "quartz/content/Compiler/Pretty Printer.md"
-    },
-    {
-      "basename": "UndoManager",
-      "path": "quartz/content/自作アプリ/UndoManager.md"
     }
   ],
   "omittedPaths": [],
