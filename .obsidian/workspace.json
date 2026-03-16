@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "6021245f55b636af",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "e3085cb4252ad865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Personal/introduction.md",
-                "mode": "source",
+                "file": "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,21 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "introduction"
-            }
-          },
-          {
-            "id": "79a87e65ab51c2c7",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/dowdiness/flow-sound",
-                "title": "GitHub - dowdiness/flow-sound: Experimental node editor for sound synthesis. · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "GitHub - dowdiness/flow-sound: Experimental node editor for sound synthesis. · GitHub"
+              "title": "意味の圧縮から考えるコード設計"
             }
           }
         ]
@@ -130,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 409.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -279,8 +265,21 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "e3085cb4252ad865",
   "lastOpenFiles": [
+    "quartz/content/Blog/「考え方を変える」では届かない場所.md",
+    "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
+    "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
+    "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
+    "quartz/content/Blog/論理は重要ではない.md",
+    "quartz/content/Blog/認知のゆがみという言葉の危険性について.md",
+    "quartz/content/Blog/本質的複雑性と偶発的複雑性.md",
+    "quartz/content/Blog/型とテストの役割は違いますよ.md",
+    "quartz/content/Blog/依存関係をコントロールする.md",
+    "quartz/content/Blog/プログラミングの格言は気にしなくて良い.md",
+    "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
+    "quartz/content/Blog/言語化の功罪.md",
+    "Timestamps/2026/03/2026-03-17-火曜日.md",
     "quartz/content/Personal/introduction.md",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380389529",
     "quartz/content/Personal/Quartz.md",
@@ -298,20 +297,8 @@
     "quartz/content/自作アプリ/Layout Algorithm.md",
     "quartz/content/自作アプリ/Incremental computation",
     "quartz/content/自作アプリ/Key Event.md",
-    "quartz/content/自作アプリ/KeyBoard shortcut.md",
-    "CLAUDE.md",
-    "quartz/content/index.md",
-    "quartz/content/Blog/「型」＝「値の集合」ではない.md",
-    "Timestamps/2026/03/2026-03-07-土曜日.md",
     "Timestamps/2026/03",
-    "Timestamps/2026/02/2026-02-28-土曜日.md",
-    "Timestamps/2026/02/2026-02-27-金曜日.md",
-    "Timestamps/2026/02/2026-02-24-火曜日.md",
-    "Timestamps/2026/02/2026-02-23-月曜日.md",
-    "quartz/content/Blog/教育とスクリーニングの違い、見分け方について.md",
     "CLAUDE.md.tmp.283683.1771609631732",
-    "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
-    "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
     "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770365170433",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770365167424",

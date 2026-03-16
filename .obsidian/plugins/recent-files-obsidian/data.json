@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "意味の圧縮から考えるコード設計",
+      "path": "quartz/content/Blog/意味の圧縮から考えるコード設計.md"
+    },
+    {
+      "basename": "「考え方を変える」では届かない場所",
+      "path": "quartz/content/Blog/「考え方を変える」では届かない場所.md"
+    },
+    {
+      "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
+      "path": "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
+    },
+    {
+      "basename": "文章を書くのが難しいのは何故か",
+      "path": "quartz/content/Blog/文章を書くのが難しいのは何故か.md"
+    },
+    {
+      "basename": "論理は重要ではない",
+      "path": "quartz/content/Blog/論理は重要ではない.md"
+    },
+    {
+      "basename": "型とテストの役割は違いますよ",
+      "path": "quartz/content/Blog/型とテストの役割は違いますよ.md"
+    },
+    {
+      "basename": "依存関係をコントロールする",
+      "path": "quartz/content/Blog/依存関係をコントロールする.md"
+    },
+    {
+      "basename": "言語化の功罪",
+      "path": "quartz/content/Blog/言語化の功罪.md"
+    },
+    {
+      "basename": "2026-03-17-火曜日",
+      "path": "Timestamps/2026/03/2026-03-17-火曜日.md"
+    },
+    {
       "basename": "introduction",
       "path": "quartz/content/Personal/introduction.md"
     },
@@ -89,24 +125,8 @@
       "path": "quartz/content/Blog/教育とスクリーニングの違い、見分け方について.md"
     },
     {
-      "basename": "意味の圧縮から考えるコード設計",
-      "path": "quartz/content/Blog/意味の圧縮から考えるコード設計.md"
-    },
-    {
-      "basename": "ソフトウェア設計においてやるべきことは「意味の圧縮」",
-      "path": "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md"
-    },
-    {
-      "basename": "依存関係をコントロールする",
-      "path": "quartz/content/Blog/依存関係をコントロールする.md"
-    },
-    {
       "basename": "モナドなんてどうでも良い",
       "path": "quartz/content/Blog/モナドなんてどうでも良い.md"
-    },
-    {
-      "basename": "プログラミングの格言は気にしなくて良い",
-      "path": "quartz/content/Blog/プログラミングの格言は気にしなくて良い.md"
     },
     {
       "basename": "ソフトウェアの作るハードルが下がったらどうなるか",
@@ -129,10 +149,6 @@
       "path": "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md"
     },
     {
-      "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
-      "path": "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
-    },
-    {
       "basename": "An Incremental Approach to Compiler Constructionをやってみた",
       "path": "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md"
     },
@@ -141,24 +157,8 @@
       "path": "quartz/content/Blog/読む候補の論文.md"
     },
     {
-      "basename": "認知のゆがみという言葉の危険性について",
-      "path": "quartz/content/Blog/認知のゆがみという言葉の危険性について.md"
-    },
-    {
       "basename": "分かっていないこと、もしくは分かっていないことが分かってないこと",
       "path": "quartz/content/Blog/分かっていないこと、もしくは分かっていないことが分かってないこと.md"
-    },
-    {
-      "basename": "文章を書くのが難しいのは何故か",
-      "path": "quartz/content/Blog/文章を書くのが難しいのは何故か.md"
-    },
-    {
-      "basename": "本質的複雑性と偶発的複雑性",
-      "path": "quartz/content/Blog/本質的複雑性と偶発的複雑性.md"
-    },
-    {
-      "basename": "論理は重要ではない",
-      "path": "quartz/content/Blog/論理は重要ではない.md"
     },
     {
       "basename": "Functional Core, Imperative Shell",
@@ -187,18 +187,6 @@
     {
       "basename": "2026-02-03-火曜日",
       "path": "Timestamps/2026/02/2026-02-03-火曜日.md"
-    },
-    {
-      "basename": "2026-02-05-木曜日",
-      "path": "Timestamps/2026/02/2026-02-05-木曜日.md"
-    },
-    {
-      "basename": "2026-02-06-金曜日",
-      "path": "Timestamps/2026/02/2026-02-06-金曜日.md"
-    },
-    {
-      "basename": "2026-02-04-水曜日",
-      "path": "Timestamps/2026/02/2026-02-04-水曜日.md"
     }
   ],
   "omittedPaths": [],
