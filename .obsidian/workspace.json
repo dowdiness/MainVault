@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/03/2026-03-19-木曜日.md",
+                "file": "quartz/content/Personal/introduction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-03-19-木曜日"
+              "title": "introduction"
             }
           }
         ]
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 348.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -267,6 +267,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/Personal/興味関心.md",
+    "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
+    "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
+    "quartz/content/Personal/introduction.md",
+    "quartz/content/Personal/Quartz.md",
     "Timestamps/2026/03/2026-03-19-木曜日.md",
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
     "quartz/content/Blog/「考え方を変える」では届かない場所.md",
@@ -281,13 +286,8 @@
     "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
     "quartz/content/Blog/言語化の功罪.md",
     "Timestamps/2026/03/2026-03-17-火曜日.md",
-    "quartz/content/Personal/introduction.md",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380389529",
-    "quartz/content/Personal/Quartz.md",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380266423",
-    "quartz/content/Personal/興味関心.md",
-    "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
-    "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
     "quartz/content/Personal/introduction.md.tmp.64494.1773378636713",
     "Timestamps/2026/03/2026-03-13-金曜日.md",
     "Timestamps/2026/03/2026-03-12-木曜日.md",
