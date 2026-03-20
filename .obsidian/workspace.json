@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Personal/introduction.md",
+                "file": "Timestamps/2026/03/2026-03-21-土曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "introduction"
+              "title": "2026-03-21-土曜日"
             }
           }
         ]
@@ -267,10 +267,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/Personal/introduction.md",
+    "Timestamps/2026/03/2026-03-21-土曜日.md",
     "quartz/content/Personal/興味関心.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
     "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
-    "quartz/content/Personal/introduction.md",
     "quartz/content/Personal/Quartz.md",
     "Timestamps/2026/03/2026-03-19-木曜日.md",
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
@@ -295,7 +296,6 @@
     "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/自作アプリ/Incremental computation/Incremental computation.md",
     "quartz/content/自作アプリ/無題のファイル.md",
-    "quartz/content/自作アプリ/Layout Algorithm.md",
     "quartz/content/自作アプリ/Incremental computation",
     "Timestamps/2026/03",
     "CLAUDE.md.tmp.283683.1771609631732",
