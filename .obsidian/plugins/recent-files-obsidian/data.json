@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Structure editor",
+      "path": "quartz/content/自作アプリ/Structure editor.md"
+    },
+    {
       "basename": "2026-04-06-月曜日",
       "path": "Timestamps/2026/04/2026-04-06-月曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-07-土曜日",
       "path": "Timestamps/2026/02/2026-02-07-土曜日.md"
-    },
-    {
-      "basename": "2026-02-03-火曜日",
-      "path": "Timestamps/2026/02/2026-02-03-火曜日.md"
     }
   ],
   "omittedPaths": [],
