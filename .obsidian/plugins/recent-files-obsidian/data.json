@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Refactoring Prompts",
+      "path": "quartz/content/開発/AI/Prompts/Refactoring Prompts.md"
+    },
+    {
+      "basename": "AIを使った開発の流れ",
+      "path": "quartz/content/開発/AI/AIを使った開発の流れ.md"
+    },
+    {
+      "basename": "AI",
+      "path": "quartz/content/開発/AI/AI.md"
+    },
+    {
       "basename": "2026-04-09-木曜日",
       "path": "Timestamps/2026/04/2026-04-09-木曜日.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2026-02-21-土曜日",
       "path": "Timestamps/2026/02/2026-02-21-土曜日.md"
-    },
-    {
-      "basename": "2026-02-11-水曜日",
-      "path": "Timestamps/2026/02/2026-02-11-水曜日.md"
-    },
-    {
-      "basename": "2026-02-10-火曜日",
-      "path": "Timestamps/2026/02/2026-02-10-火曜日.md"
-    },
-    {
-      "basename": "2026-02-09-月曜日",
-      "path": "Timestamps/2026/02/2026-02-09-月曜日.md"
     }
   ],
   "omittedPaths": [],

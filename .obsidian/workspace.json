@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/04/2026-04-09-木曜日.md",
-                "mode": "source",
+                "file": "quartz/content/開発/AI/Prompts/Refactoring Prompts.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-09-木曜日"
+              "title": "Refactoring Prompts"
             }
           }
         ]
@@ -95,8 +95,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -268,8 +267,17 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "quartz/content/自作アプリ/Structure editor.md",
+    "quartz/content/開発/AI/AIを使った開発の流れ.md",
+    "quartz/content/開発/AI/Prompts/Refactoring Prompts.md",
+    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739374246",
+    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739094451",
+    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739087406",
+    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739080329",
+    "quartz/content/開発/AI/AI.md",
+    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775738943272",
     "Timestamps/2026/04/2026-04-09-木曜日.md",
+    "quartz/content/開発/AI/Prompts",
+    "quartz/content/自作アプリ/Structure editor.md",
     "Timestamps/2026/04/2026-04-06-月曜日.md",
     "Timestamps/2026/03/2026-03-21-土曜日.md",
     "Timestamps/2026/04",
@@ -295,16 +303,7 @@
     "quartz/content/Personal/introduction.md.tmp.64494.1773380389529",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380266423",
     "quartz/content/Personal/introduction.md.tmp.64494.1773378636713",
-    "Timestamps/2026/03/2026-03-13-金曜日.md",
-    "Timestamps/2026/03/2026-03-12-木曜日.md",
-    "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
-    "quartz/content/自作アプリ/Incremental computation",
-    "Timestamps/2026/03",
-    "CLAUDE.md.tmp.283683.1771609631732",
-    "quartz/content/自作アプリ/Projectional editing introduction/05-putting-it-together.md.tmp.39662.1770365170433",
     "quartz/content/自作アプリ/Architecture.canvas",
-    "quartz/content/自作アプリ/Projectional editing introduction/04-incremental-computation.md.tmp.39662.1770365167424",
-    "quartz/content/自作アプリ/Projectional editing introduction/03-gradual-structure-editing.md.tmp.39662.1770365164728",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Theory-Of-Computation-og-image.webp",
