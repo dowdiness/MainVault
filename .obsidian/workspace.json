@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/04/2026-04-06-月曜日.md",
+                "file": "Timestamps/2026/04/2026-04-09-木曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-06-月曜日"
-            }
-          },
-          {
-            "id": "6fc04f1c734d7339",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quartz/content/自作アプリ/Structure editor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Structure editor"
+              "title": "2026-04-09-木曜日"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,9 +266,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "6fc04f1c734d7339",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "quartz/content/自作アプリ/Structure editor.md",
+    "Timestamps/2026/04/2026-04-09-木曜日.md",
     "Timestamps/2026/04/2026-04-06-月曜日.md",
     "Timestamps/2026/03/2026-03-21-土曜日.md",
     "Timestamps/2026/04",
@@ -322,7 +298,6 @@
     "Timestamps/2026/03/2026-03-13-金曜日.md",
     "Timestamps/2026/03/2026-03-12-木曜日.md",
     "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md",
-    "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md",
     "quartz/content/自作アプリ/Incremental computation",
     "Timestamps/2026/03",
     "CLAUDE.md.tmp.283683.1771609631732",
