@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "無題のファイル",
+      "path": "quartz/content/Blog/無題のファイル.md"
+    },
+    {
+      "basename": "2026-04-25-土曜日",
+      "path": "Timestamps/2026/04/2026-04-25-土曜日.md"
+    },
+    {
       "basename": "Refactoring Prompts",
       "path": "quartz/content/開発/AI/Prompts/Refactoring Prompts.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "分かっていないこと、もしくは分かっていないことが分かってないこと",
       "path": "quartz/content/Blog/分かっていないこと、もしくは分かっていないことが分かってないこと.md"
-    },
-    {
-      "basename": "Functional Core, Imperative Shell",
-      "path": "quartz/content/Blog/Functional Core, Imperative Shell.md"
-    },
-    {
-      "basename": "2026-02-21-土曜日",
-      "path": "Timestamps/2026/02/2026-02-21-土曜日.md"
     }
   ],
   "omittedPaths": [],
