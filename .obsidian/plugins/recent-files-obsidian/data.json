@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-05-08-金曜日",
-      "path": "Timestamps/2026/05/2026-05-08-金曜日.md"
+      "basename": "2026-05-09-土曜日",
+      "path": "Timestamps/2026/05/2026-05-09-土曜日.md"
     },
     {
-      "basename": "無題のファイル",
-      "path": "quartz/content/Blog/無題のファイル.md"
+      "basename": "Canopy作業日誌",
+      "path": "quartz/content/Blog/Canopy作業日誌.md"
+    },
+    {
+      "basename": "論理は重要ではない",
+      "path": "quartz/content/Blog/論理は重要ではない.md"
+    },
+    {
+      "basename": "理解力の無さはどこから来るのか？",
+      "path": "quartz/content/Blog/理解力の無さはどこから来るのか？.md"
+    },
+    {
+      "basename": "文章を書くのが難しいのは何故か",
+      "path": "quartz/content/Blog/文章を書くのが難しいのは何故か.md"
+    },
+    {
+      "basename": "2026-05-08-金曜日",
+      "path": "Timestamps/2026/05/2026-05-08-金曜日.md"
     },
     {
       "basename": "2026-04-25-土曜日",
@@ -75,14 +91,6 @@
     {
       "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
       "path": "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
-    },
-    {
-      "basename": "文章を書くのが難しいのは何故か",
-      "path": "quartz/content/Blog/文章を書くのが難しいのは何故か.md"
-    },
-    {
-      "basename": "論理は重要ではない",
-      "path": "quartz/content/Blog/論理は重要ではない.md"
     },
     {
       "basename": "型とテストの役割は違いますよ",
@@ -191,14 +199,6 @@
     {
       "basename": "Moonbitで作るラムダ計算のコンパイラ",
       "path": "quartz/content/Blog/Moonbitで作るラムダ計算のコンパイラ.md"
-    },
-    {
-      "basename": "An Incremental Approach to Compiler Constructionをやってみた",
-      "path": "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md"
-    },
-    {
-      "basename": "読む候補の論文",
-      "path": "quartz/content/Blog/読む候補の論文.md"
     }
   ],
   "omittedPaths": [],

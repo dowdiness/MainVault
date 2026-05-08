@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/05/2026-05-08-金曜日.md",
+                "file": "Timestamps/2026/05/2026-05-09-土曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-08-金曜日"
+              "title": "2026-05-09-土曜日"
             }
           }
         ]
@@ -267,9 +267,13 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/Blog/Canopy作業日誌.md",
+    "Timestamps/2026/05/2026-05-09-土曜日.md",
+    "quartz/content/Blog/論理は重要ではない.md",
+    "quartz/content/Blog/理解力の無さはどこから来るのか？.md",
+    "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
     "Timestamps/2026/05/2026-05-08-金曜日.md",
     "Timestamps/2026/05",
-    "quartz/content/Blog/無題のファイル.md",
     "Timestamps/2026/04/2026-04-25-土曜日.md",
     "quartz/content/開発/AI/Prompts/Refactoring Prompts.md",
     "quartz/content/開発/AI/AIを使った開発の流れ.md",
@@ -294,13 +298,9 @@
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
     "quartz/content/Blog/「考え方を変える」では届かない場所.md",
     "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
-    "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
-    "quartz/content/Blog/論理は重要ではない.md",
     "quartz/content/Blog/認知のゆがみという言葉の危険性について.md",
     "quartz/content/Blog/本質的複雑性と偶発的複雑性.md",
     "quartz/content/Blog/型とテストの役割は違いますよ.md",
-    "quartz/content/Blog/依存関係をコントロールする.md",
-    "quartz/content/Blog/プログラミングの格言は気にしなくて良い.md",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380389529",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380266423",
     "quartz/content/自作アプリ/Architecture.canvas",
