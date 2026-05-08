@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/無題のファイル.md",
+                "file": "Timestamps/2026/05/2026-05-08-金曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "2026-05-08-金曜日"
             }
           }
         ]
@@ -265,8 +265,10 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "6e3d3e97a6eb340e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Timestamps/2026/05/2026-05-08-金曜日.md",
+    "Timestamps/2026/05",
     "quartz/content/Blog/無題のファイル.md",
     "Timestamps/2026/04/2026-04-25-土曜日.md",
     "quartz/content/開発/AI/Prompts/Refactoring Prompts.md",
@@ -299,10 +301,8 @@
     "quartz/content/Blog/型とテストの役割は違いますよ.md",
     "quartz/content/Blog/依存関係をコントロールする.md",
     "quartz/content/Blog/プログラミングの格言は気にしなくて良い.md",
-    "quartz/content/Blog/ソフトウェア設計においてやるべきことは「意味の圧縮」.md",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380389529",
     "quartz/content/Personal/introduction.md.tmp.64494.1773380266423",
-    "quartz/content/Personal/introduction.md.tmp.64494.1773378636713",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",

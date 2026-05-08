@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-08-金曜日",
+      "path": "Timestamps/2026/05/2026-05-08-金曜日.md"
+    },
+    {
       "basename": "無題のファイル",
       "path": "quartz/content/Blog/無題のファイル.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "読む候補の論文",
       "path": "quartz/content/Blog/読む候補の論文.md"
-    },
-    {
-      "basename": "分かっていないこと、もしくは分かっていないことが分かってないこと",
-      "path": "quartz/content/Blog/分かっていないこと、もしくは分かっていないことが分かってないこと.md"
     }
   ],
   "omittedPaths": [],
