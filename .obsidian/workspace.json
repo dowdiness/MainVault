@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/05/2026-05-09-土曜日.md",
-                "mode": "source",
+                "file": "quartz/content/開発/AI/docs/principles/design-principles.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-09-土曜日"
+              "title": "design-principles"
             }
           }
         ]
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 273.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "quartz/content/Personal/introduction.md",
+                "file": "quartz/content/開発/AI/docs/principles/design-principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "introductionへのバックリンク"
+              "title": "design-principlesへのバックリンク"
             }
           },
           {
@@ -267,15 +267,20 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy作業日誌.md",
+    "quartz/content/開発/AI/docs/Prompts/Refactoring Prompts.md",
+    "quartz/content/開発/AI/docs/principles/finding-common-structures.md",
+    "quartz/content/開発/AI/docs/principles/design-principles.md",
+    "quartz/content/開発/AI/No Free Lunch Theorems.md",
     "Timestamps/2026/05/2026-05-09-土曜日.md",
+    "quartz/content/開発/AI/docs/principles",
+    "quartz/content/開発/AI/docs",
+    "quartz/content/Blog/Canopy作業日誌.md",
     "quartz/content/Blog/論理は重要ではない.md",
     "quartz/content/Blog/理解力の無さはどこから来るのか？.md",
     "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
     "Timestamps/2026/05/2026-05-08-金曜日.md",
     "Timestamps/2026/05",
     "Timestamps/2026/04/2026-04-25-土曜日.md",
-    "quartz/content/開発/AI/Prompts/Refactoring Prompts.md",
     "quartz/content/開発/AI/AIを使った開発の流れ.md",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739374246",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739094451",
@@ -284,7 +289,7 @@
     "quartz/content/開発/AI/AI.md",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775738943272",
     "Timestamps/2026/04/2026-04-09-木曜日.md",
-    "quartz/content/開発/AI/Prompts",
+    "quartz/content/開発/AI/docs/Prompts",
     "quartz/content/自作アプリ/Structure editor.md",
     "Timestamps/2026/04/2026-04-06-月曜日.md",
     "Timestamps/2026/03/2026-03-21-土曜日.md",
@@ -298,11 +303,6 @@
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
     "quartz/content/Blog/「考え方を変える」では届かない場所.md",
     "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
-    "quartz/content/Blog/認知のゆがみという言葉の危険性について.md",
-    "quartz/content/Blog/本質的複雑性と偶発的複雑性.md",
-    "quartz/content/Blog/型とテストの役割は違いますよ.md",
-    "quartz/content/Personal/introduction.md.tmp.64494.1773380389529",
-    "quartz/content/Personal/introduction.md.tmp.64494.1773380266423",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
