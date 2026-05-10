@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "論理は重要ではない",
+      "path": "quartz/content/Blog/論理は重要ではない.md"
+    },
+    {
+      "basename": "確率や経験に基づく投機的な判断の重要性",
+      "path": "quartz/content/Blog/確率や経験に基づく投機的な判断の重要性.md"
+    },
+    {
       "basename": "2026-05-10-日曜日",
       "path": "Timestamps/2026/05/2026-05-10-日曜日.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Canopy作業日誌",
       "path": "quartz/content/Blog/Canopy作業日誌.md"
-    },
-    {
-      "basename": "論理は重要ではない",
-      "path": "quartz/content/Blog/論理は重要ではない.md"
     },
     {
       "basename": "理解力の無さはどこから来るのか？",
@@ -195,10 +199,6 @@
     {
       "basename": "モナドなんてどうでも良い",
       "path": "quartz/content/Blog/モナドなんてどうでも良い.md"
-    },
-    {
-      "basename": "ソフトウェアの作るハードルが下がったらどうなるか",
-      "path": "quartz/content/Blog/ソフトウェアの作るハードルが下がったらどうなるか.md"
     }
   ],
   "omittedPaths": [],

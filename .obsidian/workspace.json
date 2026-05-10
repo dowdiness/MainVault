@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "2026-05-10-日曜日"
             }
+          },
+          {
+            "id": "a34b0bdfa537b2df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Blog/論理は重要ではない.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "論理は重要ではない"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,10 +290,11 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "a34b0bdfa537b2df",
   "lastOpenFiles": [
-    "quartz/content/開発/AI/docs/principles/design-principles.md",
+    "quartz/content/Blog/確率や経験に基づく投機的な判断の重要性.md",
     "Timestamps/2026/05/2026-05-10-日曜日.md",
+    "quartz/content/開発/AI/docs/principles/design-principles.md",
     "quartz/content/開発/AI/docs/Prompts/Refactoring Prompts.md",
     "quartz/content/開発/AI/docs/principles/finding-common-structures.md",
     "quartz/content/開発/AI/No Free Lunch Theorems.md",
@@ -302,7 +328,6 @@
     "quartz/content/Personal/Quartz.md",
     "Timestamps/2026/03/2026-03-19-木曜日.md",
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
-    "quartz/content/Blog/「考え方を変える」では届かない場所.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
