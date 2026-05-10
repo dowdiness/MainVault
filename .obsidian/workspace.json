@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/開発/AI/docs/principles/design-principles.md",
-                "mode": "preview",
+                "file": "Timestamps/2026/05/2026-05-10-日曜日.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "design-principles"
+              "title": "2026-05-10-日曜日"
             }
           }
         ]
@@ -267,9 +267,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/開発/AI/docs/principles/design-principles.md",
+    "Timestamps/2026/05/2026-05-10-日曜日.md",
     "quartz/content/開発/AI/docs/Prompts/Refactoring Prompts.md",
     "quartz/content/開発/AI/docs/principles/finding-common-structures.md",
-    "quartz/content/開発/AI/docs/principles/design-principles.md",
     "quartz/content/開発/AI/No Free Lunch Theorems.md",
     "Timestamps/2026/05/2026-05-09-土曜日.md",
     "quartz/content/開発/AI/docs/principles",
@@ -302,7 +303,6 @@
     "Timestamps/2026/03/2026-03-19-木曜日.md",
     "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
     "quartz/content/Blog/「考え方を変える」では届かない場所.md",
-    "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",

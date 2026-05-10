@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-10-日曜日",
+      "path": "Timestamps/2026/05/2026-05-10-日曜日.md"
+    },
+    {
       "basename": "design-principles",
       "path": "quartz/content/開発/AI/docs/principles/design-principles.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ソフトウェアの作るハードルが下がったらどうなるか",
       "path": "quartz/content/Blog/ソフトウェアの作るハードルが下がったらどうなるか.md"
-    },
-    {
-      "basename": "コンピューターに求めているもの",
-      "path": "quartz/content/Blog/コンピューターに求めているもの.md"
     }
   ],
   "omittedPaths": [],
