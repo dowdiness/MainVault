@@ -1,9 +1,52 @@
 {
-  "outputStyle": "Learning",
-  "language": "日本語",
   "permissions": {
     "allow": [
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "WebSearch",
+      "WebFetch(domain:zenn.dev)",
+      "Bash(rtk grep *)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:lofi.so)",
+      "Edit(/home/antisatori/.claude/CLAUDE.md)"
     ]
+  },
+  "outputStyle": "Learning",
+  "language": "日本語",
+  "skillOverrides": {
+    "moonbit": "off",
+    "moonbit-perf-investigation": "off",
+    "moonbit-refactoring-safety": "off",
+    "moonbit-refactoring": "off",
+    "moonbit-traits": "off",
+    "moonbit-opaque-types": "off",
+    "moonbit-deprecated-syntax": "off",
+    "moonbit-agent-setup": "off",
+    "moonbit-c-binding": "off",
+    "moonbit-expression-problem": "off",
+    "moonbit-housekeeping": "off",
+    "moonbit-error-handling": "off",
+    "moonbit-verification": "off",
+    "moonbit-agent-guide": "off",
+    "incr": "off",
+    "loom": "off",
+    "tuple-wrapper-api-style": "off",
+    "impeccable": "off",
+    "shape": "off",
+    "critique": "off",
+    "polish": "off",
+    "audit": "off",
+    "overdrive": "off",
+    "bolder": "off",
+    "quieter": "off",
+    "colorize": "off",
+    "typeset": "off",
+    "animate": "off",
+    "delight": "off",
+    "distill": "off",
+    "layout": "off",
+    "adapt": "off",
+    "clarify": "off",
+    "optimize": "off",
+    "web-design-guidelines": "off"
   }
 }

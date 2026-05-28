@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/論理は重要ではない.md",
+                "file": "Misc/income-plan-2026-assets/NEXT-7-DAYS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,91 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "論理は重要ではない"
+              "title": "NEXT-7-DAYS"
+            }
+          },
+          {
+            "id": "336f77d8c68f2235",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://wise.com/",
+                "title": "Wise：世界中の通貨が使えるアカウント | 国境のない金融 | Wise 日本",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Wise：世界中の通貨が使えるアカウント | 国境のない金融 | Wise 日本"
+            }
+          },
+          {
+            "id": "c46bd66791731e45",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://dl.acm.org/doi/10.1145/3544548.3580785",
+                "title": "Structured Editing for All: Deriving Usable Structured Editors from Grammars | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Structured Editing for All: Deriving Usable Structured Editors from Grammars | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
+            }
+          },
+          {
+            "id": "229f69952c691547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "quartz/content/Blog/Canopy作業日誌.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Canopy作業日誌"
+            }
+          },
+          {
+            "id": "7a76e18182a06307",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/dowdiness/incr/pull/81",
+                "title": "release: v0.6.0 by dowdiness · Pull Request #81 · dowdiness/incr · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "release: v0.6.0 by dowdiness · Pull Request #81 · dowdiness/incr · GitHub"
+            }
+          },
+          {
+            "id": "7609a0e6f568a26d",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/dowdiness/loom/issues/147",
+                "title": "infra: make loom + examples + egraph standalone-buildable (migrate canopy-owned path-deps) · Issue #147 · dowdiness/loom",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "infra: make loom + examples + egraph standalone-buildable (migrate canopy-owned path-deps) · Issue #147 · dowdiness/loom"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -89,7 +169,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structural",
+                "query": "canopy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,7 +200,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -131,10 +212,24 @@
             "id": "6e3d3e97a6eb340e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2026/05/2026-05-28-木曜日.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-28-木曜日"
             }
           }
         ]
@@ -279,55 +374,47 @@
       "zk-prefixer:新規ユニークノートの作成": true,
       "random-note:ランダムノートを開く": true,
       "workspaces:ワークスペースレイアウトを管理": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:カンバンボードを新規作成": false,
-      "obsidian-memos:Thino": false,
-      "terminal:Open terminal": false,
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "open-vscode:VSCode": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "a34b0bdfa537b2df",
+  "active": "229f69952c691547",
   "lastOpenFiles": [
-    "quartz/content/Blog/確率や経験に基づく投機的な判断の重要性.md",
-    "Timestamps/2026/05/2026-05-10-日曜日.md",
-    "quartz/content/開発/AI/docs/principles/design-principles.md",
-    "quartz/content/開発/AI/docs/Prompts/Refactoring Prompts.md",
-    "quartz/content/開発/AI/docs/principles/finding-common-structures.md",
-    "quartz/content/開発/AI/No Free Lunch Theorems.md",
-    "Timestamps/2026/05/2026-05-09-土曜日.md",
+    "quartz/content/Blog/Canopy作業日誌.md",
+    "Timestamps/2026/05/2026-05-28-木曜日.md",
+    "Timestamps/2026/05/2026-05-27-水曜日.md",
+    "Timestamps/2026/05/2026-05-26-火曜日.md",
+    "Timestamps/2026/05/2026-05-23-土曜日.md",
+    "Timestamps/2026/05/2026-05-20-水曜日.md",
+    "Timestamps/2026/05/2026-05-19-火曜日.md",
+    "Timestamps/2026/05/2026-05-18-月曜日.md",
+    "Misc/income-plan-2026-assets/NEXT-7-DAYS.md",
+    "Misc/income-plan-2026-assets/github-profile-readme.md",
+    "Misc/income-plan-2026-assets/extended-outreach-candidates.md",
+    "Misc/income-plan-2026-assets/B1-validation-form.md",
+    "Misc/income-plan-2026-assets/B1-book-spec.md",
+    "Misc/income-plan-2026-assets/B1-chapter1-draft.md",
+    "Misc/income-plan-2026-assets/B1-announcement-zenn.md",
+    "Misc/income-plan-2026-assets/ai-skills-portfolio.md",
+    "Misc/income-plan-2026.md",
+    "quartz/content/Misc/読書リスト.md",
+    "quartz/content/Misc/読みたい本リスト.md",
+    "quartz/content/Misc/足りない能力.md",
+    "quartz/content/Misc/システムの複雑さはどこから生まれるか？.md",
+    "quartz/content/Misc/写経という言葉に対する違和感.md",
+    "quartz/content/Misc/Can Programming Be Liberated from the vonNeumann Style.md",
+    "quartz/content/Misc/ls-lint.md",
+    "Timestamps/2026/05/2026-05-17-日曜日.md",
+    "Timestamps/2026/05/2026-05-14-木曜日.md",
     "quartz/content/開発/AI/docs/principles",
     "quartz/content/開発/AI/docs",
-    "quartz/content/Blog/Canopy作業日誌.md",
-    "quartz/content/Blog/論理は重要ではない.md",
-    "quartz/content/Blog/理解力の無さはどこから来るのか？.md",
-    "quartz/content/Blog/文章を書くのが難しいのは何故か.md",
-    "Timestamps/2026/05/2026-05-08-金曜日.md",
     "Timestamps/2026/05",
-    "Timestamps/2026/04/2026-04-25-土曜日.md",
-    "quartz/content/開発/AI/AIを使った開発の流れ.md",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739374246",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739094451",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739087406",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739080329",
-    "quartz/content/開発/AI/AI.md",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775738943272",
-    "Timestamps/2026/04/2026-04-09-木曜日.md",
     "quartz/content/開発/AI/docs/Prompts",
-    "quartz/content/自作アプリ/Structure editor.md",
-    "Timestamps/2026/04/2026-04-06-月曜日.md",
-    "Timestamps/2026/03/2026-03-21-土曜日.md",
     "Timestamps/2026/04",
-    "quartz/content/Personal/introduction.md",
-    "quartz/content/Personal/興味関心.md",
-    "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md",
-    "quartz/content/Personal/職務経歴書・技術経歴書_情報整理.md",
-    "quartz/content/Personal/Quartz.md",
-    "Timestamps/2026/03/2026-03-19-木曜日.md",
-    "quartz/content/Blog/意味の圧縮から考えるコード設計.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
