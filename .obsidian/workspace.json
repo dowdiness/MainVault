@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopy作業日誌.md",
+                "file": "Timestamps/2026/05/2026-05-30-土曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -104,7 +104,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopy作業日誌"
+              "title": "2026-05-30-土曜日"
             }
           },
           {
@@ -376,18 +376,14 @@
       "workspaces:ワークスペースレイアウトを管理": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-kanban:カンバンボードを新規作成": false,
       "obsidian-memos:Thino": false,
-      "terminal:Open terminal": false,
-      "obsidian-custom-frames:Open Google Calendar": false,
-      "open-vscode:VSCode": false
+      "obsidian-custom-frames:Open Google Calendar": false
     }
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
     "quartz/content/Blog/Canopy作業日誌.md",
+    "Timestamps/2026/05/2026-05-30-土曜日.md",
     "Timestamps/2026/05/2026-05-28-木曜日.md",
     "Timestamps/2026/05/2026-05-27-水曜日.md",
     "Timestamps/2026/05/2026-05-26-火曜日.md",
@@ -412,7 +408,6 @@
     "quartz/content/Misc/Can Programming Be Liberated from the vonNeumann Style.md",
     "quartz/content/Misc/ls-lint.md",
     "Timestamps/2026/05/2026-05-17-日曜日.md",
-    "Timestamps/2026/05/2026-05-14-木曜日.md",
     "quartz/content/開発/AI/docs/principles",
     "quartz/content/開発/AI/docs",
     "Timestamps/2026/05",

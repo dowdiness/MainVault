@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-30-土曜日",
+      "path": "Timestamps/2026/05/2026-05-30-土曜日.md"
+    },
+    {
+      "basename": "Canopy作業日誌",
+      "path": "quartz/content/Blog/Canopy作業日誌.md"
+    },
+    {
       "basename": "論理は重要ではない",
       "path": "quartz/content/Blog/論理は重要ではない.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2026-05-09-土曜日",
       "path": "Timestamps/2026/05/2026-05-09-土曜日.md"
-    },
-    {
-      "basename": "Canopy作業日誌",
-      "path": "quartz/content/Blog/Canopy作業日誌.md"
     },
     {
       "basename": "理解力の無さはどこから来るのか？",
@@ -195,10 +199,6 @@
     {
       "basename": "教育とスクリーニングの違い、見分け方について",
       "path": "quartz/content/Blog/教育とスクリーニングの違い、見分け方について.md"
-    },
-    {
-      "basename": "モナドなんてどうでも良い",
-      "path": "quartz/content/Blog/モナドなんてどうでも良い.md"
     }
   ],
   "omittedPaths": [],
