@@ -9,6 +9,14 @@
       "path": "quartz/content/Blog/Canopy作業日誌-5月.md"
     },
     {
+      "basename": "無題のファイル 3",
+      "path": "quartz/content/Blog/無題のファイル 3.base"
+    },
+    {
+      "basename": "無題のファイル 2",
+      "path": "quartz/content/Blog/無題のファイル 2.base"
+    },
+    {
       "basename": "無題のファイル 1",
       "path": "quartz/content/Blog/無題のファイル 1.base"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "「型」＝「値の集合」ではない",
       "path": "quartz/content/Blog/「型」＝「値の集合」ではない.md"
-    },
-    {
-      "basename": "2026-03-07-土曜日",
-      "path": "Timestamps/2026/03/2026-03-07-土曜日.md"
-    },
-    {
-      "basename": "2026-02-28-土曜日",
-      "path": "Timestamps/2026/02/2026-02-28-土曜日.md"
     }
   ],
   "omittedPaths": [],

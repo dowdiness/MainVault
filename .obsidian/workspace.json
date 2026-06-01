@@ -214,8 +214,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -398,6 +397,8 @@
   "lastOpenFiles": [
     "quartz/content/Blog/Canopy作業日誌-5月.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
+    "quartz/content/Blog/無題のファイル 3.base",
+    "quartz/content/Blog/無題のファイル 2.base",
     "quartz/content/Blog/無題のファイル 1.base",
     "quartz/content/Blog/無題のファイル.base",
     "Timestamps/2026/06/2026-06-02-火曜日.md",
@@ -429,8 +430,6 @@
     "quartz/content/開発/AI/docs/principles",
     "quartz/content/開発/AI/docs",
     "Timestamps/2026/05",
-    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739374246",
-    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739094451",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
