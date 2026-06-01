@@ -89,8 +89,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/06/2026-06-02-火曜日.md",
-                "mode": "source",
+                "file": "quartz/content/Blog/Canopy開発日誌-6月.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -104,7 +104,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-02-火曜日"
+              "title": "Canopy開発日誌-6月"
             }
           },
           {
@@ -183,7 +183,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "canopy",
+                "query": "tag:projectional-editing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -396,7 +396,10 @@
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy作業日誌.md",
+    "quartz/content/Blog/Canopy作業日誌-5月.md",
+    "quartz/content/Blog/Canopy開発日誌-6月.md",
+    "quartz/content/Blog/無題のファイル 1.base",
+    "quartz/content/Blog/無題のファイル.base",
     "Timestamps/2026/06/2026-06-02-火曜日.md",
     "Timestamps/2026/06",
     "quartz/content/Blog/XX4AhS7j",
@@ -423,15 +426,11 @@
     "quartz/content/Misc/足りない能力.md",
     "quartz/content/Misc/システムの複雑さはどこから生まれるか？.md",
     "quartz/content/Misc/写経という言葉に対する違和感.md",
-    "quartz/content/Misc/Can Programming Be Liberated from the vonNeumann Style.md",
-    "quartz/content/Misc/ls-lint.md",
     "quartz/content/開発/AI/docs/principles",
     "quartz/content/開発/AI/docs",
     "Timestamps/2026/05",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739374246",
     "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739094451",
-    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739087406",
-    "quartz/content/開発/AI/Prompts/Refactoring.md.tmp.545369.1775739080329",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
