@@ -5,6 +5,10 @@
       "path": "quartz/content/Blog/Canopy作業日誌.md"
     },
     {
+      "basename": "2026-06-02-火曜日",
+      "path": "Timestamps/2026/06/2026-06-02-火曜日.md"
+    },
+    {
       "basename": "2026-05-30-土曜日",
       "path": "Timestamps/2026/05/2026-05-30-土曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-23-月曜日",
       "path": "Timestamps/2026/02/2026-02-23-月曜日.md"
-    },
-    {
-      "basename": "教育とスクリーニングの違い、見分け方について",
-      "path": "quartz/content/Blog/教育とスクリーニングの違い、見分け方について.md"
     }
   ],
   "omittedPaths": [],
