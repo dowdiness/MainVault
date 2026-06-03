@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Canopy作業日誌-5月",
-      "path": "quartz/content/Blog/Canopy作業日誌-5月.md"
+      "basename": "Canopy開発日誌-6月",
+      "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
+    },
+    {
+      "basename": "Canopy開発日誌-5月",
+      "path": "quartz/content/Blog/Canopy開発日誌-5月.md"
+    },
+    {
+      "basename": "An Incremental Approach to Compiler Constructionをやってみた",
+      "path": "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md"
     },
     {
       "basename": "2026-06-03-水曜日",
       "path": "Timestamps/2026/06/2026-06-03-水曜日.md"
-    },
-    {
-      "basename": "Canopy開発日誌-6月",
-      "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
     },
     {
       "basename": "無題のファイル 3",
@@ -195,10 +199,6 @@
     {
       "basename": "CLAUDE",
       "path": "CLAUDE.md"
-    },
-    {
-      "basename": "index",
-      "path": "quartz/content/index.md"
     }
   ],
   "omittedPaths": [],

@@ -89,7 +89,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopy作業日誌-5月.md",
+                "file": "quartz/content/Blog/Canopy開発日誌-6月.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -104,7 +104,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopy作業日誌-5月"
+              "title": "Canopy開発日誌-6月"
+            }
+          },
+          {
+            "id": "fb65819e78859f04",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/dowdiness/canopy/blob/main/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md",
+                "title": "canopy/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md at main · dowdiness/canopy · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "canopy/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md at main · dowdiness/canopy · GitHub"
             }
           },
           {
@@ -150,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -393,11 +407,12 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "229f69952c691547",
+  "active": "fb65819e78859f04",
   "lastOpenFiles": [
-    "Timestamps/2026/06/2026-06-03-水曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
-    "quartz/content/Blog/Canopy作業日誌-5月.md",
+    "quartz/content/Blog/Canopy開発日誌-5月.md",
+    "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
+    "Timestamps/2026/06/2026-06-03-水曜日.md",
     "quartz/content/Blog/無題のファイル 3.base",
     "quartz/content/Blog/無題のファイル 2.base",
     "quartz/content/Blog/無題のファイル 1.base",
@@ -427,7 +442,6 @@
     "quartz/content/Misc/読みたい本リスト.md",
     "quartz/content/Misc/足りない能力.md",
     "quartz/content/Misc/システムの複雑さはどこから生まれるか？.md",
-    "quartz/content/Misc/写経という言葉に対する違和感.md",
     "quartz/content/開発/AI/docs/principles",
     "quartz/content/開発/AI/docs",
     "Timestamps/2026/05",
