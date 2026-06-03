@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Canopy開発日誌-6月",
-      "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
-    },
-    {
       "basename": "Canopy作業日誌-5月",
       "path": "quartz/content/Blog/Canopy作業日誌-5月.md"
+    },
+    {
+      "basename": "2026-06-03-水曜日",
+      "path": "Timestamps/2026/06/2026-06-03-水曜日.md"
+    },
+    {
+      "basename": "Canopy開発日誌-6月",
+      "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
     },
     {
       "basename": "無題のファイル 3",
@@ -195,10 +199,6 @@
     {
       "basename": "index",
       "path": "quartz/content/index.md"
-    },
-    {
-      "basename": "「型」＝「値の集合」ではない",
-      "path": "quartz/content/Blog/「型」＝「値の集合」ではない.md"
     }
   ],
   "omittedPaths": [],
