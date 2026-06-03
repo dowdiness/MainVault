@@ -120,51 +120,9 @@
               "icon": "globe-2",
               "title": "canopy/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md at main · dowdiness/canopy · GitHub"
             }
-          },
-          {
-            "id": "87a24fd36cbc4b94",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/dowdiness/loom/pull/124",
-                "title": "feat(lambda): add Tier 0 \"show callers\" projection prototype by dowdiness · Pull Request #124 · dowdiness/loom · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "feat(lambda): add Tier 0 \"show callers\" projection prototype by dowdiness · Pull Request #124 · dowdiness/loom · GitHub"
-            }
-          },
-          {
-            "id": "7a76e18182a06307",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/dowdiness/incr/pull/81",
-                "title": "release: v0.6.0 by dowdiness · Pull Request #81 · dowdiness/incr · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "release: v0.6.0 by dowdiness · Pull Request #81 · dowdiness/incr · GitHub"
-            }
-          },
-          {
-            "id": "7609a0e6f568a26d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/dowdiness/loom/issues/147",
-                "title": "infra: make loom + examples + egraph standalone-buildable (migrate canopy-owned path-deps) · Issue #147 · dowdiness/loom",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "infra: make loom + examples + egraph standalone-buildable (migrate canopy-owned path-deps) · Issue #147 · dowdiness/loom"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -407,7 +365,7 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "fb65819e78859f04",
+  "active": "229f69952c691547",
   "lastOpenFiles": [
     "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/Canopy開発日誌-5月.md",
