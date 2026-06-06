@@ -70,27 +70,13 @@
             }
           },
           {
-            "id": "c46bd66791731e45",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://dl.acm.org/doi/10.1145/3544548.3580785",
-                "title": "Structured Editing for All: Deriving Usable Structured Editors from Grammars | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Structured Editing for All: Deriving Usable Structured Editors from Grammars | Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems"
-            }
-          },
-          {
             "id": "229f69952c691547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/06/2026-06-04-木曜日.md",
-                "mode": "preview",
+                "file": "Timestamps/2026/06/2026-06-06-土曜日.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -104,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-04-木曜日"
+              "title": "2026-06-06-土曜日"
             }
           },
           {
@@ -122,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -186,7 +172,8 @@
               "title": "recent-files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -368,6 +355,13 @@
   "active": "229f69952c691547",
   "lastOpenFiles": [
     "quartz/content/Blog/Canopy開発日誌-6月.md",
+    "Timestamps/2026/06/2026-06-06-土曜日.md",
+    "quartz/content/Blog/XXymN8qv",
+    "quartz/content/Blog/XXx14sUG",
+    "quartz/content/Blog/XXLAeYux",
+    "quartz/content/Blog/XX50q5VM",
+    "quartz/content/Blog/XXsE5HUE",
+    "quartz/content/Blog/XXZNJpr0",
     "Timestamps/2026/06/2026-06-04-木曜日.md",
     "quartz/content/Blog/Canopy開発日誌-5月.md",
     "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
@@ -377,9 +371,6 @@
     "quartz/content/Blog/無題のファイル 1.base",
     "quartz/content/Blog/無題のファイル.base",
     "Timestamps/2026/06/2026-06-02-火曜日.md",
-    "Timestamps/2026/06",
-    "quartz/content/Blog/XX4AhS7j",
-    "quartz/content/Blog/XXH5edzb",
     "Timestamps/2026/05/2026-05-30-土曜日.md",
     "Timestamps/2026/05/2026-05-28-木曜日.md",
     "Timestamps/2026/05/2026-05-27-水曜日.md",
@@ -399,10 +390,6 @@
     "Misc/income-plan-2026.md",
     "quartz/content/Misc/読書リスト.md",
     "quartz/content/Misc/読みたい本リスト.md",
-    "quartz/content/Misc/足りない能力.md",
-    "quartz/content/開発/AI/docs/principles",
-    "quartz/content/開発/AI/docs",
-    "Timestamps/2026/05",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
