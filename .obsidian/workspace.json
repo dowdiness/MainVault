@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/06/2026-06-06-土曜日.md",
+                "file": "Timestamps/2026/06/2026-06-09-火曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-06-土曜日"
+              "title": "2026-06-09-火曜日"
             }
           },
           {
@@ -354,8 +354,9 @@
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy開発日誌-6月.md",
     "Timestamps/2026/06/2026-06-06-土曜日.md",
+    "Timestamps/2026/06/2026-06-09-火曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/XXymN8qv",
     "quartz/content/Blog/XXx14sUG",
     "quartz/content/Blog/XXLAeYux",
@@ -389,7 +390,6 @@
     "Misc/income-plan-2026-assets/ai-skills-portfolio.md",
     "Misc/income-plan-2026.md",
     "quartz/content/Misc/読書リスト.md",
-    "quartz/content/Misc/読みたい本リスト.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",

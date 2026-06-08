@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-09-火曜日",
+      "path": "Timestamps/2026/06/2026-06-09-火曜日.md"
+    },
+    {
       "basename": "2026-06-06-土曜日",
       "path": "Timestamps/2026/06/2026-06-06-土曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Layout Algorithm",
       "path": "quartz/content/自作アプリ/Layout Algorithm.md"
-    },
-    {
-      "basename": "Key Event",
-      "path": "quartz/content/自作アプリ/Key Event.md"
     }
   ],
   "omittedPaths": [],
