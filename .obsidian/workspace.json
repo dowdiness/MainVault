@@ -56,26 +56,12 @@
             }
           },
           {
-            "id": "336f77d8c68f2235",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://wise.com/",
-                "title": "Wise：世界中の通貨が使えるアカウント | 国境のない金融 | Wise 日本",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Wise：世界中の通貨が使えるアカウント | 国境のない金融 | Wise 日本"
-            }
-          },
-          {
             "id": "229f69952c691547",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/06/2026-06-09-火曜日.md",
+                "file": "quartz/content/Blog/Canopy開発日誌-6月.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,25 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-09-火曜日"
-            }
-          },
-          {
-            "id": "fb65819e78859f04",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://github.com/dowdiness/canopy/blob/main/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md",
-                "title": "canopy/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md at main · dowdiness/canopy · GitHub",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "canopy/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md at main · dowdiness/canopy · GitHub"
+              "title": "Canopy開発日誌-6月"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -172,8 +144,7 @@
               "title": "recent-files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0ca9d6acd2326ca0",
@@ -354,8 +325,9 @@
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
-    "Timestamps/2026/06/2026-06-06-土曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-5月.md",
     "Timestamps/2026/06/2026-06-09-火曜日.md",
+    "Timestamps/2026/06/2026-06-06-土曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/XXymN8qv",
     "quartz/content/Blog/XXx14sUG",
@@ -364,7 +336,6 @@
     "quartz/content/Blog/XXsE5HUE",
     "quartz/content/Blog/XXZNJpr0",
     "Timestamps/2026/06/2026-06-04-木曜日.md",
-    "quartz/content/Blog/Canopy開発日誌-5月.md",
     "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
     "Timestamps/2026/06/2026-06-03-水曜日.md",
     "quartz/content/Blog/無題のファイル 3.base",
