@@ -7,11 +7,11 @@
       "Bash(rtk grep *)",
       "WebFetch(domain:github.com)",
       "WebFetch(domain:lofi.so)",
-      "Edit(/home/antisatori/.claude/CLAUDE.md)"
+      "Edit(/home/antisatori/.claude/CLAUDE.md)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__query-docs"
     ]
   },
-  "outputStyle": "Learning",
-  "language": "日本語",
   "skillOverrides": {
     "moonbit": "off",
     "moonbit-perf-investigation": "off",
@@ -48,5 +48,7 @@
     "clarify": "off",
     "optimize": "off",
     "web-design-guidelines": "off"
-  }
+  },
+  "outputStyle": "Learning",
+  "language": "日本語"
 }
