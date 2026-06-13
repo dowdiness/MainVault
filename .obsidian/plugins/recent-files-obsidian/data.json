@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-13-土曜日",
+      "path": "Timestamps/2026/06/2026-06-13-土曜日.md"
+    },
+    {
       "basename": "Canopy開発日誌-6月",
       "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Incremental Bidirectional Typing via Order Maintenance",
       "path": "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md"
-    },
-    {
-      "basename": "Incremental computation",
-      "path": "quartz/content/自作アプリ/Incremental computation/Incremental computation.md"
     }
   ],
   "omittedPaths": [],
