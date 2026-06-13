@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/06/2026-06-13-土曜日.md",
+                "file": "quartz/content/Blog/Canopy開発日誌-6月.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-13-土曜日"
+              "title": "Canopy開発日誌-6月"
             }
           }
         ],
@@ -325,8 +325,10 @@
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy開発日誌-6月.md",
+    "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
+    "quartz/content/Blog/「型」＝「値の集合」ではない.md",
     "Timestamps/2026/06/2026-06-13-土曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.803983.6b7f119d7bfb",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.803983.f63e3a4f585c",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.803983.907bf9b29f6c",
@@ -341,7 +343,6 @@
     "quartz/content/Blog/XXsE5HUE",
     "quartz/content/Blog/XXZNJpr0",
     "Timestamps/2026/06/2026-06-04-木曜日.md",
-    "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
     "Timestamps/2026/06/2026-06-03-水曜日.md",
     "quartz/content/Blog/無題のファイル 3.base",
     "Timestamps/2026/06/2026-06-02-火曜日.md",
@@ -360,7 +361,6 @@
     "Misc/income-plan-2026-assets/B1-book-spec.md",
     "Misc/income-plan-2026-assets/B1-chapter1-draft.md",
     "Misc/income-plan-2026-assets/B1-announcement-zenn.md",
-    "Misc/income-plan-2026-assets/ai-skills-portfolio.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",

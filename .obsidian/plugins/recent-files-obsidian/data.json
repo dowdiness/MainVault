@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-06-13-土曜日",
-      "path": "Timestamps/2026/06/2026-06-13-土曜日.md"
-    },
-    {
       "basename": "Canopy開発日誌-6月",
       "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
+    },
+    {
+      "basename": "An Incremental Approach to Compiler Constructionをやってみた",
+      "path": "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md"
+    },
+    {
+      "basename": "「型」＝「値の集合」ではない",
+      "path": "quartz/content/Blog/「型」＝「値の集合」ではない.md"
+    },
+    {
+      "basename": "2026-06-13-土曜日",
+      "path": "Timestamps/2026/06/2026-06-13-土曜日.md"
     },
     {
       "basename": "Canopy開発日誌-5月",
@@ -27,10 +35,6 @@
     {
       "basename": "2026-06-04-木曜日",
       "path": "Timestamps/2026/06/2026-06-04-木曜日.md"
-    },
-    {
-      "basename": "An Incremental Approach to Compiler Constructionをやってみた",
-      "path": "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md"
     },
     {
       "basename": "2026-06-03-水曜日",
@@ -195,10 +199,6 @@
     {
       "basename": "Incremental Hylomorphism Pipeline",
       "path": "quartz/content/自作アプリ/Incremental computation/Incremental Hylomorphism Pipeline.md"
-    },
-    {
-      "basename": "Incremental Bidirectional Typing via Order Maintenance",
-      "path": "quartz/content/自作アプリ/Incremental computation/Incremental Bidirectional Typing via Order Maintenance.md"
     }
   ],
   "omittedPaths": [],
