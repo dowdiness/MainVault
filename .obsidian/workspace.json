@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopy開発日誌-6月.md",
+                "file": "Timestamps/2026/06/2026-06-16-火曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopy開発日誌-6月"
+              "title": "2026-06-16-火曜日"
             }
           }
         ],
@@ -325,6 +325,8 @@
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
+    "quartz/content/Blog/Canopy開発日誌-6月.md",
+    "Timestamps/2026/06/2026-06-16-火曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.a68e60e2399e",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.1007c39f3d2d",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.48d8aea1b921",
@@ -335,11 +337,9 @@
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.b57f4420f9b1",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.6fbc1a46ba95",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.bf33101ae038",
-    "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.2f9e7bea0e31",
     "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
     "quartz/content/Blog/「型」＝「値の集合」ではない.md",
     "Timestamps/2026/06/2026-06-13-土曜日.md",
-    "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/Canopy開発日誌-5月.md",
     "Timestamps/2026/06/2026-06-11-木曜日.md",
     "Timestamps/2026/06/2026-06-09-火曜日.md",
