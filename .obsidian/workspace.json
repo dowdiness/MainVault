@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/06/2026-06-17-水曜日.md",
+                "file": "quartz/content/Blog/Canopy開発日誌-6月.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-17-水曜日"
+              "title": "Canopy開発日誌-6月"
             }
           }
         ],
@@ -325,8 +325,8 @@
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
-    "Timestamps/2026/06/2026-06-16-火曜日.md",
     "Timestamps/2026/06/2026-06-17-水曜日.md",
+    "Timestamps/2026/06/2026-06-16-火曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.a68e60e2399e",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.1007c39f3d2d",
