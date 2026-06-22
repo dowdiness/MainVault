@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-23-火曜日",
+      "path": "Timestamps/2026/06/2026-06-23-火曜日.md"
+    },
+    {
       "basename": "2026-06-19-金曜日",
       "path": "Timestamps/2026/06/2026-06-19-金曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "依存関係をコントロールする",
       "path": "quartz/content/Blog/依存関係をコントロールする.md"
-    },
-    {
-      "basename": "言語化の功罪",
-      "path": "quartz/content/Blog/言語化の功罪.md"
     }
   ],
   "omittedPaths": [],
