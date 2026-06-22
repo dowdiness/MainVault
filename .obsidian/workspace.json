@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/06/2026-06-23-火曜日.md",
+                "file": "quartz/content/Blog/Canopyとは.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-23-火曜日"
+              "title": "Canopyとは"
             }
           }
         ],
@@ -179,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 381.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -325,8 +325,15 @@
   },
   "active": "229f69952c691547",
   "lastOpenFiles": [
-    "Timestamps/2026/06/2026-06-19-金曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-2025年12月〜2026年2月.md",
+    "quartz/content/Blog/Canopyとは.md",
+    "quartz/content/Blog/sedYhIbMb",
+    "quartz/content/Blog/sedU36HtP",
+    "quartz/content/Blog/sedrLDkYu",
+    "quartz/content/Blog/Canopy開発日誌-3月.md",
+    "quartz/content/Blog/Canopy開発日誌-4月.md",
     "Timestamps/2026/06/2026-06-23-火曜日.md",
+    "Timestamps/2026/06/2026-06-19-金曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
     "Timestamps/2026/06/2026-06-18-木曜日.md",
     "Timestamps/2026/06/2026-06-17-水曜日.md",
@@ -338,9 +345,6 @@
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.b01c6ed32aa7",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.29906bf021d0",
     "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.2e3dacd1697b",
-    "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.b57f4420f9b1",
-    "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.6fbc1a46ba95",
-    "quartz/content/Blog/Canopy開発日誌-6月.md.tmp.721271.bf33101ae038",
     "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
     "quartz/content/Blog/「型」＝「値の集合」ではない.md",
     "Timestamps/2026/06/2026-06-13-土曜日.md",
@@ -357,10 +361,6 @@
     "Timestamps/2026/05/2026-05-26-火曜日.md",
     "Timestamps/2026/05/2026-05-23-土曜日.md",
     "Timestamps/2026/05/2026-05-20-水曜日.md",
-    "Timestamps/2026/05/2026-05-19-火曜日.md",
-    "Timestamps/2026/05/2026-05-18-月曜日.md",
-    "Misc/income-plan-2026-assets/NEXT-7-DAYS.md",
-    "Misc/income-plan-2026-assets/github-profile-readme.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",

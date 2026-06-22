@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Canopyとは",
+      "path": "quartz/content/Blog/Canopyとは.md"
+    },
+    {
+      "basename": "Canopy開発日誌-2025年12月〜2026年2月",
+      "path": "quartz/content/Blog/Canopy開発日誌-2025年12月〜2026年2月.md"
+    },
+    {
+      "basename": "Canopy開発日誌-3月",
+      "path": "quartz/content/Blog/Canopy開発日誌-3月.md"
+    },
+    {
+      "basename": "Canopy開発日誌-4月",
+      "path": "quartz/content/Blog/Canopy開発日誌-4月.md"
+    },
+    {
       "basename": "2026-06-23-火曜日",
       "path": "Timestamps/2026/06/2026-06-23-火曜日.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "意味の圧縮から考えるコード設計",
       "path": "quartz/content/Blog/意味の圧縮から考えるコード設計.md"
-    },
-    {
-      "basename": "「考え方を変える」では届かない場所",
-      "path": "quartz/content/Blog/「考え方を変える」では届かない場所.md"
-    },
-    {
-      "basename": "JavaScriptにおけるプリミティブとオブジェクトの違い",
-      "path": "quartz/content/Blog/JavaScriptにおけるプリミティブとオブジェクトの違い.md"
-    },
-    {
-      "basename": "型とテストの役割は違いますよ",
-      "path": "quartz/content/Blog/型とテストの役割は違いますよ.md"
-    },
-    {
-      "basename": "依存関係をコントロールする",
-      "path": "quartz/content/Blog/依存関係をコントロールする.md"
     }
   ],
   "omittedPaths": [],
