@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-25-木曜日",
+      "path": "Timestamps/2026/06/2026-06-25-木曜日.md"
+    },
+    {
       "basename": "Canopyとは",
       "path": "quartz/content/Blog/Canopyとは.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-19-木曜日",
       "path": "Timestamps/2026/03/2026-03-19-木曜日.md"
-    },
-    {
-      "basename": "意味の圧縮から考えるコード設計",
-      "path": "quartz/content/Blog/意味の圧縮から考えるコード設計.md"
     }
   ],
   "omittedPaths": [],
