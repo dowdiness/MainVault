@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-26-金曜日",
+      "path": "Timestamps/2026/06/2026-06-26-金曜日.md"
+    },
+    {
       "basename": "Canopy開発日誌-6月",
       "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Quartz",
       "path": "quartz/content/Personal/Quartz.md"
-    },
-    {
-      "basename": "2026-03-19-木曜日",
-      "path": "Timestamps/2026/03/2026-03-19-木曜日.md"
     }
   ],
   "omittedPaths": [],
