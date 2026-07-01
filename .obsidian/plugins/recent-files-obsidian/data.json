@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-01-水曜日",
+      "path": "Timestamps/2026/07/2026-07-01-水曜日.md"
+    },
+    {
       "basename": "厚揚げときのこのレンジ蒸し",
       "path": "quartz/content/MealPlans/Recipes/厚揚げときのこのレンジ蒸し.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-09-木曜日",
       "path": "Timestamps/2026/04/2026-04-09-木曜日.md"
-    },
-    {
-      "basename": "Structure editor",
-      "path": "quartz/content/自作アプリ/Structure editor.md"
     }
   ],
   "omittedPaths": [],
