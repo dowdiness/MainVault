@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/05/2026-05-10-日曜日.md",
+                "file": "quartz/content/MealPlans/固定ローテーションA.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-10-日曜日"
-            }
-          },
-          {
-            "id": "a34b0bdfa537b2df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Misc/income-plan-2026-assets/NEXT-7-DAYS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "NEXT-7-DAYS"
-            }
-          },
-          {
-            "id": "229f69952c691547",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Timestamps/2026/06/2026-06-28-日曜日.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-28-日曜日"
+              "title": "固定ローテーションA"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,50 +268,47 @@
       "zk-prefixer:新規ユニークノートの作成": true,
       "random-note:ランダムノートを開く": true,
       "workspaces:ワークスペースレイアウトを管理": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-memos:Thino": false,
-      "obsidian-custom-frames:Open Google Calendar": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "229f69952c691547",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Timestamps/2026/06/2026-06-27-土曜日.md",
-    "Timestamps/2026/06/2026-06-28-日曜日.md",
-    "quartz/content/Blog/Canopy開発日誌-6月.md",
-    "Timestamps/2026/06/2026-06-26-金曜日.md",
-    "Timestamps/2026/06/2026-06-25-木曜日.md",
-    "quartz/content/Blog/Canopyとは.md",
-    "quartz/content/Blog/Canopy開発日誌-4月.md",
-    "quartz/content/Blog/Canopy開発日誌-3月.md",
-    "quartz/content/Blog/sed2AP64J",
-    "quartz/content/Blog/sedQ8P3c7",
-    "quartz/content/Blog/sedXATdKQ",
-    "quartz/content/Blog/sedgYVHKt",
-    "quartz/content/Blog/sedlJwOUt",
-    "quartz/content/Blog/sedfEhPjw",
-    "quartz/content/Blog/sedPqn40c",
-    "quartz/content/Blog/sed7iPe2P",
-    "quartz/content/Blog/sed7dw1NN",
-    "quartz/content/Blog/Canopy開発日誌-2025年12月〜2026年2月.md",
-    "quartz/content/Blog/sedYhIbMb",
-    "Timestamps/2026/06/2026-06-23-火曜日.md",
-    "Timestamps/2026/06/2026-06-19-金曜日.md",
-    "Timestamps/2026/06/2026-06-18-木曜日.md",
-    "Timestamps/2026/06/2026-06-17-水曜日.md",
-    "Timestamps/2026/06/2026-06-16-火曜日.md",
-    "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md",
-    "quartz/content/Blog/「型」＝「値の集合」ではない.md",
-    "Timestamps/2026/06/2026-06-13-土曜日.md",
-    "quartz/content/Blog/Canopy開発日誌-5月.md",
-    "Timestamps/2026/06/2026-06-11-木曜日.md",
-    "Timestamps/2026/06/2026-06-09-火曜日.md",
-    "Timestamps/2026/06/2026-06-06-土曜日.md",
-    "Timestamps/2026/06/2026-06-04-木曜日.md",
-    "Timestamps/2026/06/2026-06-03-水曜日.md",
-    "Timestamps/2026/06/2026-06-02-火曜日.md",
-    "Timestamps/2026/05/2026-05-30-土曜日.md",
-    "Timestamps/2026/05/2026-05-28-木曜日.md",
+    "quartz/content/MealPlans/Recipes/鮭とほうれん草のレンジ蒸し.md.tmp.5404.0cc9759d642a",
+    "quartz/content/MealPlans/Recipes/鮭とほうれん草のレンジ蒸し.md.tmp.5404.bc36abf08ea7",
+    "quartz/content/MealPlans/固定ローテーションA.md.tmp.5404.8d953b9b729d",
+    "quartz/content/MealPlans/Recipes/豚こまと根菜のきんぴら風.md.tmp.5404.68c2348235e5",
+    "quartz/content/MealPlans/Recipes/豚肉となすの味噌炒め.md.tmp.5404.348df8136a9c",
+    "quartz/content/MealPlans/Recipes/鮭フレークと卵そぼろ.md.tmp.5404.bc114055847d",
+    "quartz/content/MealPlans/Recipes/豚こまと小松菜の重ね蒸し.md.tmp.5404.9cf34c0a4d5d",
+    "quartz/content/MealPlans/Recipes/鶏むねとキャベツのレンジ蒸し.md.tmp.5404.23154eac5643",
+    "quartz/content/MealPlans/Recipes/鮭とほうれん草のレンジ蒸し.md.tmp.5404.9388d2a8dcd1",
+    "quartz/content/MealPlans/Recipes/ツナと卵のレンジチャーハン風.md.tmp.5404.50f8a213d7de",
+    "quartz/content/MealPlans/Recipes/豆腐入り卵焼き.md.tmp.5404.d958f8971971",
+    "quartz/content/MealPlans/Recipes/豆腐入り卵焼き.md",
+    "quartz/content/MealPlans/Recipes/豚こまと小松菜の重ね蒸し.md",
+    "quartz/content/MealPlans/Recipes/鶏むねとキャベツのレンジ蒸し.md",
+    "quartz/content/MealPlans/Recipes/ツナと卵のレンジチャーハン風.md",
+    "quartz/content/MealPlans/固定ローテーションA.md",
+    "quartz/content/MealPlans/Recipes/厚揚げと卵の甘辛煮.md",
+    "quartz/content/MealPlans/Recipes/豚こまと根菜のきんぴら風.md",
+    "quartz/content/MealPlans/Recipes/ひき肉と根菜のきんぴら風.md",
+    "quartz/content/MealPlans/Recipes/鶏むねの照り焼き風.md",
+    "quartz/content/MealPlans/Recipes/鮭フレークと卵そぼろ.md",
+    "quartz/content/MealPlans/Recipes/豚肉となすの味噌炒め.md",
+    "quartz/content/MealPlans/Recipes/鶏そぼろの生姜醤油煮.md",
+    "Timestamps/2026/05/2026-05-10-日曜日.md",
+    "MealPlans/固定ローテーションA.md",
+    "quartz/content/MealPlans/Recipes/鮭とほうれん草のレンジ蒸し.md",
+    "quartz/content/MealPlans/Recipes/豚こまともやしの重ね蒸し.md",
+    "quartz/content/MealPlans/Recipes/豆腐と卵のレンジ茶碗蒸し風.md",
+    "quartz/content/MealPlans/Recipes/厚揚げときのこのレンジ蒸し.md",
+    "quartz/content/MealPlans/Recipes/ツナと卵の玄米レンジチャーハン風.md",
+    "quartz/content/MealPlans/Recipes/さば缶と豆腐のレンジ煮.md",
+    "quartz/content/Recipes/鮭とほうれん草のレンジ蒸し.md",
+    "quartz/content/Recipes/鶏むねとキャベツのレンジ蒸し.md",
+    "quartz/content/Recipes/厚揚げときのこのレンジ蒸し.md",
+    "Recipes/豚こまともやしの重ね蒸し.md",
+    "quartz/content/Recipes/豚こまともやしの重ね蒸し.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "quartz/public/趣味/お茶/お茶のまとめ-og-image.webp",
     "quartz/public/講義/Theory-of-computation/Time-Complexity-og-image.webp",
