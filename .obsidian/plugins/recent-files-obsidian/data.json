@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "厚揚げときのこのレンジ蒸し",
+      "path": "quartz/content/MealPlans/Recipes/厚揚げときのこのレンジ蒸し.md"
+    },
+    {
+      "basename": "ツナと卵のレンジチャーハン風",
+      "path": "quartz/content/MealPlans/Recipes/ツナと卵のレンジチャーハン風.md"
+    },
+    {
+      "basename": "固定ローテーションA",
+      "path": "quartz/content/MealPlans/固定ローテーションA.md"
+    },
+    {
+      "basename": "豚こまと小松菜の重ね蒸し",
+      "path": "quartz/content/MealPlans/Recipes/豚こまと小松菜の重ね蒸し.md"
+    },
+    {
+      "basename": "豚肉となすの味噌炒め",
+      "path": "quartz/content/MealPlans/Recipes/豚肉となすの味噌炒め.md"
+    },
+    {
       "basename": "2026-06-28-日曜日",
       "path": "Timestamps/2026/06/2026-06-28-日曜日.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "Structure editor",
       "path": "quartz/content/自作アプリ/Structure editor.md"
-    },
-    {
-      "basename": "2026-04-06-月曜日",
-      "path": "Timestamps/2026/04/2026-04-06-月曜日.md"
-    },
-    {
-      "basename": "2026-03-21-土曜日",
-      "path": "Timestamps/2026/03/2026-03-21-土曜日.md"
-    },
-    {
-      "basename": "introduction",
-      "path": "quartz/content/Personal/introduction.md"
-    },
-    {
-      "basename": "興味関心",
-      "path": "quartz/content/Personal/興味関心.md"
-    },
-    {
-      "basename": "職務経歴書・技術経歴書_フォーマット準拠版",
-      "path": "quartz/content/Personal/職務経歴書・技術経歴書_フォーマット準拠版.md"
     }
   ],
   "omittedPaths": [],
