@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-07-02-木曜日",
+      "path": "Timestamps/2026/07/2026-07-02-木曜日.md"
+    },
+    {
       "basename": "2026-07-01-水曜日",
       "path": "Timestamps/2026/07/2026-07-01-水曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AI",
       "path": "quartz/content/開発/AI/AI.md"
-    },
-    {
-      "basename": "2026-04-09-木曜日",
-      "path": "Timestamps/2026/04/2026-04-09-木曜日.md"
     }
   ],
   "omittedPaths": [],
