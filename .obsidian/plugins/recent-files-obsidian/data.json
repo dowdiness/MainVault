@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "さば缶と豆腐のレンジ煮",
+      "path": "quartz/content/MealPlans/Recipes/さば缶と豆腐のレンジ煮.md"
+    },
+    {
       "basename": "豚こまとニラの卵とじ風レンジ蒸し",
       "path": "quartz/content/MealPlans/Recipes/豚こまとニラの卵とじ風レンジ蒸し.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-25-土曜日",
       "path": "Timestamps/2026/04/2026-04-25-土曜日.md"
-    },
-    {
-      "basename": "AIを使った開発の流れ",
-      "path": "quartz/content/開発/AI/AIを使った開発の流れ.md"
     }
   ],
   "omittedPaths": [],
