@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "豚こまとニラの卵とじ風レンジ蒸し",
+      "path": "quartz/content/MealPlans/Recipes/豚こまとニラの卵とじ風レンジ蒸し.md"
+    },
+    {
       "basename": "2026-07-02-木曜日",
       "path": "Timestamps/2026/07/2026-07-02-木曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AIを使った開発の流れ",
       "path": "quartz/content/開発/AI/AIを使った開発の流れ.md"
-    },
-    {
-      "basename": "AI",
-      "path": "quartz/content/開発/AI/AI.md"
     }
   ],
   "omittedPaths": [],
