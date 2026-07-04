@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Canopyとは",
+      "path": "quartz/content/Blog/Canopyとは.md"
+    },
+    {
+      "basename": "Canopy-Devlog-June-2026",
+      "path": "quartz/content/Blog/Canopy-Devlog-June-2026.md"
+    },
+    {
       "basename": "2026-07-04-土曜日",
       "path": "Timestamps/2026/07/2026-07-04-土曜日.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "2026-06-25-木曜日",
       "path": "Timestamps/2026/06/2026-06-25-木曜日.md"
-    },
-    {
-      "basename": "Canopyとは",
-      "path": "quartz/content/Blog/Canopyとは.md"
     },
     {
       "basename": "Canopy開発日誌-4月",
@@ -195,10 +199,6 @@
     {
       "basename": "文章を書くのが難しいのは何故か",
       "path": "quartz/content/Blog/文章を書くのが難しいのは何故か.md"
-    },
-    {
-      "basename": "2026-05-08-金曜日",
-      "path": "Timestamps/2026/05/2026-05-08-金曜日.md"
     }
   ],
   "omittedPaths": [],

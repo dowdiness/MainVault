@@ -38,10 +38,9 @@ great to see Loro expanding beyond Rust/JS while keeping the core moving.
 I'm an engineer in Kyoto building Canopy
 (https://github.com/dowdiness/canopy), a structure editor with CRDT-based
 concurrent editing implementing the eg-walker paper — 1,400+ commits in
-MoonBit since late 2025, targeting wasm-gc. I write monthly dev logs —
-June's is in English at
-https://antisatori.pages.dev/Blog/Canopy-Devlog-June-2026 if you want to
-see how the work actually goes.
+MoonBit since late 2025, targeting wasm-gc. Here's a two-minute summary
+of June's work, in English:
+https://antisatori.pages.dev/Blog/Canopy-June-2026-Highlights
 
 I'm available for ~10 hrs/week contract work, and Loro is at the top of
 the list of teams I'd most want to work with. Language bindings, editor
@@ -78,8 +77,9 @@ Your work on Automerge, Patchwork, and local-first software has shaped
 how I think about editors. Since late 2025 I've been building Canopy
 (https://github.com/dowdiness/canopy), a structure editor with
 CRDT-based concurrent editing (an eg-walker implementation), written in
-MoonBit targeting wasm-gc — 1,400+ commits, with monthly dev logs
-(June's in English: https://antisatori.pages.dev/Blog/Canopy-Devlog-June-2026).
+MoonBit targeting wasm-gc — 1,400+ commits. A two-minute summary of
+June's work is at
+https://antisatori.pages.dev/Blog/Canopy-June-2026-Highlights.
 
 I'm based in Kyoto and available ~10 hrs/week for contract work or
 research collaboration. If anything is open around structure editing,
