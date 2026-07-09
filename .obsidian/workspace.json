@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopyとは.md",
+                "file": "Timestamps/2026/07/2026-07-09-木曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopyとは"
+              "title": "2026-07-09-木曜日"
             }
           }
         ]
@@ -276,6 +276,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/Blog/Canopyとは.md",
+    "Timestamps/2026/07/2026-07-09-木曜日.md",
     "quartz/public/Red/Green-Trees.html",
     "quartz/public/Red",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",
@@ -296,7 +298,6 @@
     "quartz/public/Theory/Logic/Rewriting",
     "quartz/public/Theory/Logic/index.html",
     "quartz/public/Theory/Logic/Focusing.html",
-    "quartz/public/Theory/Algorithm/Unification.html",
     "quartz/public/自作アプリ/Architecture.canvas",
     "quartz/content/Blog/Canopy-June-2026-Highlights.md",
     "quartz/content/Blog/Canopy-Devlog-June-2026.md",
@@ -322,7 +323,6 @@
     "Timestamps/2026/05/2026-05-10-日曜日.md",
     "MealPlans/固定ローテーションA.md",
     "quartz/content/MealPlans/Recipes/鮭とほうれん草のレンジ蒸し.md",
-    "quartz/content/MealPlans/Recipes/豚こまともやしの重ね蒸し.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
