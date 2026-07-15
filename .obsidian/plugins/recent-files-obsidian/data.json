@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Canopy開発日誌-7月",
+      "path": "quartz/content/Blog/Canopy開発日誌-7月.md"
+    },
+    {
+      "basename": "2026-07-16-木曜日",
+      "path": "Timestamps/2026/07/2026-07-16-木曜日.md"
+    },
+    {
       "basename": "2026-07-09-木曜日",
       "path": "Timestamps/2026/07/2026-07-09-木曜日.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "No Free Lunch Theorems",
       "path": "quartz/content/開発/AI/No Free Lunch Theorems.md"
-    },
-    {
-      "basename": "2026-05-09-土曜日",
-      "path": "Timestamps/2026/05/2026-05-09-土曜日.md"
-    },
-    {
-      "basename": "理解力の無さはどこから来るのか？",
-      "path": "quartz/content/Blog/理解力の無さはどこから来るのか？.md"
     }
   ],
   "omittedPaths": [],

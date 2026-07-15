@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/07/2026-07-09-木曜日.md",
+                "file": "quartz/content/Blog/Canopy開発日誌-7月.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-09-木曜日"
+              "title": "Canopy開発日誌-7月"
             }
           }
         ]
@@ -276,8 +276,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopyとは.md",
+    "Timestamps/2026/07/2026-07-16-木曜日.md",
     "Timestamps/2026/07/2026-07-09-木曜日.md",
+    "quartz/content/Blog/Canopyとは.md",
     "quartz/public/Red/Green-Trees.html",
     "quartz/public/Red",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",
@@ -322,7 +323,6 @@
     "quartz/content/MealPlans/Recipes/鶏そぼろの生姜醤油煮.md",
     "Timestamps/2026/05/2026-05-10-日曜日.md",
     "MealPlans/固定ローテーションA.md",
-    "quartz/content/MealPlans/Recipes/鮭とほうれん草のレンジ蒸し.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
