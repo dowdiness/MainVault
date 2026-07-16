@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Canopyとは",
+      "path": "quartz/content/Blog/Canopyとは.md"
+    },
+    {
+      "basename": "Canopy開発日誌-7月-まとめ",
+      "path": "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md"
+    },
+    {
       "basename": "Canopy開発日誌-7月",
       "path": "quartz/content/Blog/Canopy開発日誌-7月.md"
+    },
+    {
+      "basename": "Canopy-July-2026-Highlights",
+      "path": "quartz/content/Blog/Canopy-July-2026-Highlights.md"
+    },
+    {
+      "basename": "Canopy-June-2026-Highlights",
+      "path": "quartz/content/Blog/Canopy-June-2026-Highlights.md"
+    },
+    {
+      "basename": "Canopy-March-2026-Highlights",
+      "path": "quartz/content/Blog/Canopy-March-2026-Highlights.md"
+    },
+    {
+      "basename": "Canopy-May-2026-Highlights",
+      "path": "quartz/content/Blog/Canopy-May-2026-Highlights.md"
+    },
+    {
+      "basename": "Canopy-Dec2025-Feb2026-Highlights",
+      "path": "quartz/content/Blog/Canopy-Dec2025-Feb2026-Highlights.md"
     },
     {
       "basename": "Canopy開発日誌-6月",
@@ -15,10 +43,6 @@
     {
       "basename": "2026-07-09-木曜日",
       "path": "Timestamps/2026/07/2026-07-09-木曜日.md"
-    },
-    {
-      "basename": "Canopyとは",
-      "path": "quartz/content/Blog/Canopyとは.md"
     },
     {
       "basename": "Canopy-Devlog-June-2026",
@@ -175,30 +199,6 @@
     {
       "basename": "論理は重要ではない",
       "path": "quartz/content/Blog/論理は重要ではない.md"
-    },
-    {
-      "basename": "確率や経験に基づく投機的な判断の重要性",
-      "path": "quartz/content/Blog/確率や経験に基づく投機的な判断の重要性.md"
-    },
-    {
-      "basename": "2026-05-10-日曜日",
-      "path": "Timestamps/2026/05/2026-05-10-日曜日.md"
-    },
-    {
-      "basename": "design-principles",
-      "path": "quartz/content/開発/AI/docs/principles/design-principles.md"
-    },
-    {
-      "basename": "Refactoring Prompts",
-      "path": "quartz/content/開発/AI/docs/Prompts/Refactoring Prompts.md"
-    },
-    {
-      "basename": "finding-common-structures",
-      "path": "quartz/content/開発/AI/docs/principles/finding-common-structures.md"
-    },
-    {
-      "basename": "No Free Lunch Theorems",
-      "path": "quartz/content/開発/AI/No Free Lunch Theorems.md"
     }
   ],
   "omittedPaths": [],
