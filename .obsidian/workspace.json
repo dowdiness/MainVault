@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopyとは.md",
+                "file": "quartz/content/Blog/Canopy-GenUI実験-2026年7月.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopyとは"
+              "title": "Canopy-GenUI実験-2026年7月"
             }
           }
         ]
@@ -276,6 +276,7 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Timestamps/2026/07/2026-07-16-木曜日.md",
     "quartz/content/Blog/Canopyとは.md.tmp.21656.97540aad1932",
     "quartz/content/Blog/Canopyとは.md.tmp.21656.474383035ff7",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md",
@@ -299,9 +300,7 @@
     "quartz/content/Blog/Canopy-July-2026-Highlights.md.tmp.21656.8a8022f5bbd3",
     "quartz/content/Blog/Canopy-May-2026-Highlights.md.tmp.21656.8692cc24c82d",
     "quartz/content/Blog/Canopy-April-2026-Highlights.md",
-    "quartz/content/Blog/Canopy-April-2026-Highlights.md.tmp.21656.800304da920c",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
-    "Timestamps/2026/07/2026-07-16-木曜日.md",
     "Timestamps/2026/07/2026-07-09-木曜日.md",
     "quartz/content/Blog/Canopyとは.md",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",

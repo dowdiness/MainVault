@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Canopy-GenUI実験-2026年7月",
+      "path": "quartz/content/Blog/Canopy-GenUI実験-2026年7月.md"
+    },
+    {
+      "basename": "2026-07-16-木曜日",
+      "path": "Timestamps/2026/07/2026-07-16-木曜日.md"
+    },
+    {
       "basename": "Canopyとは",
       "path": "quartz/content/Blog/Canopyとは.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "Canopy開発日誌-6月",
       "path": "quartz/content/Blog/Canopy開発日誌-6月.md"
-    },
-    {
-      "basename": "2026-07-16-木曜日",
-      "path": "Timestamps/2026/07/2026-07-16-木曜日.md"
     },
     {
       "basename": "2026-07-09-木曜日",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-30-土曜日",
       "path": "Timestamps/2026/05/2026-05-30-土曜日.md"
-    },
-    {
-      "basename": "論理は重要ではない",
-      "path": "quartz/content/Blog/論理は重要ではない.md"
     }
   ],
   "omittedPaths": [],
