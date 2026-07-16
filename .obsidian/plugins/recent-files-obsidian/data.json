@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Canopyとは",
+      "path": "quartz/content/Blog/Canopyとは.md"
+    },
+    {
+      "basename": "Canopy-May-2026-Highlights",
+      "path": "quartz/content/Blog/Canopy-May-2026-Highlights.md"
+    },
+    {
+      "basename": "Canopy開発日誌-3月-まとめ",
+      "path": "quartz/content/Blog/Canopy開発日誌-3月-まとめ.md"
+    },
+    {
+      "basename": "Canopy開発日誌-3月",
+      "path": "quartz/content/Blog/Canopy開発日誌-3月.md"
+    },
+    {
+      "basename": "Canopy-Devlog-June-2026",
+      "path": "quartz/content/Blog/Canopy-Devlog-June-2026.md"
+    },
+    {
       "basename": "Canopy-GenUI実験-2026年7月",
       "path": "quartz/content/Blog/Canopy-GenUI実験-2026年7月.md"
     },
     {
       "basename": "2026-07-16-木曜日",
       "path": "Timestamps/2026/07/2026-07-16-木曜日.md"
-    },
-    {
-      "basename": "Canopyとは",
-      "path": "quartz/content/Blog/Canopyとは.md"
     },
     {
       "basename": "Canopy開発日誌-7月-まとめ",
@@ -33,10 +49,6 @@
       "path": "quartz/content/Blog/Canopy-March-2026-Highlights.md"
     },
     {
-      "basename": "Canopy-May-2026-Highlights",
-      "path": "quartz/content/Blog/Canopy-May-2026-Highlights.md"
-    },
-    {
       "basename": "Canopy-Dec2025-Feb2026-Highlights",
       "path": "quartz/content/Blog/Canopy-Dec2025-Feb2026-Highlights.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "2026-07-09-木曜日",
       "path": "Timestamps/2026/07/2026-07-09-木曜日.md"
-    },
-    {
-      "basename": "Canopy-Devlog-June-2026",
-      "path": "quartz/content/Blog/Canopy-Devlog-June-2026.md"
     },
     {
       "basename": "2026-07-04-土曜日",
@@ -111,10 +119,6 @@
     {
       "basename": "Canopy開発日誌-4月",
       "path": "quartz/content/Blog/Canopy開発日誌-4月.md"
-    },
-    {
-      "basename": "Canopy開発日誌-3月",
-      "path": "quartz/content/Blog/Canopy開発日誌-3月.md"
     },
     {
       "basename": "Canopy開発日誌-2025年12月〜2026年2月",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-02-火曜日",
       "path": "Timestamps/2026/06/2026-06-02-火曜日.md"
-    },
-    {
-      "basename": "2026-05-30-土曜日",
-      "path": "Timestamps/2026/05/2026-05-30-土曜日.md"
     }
   ],
   "omittedPaths": [],

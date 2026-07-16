@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopy-GenUI実験-2026年7月.md",
+                "file": "quartz/content/Blog/Canopyとは.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopy-GenUI実験-2026年7月"
+              "title": "Canopyとは"
             }
           }
         ]
@@ -276,6 +276,14 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "quartz/content/Blog/_fix_dec_feb.py",
+    "quartz/content/Blog/_fix_may_pr.py",
+    "quartz/content/Blog/Canopy-May-2026-Highlights.md",
+    "quartz/content/Blog/Canopyとは.md",
+    "quartz/content/Blog/Canopy開発日誌-3月-まとめ.md",
+    "quartz/content/Blog/Canopy開発日誌-3月.md",
+    "quartz/content/Blog/Canopy-Devlog-June-2026.md",
+    "quartz/content/Blog/Canopy-GenUI実験-2026年7月.md",
     "Timestamps/2026/07/2026-07-16-木曜日.md",
     "quartz/content/Blog/Canopyとは.md.tmp.21656.97540aad1932",
     "quartz/content/Blog/Canopyとは.md.tmp.21656.474383035ff7",
@@ -284,7 +292,6 @@
     "quartz/content/Blog/Canopy-July-2026-Highlights.md",
     "quartz/content/Blog/Canopy-June-2026-Highlights.md",
     "quartz/content/Blog/Canopy-March-2026-Highlights.md",
-    "quartz/content/Blog/Canopy-May-2026-Highlights.md",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.21656.902b6d470835",
     "quartz/content/Blog/Canopy開発日誌-6月-まとめ.md",
     "quartz/content/Blog/Canopy開発日誌-6月-まとめ.md.tmp.21656.4839f5770260",
@@ -293,16 +300,13 @@
     "quartz/content/Blog/Canopy開発日誌-5月-まとめ.md.tmp.21656.05be037ad3a9",
     "quartz/content/Blog/Canopy開発日誌-4月-まとめ.md",
     "quartz/content/Blog/Canopy開発日誌-4月-まとめ.md.tmp.21656.4c6ab9a712ae",
-    "quartz/content/Blog/Canopy開発日誌-3月-まとめ.md",
     "quartz/content/Blog/Canopy開発日誌-3月-まとめ.md.tmp.21656.88a6f5a80f22",
     "quartz/content/Blog/Canopy開発日誌-2025年12月〜2026年2月-まとめ.md",
     "quartz/content/Blog/Canopy開発日誌-2025年12月〜2026年2月-まとめ.md.tmp.21656.ca833d9412e9",
     "quartz/content/Blog/Canopy-July-2026-Highlights.md.tmp.21656.8a8022f5bbd3",
-    "quartz/content/Blog/Canopy-May-2026-Highlights.md.tmp.21656.8692cc24c82d",
     "quartz/content/Blog/Canopy-April-2026-Highlights.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
     "Timestamps/2026/07/2026-07-09-木曜日.md",
-    "quartz/content/Blog/Canopyとは.md",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",
     "quartz/public/開発/AI/docs/principles/design-principles-og-image.webp",
     "quartz/public/開発/AI/docs/Prompts/Refactoring-Prompts-og-image.webp",
@@ -314,14 +318,11 @@
     "quartz/public/講義/Theory-of-computation/Pushdown-Automata,-Conversion-of-CFG-to-PDA-and-Reverse-Conversion-og-image.webp",
     "quartz/public/講義/Theory-of-computation/P-and-NP,-SAT,-Poly-time-Reducibility-og-image.webp",
     "quartz/public/自作アプリ/Architecture.canvas",
-    "quartz/content/Blog/Canopy-Devlog-June-2026.md",
     "Timestamps/2026/07/2026-07-04-土曜日.md",
     "quartz/content/MealPlans/Recipes/さば缶と豆腐のレンジ煮.md",
     "quartz/content/MealPlans/Recipes/豚こまとニラの卵とじ風レンジ蒸し.md",
     "Timestamps/2026/07/2026-07-02-木曜日.md",
     "Timestamps/2026/07/2026-07-01-水曜日.md",
-    "quartz/content/MealPlans/Recipes/鶏むねとキャベツの卵とじ風レンジ蒸し.md",
-    "quartz/content/MealPlans/Recipes/豚ロースの生姜焼き風レンジ蒸し.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
