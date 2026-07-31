@@ -108,7 +108,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/05/2026-05-28-木曜日.md",
+                "file": "Timestamps/2026/07/2026-07-31-金曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -123,7 +123,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-28-木曜日"
+              "title": "2026-07-31-金曜日"
             }
           }
         ]
@@ -274,10 +274,12 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "6e3d3e97a6eb340e",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy開発日誌-6月.md",
+    "Timestamps/2026/05/2026-05-28-木曜日.md",
+    "Timestamps/2026/07/2026-07-31-金曜日.md",
     "Timestamps/2026/07/2026-07-29-水曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/Canopy開発日誌-7月.md",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md",
     "quartz/content/_build_pr_index.py",
@@ -321,8 +323,6 @@
     "Timestamps/2026/07/2026-07-04-土曜日.md",
     "quartz/content/MealPlans/Recipes/さば缶と豆腐のレンジ煮.md",
     "quartz/content/MealPlans/Recipes/豚こまとニラの卵とじ風レンジ蒸し.md",
-    "Timestamps/2026/07/2026-07-02-木曜日.md",
-    "Timestamps/2026/07/2026-07-01-水曜日.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
