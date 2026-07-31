@@ -6,7 +6,7 @@
   "interfaceFontFamily": "Moralerspace Argon",
   "textFontFamily": "Moralerspace Argon",
   "monospaceFontFamily": "Moralerspace Argon",
-  "baseFontSize": 13,
+  "baseFontSize": 16,
   "cssTheme": "Minimal",
   "showRibbon": true,
   "showViewHeader": true
