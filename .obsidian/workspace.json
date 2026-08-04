@@ -35,12 +35,24 @@
             "id": "8ca9d66de62e1578",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "quartz/content/Blog/Canopy開発日誌-7月.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.13.4"
+              "icon": "lucide-file",
+              "title": "Canopy開発日誌-7月"
             }
           }
         ],
@@ -291,6 +303,9 @@
   },
   "active": "8ca9d66de62e1578",
   "lastOpenFiles": [
+    "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.15936.e0974e5c1709",
+    "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.15936.17b7fe3ec572",
+    "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.15936.11eb87434b19",
     "Timestamps/2026/07/2026-07-29-水曜日.md",
     "Timestamps/2026/08/2026-08-04-火曜日.md",
     "Timestamps/2026/08",
@@ -319,9 +334,7 @@
     "quartz/content/Blog/Canopy開発日誌-6月-まとめ.md.tmp.21656.4839f5770260",
     "quartz/content/Blog/Canopy-Dec2025-Feb2026-Highlights.md",
     "quartz/content/Blog/Canopy開発日誌-5月-まとめ.md",
-    "quartz/content/Blog/Canopy開発日誌-5月-まとめ.md.tmp.21656.05be037ad3a9",
     "quartz/content/Blog/Canopy開発日誌-4月-まとめ.md",
-    "quartz/content/Blog/Canopy開発日誌-4月-まとめ.md.tmp.21656.4c6ab9a712ae",
     "quartz/content/Blog/Canopy開発日誌-2025年12月〜2026年2月-まとめ.md",
     "quartz/content/Blog/Canopy-April-2026-Highlights.md",
     "Timestamps/2026/07/2026-07-09-木曜日.md",
@@ -337,7 +350,6 @@
     "quartz/public/講義/Theory-of-computation/P-and-NP,-SAT,-Poly-time-Reducibility-og-image.webp",
     "quartz/public/自作アプリ/Architecture.canvas",
     "Timestamps/2026/07/2026-07-04-土曜日.md",
-    "quartz/content/MealPlans/Recipes/さば缶と豆腐のレンジ煮.md",
     "quartz/content/自作アプリ/Architecture.canvas",
     "自作アプリ/Architecture.canvas",
     "content/自作アプリ/Architecture.canvas",
