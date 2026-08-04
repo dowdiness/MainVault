@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopy開発日誌-7月.md",
+                "file": "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopy開発日誌-7月"
+              "title": "Canopy開発日誌-7月-まとめ"
             }
           }
         ],
@@ -303,6 +303,7 @@
   },
   "active": "8ca9d66de62e1578",
   "lastOpenFiles": [
+    "quartz/content/Blog/Canopy開発日誌-7月.md",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.15936.e0974e5c1709",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.15936.17b7fe3ec572",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.15936.11eb87434b19",
@@ -312,7 +313,6 @@
     "Timestamps/2026/07/2026-07-31-金曜日.md",
     "Timestamps/2026/05/2026-05-28-木曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
-    "quartz/content/Blog/Canopy開発日誌-7月.md",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md",
     "quartz/content/_build_pr_index.py",
     "quartz/content/Blog/Canopy開発日誌-6月-まとめ.md",
@@ -331,7 +331,6 @@
     "quartz/content/Blog/Canopy-June-2026-Highlights.md",
     "quartz/content/Blog/Canopy-March-2026-Highlights.md",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md.tmp.21656.902b6d470835",
-    "quartz/content/Blog/Canopy開発日誌-6月-まとめ.md.tmp.21656.4839f5770260",
     "quartz/content/Blog/Canopy-Dec2025-Feb2026-Highlights.md",
     "quartz/content/Blog/Canopy開発日誌-5月-まとめ.md",
     "quartz/content/Blog/Canopy開発日誌-4月-まとめ.md",
