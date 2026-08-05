@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.5
+    "width": 200
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -303,8 +303,10 @@
   },
   "active": "8ca9d66de62e1578",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy開発日誌-7月.md",
+    "Timestamps/2026/07/2026-07-31-金曜日.md",
     "Timestamps/2026/08/2026-08-05-水曜日.md",
+    "Timestamps/2026/08/2026-08-04-火曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-7月.md",
     "quartz/content/Blog/Canopy開発日誌-8月.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/Canopy開発日誌-7月.md.tmp.15936.832eae626f9d",
@@ -321,8 +323,6 @@
     "quartz/content/Blog/Canopy開発日誌-8月-まとめ.md",
     "quartz/content/Blog/Canopy開発日誌-7月-まとめ.md",
     "Timestamps/2026/07/2026-07-29-水曜日.md",
-    "Timestamps/2026/08/2026-08-04-火曜日.md",
-    "Timestamps/2026/07/2026-07-31-金曜日.md",
     "Timestamps/2026/05/2026-05-28-木曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月-まとめ.md",
     "quartz/content/Blog/Canopyとは.md",

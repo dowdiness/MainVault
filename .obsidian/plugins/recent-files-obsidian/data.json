@@ -5,6 +5,14 @@
       "path": "Timestamps/2026/08/2026-08-05-水曜日.md"
     },
     {
+      "basename": "2026-07-31-金曜日",
+      "path": "Timestamps/2026/07/2026-07-31-金曜日.md"
+    },
+    {
+      "basename": "2026-08-04-火曜日",
+      "path": "Timestamps/2026/08/2026-08-04-火曜日.md"
+    },
+    {
       "basename": "Canopy開発日誌-7月",
       "path": "quartz/content/Blog/Canopy開発日誌-7月.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2026-07-29-水曜日",
       "path": "Timestamps/2026/07/2026-07-29-水曜日.md"
-    },
-    {
-      "basename": "2026-07-31-金曜日",
-      "path": "Timestamps/2026/07/2026-07-31-金曜日.md"
     },
     {
       "basename": "2026-05-28-木曜日",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-09-火曜日",
       "path": "Timestamps/2026/06/2026-06-09-火曜日.md"
-    },
-    {
-      "basename": "2026-06-06-土曜日",
-      "path": "Timestamps/2026/06/2026-06-06-土曜日.md"
     }
   ],
   "omittedPaths": [],
