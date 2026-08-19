@@ -107,12 +107,38 @@
             "id": "3661d932ae194f2c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.7"
+                "file": "quartz/content/Blog/Canopy開発日誌-8月.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "リリースノート 1.13.7"
+              "icon": "lucide-file",
+              "title": "Canopy開発日誌-8月"
+            }
+          },
+          {
+            "id": "316bd8cade876dee",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/dowdiness/canopy/blob/main/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md",
+                "title": "canopy/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md at main · dowdiness/canopy · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "canopy/docs/research/2026-06-01-moondsp-canopy-ecosystem-vision.md at main · dowdiness/canopy · GitHub"
             }
           }
         ],
@@ -363,11 +389,11 @@
   },
   "active": "3661d932ae194f2c",
   "lastOpenFiles": [
-    "Timestamps/2026/08/2026-08-19-水曜日.md",
     "quartz/content/Blog/Canopy開発日誌-8月.md",
+    "quartz/content/Blog/Canopy開発日誌-8月-まとめ.md",
+    "Timestamps/2026/08/2026-08-19-水曜日.md",
     "Timestamps/2026/08/2026-08-14-金曜日.md",
     "quartz/content/Blog/Canopy開発日誌-7月.md",
-    "quartz/content/Blog/Canopy開発日誌-8月-まとめ.md",
     "Timestamps/2026/08/2026-08-10-月曜日.md",
     "Timestamps/2026/08/2026-08-05-水曜日.md",
     "Timestamps/2026/07/2026-07-31-金曜日.md",
