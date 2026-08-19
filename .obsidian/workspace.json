@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "quartz/content/Blog/Canopy開発日誌-8月.md",
+                "file": "Timestamps/2026/08/2026-08-14-金曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Canopy開発日誌-8月"
+              "title": "2026-08-14-金曜日"
+            }
+          },
+          {
+            "id": "a1ba314ee441d81f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Timestamps/2026/08/2026-08-19-水曜日.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-19-水曜日"
+            }
+          },
+          {
+            "id": "3661d932ae194f2c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "リリースノート 1.13.7"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -325,10 +361,12 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "f483df271e738e62",
+  "active": "3661d932ae194f2c",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy開発日誌-7月.md",
+    "Timestamps/2026/08/2026-08-19-水曜日.md",
     "quartz/content/Blog/Canopy開発日誌-8月.md",
+    "Timestamps/2026/08/2026-08-14-金曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-7月.md",
     "quartz/content/Blog/Canopy開発日誌-8月-まとめ.md",
     "Timestamps/2026/08/2026-08-10-月曜日.md",
     "Timestamps/2026/08/2026-08-05-水曜日.md",
@@ -361,8 +399,6 @@
     "quartz/content/Blog/Canopy-June-2026-Highlights.md",
     "quartz/content/Blog/Canopy-March-2026-Highlights.md",
     "quartz/content/Blog/Canopy-Dec2025-Feb2026-Highlights.md",
-    "quartz/content/Blog/Canopy開発日誌-5月-まとめ.md",
-    "quartz/content/Blog/Canopy開発日誌-4月-まとめ.md",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",
     "quartz/public/開発/AI/docs/principles/design-principles-og-image.webp",
     "quartz/public/開発/AI/docs/Prompts/Refactoring-Prompts-og-image.webp",
