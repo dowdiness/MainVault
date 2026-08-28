@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-08-28-金曜日",
+      "path": "Timestamps/2026/08/2026-08-28-金曜日.md"
+    },
+    {
       "basename": "2026-08-20-木曜日",
       "path": "Timestamps/2026/08/2026-08-20-木曜日.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-16-火曜日",
       "path": "Timestamps/2026/06/2026-06-16-火曜日.md"
-    },
-    {
-      "basename": "An Incremental Approach to Compiler Constructionをやってみた",
-      "path": "quartz/content/Blog/An Incremental Approach to Compiler Constructionをやってみた.md"
     }
   ],
   "omittedPaths": [],

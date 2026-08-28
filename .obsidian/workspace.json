@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/08/2026-08-20-木曜日.md",
+                "file": "Timestamps/2026/08/2026-08-28-金曜日.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-20-木曜日"
+              "title": "2026-08-28-金曜日"
             }
           }
         ],
@@ -327,8 +327,9 @@
   },
   "active": "3661d932ae194f2c",
   "lastOpenFiles": [
-    "quartz/content/Blog/Canopy開発日誌-8月.md",
     "Timestamps/2026/08/2026-08-20-木曜日.md",
+    "Timestamps/2026/08/2026-08-28-金曜日.md",
+    "quartz/content/Blog/Canopy開発日誌-8月.md",
     "Timestamps/2026/08/2026-08-19-水曜日.md",
     "Timestamps/2026/08/2026-08-14-金曜日.md",
     "quartz/content/Blog/Canopy開発日誌-8月-まとめ.md",
@@ -362,7 +363,6 @@
     "Timestamps/2026/07/2026-07-16-木曜日.md",
     "quartz/content/Blog/Canopy-July-2026-Highlights.md",
     "quartz/content/Blog/Canopy-June-2026-Highlights.md",
-    "quartz/content/Blog/Canopy-March-2026-Highlights.md",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",
     "quartz/public/開発/AI/docs/principles/design-principles-og-image.webp",
     "quartz/public/開発/AI/docs/Prompts/Refactoring-Prompts-og-image.webp",
