@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -325,8 +326,10 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "6e3d3e97a6eb340e",
+  "active": "3661d932ae194f2c",
   "lastOpenFiles": [
+    "Timestamps/2026/07/無題のファイル.md",
+    "Timestamps/2026/07/2026-07-31-金曜日.md",
     "Timestamps/2026/08/2026-08-28-金曜日.md",
     "quartz/content/Blog/Canopy開発日誌-8月.md",
     "Timestamps/2026/08/2026-08-20-木曜日.md",
@@ -336,7 +339,6 @@
     "quartz/content/Blog/Canopy開発日誌-7月.md",
     "Timestamps/2026/08/2026-08-10-月曜日.md",
     "Timestamps/2026/08/2026-08-05-水曜日.md",
-    "Timestamps/2026/07/2026-07-31-金曜日.md",
     "Timestamps/2026/08/2026-08-04-火曜日.md",
     "quartz/content/Blog/Canopy開発日誌-6月.md",
     "quartz/content/Blog/Canopy開発日誌-7月.md.tmp.15936.832eae626f9d",
@@ -362,7 +364,6 @@
     "quartz/content/Blog/Canopy-GenUI実験-2026年7月.md",
     "Timestamps/2026/07/2026-07-16-木曜日.md",
     "quartz/content/Blog/Canopy-July-2026-Highlights.md",
-    "quartz/content/Blog/Canopy-June-2026-Highlights.md",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",
     "quartz/public/開発/AI/docs/principles/design-principles-og-image.webp",
     "quartz/public/開発/AI/docs/Prompts/Refactoring-Prompts-og-image.webp",
