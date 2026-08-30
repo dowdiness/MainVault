@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-17-水曜日",
+      "path": "Timestamps/2026/06/2026-06-17-水曜日.md"
+    },
+    {
+      "basename": "2026-06-16-火曜日",
+      "path": "Timestamps/2026/06/2026-06-16-火曜日.md"
+    },
+    {
       "basename": "2026-08-20-木曜日",
       "path": "Timestamps/2026/08/2026-08-20-木曜日.md"
+    },
+    {
+      "basename": "2026-08-19-水曜日",
+      "path": "Timestamps/2026/08/2026-08-19-水曜日.md"
     },
     {
       "basename": "2026-07-31-金曜日",
@@ -15,10 +27,6 @@
     {
       "basename": "Canopy開発日誌-8月",
       "path": "quartz/content/Blog/Canopy開発日誌-8月.md"
-    },
-    {
-      "basename": "2026-08-19-水曜日",
-      "path": "Timestamps/2026/08/2026-08-19-水曜日.md"
     },
     {
       "basename": "2026-08-14-金曜日",
@@ -187,10 +195,6 @@
     {
       "basename": "2026-06-18-木曜日",
       "path": "Timestamps/2026/06/2026-06-18-木曜日.md"
-    },
-    {
-      "basename": "2026-06-17-水曜日",
-      "path": "Timestamps/2026/06/2026-06-17-水曜日.md"
     }
   ],
   "omittedPaths": [],

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Timestamps/2026/08/2026-08-20-木曜日.md",
+                "file": "Timestamps/2026/06/2026-06-17-水曜日.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-20-木曜日"
+              "title": "2026-06-17-水曜日"
             }
           }
         ],
@@ -325,15 +325,16 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "3661d932ae194f2c",
+  "active": "ae92932708dbf1df",
   "lastOpenFiles": [
-    "Timestamps/2026/08/2026-08-10-月曜日.md",
+    "Timestamps/2026/06/2026-06-16-火曜日.md",
     "Timestamps/2026/08/2026-08-20-木曜日.md",
+    "Timestamps/2026/08/2026-08-19-水曜日.md",
+    "Timestamps/2026/08/2026-08-10-月曜日.md",
     "Timestamps/2026/08/2026-08-28-金曜日.md",
     "Timestamps/2026/07/2026-07-31-金曜日.md",
     "Timestamps/2026/07/無題のファイル.md",
     "quartz/content/Blog/Canopy開発日誌-8月.md",
-    "Timestamps/2026/08/2026-08-19-水曜日.md",
     "Timestamps/2026/08/2026-08-14-金曜日.md",
     "quartz/content/Blog/Canopy開発日誌-8月-まとめ.md",
     "quartz/content/Blog/Canopy開発日誌-7月.md",
@@ -362,7 +363,6 @@
     "quartz/content/Blog/Canopy-Devlog-June-2026.md",
     "quartz/content/Blog/Canopy-GenUI実験-2026年7月.md",
     "Timestamps/2026/07/2026-07-16-木曜日.md",
-    "quartz/content/Blog/Canopy-July-2026-Highlights.md",
     "quartz/public/開発/AI/docs/principles/finding-common-structures-og-image.webp",
     "quartz/public/開発/AI/docs/principles/design-principles-og-image.webp",
     "quartz/public/開発/AI/docs/Prompts/Refactoring-Prompts-og-image.webp",
