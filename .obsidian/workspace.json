@@ -63,7 +63,7 @@
               "state": {
                 "file": "Timestamps/2026/08/2026-08-28-金曜日.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -181,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5,
-    "collapsed": true
+    "width": 383.5
   },
   "right": {
     "id": "b02b8403f0203c4a",
@@ -326,11 +325,11 @@
       "obsidian-custom-frames:Open Google Calendar": false
     }
   },
-  "active": "3661d932ae194f2c",
+  "active": "6e3d3e97a6eb340e",
   "lastOpenFiles": [
+    "Timestamps/2026/08/2026-08-28-金曜日.md",
     "Timestamps/2026/07/無題のファイル.md",
     "Timestamps/2026/07/2026-07-31-金曜日.md",
-    "Timestamps/2026/08/2026-08-28-金曜日.md",
     "quartz/content/Blog/Canopy開発日誌-8月.md",
     "Timestamps/2026/08/2026-08-20-木曜日.md",
     "Timestamps/2026/08/2026-08-19-水曜日.md",
